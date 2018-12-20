@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>cs: go &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/cs-go/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>cs: go &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Update Operation Breakout</title>
+		<link>/csgo-update-operation-breakout/</link>
+		<comments>/csgo-update-operation-breakout/#respond</comments>
+		<pubDate>Sun, 06 Jul 2014 20:09:59 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[cobblestorm]]></category>
+		<category><![CDATA[cs: go]]></category>
+		<category><![CDATA[Maps]]></category>
+		<category><![CDATA[operation breakout]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[waffen]]></category>
+
+		<guid isPermaLink="false">/?p=2598</guid>
+		<description><![CDATA[Jaaa es ist endlich da, das große Update für Counter-Strike: Global Offensive (CS:GO). Die neue Operation Breakout beinhaltet insgesamt sechs neue Maps. Aber nicht nur an den Maps wurde getüftelt, neue Balance von hauptsächlich&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p style="color: #101c2a">Jaaa es ist endlich da, das große Update für Counter-Strike: Global Offensive (CS:GO). Die neue Operation Breakout beinhaltet insgesamt sechs neue Maps. Aber nicht nur an den Maps wurde getüftelt, neue Balance von hauptsächlich Pistolen wurde bearbeitet und in diesem Zuge auch die sogenannten Wallbangs also das schießen durch Wände nun mehr Schaden verursacht.</p>
+<h3 style="color: #405e80">Operation Breakout</h3>
+<p>Operation Breakout enthält die Maps Castle, Overgrown, Black Gold, Mist, Rush und Insertion. Die gute Nachricht: Die in Operation Breakout enthaltenen Maps können von allen Spielern im Competitive Matchmaking gespielt werden, ohne dass man einen Pass dafür benötigt. Man kann sich aber einen sogenannten “All Access Pass” kaufen, der einem verschiedene Boni bringt. Man bekommt wieder eine Challenge Coin, die aufgewertet werden kann. Außerdem gibt es Mission Drops, dabei kann man Skins für das Erfüllen kleiner Missionen, wie z.B. das Gewinnen eines Matches auf Cache, bekommen. Insgesamt 45 neue Waffen Skins warten als Belohnung. Und man hat natürlich die Chance auf eine Operation Breakout Case, die 14 Skins aus der Community und das neue Butterfly Knife enthalten kann. Neu ist außerdem das Journal, das zwei verschiedene Scorecards mit Statistiken enthält sowie eine Rangliste bietet, durch die man sich mit seinen Freunden vergleichen kann.</p>
+<h3 style="color: #405e80">Waffen Balance</h3>
+<p style="color: #101c2a"><span style="text-decoration: underline">Folgende Waffen wurden treffsicherer gemacht:</span></p>
+<ul>
+<li>Desert Eagle</li>
+<li>Tec 9</li>
+<li>Scout</li>
+<li>Sawed-Off</li>
+<li>Mag-7</li>
+</ul>
+<p><span style="text-decoration: underline">Folgende Waffen wurden abgeschwächt:</span></p>
+<ul>
+<li>CZ75</li>
+</ul>
+<p>Alle Shotguns bis auf die Nova können nun durch Wände schießen</p>
+<h3>Baggage Collection</h3>
+
+<h3>Cobblestorm Collection</h3>
+
+<h3 style="color: #405e80">Overpass Selection</h3>
+<p>&nbsp;</p>
+
+<h3 style="color: #405e80">Operation Breakout Case</h3>
+
+<h3 style="color: #405e80">Wallbanging</h3>
+<p style="color: #101c2a">Das Wallbanging-System wurde überarbeitet, so dass es nun konsequenter funktioniert, als das bisher der Fall war. Kugeln, die durch eine Oberfläche hindurchgehen, hinterlassen nun außerdem eine ganz leichte Spur in der Luft. Mit dem neuen Konsolenbefehl sv_showimpacts_penetration kann man sich Informationen anzeigen lassen, wie gut Kugeln durch eine Oberfläche gehen.</p>
+<h3 style="color: #405e80">Die neuen Maps</h3>
+
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-update-operation-breakout/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Videos mit DxTory aufnehmen und mit Sony Vegas weiter bearbeiten. [Anleitung]</title>
+		<link>/csgo-videos-mit-dxtory-aufnehmen-und-mit-sony-vegas-weiter-bearbeiten-anleitung/</link>
+		<comments>/csgo-videos-mit-dxtory-aufnehmen-und-mit-sony-vegas-weiter-bearbeiten-anleitung/#comments</comments>
+		<pubDate>Sat, 15 Jun 2013 15:17:23 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Software]]></category>
+		<category><![CDATA[Video Guides]]></category>
+		<category><![CDATA[Anleitung]]></category>
+		<category><![CDATA[aufnehmen]]></category>
+		<category><![CDATA[cs: go]]></category>
+		<category><![CDATA[demos]]></category>
+		<category><![CDATA[dxtory]]></category>
+		<category><![CDATA[fraps]]></category>
+		<category><![CDATA[video guide]]></category>
+		<category><![CDATA[videos]]></category>
+
+		<guid isPermaLink="false">/?p=1692</guid>
+		<description><![CDATA[CS:GO aufnehmen mit DxTory Wenn Ihr euch mal gefragt habt, wie man seine schönen Demos aufnimmt um sie zum Beispiel bei Youtube zu veröffentlichen, sind wir hier auf ein interessantes und einfaches Video vom&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>CS:GO aufnehmen mit DxTory</h3>
+<p>Wenn Ihr euch mal gefragt habt, wie man seine schönen Demos aufnimmt um sie zum Beispiel bei Youtube zu veröffentlichen, sind wir hier auf ein interessantes und einfaches Video vom Youtuber Punchy gestoßen. In diesem Video zeigt euch Punchy warum man das bekannte Aufnahme Programm Fraps nicht nutzen sollte und was DxTory alles kann. Neben den DxTory Funktionen wird auch auf die einzustellenden Parameter eingegangen. Punchy erklärt alles allgemein, sprich ihr könnt diese Anleitung für jedes Spiel oder Lets Play nutzen. In diesem Video nutzt Punchy ein anderes Spiel als Beispiel, es geht jedoch für jedes Spiel <img src="https://s.w.org/images/core/emoji/11/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<h3>Download der nötigen Programme und Codecs:</h3>
+<p>Dxtory: http://dxtory.com/v2-home-en.html</p>
+<p>Lagarith Codec: http://lags.leetcode.net/codec.html</p>
+<h3>Das Video</h3>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-videos-mit-dxtory-aufnehmen-und-mit-sony-vegas-weiter-bearbeiten-anleitung/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Fehlermeldung: Some of your game files have been detected to have no signatures &#8230; [FIX]</title>
+		<link>/csgo-fehlermeldung-some-of-your-game-files-have-been-detected-to-have-no-signatures-fix/</link>
+		<comments>/csgo-fehlermeldung-some-of-your-game-files-have-been-detected-to-have-no-signatures-fix/#comments</comments>
+		<pubDate>Sat, 01 Jun 2013 15:55:52 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Fehlermeldungen]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[classic]]></category>
+		<category><![CDATA[competitive]]></category>
+		<category><![CDATA[Counterstrike]]></category>
+		<category><![CDATA[cs: go]]></category>
+		<category><![CDATA[fix]]></category>
+		<category><![CDATA[Global Offensive]]></category>
+		<category><![CDATA[Some of your game files have been detected to have no signatures]]></category>
+
+		<guid isPermaLink="false">/?p=1619</guid>
+		<description><![CDATA[Die Fehlermeldung: Einige Ihrer Spieldateien weisen keine oder ungültige Signaturen auf. Sie dürfen keinem durch VAC gesicherten Server beitreten. Viele User beschweren sich zur Zeit in verschiedensten Foren darüber, dass sie nicht mehr Classic Competitive&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Die Fehlermeldung: Einige Ihrer Spieldateien weisen keine oder ungültige Signaturen auf. Sie dürfen keinem durch VAC gesicherten Server beitreten.</h3>
+<p>Viele User beschweren sich zur Zeit in verschiedensten Foren darüber, dass sie nicht mehr Classic Competitive in CS:GO spielen können. Beim Starten von Steam bzw. beim Beitreten des Spiels erscheint folgende Fehlermeldung:</p>
+<p><em><strong>&#8222;Some of your game files have been detected to have no signatures or invalid signatures. You cannot play Classic Competitive mode, because you are not allow to join VAC secure Server..&#8220;</strong></em></p>
+<p>Warum diese Meldung erscheint liegt entweder an euch, in dem Ihr Spiel relevante Daten verändert habt, oder aber mal wieder an Steam. Sogar wenn ihr eine eigene GUI bzw. andere Models verwendet, erscheint diese Fehlermeldung.</p>
+<h3>Die Lösung:</h3>
+<p>Die Lösung des Problems ist, dass ihr die originalen Spieldateien wieder herstellen müsst. Dies geht glücklicherweise durch den integrierten Cache Loader welchen ihr hier seht:</p>
+<p><img class="alignnone" alt="" src="http://i.imgur.com/TQCQic6.png" width="617" height="400" /></p>
+<p>Klickt auf Verify integrity of Game Cache und stellt den Cache bzw. die originalen Daten ggf. wieder her.</p>
+<p>Sollte es dennoch nicht funktionieren, löscht bitte euren lokalen Game Content (ACHTUNG: Vorher bitte wichtige Dateien wie config.cfg und video.txt etc. absichern). Nachdem dann wirklich alles gelöscht wurde und ein frisches CS:GO aufgesetzt ist, funktioniert alles wieder.</p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-fehlermeldung-some-of-your-game-files-have-been-detected-to-have-no-signatures-fix/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>CS: GO Bananen Smoke Granate auf de_inferno als CT [Video Guide]</title>
+		<link>/cs-go-bananen-smoke-granate-auf-de_inferno-als-ct-video-guide/</link>
+		<comments>/cs-go-bananen-smoke-granate-auf-de_inferno-als-ct-video-guide/#respond</comments>
+		<pubDate>Sun, 26 May 2013 22:11:28 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[de_inferno_se]]></category>
+		<category><![CDATA[Granaten]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Video Guides]]></category>
+		<category><![CDATA[banane]]></category>
+		<category><![CDATA[cs: go]]></category>
+		<category><![CDATA[smoke]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Tricks]]></category>
+		<category><![CDATA[video guide]]></category>
+
+		<guid isPermaLink="false">/?p=1550</guid>
+		<description><![CDATA[Wir haben für euch ein kurzes Video erstellt in dem wir euch zeigen wie Ihr auf de_inferno eine Smoke Granate von der CT-Base direkt in den Anfang der Banane (Terror Side) werft.]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Wir haben für euch ein kurzes Video erstellt in dem wir euch zeigen wie Ihr auf de_inferno eine Smoke Granate von der CT-Base direkt in den Anfang der Banane (Terror Side) werft.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/cs-go-bananen-smoke-granate-auf-de_inferno-als-ct-video-guide/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS: GO Update &#8211; Deagle genauer, Mag-7 teurer, UMP günstiger, Mac-10 schneller, nun auch 4 Granaten</title>
+		<link>/cs-go-update-deagle-genauer-mag-7-teurer-ump-gunstiger-mac-10-schneller-nun-auch-4-granaten/</link>
+		<comments>/cs-go-update-deagle-genauer-mag-7-teurer-ump-gunstiger-mac-10-schneller-nun-auch-4-granaten/#respond</comments>
+		<pubDate>Thu, 02 May 2013 14:27:18 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[cs: go]]></category>
+		<category><![CDATA[Deagle]]></category>
+		<category><![CDATA[genauer]]></category>
+		<category><![CDATA[mac]]></category>
+		<category><![CDATA[ump]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[Was ist neu?]]></category>
+
+		<guid isPermaLink="false">/?p=1447</guid>
+		<description><![CDATA[Waffenupdate für CS: GO was wurde verändert? Wie wir gerade festgestellt haben, wurde erneut ein CS:GO Update mit interessanten Änderungen released. Neben eher unwesentlich beeinträchtigten Änderungen an Maps wie Bugfixes und einigen Soundbugs wurde&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3><a href="/wp-content/uploads/sites/2/2013/05/cs_go_update_waffen.png"><img class="aligncenter size-full wp-image-1449" title="cs_go_update_waffen" src="/wp-content/uploads/sites/2/2013/05/cs_go_update_waffen.png" alt="" width="280" height="120" /></a></h3>
+<h3>Waffenupdate für CS: GO was wurde verändert?</h3>
+<p>Wie wir gerade festgestellt haben, wurde erneut ein CS:GO Update mit interessanten Änderungen released. Neben eher unwesentlich beeinträchtigten Änderungen an Maps wie Bugfixes und einigen Soundbugs wurde allerdings auch die Waffen in CS: GO getweaked.</p>
+<p>Es wurden nun Bodygroups erstellt was den Vorteil hat dass nun Schüsse die durch den Arm des Models dahinter in den Kopf einschlagen, dementsprechend auch ein Headshot vorliegt. Vorher wurde nur Schaden für den Treffer im Arm gezählt. Für uns ganz klar eines der wichtigsten Änderungen in diesem Patch.</p>
+<p>Zitat aus Release Note:</p>
+<p>&#8222;<strong>Implemented bodygroups penetration for maximum damage, now shooting through arms at the enemies head will apply headshot damage, or shooting through arms at the stomach will apply stomach damage multiplier.&#8220;</strong></p>
+<h3>Waffenänderungen konkret:</h3>
+<p><strong>Granaten:</strong><br />
+Können nun auch im Competitve Modus insgesamt 4 Granaten getragen werden. So ist es möglich auch 2 Flashbangs zu tragen +Molotov + Rauchgranate.</p>
+<p><strong>Deagle:<br />
+</strong>Wurde genauer gemacht.<br />
+&#8222;<strong>Reduced inaccuracy.&#8220;</strong></p>
+<p><strong>Mag-7:</strong><br />
+Wurde &#8222;schneller&#8220; gemacht, sprich es werden nun mehr Schüsse in 1 Sekunde abgegeben. Darüber hinaus wurde die Mag7 auch teurer.<br />
+&#8222;<strong>Increased cycletime. Increased cost.&#8220;</strong></p>
+<p><strong>XM-1014:</strong><br />
+Mehr schaden durch die Rüstung und ebenfalls wie die Mag-7 schneller.<br />
+&#8222;<strong>Increased ArmorRatio. Increased cycletime.&#8220;</strong></p>
+<p><strong>UMP-45:</strong><br />
+Günstiger geworden und weniger Recoil.<br />
+&#8222;<strong>Reduced price. Reduced recoil angle variance.&#8220;</strong></p>
+<p><strong>Mac-10: </strong><br />
+Ebenfalls schneller und günstiger geworden.<br />
+&#8222;<strong>Increased maxspeed. Reduced price.&#8220;</strong></p>
+<p>Darüber hinaus wurde wie schon erwähnt kleinere Änderungen durchgeführt auf die wir aber nicht weiter eingehen.</p>
+<p><strong>Hier die Release Note:</strong></p>
+<p><strong>-Tweaked weapons</strong><br />
+<strong>   DEAGLE: Reduced inaccuracy.</strong><br />
+<strong>   Mag-7: Increased cycletime. Increased cost.</strong><br />
+<strong>   XM-1014: Increased ArmorRatio. Increased cycletime.</strong><br />
+<strong>   UMP-45: Reduced price. Reduced recoil angle variance.</strong><br />
+<strong>   Mac-10: Increased maxspeed. Reduced price.</strong><br />
+<strong>-Classic Competitive now allows 2 flashbangs and 4 grenades total.</strong><br />
+<strong>-Implemented bodygroups penetration for maximum damage, now shooting through arms at the enemies head will apply headshot damage, or shooting through arms at the stomach will apply stomach damage multiplier.</strong><br />
+<strong>-Removed aimpunch resulting from getting shot in the arms or legs.</strong><br />
+<strong>-Auto switch when dropping a weapon (or after throwing a grenade) avoids weapons with 0 bullets in the clip.</strong><br />
+<strong>-Reduced environment fog when scoped with a weapon.</strong></p>
+<p>[ MAPS ]<br />
+-CS_Militia: Fixed collision in CT spawn, added radar names<br />
+-CS_Assault: Added radar names<br />
+-CS_Museum: Fixed and updated radar and overview scales.<br />
+-DE_Library: Fixed bug where some clients would crash on bomb explosion.<br />
+-DE_Favela: Fixed bug were a prop was causing server lag, other gameplay tweaks<br />
+-DE_Seaside: Fixed bug were players would get stuck near Terrorist spawn.</p>
+<p>[ MISC ]<br />
+-Weapon inventory HUD now displays the number of grenades held of a single type.<br />
+-Fixed a sound bug that resulted in ghost footsteps when taking over bots.<br />
+-Fixed player money getting set to the wrong value if the player took over a bot in competitive and survived to the end of the round.<br />
+-Added a server convar &#8222;sv_maxusrcmdprocessticks&#8220; to limit maximum number of user commands backlog, defaulting at 3; observed player speed by others will now always be within max movement speed even when user is cheating, experiencing high packet loss or exteremely low fps.<br />
+-Vote kick will record user&#8217;s SteamID in the banlist and remove user from ongoing competitive match even if the user disconnected from game server before required number of votes have been collected.<br />
+-Spectating Operation Payback games via GOTV is now allowed without Operation Payback pass.<br />
+-Fixed crash on exit.</p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/cs-go-update-deagle-genauer-mag-7-teurer-ump-gunstiger-mac-10-schneller-nun-auch-4-granaten/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Skill groups, Abzeichen und Orden, Ranking, Level [Tipps]</title>
+		<link>/csgo-skillgroups-abzeichen-und-orden-tipps/</link>
+		<comments>/csgo-skillgroups-abzeichen-und-orden-tipps/#comments</comments>
+		<pubDate>Fri, 19 Apr 2013 16:30:36 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[abzeichen]]></category>
+		<category><![CDATA[Anleitung]]></category>
+		<category><![CDATA[cs: go]]></category>
+		<category><![CDATA[groups]]></category>
+		<category><![CDATA[medallien]]></category>
+		<category><![CDATA[orden]]></category>
+		<category><![CDATA[rank]]></category>
+		<category><![CDATA[rankings]]></category>
+		<category><![CDATA[rankliste]]></category>
+		<category><![CDATA[skill]]></category>
+		<category><![CDATA[skillgroups]]></category>
+		<category><![CDATA[toplist]]></category>
+
+		<guid isPermaLink="false">/?p=1380</guid>
+		<description><![CDATA[CS:GO Skill Groups Hat man mindestens zehn Matchmaking-Spiele gewonnen, wird fortan im Hauptmenü die Skill Group angezeigt, in der man sich befindet. Je nachdem wie gut man spielt, wird man einer bestimmten Gruppe zugeordnet,&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p><strong>CS:GO Skill Groups</strong></p>
+<p><a href="/wp-content/uploads/sites/2/2013/04/1.png"><img class="alignleft size-medium wp-image-1381" title="1" alt="" src="/wp-content/uploads/sites/2/2013/04/1-150x300.png" width="150" height="300" srcset="/wp-content/uploads/sites/2/2013/04/1-150x300.png 150w, /wp-content/uploads/sites/2/2013/04/1.png 200w" sizes="(max-width: 150px) 100vw, 150px" /></a>Hat man mindestens zehn Matchmaking-Spiele gewonnen, wird fortan im Hauptmenü die Skill Group angezeigt, in der man sich befindet. Je nachdem wie gut man spielt, wird man einer bestimmten Gruppe zugeordnet, damit das Matchmaking-System, das bisher zufällige Gegner ausgesucht hat, in Zukunft möglichst passende Gegner findet.</p>
+<p>Wird man besser, steigt man mit der Zeit natürlich auf und bekommt immer stärkere Gegner vorgesetzt. Doch wieviele Gruppen gibt es eigentlich? Und wie hoch ist die Skill Group, in der man sich aktuell befindet? Die Grafik auf der linken Seite gibt Auskunft darüber.</p>
+<p>Es geht also von einer einfachen Silber-Auszeichnung bis hin zur globalen Elite. Insgesamt 18 Stufen gibt es, in die man eingeordnet werden kann. Für einige Spieler ist die Einführung der Skill Groups sicher ein Anreiz sich in den ernsthaften Matchmaking-Spielen anzustrengen und einen neuen Rang zu erreichen. Und schliesslich soll das System ja auch der Spielbalance dienen.</p>
+<p>Um eventuelle Fragen zu beantworten haben wir die offizielle FAQ zu den Skill Groups ins Deutsche übersetzt. Darin steht alles, was man zu diesem Thema wissen muss.</p>
+<p>Skill Groups FAQ</p>
+<p><strong>Was ist eine Skill Group?</strong></p>
+<p>Wie ein ELO Rating im Schach, prognostizieren die CS:GO Skill Groups wie gut sich Spieler schlagen werden, wenn sie gegen andere spielen. Zwei gleichstarke Teams sollten im Schnitt gleich viele Spiele gewinnen, wenn sie gegeneinander antreten.</p>
+<p><strong>Welche Gruppen gibt es?</strong></p>
+<p><a href="/wp-content/uploads/sites/2/2013/04/2.jpg"><img class="alignleft size-medium wp-image-1382" title="2" alt="" src="/wp-content/uploads/sites/2/2013/04/2-300x225.jpg" width="300" height="225" srcset="/wp-content/uploads/sites/2/2013/04/2-300x225.jpg 300w, /wp-content/uploads/sites/2/2013/04/2.jpg 528w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Ich bin kein besonders guter Spieler. Soll ich trotzdem das Competitive Matchmaking nutzen?</strong></p>
+<p>Absolut. Das Competitive Matchmaking wird dich gegen andere Spieler mit ähnlichem Können antreten lassen, was eher zu einem unterhaltsamen Match führt, als wenn du ein zufälliges Spiel betrittst.</p>
+<p><strong>Wo werden die Skill Groups angezeigt?</strong></p>
+<p>Skill Groups werden im Hauptmenü, in Lobbies und im Scoreboard während eines Matches angezeigt. (Sobald die Skill Group feststeht.)</p>
+<p><strong>Wo kann ich meine eigene Skill Group sehen?</strong></p>
+<p>Wenn deine Gruppe feststeht und du mindestens 10 Competitive Matches gewonnen hast, wird deine Skill Group im Hauptmenü angezeigt.<a href="/wp-content/uploads/sites/2/2013/04/3.jpg"><img class="size-medium wp-image-1383 alignleft" title="3" alt="" src="/wp-content/uploads/sites/2/2013/04/3-300x225.jpg" width="300" height="225" srcset="/wp-content/uploads/sites/2/2013/04/3-300x225.jpg 300w, /wp-content/uploads/sites/2/2013/04/3.jpg 528w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><strong>Wann werden Skill Group Embleme in der Lobby angezeigt?</strong></p>
+<p>Befindet sich ein Spieler in einer Skill Group, ist das entsprechende Emblem in Lobbies für andere Spieler sichtbar.</p>
+<p><strong>Wann sind Skill Group Embleme im Scoreboard sichtbar?</strong></p>
+<p>Das Emblem von Spielern mit einer festgelegten Skill Group ist jederzeit für deren Freunde sichtbar. Am Ende eines Matches, nach dem letzten Remacht, wird das Emblem auch allen anderen Spielern angezeigt.</p>
+<p>&nbsp;</p>
+<p><a href="/wp-content/uploads/sites/2/2013/04/4.jpg"><img class="size-medium wp-image-1384 alignleft" title="4" alt="" src="/wp-content/uploads/sites/2/2013/04/4-300x225.jpg" width="300" height="225" srcset="/wp-content/uploads/sites/2/2013/04/4-300x225.jpg 300w, /wp-content/uploads/sites/2/2013/04/4.jpg 528w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><strong>Sollte ich es vermeiden mit weniger geschickten Freunden zusammenzuspielen, weil sie meinem Rating schaden werden?</strong></p>
+<p>Nein. Erstens berücksichtigt das Matchmaking-System deinen weniger talentierten Freund, wenn es nach einem Match sucht. Und zweitens macht das System eine Prognose darüber, wie gut sich jedes Teammitglied in einem Match schlagen wird. Wenn du ein Match mit einem weniger geschickten Freund im Team verlierst, hat das eher keinen signifikanten Einfluss auf deine Skill Group. Wenn du immer so gut wie möglich spielst, wird deine Skill Group dir passende Teammitgliedern und Gegnern liefern.</p>
+<p><strong>Wie könnt ihr mein Talent mit nur 10 gewonnen Spielen vorhersagen?</strong></p>
+<p>Wenn du dein erstes Match spielst, haben wir keine Ahnung wie gut du bist. Wenn du weitere Matches spielst, nutzen wir diese Siege und Niederlagen um Vorhersagen darüber zu machen, in welcher Gruppe du unserer Meinung nach sein solltest. Umso mehr Spiele du bestreitest, desto sicherer ist das System im Vorhersagen gegen welche Spieler du spielen solltest. 10 Spiele zu gewinnern liefert uns genug Daten um dich zuversichtlich in eine Skill Group zu stecken, von der wir denken, dass sie dich mit anderen Spieler auf deinem Level zusammenführen wird.</p>
+<p><strong>Warum sehe ich ein weites Spektrum an Skill Groups auf dem Scoreboard am Ende eines Matches? Sollte nicht jeder die gleiche Gruppe haben?</strong></p>
+<p>In den meisten Matches ist nur eine kleine Auswahl an Skill Groups vertreten. Wenn du ein größeres Spektrum an Skill Groups siehst, dann ist es wahrscheinlich, dass diese Spieler als eine Gruppe von Freunden in das Match gekommen sind.</p>
+<p>&nbsp;</p>
+<p>Quelle: cs.ingame.de &#8211; counterstrike.net</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-skillgroups-abzeichen-und-orden-tipps/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Tastaturbelegung &#8211; Übersicht (Buyscript)</title>
+		<link>/tastaturbelegung-ubersicht-buyscript/</link>
+		<comments>/tastaturbelegung-ubersicht-buyscript/#comments</comments>
+		<pubDate>Mon, 11 Feb 2013 22:02:56 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Die Config]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[belegung]]></category>
+		<category><![CDATA[binden]]></category>
+		<category><![CDATA[bindung]]></category>
+		<category><![CDATA[Buyscript]]></category>
+		<category><![CDATA[cfg]]></category>
+		<category><![CDATA[Config]]></category>
+		<category><![CDATA[Counter]]></category>
+		<category><![CDATA[cs: go]]></category>
+		<category><![CDATA[Strike]]></category>
+		<category><![CDATA[tastatur]]></category>
+		<category><![CDATA[tastaturbelegung]]></category>
+		<category><![CDATA[übersicht]]></category>
+
+		<guid isPermaLink="false">/?p=847</guid>
+		<description><![CDATA[Hier eine kleine Übersicht, welche Tasten zum &#8222;Binden&#8220; verfügbar sind und wie sie in der Config heißen. Zum Buyscript Tutorial gehts Hier lang.]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Hier eine kleine Übersicht, welche Tasten zum &#8222;Binden&#8220; verfügbar sind und wie sie in der Config heißen.<span id="more-847"></span></p>
+<p><a href="/wp-content/uploads/sites/2/2013/02/cs-tastatur.jpg"><img alt="" src="/wp-content/uploads/sites/2/2013/02/cs-tastatur.jpg" /></a></p>
+<p>Zum Buyscript Tutorial gehts <a href="/csgo-buyscript-tutorial/">Hier </a> lang.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/tastaturbelegung-ubersicht-buyscript/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO richtige Netsettings</title>
+		<link>/csgo-richtige-netsettings/</link>
+		<comments>/csgo-richtige-netsettings/#respond</comments>
+		<pubDate>Mon, 15 Oct 2012 19:36:05 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Configs]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Die Config]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Scripts]]></category>
+		<category><![CDATA[beste Netsettings]]></category>
+		<category><![CDATA[cl_cmdrate]]></category>
+		<category><![CDATA[cl_interp]]></category>
+		<category><![CDATA[cl_interp_ratio]]></category>
+		<category><![CDATA[cl_updaterate]]></category>
+		<category><![CDATA[Config]]></category>
+		<category><![CDATA[cs: go]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[Public]]></category>
+		<category><![CDATA[richtige Netsettings]]></category>
+		<category><![CDATA[Settings]]></category>
+		<category><![CDATA[valve.rc]]></category>
+
+		<guid isPermaLink="false">/?p=490</guid>
+		<description><![CDATA[Im Allgemeinen lässt sich sagen, dass die Netsettings vom Server abhängen. Die unten stehenden Befehle können in der valve.rc oder config.cfg oder als Startparameter festgelegt werden. Es empfiehlt sich jedoch diese in die Valve.rc&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p><a href="/wp-content/uploads/sites/2/2012/10/cs_go_config_title.jpg"><img class=" wp-image-491 aligncenter" title="cs_go_config_title" alt="" src="/wp-content/uploads/sites/2/2012/10/cs_go_config_title.jpg" width="360" height="180" srcset="/wp-content/uploads/sites/2/2012/10/cs_go_config_title.jpg 600w, /wp-content/uploads/sites/2/2012/10/cs_go_config_title-300x150.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></p>
+<p>Im Allgemeinen lässt sich sagen, dass die Netsettings vom Server abhängen. Die unten stehenden Befehle können in der valve.rc oder config.cfg oder als Startparameter festgelegt werden. Es empfiehlt sich jedoch diese in die Valve.rc zu schreiben. Diese Datei findet ihr wie alle anderen auch im CFG Ordner im CS Directory.</p>
+<p>Es ist darauf zu achten, dass der letzte Befehl in der Valve.rc immer mit &#8222;stuffcmds&#8220; endet.</p>
+<p><strong>Bei 128 Tick</strong><strong> Servern </strong></p>
+<p>rate &#8222;80000&#8220;, im Allgemeinen für schnelle DSL-Leitungen ab 6.000.<br />
+cl_cmdrate &#8222;128&#8220;<br />
+cl_updaterate &#8222;128&#8220;<br />
+cl_interp &#8222;0&#8220;<br />
+cl_interp_ratio &#8222;1&#8220;</p>
+<p><em><br />
+</em><strong>Bei 64</strong><em><strong> </strong></em><strong>Tick</strong><em><strong> </strong></em><strong>Servern</strong><br />
+rate &#8222;80000&#8220;  auch für schnelle DSL-Leitungen ab 6.000 empfohlen.<br />
+cl_cmdrate &#8222;64&#8220;<br />
+cl_updaterate &#8222;64&#8220;<br />
+cl_interp &#8222;0&#8220;<br />
+cl_interp_ratio &#8222;1&#8220;</p>
+<p>Auf Publicservern, also Servern ohne Passwort (und oft auch vielen Plugins) empfiehlt sich eine Rate von 128000.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-richtige-netsettings/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

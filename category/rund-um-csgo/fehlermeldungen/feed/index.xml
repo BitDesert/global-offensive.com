@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Fehlermeldungen &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/category/rund-um-csgo/fehlermeldungen/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>Fehlermeldungen &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO &#8211; Ein Problem mit Ihrem Computer blockiert das VAC System. Sie können nicht auf VAC gesicherten Servern spielen [Trick]</title>
+		<link>/csgo-ein-problem-mit-ihrem-computer-blockiert-das-vac-system-sie-koennen-nicht-auf-vac-gesicherten-servern-spielen-trick/</link>
+		<comments>/csgo-ein-problem-mit-ihrem-computer-blockiert-das-vac-system-sie-koennen-nicht-auf-vac-gesicherten-servern-spielen-trick/#respond</comments>
+		<pubDate>Thu, 09 Oct 2014 18:51:59 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Fehlermeldungen]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[blockiert]]></category>
+		<category><![CDATA[problem]]></category>
+		<category><![CDATA[system]]></category>
+		<category><![CDATA[vac]]></category>
+
+		<guid isPermaLink="false">/?p=3009</guid>
+		<description><![CDATA[Ein Problem mit Ihrem Computer, das VAC System&#8230; Einige von euch kennen es bereits schon, man wird vom Servers geschmissen. Auf den ersten Blick denkt man, dass man zu unrecht gebannt wurde. Dieses ist&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Ein Problem mit Ihrem Computer, das VAC System&#8230;</h3>
+<p>Einige von euch kennen es bereits schon, man wird vom Servers geschmissen. Auf den ersten Blick denkt man, dass man zu unrecht gebannt wurde. Dieses ist in den meisten Fällen jedoch nicht der Fall. Ihr habt nur ein Problem bei der Verbindung zum VAC Server.</p>
+<h3>Den Fehler könnt ihr sehr schnell über die Eingabekonsole von Windows beseitigen:</h3>
+<p>Öffnet dieses (Windows Taste + R  drücken) und schreibt folgendes in das Feld:</p>
+<blockquote><p><strong>bcedite.exe /set [current] nx Optin</strong></p></blockquote>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-ein-problem-mit-ihrem-computer-blockiert-das-vac-system-sie-koennen-nicht-auf-vac-gesicherten-servern-spielen-trick/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Debug Modus aktivieren um Fehler zu erkennen.</title>
+		<link>/csgo-debug-modus-aktivieren-um-fehler-zu-erkennen/</link>
+		<comments>/csgo-debug-modus-aktivieren-um-fehler-zu-erkennen/#comments</comments>
+		<pubDate>Mon, 10 Feb 2014 17:58:39 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Fehlermeldungen]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[debug modus]]></category>
+
+		<guid isPermaLink="false">/?p=1934</guid>
+		<description><![CDATA[CS:GO Debug Modus aktivieren (um Support zu erhalten) Seit dem letzten Update häufen sich die Fehlermeldungen, angefangen von csgo.exe Fehler bis schwarzen Screens ist alles dabei. Damit wir die Fehler nachvollziehen können benötigen wir&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>CS:GO Debug Modus aktivieren (um Support zu erhalten)</h3>
+<p>Seit dem letzten Update häufen sich die Fehlermeldungen, angefangen von csgo.exe Fehler bis schwarzen Screens ist alles dabei.</p>
+<p>Damit wir die Fehler nachvollziehen können benötigen wir weitere Infos. Bitte füge den CS:GO Startoptionen die Befehle &#8222;-forcedebug -debug -forceupdate&#8220; an.</p>
+<h3>Hier die Schritte um schnell Hilfe zu erhalten:</h3>
+<ol>
+<li>Rechte Maustaste auf Counter-Strike: Global-Offensive (siehe Bild unten)</li>
+<li>Eigenschaften</li>
+<li>Startoptionen festlegen: -forcedebug -debug -forceupdate</li>
+<li>Anschließend das Spiel starten</li>
+<li>Dann wieder schließen</li>
+<li>Die Debug.log im  Ordner C:Program Files (x86)SteamsteamappscommonCounter-Strike Global Offensive mit einem editor öffnen</li>
+<li>Den Inhalt nun auf <a href="http://codepaste.net/">http://codepaste.net/</a> einfügen und uns den Link per Chat, Teamspeak oder in unserem<a href="/forum/counter-strike-global-offensive-group5/probleme-oder-fragen-forum6/"> Forum HIER</a> schicken</li>
+</ol>
+<p>&nbsp;</p>
+<p>Hier das Fenster wo ihr die Startoptionen eingeben könnt:</p>
+<p><img class="alignnone" alt="" src="http://gyazo.com/1a6d28e7bb31d8695b5cc020349dfef5.png" width="747" height="626" /></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-debug-modus-aktivieren-um-fehler-zu-erkennen/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Error / Fehlerbehebung SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed. (Linux)</title>
+		<link>/error-fehlerbehebung-steamapi_init-failed-steamapi_issteamrunning-failed-linux/</link>
+		<comments>/error-fehlerbehebung-steamapi_init-failed-steamapi_issteamrunning-failed-linux/#respond</comments>
+		<pubDate>Wed, 05 Feb 2014 13:26:30 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[Fehlermeldungen]]></category>
+		<category><![CDATA[Gamerserver]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Server Administration]]></category>
+		<category><![CDATA[home/myuser/steamcmd/steam.sh]]></category>
+		<category><![CDATA[SteamAPI_Init()]]></category>
+		<category><![CDATA[SteamAPI_IsSteamRunning]]></category>
+
+		<guid isPermaLink="false">/?p=2101</guid>
+		<description><![CDATA[Der Fehler beim Starten eines CS:GO Counter-Strike: Global-Offensive Servers auf Linux [S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed. [S_API FAIL] SteamAPI_Init() failed; unable to locate a running instance of Steam, or a local steamclient.dll. szCmd:&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Der Fehler beim Starten eines CS:GO Counter-Strike: Global-Offensive Servers auf Linux</p>
+<blockquote>
+<pre>[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+[S_API FAIL] SteamAPI_Init() failed; unable to locate a running instance of Steam, or a local steamclient.dll.
+szCmd: /bin/sh -c '"/home/myuser/steamcmd/steam.sh" steam://run/215 -console -game csgo - +map de_dust' &amp;
+serverGameDLL-&gt;DLLInit() failed.</pre>
+</blockquote>
+<p>&nbsp;</p>
+<ol>
+<li>Nach langen hin und her möchte ich euch meinen kleinen Fix nicht vorenthalten.</li>
+<li>Ihr erstellt eine steam_appid.txt mit folgendem Inhalt: <span style="font-family: Consolas, Monaco, monospace;font-size: 12px;line-height: 18px">730</span></li>
+<li><span style="line-height: 1.5em">Anschließend ladet ihr die Datei in das Verzeichnis wo eure ./srcds_run liegt. Wenn ./srcds_run einem user gehört z.B. csgo, ändert den Besitzer von steam_appid.txt in den selbigen Benutzer.</span></li>
+<li><span style="line-height: 1.5em">Habt ihr dies getan könnt ihr euren frisch aufgesetzten Server starten.</span></li>
+</ol>
+<p>&nbsp;</p>
+<p>Viel Spaß mit eurem neuen Server. Bei Fragen oder Problemen stehe ich (Rump3l) gerne zu Verfügung.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/error-fehlerbehebung-steamapi_init-failed-steamapi_issteamrunning-failed-linux/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>[CSGO] Verbindungsfehler &#8211; Verbindung zum Steam-Netzwerk nicht möglich [Fehler]</title>
+		<link>/csgo-verbindungsfehler-steam-netzwerk-nicht-moglich-fehler/</link>
+		<comments>/csgo-verbindungsfehler-steam-netzwerk-nicht-moglich-fehler/#comments</comments>
+		<pubDate>Tue, 10 Dec 2013 16:31:37 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Fehlermeldungen]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[fehler]]></category>
+		<category><![CDATA[netzwerk]]></category>
+		<category><![CDATA[nicht möglich]]></category>
+		<category><![CDATA[Steam]]></category>
+		<category><![CDATA[verbindung nicht möglich]]></category>
+
+		<guid isPermaLink="false">/?p=1821</guid>
+		<description><![CDATA[Die Meldung: &#8220; Sie sind momentan nicht mit dem Internet verbunden oder ihre Internetverbindung ist nicht richtig für Steam konfiguriert. &#8220; oder The Steam Community is currently unavailable. Please try again later. In der&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Die Meldung: &#8220;</p>
+<h2>Sie sind momentan nicht mit dem Internet verbunden oder ihre Internetverbindung ist nicht richtig für Steam konfiguriert.</h2>
+<p>&#8220;</p>
+<p>oder</p>
+<h2>The Steam Community is currently unavailable. Please try again later.</h2>
+<p>In der Vergangenheit häuft sich dieser Fehler, wobei es weniger ein Fehler ist sondern eine Tatsache. Wenn ihr diese Fehlermeldung erhaltet ist das Routing zu den Matchmaking Servern fehlgeschlagen. Das Problem liegt in 99% der Fälle an Valve bzw. Steam selber. Es wird wohl gerade an den Servern gearbeitet oder es ist ein Problem aufgetaucht. In der Regel habt ihr spätestens nach 30 Minuten wieder die Möglichkeit euch online zu schalten.</p>
+<p>Sollte es dennoch nicht gehen ist evt. ein Virenscanner / Firewall dafür schuldig. Das aber nur wenn Ihr es von Anfang an nicht konntet.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-verbindungsfehler-steam-netzwerk-nicht-moglich-fehler/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>[MM] Sending Reservation Request / Failed to get session data Fehler / Problembehebung</title>
+		<link>/mm-sending-reservation-request-failed-to-get-session-data-fehler-problembehebung/</link>
+		<comments>/mm-sending-reservation-request-failed-to-get-session-data-fehler-problembehebung/#respond</comments>
+		<pubDate>Mon, 26 Aug 2013 20:56:22 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Fehlermeldungen]]></category>
+		<category><![CDATA[Gamerserver]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[[MM] Sending Reservation Request / Failed to get session data Fehler]]></category>
+
+		<guid isPermaLink="false">/?p=1799</guid>
+		<description><![CDATA[Sollte man beim Connecten auf einen Counter-Strike: Global Offensive Server die Meldung Failed to get session data oder [MM] Sending Reservation Request erhalten, hat der Betreiber des Servers einen kleinen Konfigurationsfehler gemacht. Als Spieler kann man diesen Fehler&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Sollte man beim Connecten auf einen Counter-Strike: Global Offensive Server die Meldung <strong>Failed to get session data </strong>oder <strong>[MM] Sending Reservation Request </strong>erhalten, hat der Betreiber des Servers einen kleinen Konfigurationsfehler gemacht. Als Spieler kann man diesen Fehler nicht beheben. Als Betreiber führt man bitte folgende Schritte aus:</p>
+<table border="0">
+<tbody>
+<tr>
+<td><strong>1) Startmap des Servers muss in der Mapgroup vorhanden sein mit der der Server startet.</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Es ist also nicht möglich den Server mit cs_italy zu starten, wenn an den Server die Mapgroup mg_bomb übergeben wird.<br />
+Solltet ihr als Betreiber eines Servers eure Mapgroups angepasst haben, stellt das natürlich kein Problem dar.</p>
+<table border="0">
+<tbody>
+<tr>
+<td><strong>2) Der Server startet mit einer _se Map.</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Aktuell (Stand 14.08) hat es leider noch einen kleinen Bug, der euch nicht connecten lässt wenn der Server mit einer _se Map startet. Den Server hier einfach mit einer normalen Map starten lassen und dann einen Mapchange durchführen. Funktioniert problemlos <img src="https://s.w.org/images/core/emoji/11/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<table border="0">
+<tbody>
+<tr>
+<td><strong>3) Der Server startet mit einer Mapgroup, die für den Gamemode der gestartet wird nicht zulässig ist. </strong></td>
+</tr>
+</tbody>
+</table>
+<p>Bestes Beispiel wäre ar_shoots als Startmap, mapgroup mg_armsrace und <a title="CS GO Gamemodes" href="http://csgo.gameserverinfo.de/cs-go-die-gamemodes" target="_blank">Gametype</a> Classic Casual.<br />
+Das funktioniert so leider nicht <img src="https://s.w.org/images/core/emoji/11/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br />
+In den meisten Fällen ist Ursache 1) der Fehler. Hier also einfach eure Startmap/Mapgroup anpassen <img src="https://s.w.org/images/core/emoji/11/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/mm-sending-reservation-request-failed-to-get-session-data-fehler-problembehebung/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Fehlermeldung: Some of your game files have been detected to have no signatures &#8230; [FIX]</title>
+		<link>/csgo-fehlermeldung-some-of-your-game-files-have-been-detected-to-have-no-signatures-fix/</link>
+		<comments>/csgo-fehlermeldung-some-of-your-game-files-have-been-detected-to-have-no-signatures-fix/#comments</comments>
+		<pubDate>Sat, 01 Jun 2013 15:55:52 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Fehlermeldungen]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[classic]]></category>
+		<category><![CDATA[competitive]]></category>
+		<category><![CDATA[Counterstrike]]></category>
+		<category><![CDATA[cs: go]]></category>
+		<category><![CDATA[fix]]></category>
+		<category><![CDATA[Global Offensive]]></category>
+		<category><![CDATA[Some of your game files have been detected to have no signatures]]></category>
+
+		<guid isPermaLink="false">/?p=1619</guid>
+		<description><![CDATA[Die Fehlermeldung: Einige Ihrer Spieldateien weisen keine oder ungültige Signaturen auf. Sie dürfen keinem durch VAC gesicherten Server beitreten. Viele User beschweren sich zur Zeit in verschiedensten Foren darüber, dass sie nicht mehr Classic Competitive&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Die Fehlermeldung: Einige Ihrer Spieldateien weisen keine oder ungültige Signaturen auf. Sie dürfen keinem durch VAC gesicherten Server beitreten.</h3>
+<p>Viele User beschweren sich zur Zeit in verschiedensten Foren darüber, dass sie nicht mehr Classic Competitive in CS:GO spielen können. Beim Starten von Steam bzw. beim Beitreten des Spiels erscheint folgende Fehlermeldung:</p>
+<p><em><strong>&#8222;Some of your game files have been detected to have no signatures or invalid signatures. You cannot play Classic Competitive mode, because you are not allow to join VAC secure Server..&#8220;</strong></em></p>
+<p>Warum diese Meldung erscheint liegt entweder an euch, in dem Ihr Spiel relevante Daten verändert habt, oder aber mal wieder an Steam. Sogar wenn ihr eine eigene GUI bzw. andere Models verwendet, erscheint diese Fehlermeldung.</p>
+<h3>Die Lösung:</h3>
+<p>Die Lösung des Problems ist, dass ihr die originalen Spieldateien wieder herstellen müsst. Dies geht glücklicherweise durch den integrierten Cache Loader welchen ihr hier seht:</p>
+<p><img class="alignnone" alt="" src="http://i.imgur.com/TQCQic6.png" width="617" height="400" /></p>
+<p>Klickt auf Verify integrity of Game Cache und stellt den Cache bzw. die originalen Daten ggf. wieder her.</p>
+<p>Sollte es dennoch nicht funktionieren, löscht bitte euren lokalen Game Content (ACHTUNG: Vorher bitte wichtige Dateien wie config.cfg und video.txt etc. absichern). Nachdem dann wirklich alles gelöscht wurde und ein frisches CS:GO aufgesetzt ist, funktioniert alles wieder.</p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-fehlermeldung-some-of-your-game-files-have-been-detected-to-have-no-signatures-fix/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>&#8222;csgo.exe funktioniert nicht mehr&#8220; Fehlerbehebung</title>
+		<link>/csgo-exe-funktioniert-nicht-mehr-fehlerbehebung/</link>
+		<comments>/csgo-exe-funktioniert-nicht-mehr-fehlerbehebung/#comments</comments>
+		<pubDate>Mon, 15 Oct 2012 14:37:18 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Die Config]]></category>
+		<category><![CDATA[Fehlermeldungen]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[Bug]]></category>
+		<category><![CDATA[Counter]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[CSGO.exe]]></category>
+		<category><![CDATA[fehler]]></category>
+		<category><![CDATA[funktioniert]]></category>
+		<category><![CDATA[global]]></category>
+		<category><![CDATA[mehr]]></category>
+		<category><![CDATA[nicht]]></category>
+		<category><![CDATA[Offensive]]></category>
+		<category><![CDATA[setting.mat_queue_mode]]></category>
+		<category><![CDATA[Steam]]></category>
+		<category><![CDATA[Strike]]></category>
+		<category><![CDATA[tier0.dll]]></category>
+		<category><![CDATA[video.txt]]></category>
+
+		<guid isPermaLink="false">/?p=476</guid>
+		<description><![CDATA[** Update:  Seit neustem (Februar 2014) sind auch andere Gründe für den Absturz von CS:GO verantwortlich. Wir haben Sie hier kurz zusammengefasst: Bei einigen Systemen kann es vorkommen, dass das Counter Strike Global Offensive&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p><img class="aligncenter size-full wp-image-477" title="csgo.exe funktioniert nicht mehr" alt="" src="/wp-content/uploads/sites/2/2012/10/funktioniertnichtmehr.jpg" width="556" height="300" srcset="/wp-content/uploads/sites/2/2012/10/funktioniertnichtmehr.jpg 556w, /wp-content/uploads/sites/2/2012/10/funktioniertnichtmehr-300x162.jpg 300w" sizes="(max-width: 556px) 100vw, 556px" /></p>
+<h2></h2>
+<h2>** Update:  Seit neustem (Februar 2014) sind auch andere Gründe für den Absturz von CS:GO verantwortlich. Wir haben Sie hier kurz zusammengefasst:</h2>
+<p>Bei einigen Systemen kann es vorkommen, dass das Counter Strike Global Offensive während des Spielens einfach abstürzt und die Meldung &#8222;<strong>csgo.exe funktioniert nicht mehr</strong>&#8220; erscheint. Unter Umständen erscheint diese Meldung sehr oft und das frustriert natürlich sehr.</p>
+<p>Wenn das  Spiel im Ladebildschirm abschmiert oder der Mapwechsel die Fehlermeldung hervorruft, liegt dies sehr wahrscheinlich an der Preload-Funktion. Die Preload Funktion ist dafür verantwortlich, dass die Map im Voraus geladen wird. Wenn ihr diese Funktion deaktiviert, deaktiviert ihr auch den Fehler &#8211; sprich ihr könnt wie gewohnt spielen.</p>
+<p>Bevor ihr aber groß etwas umstellt, prüft erstmal eure Spieldateien. Das geht über Rechte Maustaste in der Bibliothek auf CS:GO -&gt; Eigenschaften -&gt; Lokale Dateien -&gt; Spieldateien auf Fehler überprüfen.</p>
+<p><a href="/wp-content/uploads/sites/2/2012/10/spieldateien_ueberpruefen.png"><img class="aligncenter size-full wp-image-1838" alt="spieldateien_ueberpruefen" src="/wp-content/uploads/sites/2/2012/10/spieldateien_ueberpruefen.png" width="612" height="397" srcset="/wp-content/uploads/sites/2/2012/10/spieldateien_ueberpruefen.png 612w, /wp-content/uploads/sites/2/2012/10/spieldateien_ueberpruefen-300x195.png 300w" sizes="(max-width: 612px) 100vw, 612px" /></a></p>
+<h4>Sollte das nicht funktionieren, lest weiter:</h4>
+<blockquote>
+<ul>
+<li>Hierfür müsst ihr den Befehl cl_forcepreload 0 in die Startoptionen eingeben. In die Startoptionen kommt ihr wie folgt: Bibliothek -&gt; Rechtsklick auf CS:GO -&gt; Eigenschaften -&gt; Startoptionen festlegen.</li>
+<li>Die zweite Lösung, welche derzeit im Internet kursiert, ist, dass ein Problem der Updateserver der Maps verantwortlich ist. Hierfür das Workshop Maps Abonnement auflösen. Dies geht direkt im Workshop und meine Abonnements.</li>
+</ul>
+</blockquote>
+<p><strong>Bitte ändert in jedem Fall die Startoptionen, diese sollten zur Minimierung des Problems führen:</strong></p>
+<blockquote><p>-32bit -dxlevel 8 -cl_disablehtmlmotd 1 -cl_forcepreload 0</p></blockquote>
+<p><strong>Ein Community Mitglied konnte darüber hinaus den Fehler beseitigen indem er einen älteren Grafiktreiber installiert. Also einfach mal einen älteren Grafikkartentreiber eures Herstellers (ATI, nVidia etc.) installieren. Hierfür müsst ihr den alten Treiber vorher entfernen.</strong></p>
+<h3></h3>
+<h3>Aktuell (23.02.2014) crashed CS:GO ebenfalls mit folgender Meldung in der Debug.log im CS:GO Verzeichnis:</h3>
+<blockquote><p>[0223/142415:ERROR:resource_bundle.cc(417)] <strong>Failed to load C:Program FilesSteamsteamappscommonCounter-Strike Global Offensivebinchrome.pak</strong><br />
+Some features may not be available.<br />
+[0223/142422:ERROR:backend_impl.cc(2123)] Corrupt Index file<br />
+[0223/142422:ERROR:cache_util_win.cc(48)] Unable to move the cache: 5<br />
+[0223/142422:ERROR:backend_impl.cc(134)] Unable to move cache folder<br />
+[0223/142422:ERROR:backend_impl.cc(264)] Unable to create cache</p></blockquote>
+<p><strong> Derzeit können wir das Problem nur eingrenzen. Wir vermuten die Fehlermeldung hängt mit einer Hardware Konstellation zusammen.</strong></p>
+<p>Wir haben bereits viele Tage an Arbeit investiert um das Problem zu analysieren, leider nur mit mäßigen Erfolg.</p>
+<h3>Wir wissen das:</h3>
+<p>[checklist]</p>
+<ul>
+<li>Das Problem nicht an einer Internet Konfiguration liegt. (Problem liegt auch bei auf Handy erstellten Hotspot vor)</li>
+<li>Nicht an der Steam Verbindung liegt (auf anderen Rechner funktioniert es) also nicht an Steam Account liegt</li>
+<li> Das Problem nach einer CS:GO Neuinstallation immer noch besteht.</li>
+<li>Der Steam Support einem NICHT WEITERHELFEN kann, wir haben bereits diverse Tickets aufgemacht und es wird immer darauf hingewiesen &#8222;Das Problem wurde an einen Entwickler weitergeleitet&#8230; von wegen..</li>
+</ul>
+<p>[/checklist]</p>
+<h3>Frühere Möglichkeiten, den Fehler zu beheben (vor März 2013).</h3>
+<p>Nur in Einzelfällen hilft das noch</p>
+<blockquote>
+<div><strong>Wir haben die <em>Lösung</em> gefunden und wollen sie euch nicht vorenthalten. </strong>Der Fehler liegt an den Grafikeinstellung innerhalb der video.txt und kann in wenigen Schritten korrigiert werden.</div>
+<div>
+<ol>
+<li>Öffnet also den folgenden Pfad (jenachdem, wo ihr CS:GO installiert habt, kann der Anfang des Pfades variieren):<strong> </strong><em style="line-height: 1.5em"><strong>SteamSteamAppscommonCounter-Strike Global Offensivecsgocfg</strong> </em>Solltet ihr den Pfad nicht auf Anhieb finden, nutzt am besten die Windows XP/7/8 Suche</li>
+<li>Jetzt öffnet ihr die Datei &#8222;<strong><em>video</em>.txt</strong>&#8222;</li>
+<li> Dann sucht ihr den Befehl &#8222;<strong><em>setting.mat_queue_mode</em></strong>&#8220; . Dahinter befindet sich ein negativer Wert wie &#8222;-1&#8220; oder &#8222;-2&#8220;. Entfernt einfach das Vorzeichen &#8222;-&#8222;, so dass dort nur noch &#8222;<em>setting.mat_queue_mode 1&#8243; steht. S</em>peichert die Datei dann ab.</li>
+<li>CS:GO neustarten und siehe da, der Fehler ist behoben und ihr könnt ohne Fehlermeldung das Spiel genießen.</li>
+</ol>
+</div>
+</blockquote>
+<div></div>
+<div>
+<p>[checklist]</p>
+<ul>
+<li>Solltet ihr einen Fehler rund um die &#8222;tier0.dll&#8220; bekommen, schaut euch diesen Workaround an: <a href="http://www.youtube.com/watch?v=ct2qRYaTIXw">http://www.youtube.com/watch?v=ct2qRYaTIXw</a></li>
+<li> Bitte prüft auch, ob ihr den aktuellsten Videotreiber eurer Grafikkarte verwendet. Nur aktuelle Treiber sind auf CS:GO perfekt abgestimmt.</li>
+</ul>
+<p>[/checklist]</p>
+</div>
+<div><span style="line-height: 1.5em"> </span></div>
+<div>
+<h2>csgo.exe stürzt beim Verbinden zum Server ab</h2>
+<p>Sollte der Fehler erscheinen, wenn ihr auf einen Server verbindet, liegt es an dem Befehl <strong>cl_disablehtmlmotd 0. Ändert diesen in <strong>cl_disablehtmlmotd 1. </strong></strong>Das Problem ist, dass bei manchen CS:GO Clienten die Message of the Day in HTML Probleme verursacht. Viele User berichteten uns, dass der Fehler der MotD der Grund für den Absturz war.</p>
+<p>&nbsp;</p>
+</div>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-exe-funktioniert-nicht-mehr-fehlerbehebung/feed/</wfw:commentRss>
+		<slash:comments>86</slash:comments>
+		</item>
+	</channel>
+</rss>

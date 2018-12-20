@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Kommentare zu: CS:GO FPS Boost Config &#8211; So gehts</title>
+	<atom:link href="/csgo-fps-boost-config-so-gehts/feed/" rel="self" type="application/rss+xml" />
+	<link>/csgo-fps-boost-config-so-gehts/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 14 Nov 2017 21:13:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<item>
+		<title>Von: dieb</title>
+		<link>/csgo-fps-boost-config-so-gehts/#comment-89</link>
+		<dc:creator><![CDATA[dieb]]></dc:creator>
+		<pubDate>Sat, 07 Sep 2013 08:56:59 +0000</pubDate>
+		<guid isPermaLink="false">/?p=299#comment-89</guid>
+		<description><![CDATA[dieb dieb dieb...]]></description>
+		<content:encoded><![CDATA[<p>dieb dieb dieb&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: Bammel</title>
+		<link>/csgo-fps-boost-config-so-gehts/#comment-88</link>
+		<dc:creator><![CDATA[Bammel]]></dc:creator>
+		<pubDate>Sun, 14 Oct 2012 08:59:17 +0000</pubDate>
+		<guid isPermaLink="false">/?p=299#comment-88</guid>
+		<description><![CDATA[Und es funktioniert!
+Ich habe nur die Startparameter &quot;+mat_vignette_enable 0&quot; und &quot;-high&quot; hinzugefügt und hatte schon 20 Frames mehr!]]></description>
+		<content:encoded><![CDATA[<p>Und es funktioniert!<br />
+Ich habe nur die Startparameter &#8222;+mat_vignette_enable 0&#8220; und &#8222;-high&#8220; hinzugefügt und hatte schon 20 Frames mehr!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: Joe</title>
+		<link>/csgo-fps-boost-config-so-gehts/#comment-87</link>
+		<dc:creator><![CDATA[Joe]]></dc:creator>
+		<pubDate>Sat, 13 Oct 2012 15:28:03 +0000</pubDate>
+		<guid isPermaLink="false">/?p=299#comment-87</guid>
+		<description><![CDATA[Bravo!]]></description>
+		<content:encoded><![CDATA[<p>Bravo!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

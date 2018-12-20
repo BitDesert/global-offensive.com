@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Rauchgranate &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/rauchgranate/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>Rauchgranate &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO &#8211; Overpass Rauchgranaten / Smokegrenade Tutorial [Video]</title>
+		<link>/csgo-overpass-rauchgranaten-smokegrenade-tutorial-video/</link>
+		<comments>/csgo-overpass-rauchgranaten-smokegrenade-tutorial-video/#comments</comments>
+		<pubDate>Thu, 17 Sep 2015 07:50:18 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[de_overpass]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[Granaten]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Video Guides]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[Anleitung]]></category>
+		<category><![CDATA[Rauchgranate]]></category>
+		<category><![CDATA[smoke]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[video]]></category>
+
+		<guid isPermaLink="false">/?p=3493</guid>
+		<description><![CDATA[Overpass Rauchgranaten Tutorial Mit diesem Beitrag möchten wir euch auf ein sehr gutes und interessantes Smoke Tutorial für die Map de_overpass aufmerksam machen. Der Youtuber Jamiew hat es geschafft die wichtigstens Spots für Rauchgranaten&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Overpass Rauchgranaten Tutorial</h3>
+<p>Mit diesem Beitrag möchten wir euch auf ein sehr gutes und interessantes Smoke Tutorial für die Map de_overpass aufmerksam machen. Der Youtuber Jamiew hat es geschafft die wichtigstens Spots für Rauchgranaten im Video auf den Punkt zu bringen.</p>
+<p><iframe src="https://www.youtube.com/embed/L5a3Jd75RBA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-overpass-rauchgranaten-smokegrenade-tutorial-video/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Sinnvolle Config Bindings für direktes Legen von C4, Inventar dauerhaft sichtbar etc.</title>
+		<link>/csgo-sinnvolle-config-bindings-fur-direktes-legen-von-c4-inventar-dauerhaft-sichtbar-etc/</link>
+		<comments>/csgo-sinnvolle-config-bindings-fur-direktes-legen-von-c4-inventar-dauerhaft-sichtbar-etc/#comments</comments>
+		<pubDate>Thu, 01 Aug 2013 17:21:49 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Die Config]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Anleitung]]></category>
+		<category><![CDATA[binding]]></category>
+		<category><![CDATA[blendgranate]]></category>
+		<category><![CDATA[bomb]]></category>
+		<category><![CDATA[c4]]></category>
+		<category><![CDATA[Config]]></category>
+		<category><![CDATA[config csgo]]></category>
+		<category><![CDATA[Config.cfg]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[radar]]></category>
+		<category><![CDATA[Rauchgranate]]></category>
+		<category><![CDATA[sprengstoff direkt legen]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[wichtig]]></category>
+
+		<guid isPermaLink="false">/?p=1760</guid>
+		<description><![CDATA[Hier mal einige wirklich nützliche &#8222;Bindings&#8220;, also Shortcuts, um in Counter-Strike: Global-Offensive effektiver spielen zu können. Die (Maus)-Tasten könnt ihr natürlich frei wählen. Dafür einfach die Tasten mit bind &#8222;TASTE&#8220; &#8230;. ändern. Die Befehle&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Hier mal einige wirklich nützliche &#8222;Bindings&#8220;, also Shortcuts, um in Counter-Strike: Global-Offensive effektiver spielen zu können. Die (Maus)-Tasten könnt ihr natürlich frei wählen. Dafür einfach die Tasten mit bind &#8222;TASTE&#8220; &#8230;. ändern.</p>
+<p>Die Befehle einfach am Ende eurer config.cfg (CS:GO Verzeichnis -&gt; CFG Ordner) einfügen bzw. reinkopieren.</p>
+<h3>Einfach und effizient einkaufen und spielen:</h3>
+<p><strong>Um C4 direkt auszuwählen und zulegen:</strong><br />
+bind &#8222;mouse5&#8220; &#8222;use weapon_c4;drop&#8220;</p>
+<p><strong>Um schnell noch Granaten nachzukaufen, beispielsweise wenn die Buytime noch läuft:</strong><br />
+bind &#8222;mouse4&#8220; &#8222;buy hegrenade;buy smokegrenade;buy flashbang&#8220;</p>
+<p><strong>Um schnell zu der Blendgranate bzw. Rauchgranate zu wechseln:</strong><br />
+bind &#8222;f&#8220; &#8222;use weapon_flashbang&#8220;<br />
+bind &#8222;c&#8220; &#8222;use weapon_smokegrenade&#8220;</p>
+<p><strong>Um das komplette Team-Ingame Voice zu deaktivieren, wenn ihr nur noch alleine seid :</strong><br />
+bind &#8222;F1&#8220; &#8222;voice_enable 0;echo VOICE_MUTED&#8220;<br />
+bind &#8222;F2&#8220; &#8222;voice_enable 1;echo VOICE_ENABLED&#8220;</p>
+<p><strong>Um schnell das Spiel zu muten:</strong><br />
+bind F10 &#8222;volume 0;echo volume_off&#8220;<br />
+bind F11 &#8222;volume 1;echo volume_on&#8220;</p>
+<p><strong>Mit diesem Befehl seht ihr für 4 Sekunden wohin der Gegner nach eurem Tod läuft:</strong><br />
+cl_disablefreezecam 1</p>
+<p><strong>First Person Tracer deaktivieren:</strong><br />
+r_drawtracers_firstperson &#8222;0&#8220;</p>
+<p><strong>Permanent euer Inventar anzeigen lassen:</strong><br />
+cl_showloadout 1</p>
+<p><strong>Wechselt nicht automatisch auf stärkere Waffen bzw. wählt diese beim drüber laufen aus:</strong><br />
+cl_autoswepwitch 0</p>
+<p><strong>Bewegt das Radar näher Richtung Mitte des Bildschirms:</strong><br />
+safezonex 0.85</p>
+<p><strong>Kaufen von Waffen per Binding siehe diese Liste</strong>:  http://pastebin.com/S7b9nDD5</p>
+<p><strong>Der wohl wichtigste Befehl <img src="https://s.w.org/images/core/emoji/11/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong><br />
+bind &#8222;end&#8220; &#8222;kill&#8220;</p>
+<p>Weil Überleben mit nur Pistole gibt dem gegnerischen Team 1500$ bei einem 1vs5 <img src="https://s.w.org/images/core/emoji/11/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>&nbsp;</p>
+<h3>Hier ein eingesendetes Buyscript:</h3>
+<p>BIND &#8222;MOUSE3&#8220; &#8222;use weapon_smokegrenade;&#8220;</p>
+<p>BIND &#8222;MOUSE4&#8220; &#8222;slot2;&#8220;<br />
+BIND &#8222;MOUSE5&#8220; &#8222;use weapon_flashbang;&#8220;<br />
+BIND &#8222;MWHEELUP&#8220; &#8222;use weapon_hegrenade;&#8220;<br />
+BIND &#8222;MWHEELDOWN&#8220; &#8222;+jump&#8220;</p>
+<p>BIND &#8222;SPACE&#8220; &#8222;+voicerecord;&#8220;<br />
+BIND &#8222;F10&#8220; &#8222;toggleconsole;&#8220;</p>
+<p><strong>Für Training</strong></p>
+<p>bind &#8222;KP_SLASH&#8220; &#8222;&#8220;<br />
+bind &#8222;KP_MULTIPLY&#8220; &#8222;toggle sv_cheats&#8220;<br />
+bind &#8222;KP_MINUS&#8220; &#8222;noclip;sv_infinite_ammo 1&#8220; (durch die Map fliegen, nur bei sv_cheats 1)</p>
+<p><strong>Kaufscript</strong></p>
+<p>bind &#8222;KP_HOME&#8220; &#8222;buy vest;buy vesthelm;&#8220; bind &#8222;KP_UPARROW&#8220; &#8222;buy p250;&#8220; bind &#8222;KP_PGUP&#8220; &#8222;buy m4a1;buy ak47;&#8220;</p>
+<p>bind &#8222;KP_LEFTARROW&#8220; &#8222;buy hegrenade;&#8220;<br />
+bind &#8222;KP_5&#8220; &#8222;buy flashbang;&#8220;<br />
+bind &#8222;KP_RIGHTARROW&#8220; &#8222;buy defuser&#8220;</p>
+<p>bind &#8222;KP_END&#8220; &#8222;buy p90&#8220;<br />
+bind &#8222;KP_DOWNARROW&#8220; &#8222;buy smokegrenade;&#8220;<br />
+bind &#8222;KP_PGDN&#8220; &#8222;buy galilar; buy famas&#8220;</p>
+<p>bind &#8222;KP_INS&#8220; &#8222;buy molotov; buy incgrenade;&#8220;<br />
+bind &#8222;KP_DEL&#8220; &#8222;buy decoy;&#8220;<br />
+bind &#8222;KP_ENTER&#8220; &#8222;buy awp;&#8220;</p>
+<p>&nbsp;</p>
+<p>[toggle title=&#8220;Großes Buyscript&#8220;]</p>
+<ol>
+<li>
+<div>//////Buyscript Binds</div>
+</li>
+<li>
+<div></div>
+</li>
+<li>
+<div>bind &#8222;kp_end&#8220;                   &#8222;rifle1&#8220;                //1     buys ak74 $2700/m4a1 $3100</div>
+</li>
+<li>
+<div>bind &#8222;kp_downarrow&#8220;     &#8222;defuser&#8220;               //2     buys defuse kit $400</div>
+</li>
+<li>
+<div>bind &#8222;kp_pgdn&#8220;                  &#8222;rifle2&#8220;                //3     buys galil $2000/famas $2250</div>
+</li>
+<li>
+<div>bind &#8222;kp_leftarrow&#8220;     &#8222;hegrenade&#8220;             //4     buys grenade $300</div>
+</li>
+<li>
+<div>bind &#8222;kp_5&#8220;                     &#8222;flashbang&#8220;             //5     buys flashbang $200</div>
+</li>
+<li>
+<div>bind &#8222;kp_rightarrow&#8220;    &#8222;smokegrenade&#8220;  //6     buys smoke grenade $300</div>
+</li>
+<li>
+<div>bind &#8222;kp_home&#8220;                  &#8222;awp&#8220;                   //7     buys Awp sniper $4750</div>
+</li>
+<li>
+<div>bind &#8222;kp_uparrow&#8220;               &#8222;vesthelm&#8220;              //8     buys vest and helmet $1000</div>
+</li>
+<li>
+<div>bind &#8222;kp_pgup&#8220;                  &#8222;kevlar&#8220;                //9     buys armor $650</div>
+</li>
+<li>
+<div>bind &#8222;kp_ins&#8220;                   &#8222;p250&#8220;                  //0     buys p250 $300</div>
+</li>
+<li>
+<div>bind &#8222;kp_enter&#8220;                 &#8222;fiveseven&#8220;             //Enter buys fiveseven $500</div>
+</li>
+<li>
+<div>bind &#8222;kp_plus&#8220;                  &#8222;decoy&#8220;                 //-     buys decoy grenade $50</div>
+</li>
+<li>
+<div>bind &#8222;kp_minus&#8220;                 &#8222;firebomb&#8220;              //+     buys molotov</div>
+</li>
+<li>
+<div>bind &#8222;kp_multiply&#8220;              &#8222;p90&#8220;                   //*     buys p90</div>
+</li>
+<li>
+<div>bind &#8222;kp_slash&#8220;                 &#8222;mp7&#8243;                   //&#8220;/&#8220;   buys mp7 $1900</div>
+</li>
+<li>
+<div>//bind &#8222;kp_del&#8220;                 &#8222;Mark2&#8220;                 //.//Weapon pack alias</div>
+</li>
+<li>
+<div></div>
+</li>
+<li>
+<div>//alias &#8222;Mark1&#8220; &#8222;rifle1; deagle; defuser; grenades; vesthelm; taser&#8220;</div>
+</li>
+<li>
+<div>//alias &#8222;Mark2&#8220; &#8222;rifle2; deagle; defuser; grenades; vesthelm; taser&#8220;</div>
+</li>
+<li>
+<div>//alias &#8222;Mark3&#8220; &#8222;p90; deagle; defuser; grenades; vesthelm; taser&#8220;</div>
+</li>
+<li>
+<div>//alias &#8222;Mark4&#8220; &#8222;scout; deagle; defuser; grenades; vesthelm; taser&#8220;</div>
+</li>
+<li>
+<div>//alias &#8222;grenades&#8220; &#8222;firebomb; flashbang; hegrenade&#8220;</div>
+</li>
+<li>
+<div></div>
+</li>
+<li>
+<div>////Gun Alias</div>
+</li>
+<li>
+<div></div>
+</li>
+<li>
+<div>//Pistols</div>
+</li>
+<li>
+<div>alias glock     &#8222;buy glock&#8220;</div>
+</li>
+<li>
+<div>alias elite     &#8222;buy elite&#8220;</div>
+</li>
+<li>
+<div>alias fiveseven &#8222;buy fiveseven&#8220;</div>
+</li>
+<li>
+<div>alias deagle    &#8222;buy deagle&#8220;</div>
+</li>
+<li>
+<div>alias pistol1   &#8222;buy hkp2000; buy tec9&#8220;</div>
+</li>
+<li>
+<div>alias p250      &#8222;buy p250&#8220;</div>
+</li>
+<li>
+<div></div>
+</li>
+<li>
+<div>//Rifles</div>
+</li>
+<li>
+<div>alias rifle1 &#8222;buy ak47; buy m4a1&#8220;</div>
+</li>
+<li>
+<div>alias rifle2 &#8222;buy galilar; buy famas&#8220;</div>
+</li>
+<li>
+<div></div>
+</li>
+<li>
+<div>//SMG</div>
+</li>
+<li>
+<div>alias p90   &#8222;buy p90&#8220;</div>
+</li>
+<li>
+<div>alias mp7   &#8222;buy mp7&#8220;</div>
+</li>
+<li>
+<div>alias smg1  &#8222;buy mp9; buy mac10&#8220;</div>
+</li>
+<li>
+<div>alias bizon &#8222;buy bizon&#8220;</div>
+</li>
+<li>
+<div>alias ump   &#8222;buy ump45&#8220;</div>
+</li>
+<li>
+<div></div>
+</li>
+<li>
+<div>//Snipers</div>
+</li>
+<li>
+<div>alias awp        &#8222;buy awp&#8220;</div>
+</li>
+<li>
+<div>alias autosniper &#8222;buy g3sg1; buy scar20&#8220;</div>
+</li>
+<li>
+<div>alias scout      &#8222;buy ssg08&#8220;</div>
+</li>
+<li>
+<div>alias rifle-zoom &#8222;buy sg556; buy aug&#8220;</div>
+</li>
+<li>
+<div></div>
+</li>
+<li>
+<div>//Shotguns</div>
+</li>
+<li>
+<div>alias autoshotty &#8222;buy xm1014&#8220;</div>
+</li>
+<li>
+<div>alias shotgun1 &#8222;buy sawedoff; buy mag7&#8220;</div>
+</li>
+<li>
+<div>alias nova &#8222;buy nova&#8220;</div>
+</li>
+<li>
+<div></div>
+</li>
+<li>
+<div>//Machine guns</div>
+</li>
+<li>
+<div>alias negev &#8222;buy negev&#8220;</div>
+</li>
+<li>
+<div>alias m249 &#8222;buy m249&#8220;</div>
+</li>
+<li>
+<div></div>
+</li>
+<li>
+<div>//Grenades</div>
+</li>
+<li>
+<div>alias flashbang    &#8222;buy flashbang&#8220;</div>
+</li>
+<li>
+<div>alias smokegrenade &#8222;buy smokegrenade&#8220;</div>
+</li>
+<li>
+<div>alias hegrenade    &#8222;buy hegrenade&#8220;</div>
+</li>
+<li>
+<div>alias firebomb     &#8222;buy molotov; buy incgrenade&#8220;</div>
+</li>
+<li>
+<div>alias decoy        &#8222;buy decoy&#8220;</div>
+</li>
+<li>
+<div></div>
+</li>
+<li>
+<div>//Gear</div>
+</li>
+<li>
+<div>alias vesthelm &#8222;buy vesthelm&#8220;</div>
+</li>
+<li>
+<div>alias kevlar   &#8222;buy kevlar&#8220;</div>
+</li>
+<li>
+<div>alias defuser  &#8222;buy defuser&#8220;</div>
+</li>
+<li>
+<div>alias taser    &#8222;buy taser&#8220;</div>
+</li>
+</ol>
+<p>[/toggle]</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-sinnvolle-config-bindings-fur-direktes-legen-von-c4-inventar-dauerhaft-sichtbar-etc/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Update: Map Änderungen an de_inferno_se, de_dust2_se, de_mirage</title>
+		<link>/csgo-update-map-anderungen-an-de_inferno_se-de_dust2_se-de_mirage/</link>
+		<comments>/csgo-update-map-anderungen-an-de_inferno_se-de_dust2_se-de_mirage/#respond</comments>
+		<pubDate>Mon, 08 Jul 2013 11:45:26 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[csgo update]]></category>
+		<category><![CDATA[map änderungen]]></category>
+		<category><![CDATA[neue map]]></category>
+		<category><![CDATA[Rauchgranate]]></category>
+		<category><![CDATA[sichtbarkeit smoke]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[updates]]></category>
+		<category><![CDATA[visibility]]></category>
+
+		<guid isPermaLink="false">/?p=1707</guid>
+		<description><![CDATA[Im aktuellen Update von Counter-Strike: Global-Offensive (CS:GO)  wurden einige Änderungen an den Maps de_inferno, de_dust2_se und de_mirage durchgeführt. Die Änderungswünsche wurden wie schon in der Vergangenheit durch die Community getriggert. Das primäre Ziel in diesem&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Im aktuellen Update von Counter-Strike: Global-Offensive (CS:GO)  wurden einige Änderungen an den Maps de_inferno, de_dust2_se und de_mirage durchgeführt. Die Änderungswünsche wurden wie schon in der Vergangenheit durch die Community getriggert. Das primäre Ziel in diesem Update war es dass die Sichtbarkeit von Spielfiguren zu verbessern um somit besser auf einer fairen Basis spielen zu können.</p>
+<p>Hier die Änderungen als Vorher/Nachher Bild:</p>
+
+<a href='/csgo-update-130704-dust2-01/'><img width="150" height="150" src="/wp-content/uploads/sites/2/2013/07/csgo-update-130704-dust2-01-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/sites/2/2013/07/csgo-update-130704-dust2-01-150x150.jpg 150w, /wp-content/uploads/sites/2/2013/07/csgo-update-130704-dust2-01-160x160.jpg 160w, /wp-content/uploads/sites/2/2013/07/csgo-update-130704-dust2-01-320x320.jpg 320w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+<a href='/csgo-update-130704-dust2-02/'><img width="150" height="150" src="/wp-content/uploads/sites/2/2013/07/csgo-update-130704-dust2-02-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/sites/2/2013/07/csgo-update-130704-dust2-02-150x150.jpg 150w, /wp-content/uploads/sites/2/2013/07/csgo-update-130704-dust2-02-160x160.jpg 160w, /wp-content/uploads/sites/2/2013/07/csgo-update-130704-dust2-02-320x320.jpg 320w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+<a href='/csgo-update-130704-dust2-03/'><img width="150" height="150" src="/wp-content/uploads/sites/2/2013/07/csgo-update-130704-dust2-03-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/sites/2/2013/07/csgo-update-130704-dust2-03-150x150.jpg 150w, /wp-content/uploads/sites/2/2013/07/csgo-update-130704-dust2-03-160x160.jpg 160w, /wp-content/uploads/sites/2/2013/07/csgo-update-130704-dust2-03-320x320.jpg 320w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+<a href='/csgo-update-130704-dust2-04/'><img width="150" height="150" src="/wp-content/uploads/sites/2/2013/07/csgo-update-130704-dust2-04-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/sites/2/2013/07/csgo-update-130704-dust2-04-150x150.jpg 150w, /wp-content/uploads/sites/2/2013/07/csgo-update-130704-dust2-04-160x160.jpg 160w, /wp-content/uploads/sites/2/2013/07/csgo-update-130704-dust2-04-320x320.jpg 320w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+<a href='/csgo-update-130704-inferno-01/'><img width="150" height="150" src="/wp-content/uploads/sites/2/2013/07/csgo-update-130704-inferno-01-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/sites/2/2013/07/csgo-update-130704-inferno-01-150x150.jpg 150w, /wp-content/uploads/sites/2/2013/07/csgo-update-130704-inferno-01-160x160.jpg 160w, /wp-content/uploads/sites/2/2013/07/csgo-update-130704-inferno-01-320x320.jpg 320w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+<a href='/csgo-update-130704-inferno-02/'><img width="150" height="150" src="/wp-content/uploads/sites/2/2013/07/csgo-update-130704-inferno-02-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/sites/2/2013/07/csgo-update-130704-inferno-02-150x150.jpg 150w, /wp-content/uploads/sites/2/2013/07/csgo-update-130704-inferno-02-160x160.jpg 160w, /wp-content/uploads/sites/2/2013/07/csgo-update-130704-inferno-02-320x320.jpg 320w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+<a href='/csgo-update-130704-smoke-01/'><img width="150" height="150" src="/wp-content/uploads/sites/2/2013/07/csgo-update-130704-smoke-01-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/sites/2/2013/07/csgo-update-130704-smoke-01-150x150.jpg 150w, /wp-content/uploads/sites/2/2013/07/csgo-update-130704-smoke-01-160x160.jpg 160w, /wp-content/uploads/sites/2/2013/07/csgo-update-130704-smoke-01-320x320.jpg 320w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+<a href='/csgo-update-130704-smoke-02/'><img width="150" height="150" src="/wp-content/uploads/sites/2/2013/07/csgo-update-130704-smoke-02-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/sites/2/2013/07/csgo-update-130704-smoke-02-150x150.jpg 150w, /wp-content/uploads/sites/2/2013/07/csgo-update-130704-smoke-02-160x160.jpg 160w, /wp-content/uploads/sites/2/2013/07/csgo-update-130704-smoke-02-320x320.jpg 320w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-update-map-anderungen-an-de_inferno_se-de_dust2_se-de_mirage/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO 15x Rauchgranaten auf de_nuke_se. Compilation / Sammlung [Video Guide]</title>
+		<link>/csgo-15x-rauchgranatenwurfe-auf-de_nuke_se-compilation-sammlung-video-guide/</link>
+		<comments>/csgo-15x-rauchgranatenwurfe-auf-de_nuke_se-compilation-sammlung-video-guide/#respond</comments>
+		<pubDate>Tue, 11 Jun 2013 16:51:43 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[de_nuke_se]]></category>
+		<category><![CDATA[Granaten]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Video Guides]]></category>
+		<category><![CDATA[Anleitung]]></category>
+		<category><![CDATA[compilation]]></category>
+		<category><![CDATA[Rauchgranate]]></category>
+		<category><![CDATA[smoke grenade]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Tricks]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[video]]></category>
+
+		<guid isPermaLink="false">/?p=1686</guid>
+		<description><![CDATA[Der Youtube-User Bernardo Moura hat sich die Arbeit gemacht, die 15 wichtigsten Smokegrananten Würfe in einem Video zusammen zufassen. Mit diesem Video seid ihr auf jeden Fall vor jedem Practice War bzw. Funwar gewappnet. Wichtig ist&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Der Youtube-User <a href="http://www.youtube.com/user/bidado?feature=watch">Bernardo Moura</a> hat sich die Arbeit gemacht, die 15 wichtigsten Smokegrananten Würfe in einem Video zusammen zufassen. Mit diesem Video seid ihr auf jeden Fall vor jedem Practice War bzw. Funwar gewappnet. Wichtig ist natürlich dass ihr diese Granaten im Team zusammen trainiert.</p>
+<p>Viel Erfolg <img src="https://s.w.org/images/core/emoji/11/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-15x-rauchgranatenwurfe-auf-de_nuke_se-compilation-sammlung-video-guide/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO 5 Rauchgranatenwürfe auf de_train_se. Verbessert das CT und T Spiel! [Video Guide]</title>
+		<link>/csgo-5-rauchgranatenwurfe-auf-de_train_se-verbessert-das-ct-und-t-spiel-video-guide/</link>
+		<comments>/csgo-5-rauchgranatenwurfe-auf-de_train_se-verbessert-das-ct-und-t-spiel-video-guide/#respond</comments>
+		<pubDate>Tue, 11 Jun 2013 16:47:25 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[de_train]]></category>
+		<category><![CDATA[Granaten]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Video Guides]]></category>
+		<category><![CDATA[de_train_se]]></category>
+		<category><![CDATA[granate]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[Rauchgranate]]></category>
+		<category><![CDATA[smoke]]></category>
+		<category><![CDATA[smoke grenade]]></category>
+		<category><![CDATA[tipps tricks]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[video]]></category>
+		<category><![CDATA[youtube]]></category>
+
+		<guid isPermaLink="false">/?p=1683</guid>
+		<description><![CDATA[Ganz aktuell hat uns wieder dieses Youtube Video erreicht. In diesem Video habt ihr in Counter-Strike: Global-Offensive (CS:GO) auf der Map de_train_se die Möglichkeit, mit den vorgestellten Rauch bzw. Smokegranaten euer Stellungsspiel als CT&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Ganz aktuell hat uns wieder dieses Youtube Video erreicht. In diesem Video habt ihr in Counter-Strike: Global-Offensive (CS:GO) auf der Map de_train_se die Möglichkeit, mit den vorgestellten Rauch bzw. Smokegranaten euer Stellungsspiel als CT und T zu verbessern.</p>
+<p>Schaut rein:</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-5-rauchgranatenwurfe-auf-de_train_se-verbessert-das-ct-und-t-spiel-video-guide/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Skylight Blendgranate auf de_nuke_se zum einnehmen von Bombenplatz A. [Video Guide]</title>
+		<link>/csgo-skylight-blendgranate-auf-de_nuke_se-zum-einnehmen-von-bombenplatz-a-video-guide/</link>
+		<comments>/csgo-skylight-blendgranate-auf-de_nuke_se-zum-einnehmen-von-bombenplatz-a-video-guide/#respond</comments>
+		<pubDate>Sat, 08 Jun 2013 17:07:04 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[de_nuke_se]]></category>
+		<category><![CDATA[Granaten]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Video Guides]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[Global Offensive]]></category>
+		<category><![CDATA[Rauchgranate]]></category>
+		<category><![CDATA[smoke grenade]]></category>
+		<category><![CDATA[tipps tricks]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[video]]></category>
+		<category><![CDATA[video guide]]></category>
+
+		<guid isPermaLink="false">/?p=1662</guid>
+		<description><![CDATA[Ein weiteres Video welches euch zeigt wie ihr mithilfe einer Flash Granate alle CT&#8217;s auf Bombenplatz A für ca 1.5-2 Sekunden blendet. Nach perfekter Absprache erhaltet ihr durch den einfachen Wurf dieser Blendgranate einen&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Ein weiteres Video welches euch zeigt wie ihr mithilfe einer Flash Granate alle CT&#8217;s auf Bombenplatz A für ca 1.5-2 Sekunden blendet. Nach perfekter Absprache erhaltet ihr durch den einfachen Wurf dieser Blendgranate einen erheblichen Vorteil.</p>
+<p>Also üben und gewinnen!</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-skylight-blendgranate-auf-de_nuke_se-zum-einnehmen-von-bombenplatz-a-video-guide/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Neue Smoke auf de_inferno! Von Heuwagen eine Smoke grenade auf Bombenplatz B werfen (Faken)</title>
+		<link>/csgo-neue-smoke-auf-de_inferno-von-heuwagen-eine-smoke-grenade-auf-bombenplatz-b-werfen-faken/</link>
+		<comments>/csgo-neue-smoke-auf-de_inferno-von-heuwagen-eine-smoke-grenade-auf-bombenplatz-b-werfen-faken/#respond</comments>
+		<pubDate>Sat, 08 Jun 2013 16:55:08 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[de_inferno_se]]></category>
+		<category><![CDATA[Granaten]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Video Guides]]></category>
+		<category><![CDATA[Anleitung]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[fake]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[Rauchgranate]]></category>
+		<category><![CDATA[smoke grenade]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Tricks]]></category>
+		<category><![CDATA[video]]></category>
+
+		<guid isPermaLink="false">/?p=1656</guid>
+		<description><![CDATA[Mal wieder eine neue Smoke Granate welche vom Heuwagen direkt vor Bombenplatz B geworfen werden kann. In Verbindung mit einer Decoil (Ködergranate) ist das ein sehr schöner Fake welcher durch die Gegner nicht so&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Mal wieder eine neue Smoke Granate welche vom Heuwagen direkt vor Bombenplatz B geworfen werden kann. In Verbindung mit einer Decoil (Ködergranate) ist das ein sehr schöner Fake welcher durch die Gegner nicht so einfach zu erkennen ist.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-neue-smoke-auf-de_inferno-von-heuwagen-eine-smoke-grenade-auf-bombenplatz-b-werfen-faken/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS: GO Auf de_inferno_se die Y-Kiste smoken!</title>
+		<link>/cs-go-auf-de_inferno_se-die-y-kiste-smoken/</link>
+		<comments>/cs-go-auf-de_inferno_se-die-y-kiste-smoken/#respond</comments>
+		<pubDate>Sat, 01 Jun 2013 14:23:14 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[de_inferno_se]]></category>
+		<category><![CDATA[Granaten]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Video Guides]]></category>
+		<category><![CDATA[Anleitung]]></category>
+		<category><![CDATA[bombenplatz]]></category>
+		<category><![CDATA[bombspot b]]></category>
+		<category><![CDATA[flash]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[instant]]></category>
+		<category><![CDATA[Rauchgranate]]></category>
+		<category><![CDATA[richtig werfen]]></category>
+		<category><![CDATA[rush]]></category>
+		<category><![CDATA[smoke]]></category>
+		<category><![CDATA[smoke grenade]]></category>
+		<category><![CDATA[y-Kiste]]></category>
+
+		<guid isPermaLink="false">/?p=1607</guid>
+		<description><![CDATA[Mal wieder Probleme Bombenplatz B auf de_inferno einzunehmen? Dies Video hilft euch: Unser Community Mitglied und Lieblings-Youtuber Sonny vom Youtube Channel &#8222;Sonnyaner&#8220; hat wieder ein neues How-To Video veröffentlicht. In diesem Video geht es&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Mal wieder Probleme Bombenplatz B auf de_inferno einzunehmen?</h3>
+<p><b>Dies Video hilft euch:</b><br />
+Unser Community Mitglied und Lieblings-Youtuber Sonny vom Youtube Channel &#8222;Sonnyaner&#8220; hat wieder ein neues How-To Video veröffentlicht. In diesem Video geht es darum auf der Map de_inferno_se die Y-Kiste auf Bombenspot B weg zu smoken. Diese Smoke haben wir in der Tat noch nirgendswo gesehen, aus diesem Grund wird das Video auch für sehr interessant sein. Darüber hinaus weiß jeder CS:GO Spieler dass der Bombenplatz B auf dieser Map sehr schwer einzunehmen ist. Also nutzt diese Smoke um nicht instant über den Haufen geschossen zu werden <img src="https://s.w.org/images/core/emoji/11/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/cs-go-auf-de_inferno_se-die-y-kiste-smoken/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS: GO Smoke Granaten werfen wie ein Profi auf de_cache [Video Guide]</title>
+		<link>/cs-go-smoke-granaten-werfen-wie-ein-profi-auf-de_cache-video-guide/</link>
+		<comments>/cs-go-smoke-granaten-werfen-wie-ein-profi-auf-de_cache-video-guide/#respond</comments>
+		<pubDate>Sun, 26 May 2013 22:31:27 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[de_cache]]></category>
+		<category><![CDATA[Granaten]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Video Guides]]></category>
+		<category><![CDATA[Anleitung]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[rauch granaten]]></category>
+		<category><![CDATA[Rauchgranate]]></category>
+		<category><![CDATA[smoke grenade]]></category>
+		<category><![CDATA[smoke grenades]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Tricks]]></category>
+		<category><![CDATA[video]]></category>
+
+		<guid isPermaLink="false">/?p=1553</guid>
+		<description><![CDATA[In diesem schönen Video von dem talentierten Youtuber Ev0, werden die wichtigsten Smoke Tricks auf de_cache gezeigt. Sicherlich benötigen sie etwas Übung um die Würfe auf Anhieb gelingen zu lassen, aber solltet ihr ein&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>In diesem schönen Video von dem talentierten Youtuber Ev0, werden die wichtigsten Smoke Tricks auf de_cache gezeigt. Sicherlich benötigen sie etwas Übung um die Würfe auf Anhieb gelingen zu lassen, aber solltet ihr ein Team besitzen, ist das doch mal eine schöne Beschäftigung für einen Nachmittag. Gerade weil die Map auch im ESL Mappool ist, müsst ihr langfristig diese Smokes kennen um AWPs und gute Aimer die Sicht zu versperren <img src="https://s.w.org/images/core/emoji/11/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/cs-go-smoke-granaten-werfen-wie-ein-profi-auf-de_cache-video-guide/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS: GO Smoke Granaten Vergleich &#8211; Niemals ein einer Smoke stehen! [Bild]</title>
+		<link>/cs-go-smoke-granaten-vergleich-niemals-ein-einer-smoke-stehen-bild/</link>
+		<comments>/cs-go-smoke-granaten-vergleich-niemals-ein-einer-smoke-stehen-bild/#respond</comments>
+		<pubDate>Sat, 18 May 2013 14:23:48 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[Taktik]]></category>
+		<category><![CDATA[Rauchgranate]]></category>
+		<category><![CDATA[smoke granate]]></category>
+		<category><![CDATA[smoke grenade]]></category>
+		<category><![CDATA[strategie]]></category>
+		<category><![CDATA[taktiken]]></category>
+		<category><![CDATA[vergleich]]></category>
+		<category><![CDATA[vorteil]]></category>
+
+		<guid isPermaLink="false">/?p=1500</guid>
+		<description><![CDATA[Taktischen Vorteil durch Smoke Granate In den letzten Counter-Strike: Global &#8211; Offensive Updates wurde immer wieder am Smoke verhalten und dem &#8222;Rauch&#8220; gearbeitet. Auf diesem Screenshot könnt ihr sehr gut erkennen, warum es Sinn&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Taktischen Vorteil durch Smoke Granate</h3>
+<p>In den letzten Counter-Strike: Global &#8211; Offensive Updates wurde immer wieder am Smoke verhalten und dem &#8222;Rauch&#8220; gearbeitet.<br /> Auf diesem Screenshot könnt ihr sehr gut erkennen, warum es Sinn macht nicht in einer Smoke zu stehen und warum derjenige der vor der Smoke steht immer einen erheblichen Zeitvorteil besitzt.</p>
+<p>Wenn ihr beide Sichten betrachtet, fällt euch auf dass der in der Smoke stehende im Vergleich zum Davorstehenden nur einen Hauch an freier Sicht hat.</p>
+<p>Natürlich kann dieses Smoke Granaten Verhalten taktisch genutzt werden, zum Beispiel auf de_dust2 im oberen Tunnel auf B. Werft ihr genau an den Ausgang von Katakomben B eine Smoke Granate, hat der Counter Terrorist immer einen enormen Vorteil und kann einige Abschüsse erzielen!</p>
+<p>Also merkts euch!</p>
+<p><a href="/wp-content/uploads/sites/2/2013/05/smoke_vergleich.jpg"><img class="aligncenter size-full wp-image-1501" title="smoke_vergleich" src="/wp-content/uploads/sites/2/2013/05/smoke_vergleich.jpg" alt="" width="1920" height="845" srcset="/wp-content/uploads/sites/2/2013/05/smoke_vergleich.jpg 1920w, /wp-content/uploads/sites/2/2013/05/smoke_vergleich-300x132.jpg 300w, /wp-content/uploads/sites/2/2013/05/smoke_vergleich-1024x451.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" /></a></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/cs-go-smoke-granaten-vergleich-niemals-ein-einer-smoke-stehen-bild/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

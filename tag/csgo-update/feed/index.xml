@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>csgo update &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/csgo-update/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>csgo update &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Update &#8222;Reanimated&#8220; 15.09.2015 &#8211; Waffenpreise gesunken, Hitboxfehler gefixt, neue Animation und kleinere Map fixes</title>
+		<link>/counter-strike-global-offensive-update-vom-15-09-2015/</link>
+		<comments>/counter-strike-global-offensive-update-vom-15-09-2015/#respond</comments>
+		<pubDate>Wed, 16 Sep 2015 21:49:38 +0000</pubDate>
+		<dc:creator><![CDATA[pascal]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[animationen]]></category>
+		<category><![CDATA[csgo news]]></category>
+		<category><![CDATA[csgo update]]></category>
+		<category><![CDATA[video]]></category>
+		<category><![CDATA[waffenpreise]]></category>
+
+		<guid isPermaLink="false">/?p=3470</guid>
+		<description><![CDATA[&#160; Huiiiiii &#8211; Valve hat auf eine Vielzahl an Beschwerden reagiert um nun endlich das große Hitbox Problem zu lösen. Wie oft haben die Spieler sich beschwert dass Sie &#8222;Auf dem Kopf&#8220; waren und&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>&nbsp;</p>
+<p>Huiiiiii &#8211; Valve hat auf eine Vielzahl an Beschwerden reagiert um nun endlich das große Hitbox Problem zu lösen. Wie oft haben die Spieler sich beschwert dass Sie &#8222;Auf dem Kopf&#8220; waren und trotzdem keine Hits verursachst haben. Gerade auf Leitern und Boxen / Kisten war das ein großes Thema. In diesem Zuge hat Valve außerdem großzügig verschiedene Animationen verändert bzw. angepasst. Das defusen einer Bombe hat nun eine Animation, man muss dazu sagen dass dieses erstmalig seit dem Jahre 1999 ist &#8211; bisher wurde immer &#8222;freihändig&#8220; defused.  Aber das ist noch nicht alles, denn Valve hat auch etwas an der Waffenbalance geschraubt und die M4A1-S abgeschwächt.</p>
+<p>Hier sieht man z.B. die neue Animation des &#8222;strafens&#8220;: <a href="http://gfycat.com/SharpUltimateIguanodon" target="_blank">Video hier</a></p>
+<h2>Preise von Waffen</h2>
+<p>Zum Einen wurde der Zeus und die  M4A1-S im Preis reduziert (Zeus um 300$ und M4A1-S um 100$). Bei der M4A1-S wurde die Feuerrate als auch die Durchschlagskraft etwas verringert. Eine große Veränderung wurde an der M4A1-S durchgeführt &#8211; es ist der Rückstoß, da dieser nun mit den ersten 20 Kugeln der M4A4 fasst identisch ist. Die Dual Berettas wurden ebenfalls leicht verändert und erhielten eine höhere Durchschlagskraft, doch dafür wurde der &#8222;Schaden auf eine erhöhte Distanz&#8220; verringert.</p>
+<h2>Hitboxes</h2>
+<p>Eine der zwei großen Änderungen in diesem Update sind die Hitboxen. Diese wurden stark bearbeitet und zurechtgerückt. Außerdem kann man sich in der eigenen Spielsitzung durch einen Befehl in der Konsole (sv_showbullethits 1) visuell anzeigen lassen, ob man getroffen hat oder nicht. Außerdem wurde wurde der Fehler behoben, dass Waffenläufe durch einige Objekte oder Wände zusehen sind. Im Ansatz wurde das bereits gut gefixed &#8211; leider sieht man gelegentlich dennoch Waffen durch Objekte / Türen.<br />
+<img src="http://i.imgur.com/BbQkkwo.png"><img src="http://i.imgur.com/GFVS51V.png"></p>
+<p>&nbsp;</p>
+<h3>Animationen</h3>
+<p>Die Andere große Änderung sind die zahlreichen neuen Animationen, wie zum Beispiel das Waffen hervor nehmen und wegstecken, das Leiter rauf- und runterklettern, und die drei Arten der Bewegung (laufen, schleichen und der geduckte Lauf) und das Defusen der Bombe.  Alles Wirkt nun viel Detaillierter. Darunter hat allerdings die FPS-Anzahl(Bilder pro Sekunde) zu leiden.</p>
+<h2>Video aller Neuerungen:</h2>
+<p><iframe src="https://www.youtube.com/embed/2fXFYgC99uM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<h2>Update Log:</h2>
+<p>[ ANIMATION / GAMEPLAY ]<br />
+– Replaced all player body animations (Existing character models retained for demo compatibility)<br />
+– Replaced all world model weapon animation<br />
+– Updated shared player skeleton<br />
+– Re-rigged all player model geometry and player scaffold animation<br />
+– Updated animation networking to continually synchronize animation state instead of periodically latching<br />
+– Player animation sequence selection is now server-initiated<br />
+– Added new player states including bomb defusal and ladder climb poses<br />
+– Added thirdperson weapon deploy animations to more accurately represent viewmodel deploy state<br />
+– Extended all vertical aim matrix ranges to encompass the majority of vertical aim pitch so weapons line up precisely to firing angle<br />
+– Added reverse-bone-merge animation support so weapon models can store and play independent animation on the player holding them<br />
+– Added support for arbitrary numbers of articulated mechanical parts on world weapon models<br />
+– Updated weapon world model articulation points, bodygroup presets, holster positions and reverse-bone-merge skeletons<br />
+– Added physics motion to holstered attachment weapon locations<br />
+– Added support for non-polygonal capsule-shaped hit volumes, defined by a line segment and radius<br />
+– Replaced shared hitboxes with new capsule-based set<br />
+– Rebuilt player ragdoll angular constraints, physics hulls, and interaction pairs<br />
+– Ragdolls now assume more exact pose of their parent player on physics init<br />
+– Re-built animation statemachine to support blending locomotion over any weapon aim or action poses<br />
+– Enabled support for dynamic player animation layer re-ordering<br />
+– Sequence blendlayers now correctly contribute to computed cyclerate<br />
+– Added defuser cables and multimeter model<br />
+– Added hlmv support for capsule rendering, submodel attachment previewing, ragdoll constraint limit and bone name rendering, plus numerous small fixes<br />
+– Added model format support for named bodygroups, combined physics hulls, activity modifiers and animation system specific metadata</p>
+<p>[ UI ]<br />
+– Fixed a bug where the mini-scoreboard armor/helmet information was not displaying for coaches<br />
+– Added sv_show_voip_indicator_for_enemies server convar. If set, it will make it so the ‘voice chat’ icon shows over enemy players as well as allies when they are using their microphone.<br />
+– Added sv_showbullethits feature to visualize server-confirmed hits and near-misses on listen servers</p>
+<p>[ RENDERING ]<br />
+– Fixed improper stencil state in glow pass rendering</p>
+<p>[ GAMEPLAY ]<br />
+– Added dynamic player culling to prevent players and weapons poking through thin walls and revealing their position<br />
+– M4A1-S:<br />
+— Reduced price<br />
+— Reduced armor penetration<br />
+— Reduced ROF<br />
+— Increased base spread</p>
+<p>– Zeus x27<br />
+— Reduced price to $100</p>
+<p>– Dual Berettas<br />
+— Increased armor penetration<br />
+— Increased range modifier</p>
+<p>[ GOTV ]<br />
+– Added viewmodel position lerp to gotv camera transitions</p>
+<p>[ OVERWATCH ]<br />
+– Players can now report enemies for anti-competitive griefing (i.e. deliberately losing).</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/counter-strike-global-offensive-update-vom-15-09-2015/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Update &#8211; CZ75 nun 500$, Dust2 Bombenzone größer und weitere Gameplay &#8211; Map Änderungen [Update]</title>
+		<link>/csgo-update-03-09-2014-cz75-nun-500-dust2-bombenzone-groesser-und-weitere-gameplay-map-aenderungen/</link>
+		<comments>/csgo-update-03-09-2014-cz75-nun-500-dust2-bombenzone-groesser-und-weitere-gameplay-map-aenderungen/#respond</comments>
+		<pubDate>Wed, 03 Sep 2014 07:36:24 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[bombspot]]></category>
+		<category><![CDATA[csgo update]]></category>
+		<category><![CDATA[cz75]]></category>
+		<category><![CDATA[dust2]]></category>
+		<category><![CDATA[update]]></category>
+
+		<guid isPermaLink="false">/?p=2806</guid>
+		<description><![CDATA[Und schon wieder ein CS:GO Update &#8211; heute mit etwas mehr Änderungen speziell auf den Maps Dust2 und Cobblestone. Aber auch das Gameplay wurde nach Aufforderungen der Community verändert. Die Update Bullet Points hier&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Und schon wieder ein CS:GO Update &#8211; heute mit etwas mehr Änderungen speziell auf den Maps Dust2 und Cobblestone. Aber auch das Gameplay wurde nach Aufforderungen der Community verändert. Die Update Bullet Points hier aufgelistet.</p>
+<h4>Gameplay Änderungen</h4>
+<p>[checklist]</p>
+<ul>
+<li>Die CZ75-Auto wurde nun auf den Tec9/Five-seven slot gesetzt, sie war vorher nur durch die P250 zu ersetzen.</li>
+<li>Blend- und HE Granaten fügen nun auch im Wasser schaden zu.</li>
+<li>Teamkill Geld-Strafe im Wettkampf Modus ist auf -300$ geändert worden</li>
+<li>Buy-Time im Wettkampf wurde auf 20 Sekunden verkürzt, die Mac-10 Taktik ist somit nicht mehr möglich (<a href="https://www.youtube.com/watch?v=5X0uH-TFf8I&amp;feature=youtu.be">Was ist die Mac-10 Taktik? Klick</a>)</li>
+</ul>
+<p>[/checklist]</p>
+<h4>Dust2- Änderungen</h4>
+<p>[checklist]</p>
+<ul>
+<li>Bombenplatz A hat nun eine größere Bombzone, es kann nur vor den Kisten (aus A-Kurz Richtung) die Bombe gelegt werden.  (Bilder unten)</li>
+<li>B-Doors wurden geglättet.</li>
+</ul>
+<p>[/checklist]</p>
+<h4>Cobblestorm &#8211; Änderungen</h4>
+<p>[checklist]</p>
+<ul>
+<li>Angepasst T Spawns.</li>
+<li>Leiter wurde beim T-Spawn hinzugefügt.</li>
+<li>CT Spawns wurden etwas zurück gezogen.</li>
+<li>B Tunnel wurden optimiert für bessere Rotierungszeit</li>
+<li>CT Sniper Raum ist nun etwas kleiner und das Fenster größer.</li>
+<li>Kleine Cut Out Area zum verstecken hinter der Toiletten auf B.</li>
+<li>kleine Textur und Schattierungsänderungen</li>
+</ul>
+<p>[/checklist]</p>
+<h3>Das Update in Bildern:</h3>
+<p><img class="alignnone" src="https://i.imgur.com/lj6XVZC.jpg" alt="" width="1280" height="720" /></p>
+<div style="width: 1930px" class="wp-caption alignnone"><img src="http://i.imgur.com/2oGSbGf.jpg" alt="" width="1920" height="1080" /><p class="wp-caption-text">Größere Bombzone</p></div>
+<p><img class="alignnone" src="http://i.imgur.com/SPOjN8L.jpg" alt="" width="1920" height="1080" /></p>
+<p><img class="alignnone" src="http://i.imgur.com/lIDb2HG.jpg" alt="" width="1920" height="1080" /><img class="alignnone" src="http://i.imgur.com/PP1N3oM.jpg" alt="" width="1920" height="1080" /><img class="alignnone" src="http://i.imgur.com/TM9S1ql.jpg" alt="" width="1920" height="1080" /><img class="alignnone" src="http://i.imgur.com/kLKM5iG.jpg" alt="" width="1920" height="1080" /><img class="alignnone" src="http://i.imgur.com/awmyVIO.jpg" alt="" width="1920" height="1080" /><img class="alignnone" src="http://i.imgur.com/YhC2xUc.jpg" alt="" width="1920" height="1080" /><img class="alignnone" src="http://i.imgur.com/paaRetm.jpg" alt="" width="1920" height="1080" /></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-update-03-09-2014-cz75-nun-500-dust2-bombenzone-groesser-und-weitere-gameplay-map-aenderungen/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Update: Schalldämpfer (Silencer), Waffenkiste, Waffen, Skins etc. [News]</title>
+		<link>/csgo-update-moglicherweise-neue-waffenkiste-waffen-skins-etc/</link>
+		<comments>/csgo-update-moglicherweise-neue-waffenkiste-waffen-skins-etc/#comments</comments>
+		<pubDate>Tue, 13 Aug 2013 11:32:29 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[csgo update]]></category>
+		<category><![CDATA[Messer]]></category>
+		<category><![CDATA[schalldämpfer]]></category>
+		<category><![CDATA[schlüssel]]></category>
+		<category><![CDATA[silencer]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[waffenkiste]]></category>
+
+		<guid isPermaLink="false">/?p=1781</guid>
+		<description><![CDATA[Na was hat denn da Valve mit uns vor? Einfach nur ein riesen Troll oder doch etwas wahres dran. Mittlerweile kursieren die Gerüchte dass schon am morgigen Tage ein erheblich großes Update erscheint. Wir&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Na was hat denn da Valve mit uns vor? Einfach nur ein riesen Troll oder doch etwas wahres dran. Mittlerweile kursieren die Gerüchte dass schon am morgigen Tage ein erheblich großes Update erscheint. Wir haben euch einfach mal die zur Zeit im Internet kursierenden Bilder zusammen gefasst:</p>
+<p><img alt="" src="http://i.imgur.com/jqQ9fHdh.jpg" /></p>
+<p><img alt="" src="http://i.imgur.com/jqQ9fHdh.jpg" /></p>
+<p><img alt="" src="http://i.imgur.com/yPDlbHph.jpg" /></p>
+<div style="width: 1081px" class="wp-caption alignnone"><img alt="" src="http://puu.sh/40FgE.jpg" width="1071" height="462" /><p class="wp-caption-text">Neue Items in CS:GO Verfügbar</p></div>
+<p><img alt="" src="http://i.imgur.com/1hqdGWmh.jpg" /></p>
+<div style="width: 522px" class="wp-caption alignnone"><img alt="" src="http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_m4a1_silencer.14deadd9537f67219b363dd815a5bee0f5e9f118.png" width="512" height="384" /><p class="wp-caption-text">M4 mit Schalldämpfer</p></div>
+<p>&nbsp;</p>
+<div style="width: 522px" class="wp-caption alignnone"><img alt="" src="http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_usp_silencer.2d56b816cd1b96c795c5539d1b1353e287a3305a.png" width="512" height="384" /><p class="wp-caption-text">P2000 / USP mit Schalldämpfer</p></div>
+<p>Neben den neuen Waffen, die in das Spiel integriert werden sollen, könnte es bald die Möglichkeit geben, gegen einen kleinen Betrag das Aussehen der Waffen zu ändern. Im Steam-Forum wurden Bilder hinzugefügt, die ein paar neue Skins vermuten lassen. Als Beispiel ist dort unter anderem die M4A4 Desert Storm zu sehen, sowie einige modifizierte Pumpguns.</p>
+<div style="width: 630px" class="wp-caption alignnone"><img alt="" src="http://gyazo.com/d36bf1afb99b8db18ee110a9d9315040.png" width="620" height="473" /><p class="wp-caption-text">Neue Skins</p></div>
+<p><img class="alignnone" alt="" src="http://gyazo.com/78742271f562111b33841ba21ec31ba9.png" width="618" height="473" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div style="width: 924px" class="wp-caption alignnone"><img alt="" src="http://i.imgur.com/xdPSJiK.jpg" width="914" height="570" /><p class="wp-caption-text">SG553 Tornado</p></div>
+<p>&nbsp;</p>
+<div style="width: 936px" class="wp-caption alignnone"><img alt="" src="http://i.imgur.com/ekHVJ2Y.jpg" width="926" height="604" /><p class="wp-caption-text">M4 mit neuem Skin</p></div>
+<p>&nbsp;</p>
+<div style="width: 266px" class="wp-caption alignnone"><img alt="" src="http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_esports_2013.c55c4c0b5907549fbad519d22d80189d45ef6522.png" width="256" height="198" /><p class="wp-caption-text">Kiste?</p></div>
+<p>&nbsp;</p>
+<div style="width: 266px" class="wp-caption alignnone"><img alt="" src="http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_valve_1.9cf7df1b3d1163f54bf5d561792429a3362039af.png" width="256" height="198" /><p class="wp-caption-text">Waffenkiste</p></div>
+<p>Dies ist eine Kiste, die viele verschiedene Waffen-Skins von den meistgespielten Waffen beinhaltet. Um diese Kiste zu öffnen, müsste man sich im Steam-Store einen Schlüssel kaufen. Ein Teil dieser Aktion würde in den Preisgeldpool eines anstehenden CS:GO-Events fließen. Es lässt sich also vermuten, dass VALVE wirklich eine Art &#8218;The International&#8216; für CS:GO einführen möchte. Die Waffen-Kisten werden für jede Map angeboten, sodass man für jede Map die dazugehörigen Waffen mit jeweiligen Skins erhalten könnte.</p>
+<p>&nbsp;</p>
+<div style="width: 353px" class="wp-caption alignnone"><img alt="" src="http://i.imgur.com/9MJMmRC.png" width="343" height="602" /><p class="wp-caption-text">Inventar</p></div>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-update-moglicherweise-neue-waffenkiste-waffen-skins-etc/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Update: Map Änderungen an de_inferno_se, de_dust2_se, de_mirage</title>
+		<link>/csgo-update-map-anderungen-an-de_inferno_se-de_dust2_se-de_mirage/</link>
+		<comments>/csgo-update-map-anderungen-an-de_inferno_se-de_dust2_se-de_mirage/#respond</comments>
+		<pubDate>Mon, 08 Jul 2013 11:45:26 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[csgo update]]></category>
+		<category><![CDATA[map änderungen]]></category>
+		<category><![CDATA[neue map]]></category>
+		<category><![CDATA[Rauchgranate]]></category>
+		<category><![CDATA[sichtbarkeit smoke]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[updates]]></category>
+		<category><![CDATA[visibility]]></category>
+
+		<guid isPermaLink="false">/?p=1707</guid>
+		<description><![CDATA[Im aktuellen Update von Counter-Strike: Global-Offensive (CS:GO)  wurden einige Änderungen an den Maps de_inferno, de_dust2_se und de_mirage durchgeführt. Die Änderungswünsche wurden wie schon in der Vergangenheit durch die Community getriggert. Das primäre Ziel in diesem&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Im aktuellen Update von Counter-Strike: Global-Offensive (CS:GO)  wurden einige Änderungen an den Maps de_inferno, de_dust2_se und de_mirage durchgeführt. Die Änderungswünsche wurden wie schon in der Vergangenheit durch die Community getriggert. Das primäre Ziel in diesem Update war es dass die Sichtbarkeit von Spielfiguren zu verbessern um somit besser auf einer fairen Basis spielen zu können.</p>
+<p>Hier die Änderungen als Vorher/Nachher Bild:</p>
+
+<a href='/csgo-update-130704-dust2-01/'><img width="150" height="150" src="/wp-content/uploads/sites/2/2013/07/csgo-update-130704-dust2-01-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/sites/2/2013/07/csgo-update-130704-dust2-01-150x150.jpg 150w, /wp-content/uploads/sites/2/2013/07/csgo-update-130704-dust2-01-160x160.jpg 160w, /wp-content/uploads/sites/2/2013/07/csgo-update-130704-dust2-01-320x320.jpg 320w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+<a href='/csgo-update-130704-dust2-02/'><img width="150" height="150" src="/wp-content/uploads/sites/2/2013/07/csgo-update-130704-dust2-02-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/sites/2/2013/07/csgo-update-130704-dust2-02-150x150.jpg 150w, /wp-content/uploads/sites/2/2013/07/csgo-update-130704-dust2-02-160x160.jpg 160w, /wp-content/uploads/sites/2/2013/07/csgo-update-130704-dust2-02-320x320.jpg 320w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+<a href='/csgo-update-130704-dust2-03/'><img width="150" height="150" src="/wp-content/uploads/sites/2/2013/07/csgo-update-130704-dust2-03-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/sites/2/2013/07/csgo-update-130704-dust2-03-150x150.jpg 150w, /wp-content/uploads/sites/2/2013/07/csgo-update-130704-dust2-03-160x160.jpg 160w, /wp-content/uploads/sites/2/2013/07/csgo-update-130704-dust2-03-320x320.jpg 320w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+<a href='/csgo-update-130704-dust2-04/'><img width="150" height="150" src="/wp-content/uploads/sites/2/2013/07/csgo-update-130704-dust2-04-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/sites/2/2013/07/csgo-update-130704-dust2-04-150x150.jpg 150w, /wp-content/uploads/sites/2/2013/07/csgo-update-130704-dust2-04-160x160.jpg 160w, /wp-content/uploads/sites/2/2013/07/csgo-update-130704-dust2-04-320x320.jpg 320w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+<a href='/csgo-update-130704-inferno-01/'><img width="150" height="150" src="/wp-content/uploads/sites/2/2013/07/csgo-update-130704-inferno-01-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/sites/2/2013/07/csgo-update-130704-inferno-01-150x150.jpg 150w, /wp-content/uploads/sites/2/2013/07/csgo-update-130704-inferno-01-160x160.jpg 160w, /wp-content/uploads/sites/2/2013/07/csgo-update-130704-inferno-01-320x320.jpg 320w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+<a href='/csgo-update-130704-inferno-02/'><img width="150" height="150" src="/wp-content/uploads/sites/2/2013/07/csgo-update-130704-inferno-02-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/sites/2/2013/07/csgo-update-130704-inferno-02-150x150.jpg 150w, /wp-content/uploads/sites/2/2013/07/csgo-update-130704-inferno-02-160x160.jpg 160w, /wp-content/uploads/sites/2/2013/07/csgo-update-130704-inferno-02-320x320.jpg 320w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+<a href='/csgo-update-130704-smoke-01/'><img width="150" height="150" src="/wp-content/uploads/sites/2/2013/07/csgo-update-130704-smoke-01-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/sites/2/2013/07/csgo-update-130704-smoke-01-150x150.jpg 150w, /wp-content/uploads/sites/2/2013/07/csgo-update-130704-smoke-01-160x160.jpg 160w, /wp-content/uploads/sites/2/2013/07/csgo-update-130704-smoke-01-320x320.jpg 320w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+<a href='/csgo-update-130704-smoke-02/'><img width="150" height="150" src="/wp-content/uploads/sites/2/2013/07/csgo-update-130704-smoke-02-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/sites/2/2013/07/csgo-update-130704-smoke-02-150x150.jpg 150w, /wp-content/uploads/sites/2/2013/07/csgo-update-130704-smoke-02-160x160.jpg 160w, /wp-content/uploads/sites/2/2013/07/csgo-update-130704-smoke-02-320x320.jpg 320w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-update-map-anderungen-an-de_inferno_se-de_dust2_se-de_mirage/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Großes CS:GO Update &#8211; Jetzt neues Menü, cs_militia und Rescue Kit am Start! Sattelt die Geiseln!</title>
+		<link>/groses-csgo-update-jetzt-neues-menu-cs_militia-und-rescue-kit-am-start/</link>
+		<comments>/groses-csgo-update-jetzt-neues-menu-cs_militia-und-rescue-kit-am-start/#respond</comments>
+		<pubDate>Fri, 22 Mar 2013 08:36:09 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[22.03.2013]]></category>
+		<category><![CDATA[cs_militia]]></category>
+		<category><![CDATA[cs_militia only]]></category>
+		<category><![CDATA[csgo update]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[geiseln]]></category>
+		<category><![CDATA[hostage]]></category>
+		<category><![CDATA[hostages]]></category>
+		<category><![CDATA[neues update]]></category>
+		<category><![CDATA[neuestes update]]></category>
+		<category><![CDATA[rescue kit]]></category>
+
+		<guid isPermaLink="false">/?p=1216</guid>
+		<description><![CDATA[Das Update &#8211; Here it is! Heute Nacht erschien ein vergleichbar großes CS:GO Counter-Strike Global Update heraus. In der Vergangenheit waren es eher kleinere Bugfixe aber mit diesem 197.5 MB Update kommen nun sichtbare&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3 style="text-align: center"><a href="/wp-content/uploads/sites/2/2013/03/csgo_cs_militia.jpg"><img class="alignnone size-full wp-image-1223" title="csgo_cs_militia" src="/wp-content/uploads/sites/2/2013/03/csgo_cs_militia.jpg" alt="" width="280" height="120" /></a></h3>
+<h3></h3>
+<h3>Das Update &#8211; Here it is!</h3>
+<p>Heute Nacht erschien ein vergleichbar großes CS:GO Counter-Strike Global Update heraus. In der Vergangenheit waren es eher kleinere Bugfixe aber mit diesem 197.5 MB Update kommen nun sichtbare Änderungen dazu.</p>
+<p>Was sofort auffällt ist natürlich das Hauptmenü welches im Vergleich zum Vorherigen eine komplett andere Anordnung hat. Wir wissen noch nicht so ganz ob es uns gefällt aber das wird wahrscheinlich nur Gewöhnungssache sein. Die Navigation wurde zum oberen Bildschirmrand verschoben. Dafür nehmen in der Mitte nun die Freundesliste und die News-Box den gesamten Platz ein.</p>
+<p><a href="/wp-content/uploads/sites/2/2013/03/csgo_neues_menue.jpg"><img class="alignnone size-medium wp-image-1217" title="csgo_neues_menue" src="/wp-content/uploads/sites/2/2013/03/csgo_neues_menue-300x168.jpg" alt="" width="300" height="168" /></a></p>
+<p>&nbsp;</p>
+<h3>cs_militia mit neuem Hostage Rescue Kit !</h3>
+<p>cs_militia ist  wieder da, Sie hat in CS:GO einige neue Texturen und Layouts bekommen und sieht jetzt richtig schick aus. Im folgenden Video welches auf Youtube bereits vor offiziellem Update Release veröffentlicht wurde findet ihr einen kurzen Überblick. Darüber hinaus gibt es jetzt auch die Möglichkeit durch das neue Hostage Rescue Kit die Hostages (Geiseln) innerhalb von einer Sekunde zu entfesseln. Ohne dieses Kit dauert es dagegen 5 Sekunden. Auch die Spielzeit wird verlängert wenn eine Geisel befreit wurde und sich auf dem Weg zum Rescue Point befindet. Darüber hinaus werden die Geiseln nur noch &#8222;Huckepack&#8220; sprich auf die Schultern genommen und dann durch die Map getragen.</p>
+<p>Aufgrund der hohen Nachfrage haben wir schon jetzt einen CS_Militia ONLY Server aufgesetzt welchen Ihr unter folgender IP findet:</p>
+<p>global-offensive.com:27015 [GER] cs_militia ONLY &#8211; by Global-Offensive.com</p>
+<p>&nbsp;</p>
+<p>Neben den Hauptänderungen wurde viele kleinere Änderungen vorgenommen welche Ihr aber selbst im Note lesen könnt:</p>
+<h3>CS:GO Update Release 21/3/2013</h3>
+<p>&#8211; Added new Hostage Rescue map cs_militia<br />
+&#8211; Update Hostage Rescue Mode rules<br />
+&#8211; Hostage positions are randomly assigned at the beginning of the match. The hostages will start at these positions for the entire match.<br />
+&#8211; Hostages are now carried by CTs instead of following behind.<br />
+&#8211; Hold +use for 4 seconds to pick up a hostage. (Equipping a rescue kit will decrease the time required to 1 second.)<br />
+&#8211; CTs win a round when the first hostage is rescued.<br />
+&#8211; Reduced round timer. Round time is extended when the first hostage has been picked up.<br />
+&#8211; Rebalanced money rewards to accommodate new rules.<br />
+&#8211; Hostages now indicate whether they are above or below you on the radar.<br />
+&#8211; cs_office, cs_assault, and cs_italy have updated to use random hostage spawn points.<br />
+&#8211; Added convars to modify new hostage rules<br />
+&#8212; mp_hostages_max &#8211; Sets the maximum number of hostages to spawn.<br />
+&#8212; mp_hostages_rescuetime &#8211; Setting 0 removes the time extension when CTs pick up the first hostage.<br />
+&#8212; mp_hostages_spawn_farthest &#8211; Setting 1 forces hostage spawn points to choose be the farthest possible combinations.<br />
+&#8212; mp_hostages_spawn_force_positions &#8211; Setting a comma separate list (ex: 0,2 ) forces specific hostage spawn point combinations.<br />
+&#8212; mp_hostages_spawn_same_every_round &#8211; Setting 0 randomizes the hostage spawn points every round.<br />
+&#8212; mp_hostages_takedamage &#8211; Setting 0 allows hostages to be hurt.<br />
+&#8211; Added hostage entity properties for new hostage rules<br />
+&#8212; HostageSpawnRandomFactor &#8211; Allows to increase probability of hostage random spawning rules to use that spawn point.<br />
+&#8212; HostageSpawnExclusionGroupN &#8211; Hostages sharing same spawn exclusion group will never spawn together.<br />
+&#8211; The action of defusing a bomb will now terminate when you turn your view too far from facing the bomb.<br />
+&#8211; Players always play a quiet client-side jump sound that can only be heard by the jumper.<br />
+&#8211; Players play the regular jump (step) sound when moving greater than walk speed that can be heard by both the jumper and all clients in earshot.<br />
+&#8211; The timer that performs the random map selection visuals now properly gets killed when the scoreboard hides.<br />
+&#8211; Fixed convar mp_weapons_allow_map_place not properly eliminating map-placed weapons. NOTE: FY servers will need to set this convar to 1.<br />
+&#8211; Added an option to func_dustmotes entity volumes that lets them choose to not be affected by wind.<br />
+&#8211; Fixed in-game clipping for triple-monitor rendering configurations.<br />
+&#8211; Added overtime indicator to GOTV spectators miniscoreboard.<br />
+&#8211; Radar should now correctly follow spectated player when spectating via GOTV.<br />
+&#8211; Adjusted score and MVP rewards for gameplay events related to planting, defending and defusing the bomb, and for reaching, protecting and extracting hostages.<br />
+&#8211; Steam overlay game details will now correctly show players score.<br />
+&#8211; Fixed special characters of player name not correctly displaying in some UI elements.<br />
+&#8211; Fixed a bug where friends were banned from joining parties where one of the members failed to recently accept a competitive match.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/groses-csgo-update-jetzt-neues-menu-cs_militia-und-rescue-kit-am-start/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

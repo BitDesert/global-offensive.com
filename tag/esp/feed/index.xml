@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>esp &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/esp/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>esp &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS: GO Neues Anticheat Tool Overwatch in Beta Phase! Fragen und Antworten! Teilnehmen!</title>
+		<link>/cs-go-neues-anticheat-tool-overwatch-in-beta-phase/</link>
+		<comments>/cs-go-neues-anticheat-tool-overwatch-in-beta-phase/#respond</comments>
+		<pubDate>Fri, 24 May 2013 23:17:50 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Overwatch]]></category>
+		<category><![CDATA[aimbit]]></category>
+		<category><![CDATA[Aimbot]]></category>
+		<category><![CDATA[anti cheat]]></category>
+		<category><![CDATA[beta]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[esp]]></category>
+		<category><![CDATA[faq]]></category>
+		<category><![CDATA[fragen]]></category>
+		<category><![CDATA[how to]]></category>
+		<category><![CDATA[Organner]]></category>
+		<category><![CDATA[orpfer]]></category>
+		<category><![CDATA[overwatch]]></category>
+		<category><![CDATA[phase]]></category>
+		<category><![CDATA[was ist overwatch]]></category>
+
+		<guid isPermaLink="false">/?p=1529</guid>
+		<description><![CDATA[Neues Anticheat? Vor wenigen Tagen wurde ein kleines Update zu Counter-Strike Global-Offensive herausgebracht. In diesem Update wurde in der Changelog unter anderem das sogenannte &#8222;Overwatch&#8220; angesprochen. Viele haben sich wohl gedacht dass es nicht&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p><img class="aligncenter" alt="" src="http://cf.shacknews.com/images/20110826/csgo_screenshot8_19183.nphd.jpg" width="620" height="332" /></p>
+<h3>Neues Anticheat?</h3>
+<p>Vor wenigen Tagen wurde ein kleines Update zu Counter-Strike Global-Offensive herausgebracht. In diesem Update wurde in der Changelog unter anderem das sogenannte &#8222;Overwatch&#8220; angesprochen. Viele haben sich wohl gedacht dass es nicht wichtiges sein wird oder haben es direkt überlesen.</p>
+<p>Aber dennoch, mit Overwatch hat Valve ein neues System eingeführt, das gegen betrügende und negativ auffallende Spieler helfen soll. Die Idee dahinter ist, dass die Community in die Rolle der Richter schlüpft und zukünftig den Hammer schwingt. Overwatch befindet sich vorerst in der Beta, wir haben aber alle Informationen dazu füreuch bereits zusammengetragen.</p>
+<h3>Wie funktioniert Overwatch?</h3>
+<p>Overwatch baut auf: &#8222;Spieler beurteilen Spieler&#8220;.  Sind Meldungen über einen Spieler vorhanden, die den Durchschnitt übertreffen, dann wird durch Overwatch automatisch ein Fall eröffnet der dann von einem gewählten Prüfer bearbeitet wird. Anhand von Replays wird der Fall entsprechend begutachtet. Kommt es zu einem eindeutigen Schuldspruch der teilnehmenden Prüfer, dann wird der beschuldigte Spieler mit einem temporären Bann bestraft.</p>
+<p>Wer jetzt denkt, dass dieses System einfach missbraucht werden kann, dem sei gesagt, dass das ganze natürlich durchdacht ist und noch mehr dahinter steckt. Die Prüfer werden unter bestimmten Voraussetzungen ausgesucht und nach ihrem Urteilsvermögen eingestuft. Wie genau das funktioniert, haben wir in einem ausführlichen Artikel für euch niedergeschrieben. Darauf solltet ihr auf jeden Fall einen Blick werfen, wenn ihr euch genauer über das neue Overwatch System informieren wollt.</p>
+<h3>Hier die FAQ zu Overwatch übersetzt von cs.ingame.de</h3>
+<h3><span style="font-size: 1em">Was ist Overwatch?</span></h3>
+<p>Overwatch lässt die CS:GO Community sich selbst regulieren, indem qualifizierten und erfahrenen Mitgliedern der Community (“Prüfer”) ermöglicht wird Meldungen von störendem Verhalten zu überprüfen, um zu entscheiden, ob diese Meldungen berechtigt sind und einen temporären Bann zu verhängen, falls es angemessen ist.</p>
+<h4>Wie funktioniert Overwatch?</h4>
+<p>Potentielle Overwatch Prüfer werden mit einem aktiven Overwatch Button im Hauptmenü ausgestattet, der anzeigt, dass es einen ausstehenden Fall zu bewerten gibt. Die Prüfer können sich dann dazu entscheiden teilzunehmen, indem sie ein Replay ansehen (acht Runden oder ungefähr zehn Minuten) und ein Urteil fällen.</p>
+<h4>Wie werden Prüfer ausgewählt?</h4>
+<p>Prüfer werden ausgewählt basierend auf ihrer Aktivität in CS:GO (Competitive Siege, Alter des Accounts, Spielstunden, Skill Group, niedrige Reportrate usw.) und falls zutreffend vorheriger Overwatch Teilnahme und Punktzahl (ein Resultat ihrer Genauigkeit als Prüfer). Community Mitglieder, die sowohl ein hohes Maß an Aktivität als auch eine hohe Overwatch Punktzahl aufweisen, erhalten mehr Fälle an denen sie teilnehmen können.</p>
+<h4>Welches Beweismaterial ist für Prüfer verfügbar?</h4>
+<p>Prüfer werden mit einem zufällig ausgewählten Acht-Runden-Segment vom Match eines beschuldigten Spielers ausgestattet und ihre Aufgabe ist es zu entscheiden, ob dieser Spieler während dem Replay ein Vergehen begangen hat oder nicht. Der Verdächtige wird als “The Suspect” gekennzeichnet und die Namen der anderen Spieler wurden ersetzt. Sämtlicher Text- und Voice-Chat wurde weggelassen. Vom Prüfer wird erwartet, dass er eine Entscheidung trifft, die einzig und allein auf den Aktionen des Verdächtigen beruht.</p>
+<h4>Wie kommt es dazu, dass ein Spieler von Overwatch geprüft wird?</h4>
+<p>Das System enthält Replays von Spielern, dessen Muster von Meldungen die von seinesgleichen übersteigt oder sich auf andere Art davon abhebt. Das kann eine plötzliche Spitze von Meldungen sein oder es können sich über eine längere Zeit viele Meldungen gesammelt haben. Zusätzlich kann ein Spieler in einem Testfall auftauchen, der zuvor als “Nicht schuldig” abgeschlossen wurde. Diese werden zufällig eingeschleust und nur dazu verwendet, um dem System zu helfen die Prüfer zu bewerten (das Urteil in Testfällen hat keine Auswirkung auf den Verdächtigen).</p>
+<h4>Was sind mögliche Urteile?</h4>
+<p>Die möglichen Urteile sind “Majorly Disruptive (cheating)” (Schweres Vergehen – Cheating), “Minorly Disruptive (griefing)” (Leichtes Vergehen – Spielbehinderung) und “Insufficent Evidence” (Ungenügende Beweise). Außerdem kann ein Prüfer ein Replay verschieben und es später neustarten ohne eine Entscheidung zu fällen.</p>
+<h4>Was passiert am Ende eines Falles?</h4>
+<p>Wenn das System feststellt, dass sich die gemeinsame Beurteilung der Prüfer einem überwiegenden Urteil nähert, dann wird der Fall geschlossen und alle Entscheidungen, die getroffen wurden, ergeben das finale Urteil. Wenn die Beurteilungen überwiegend “Ungenügende Beweise” ergeben oder ergebnislos sind, dann wird der Fall abgewiesen.</p>
+<h4>Kann ein Prüfer mit seiner Entscheidung mehr Gewicht haben als ein anderer?</h4>
+<p>Ja. Ein Urteil eines höher eingestuften Prüfers wird mehr Gewicht haben als das eines niedriger eingestuften Prüfers.</p>
+<h4>Wie werden Prüfer bewertet?</h4>
+<p>Die Overwatch Punktzahl spiegelt die Fähigkeit eines Prüfers wieder stetig und richtig die Fälle zu beurteilen die er überprüft, sowohl in echten als auch in Testfällen. Prüfer bekommen Punkte, wenn sie mit der Mehrheit der Urteile anderer Prüfer beim gleichen Replay übereinstimmen und verlieren Punkte, wenn sie zur Minderheit gehören. Die daraus resultierende Veränderung der Punktzahl ist größer, wenn die meisten Prüfer übereinstimmen und kleiner, wenn sie nicht übereinstimmen. Wegen den gelegentlich eingefügten Testfällen ist die einzige Möglichkeit seine Overwatch Punktzahl zu erhöhen, sich das komplette Review gründlich anzusehen und ein fundiertes und genaues Urteil über das vorliegende Beweismaterial zu treffen.</p>
+<h4>Was passiert während der Beta?</h4>
+<p>Während der Beta wird das System weniger Fälle herausgeben und die Ergebnisse werden überprüft und analysiert bevor irgendwelche Bans erteilt werden. Das System wird in Sachen Verlässlichkeit und Genauigkeit angepasst. Umso mehr das System eingestellt wird, desto mehr Fälle werden zum prüfen an immer mehr potentielle Prüfer verteilt und irgendwann wird das System von der Community betrieben.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/cs-go-neues-anticheat-tool-overwatch-in-beta-phase/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

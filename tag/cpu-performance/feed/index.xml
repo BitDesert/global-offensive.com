@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>cpu performance &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/cpu-performance/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>cpu performance &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Update: Individuelle Server Grafik und CPU Überwachung eingefügt (Update)</title>
+		<link>/csgo-update-individuelle-server-grafik-und-cpu-ueberwachung-eingefuegt-update/</link>
+		<comments>/csgo-update-individuelle-server-grafik-und-cpu-ueberwachung-eingefuegt-update/#comments</comments>
+		<pubDate>Thu, 24 Jul 2014 19:01:37 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[24.07.2014]]></category>
+		<category><![CDATA[cpu performance]]></category>
+		<category><![CDATA[cpu überwachung]]></category>
+		<category><![CDATA[leistungsprobleme]]></category>
+		<category><![CDATA[server grafik einfügen]]></category>
+		<category><![CDATA[update]]></category>
+
+		<guid isPermaLink="false">/?p=2744</guid>
+		<description><![CDATA[Server Grafik und CPU Überwachung Heute Nacht ist ein weiteres kleines Counter-Strike: Global-Offensive (CS:GO) Update (65 MB) erschienen. Im großen und Ganzen ist für die Spieler nicht atemberaubendes verändert worden. Aber für einige von&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Server Grafik und CPU Überwachung</h3>
+<p>Heute Nacht ist ein weiteres kleines Counter-Strike: Global-Offensive (CS:GO) Update (65 MB) erschienen. Im großen und Ganzen ist für die Spieler nicht atemberaubendes verändert worden. Aber für einige von euch eventuell doch interessant. Zum einen hat man als Serveradmin nun die Möglichkeit eine eigene Grafik auf dem Server zu setzen. Die Grafik ist von allen Zuschauern in der unteren Mitte zusehen.  Die Grafik sollte ein PNG File sein und darf darüber hinaus nicht größer als ca 16kb sein. Wer ein eigenes Logo auf dem Server setzen möchte, sollte die Grafik im /csgo/ Ordner ablegen und mit dem Befehl &#8222;sv_server_graphic LOGO.png&#8220; in die Konsole per Rcon ausführen.</p>
+<h3>CPU Performance messen</h3>
+<p>Zur CPU Performance lässt sich sagen, dass Spieler welche Probleme mit der Leistung des Rechners im Spiel haben, nun eine etwas einfache Möglichkeit haben den Fehler auf die CPU zu schieben. Solltet ihr im Spiel sein könnt ihr mit dem Befehl: &#8222;+cpu_frequency_monitoring&#8220; die Leistung der CPU im net_graph anzeigen. Sollte der Netgraph nicht aktiviert sein so müsst ihr diesen auch noch mit dem Befehl &#8222;net_graph 1&#8220; aktivieren.</p>
+<p>Die CPU Leistung sollte immer über 90% liegen. Ist diese unter 55% so könnt ihr die CPU in die Tonne treten und euch was vernünftiges kaufen. Eine starke Überhitzung der CPU (z.B. durch defekten Lüfter oder Kühlung) kann für solch eine Prozentzahl sorgen.</p>
+<p><strong>Hier ein Bild, die CPU Leistung findet ihr rechts unten:</strong></p>
+<p><img class="alignnone" src="http://i.imgur.com/Lifpa6j.jpg" alt="" width="1920" height="1080" /></p>
+<h3>Cache &amp; Insertion</h3>
+<p>Auf Cache wurde an mehreren Stellen die Beleuchtung und allgemein die Sichtbarkeit der Spielfiguren verbessert. Davon betroffen sind z.B. der Schacht und der Zugang zur oberen Ebene auf dem B-Spot. Auch ein paar kleinere Änderungen an den Schattenwürfen wurden in einigen Räumen durchgeführt.</p>
+<p>&nbsp;</p>
+<p>Hier die Update Log:</p>
+<h3 style="color: #000000">UI</h3>
+<ul style="color: #000000">
+<li>safezonex&#8217;s min value can now go as low as 0.28 with triple monitor setups and will allow a min value of 0.475 with double monitor setups.</li>
+<li>Added convar sv_server_graphic which allows the server to specify a 360&#215;60 px image file (must be 16k or smaller) in /csgo/ that will display in the spectator view. Supports PNG transparency.</li>
+<li>when the scoreboard is up, the radar will now switch to the square &#8222;overview&#8220; mode (disable with cl_radar_square_with_scoreboard, or in the Game Settings menu).</li>
+</ul>
+<h3 style="color: #000000">MISC</h3>
+<ul style="color: #000000">
+<li>Fixed a crash on round end/restart or player spawn if a player was parented to another entity that was cleaned up.</li>
+<li>Increased session communication buffer size to allow for up to 64-player sessions.</li>
+<li>Added experimental cpu_frequency_monitoring convar to detect thermal throttling. If you have CS:GO performance problems on Windows, add &#8222;+cpu_frequency_monitoring 2&#8220; to the CS:GO command line to see if CPU thermal throttling is an issue. If the displayed CPU frequency percentage drops below about 80-85% then you may have a problem with your CPU slowing down due to overheating. If it drops below 50-55% then you may have a serious problem. CPU overheating can be caused by overclocking, insufficient cooling, insufficient airflow, failing or dirty fans, or other causes. The CPU frequency results are displayed with cl_showfps or net_graph. For more detail see <a style="color: #336699" href="https://support.steampowered.com/kb_article.php?ref=2715-YIPD-6873">https://support.steampowered.com/kb_article.php?ref=2715-YIPD-6873</a></li>
+<li>Added engine_no_focus_sleep convar (default value 50 milliseconds), which controls the amount of time the engine sleeps per frame when the game is not in focus.</li>
+<li>Fixed incorrect material property on some breakable doors and scaffold models</li>
+</ul>
+<h3 style="color: #000000">SDK</h3>
+<ul style="color: #000000">
+<li>Added a few more location &#8222;Place Names&#8220; for use by level designers</li>
+</ul>
+<h3 style="color: #000000">CACHE</h3>
+<ul style="color: #000000">
+<li>Added solidity to gates in b halls and ct garage to allow for nade creativity.</li>
+<li>Improved readability in B heaven.</li>
+<li>Improved readability by quad.</li>
+<li>Improved lighting by forklift.</li>
+<li>Improved prop-consistency by quad by adding more rigid edges.</li>
+<li>Increased visibility in vent.</li>
+<li>Fixed missing texture issues.</li>
+<li>Fixed various lighting issues.</li>
+<li>Fixed texture translation issues.</li>
+<li>Added clipping to prevent an exploit boost.</li>
+<li>Slightly increased vent lighting.</li>
+<li>Minor but important change to shadowing in some rooms.</li>
+</ul>
+<h3 style="color: #000000">INSERTION</h3>
+<ul style="color: #000000">
+<li>Added fences/fallen trees/cliffs around the map to reduce the ammount of invisible walls.</li>
+<li>Added a small window above the backdoor in the barn.</li>
+<li>Added a big rock next to &#8222;SeaRock&#8220;.</li>
+<li>Minor gameplay tweaks.</li>
+<li>Optimized the villa (thanks to Glitchvid).</li>
+</ul>
+<p style="color: #000000">
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-update-individuelle-server-grafik-und-cpu-ueberwachung-eingefuegt-update/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

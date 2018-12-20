@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>hostage &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/hostage/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>hostage &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Großes CS:GO Update &#8211; Jetzt neues Menü, cs_militia und Rescue Kit am Start! Sattelt die Geiseln!</title>
+		<link>/groses-csgo-update-jetzt-neues-menu-cs_militia-und-rescue-kit-am-start/</link>
+		<comments>/groses-csgo-update-jetzt-neues-menu-cs_militia-und-rescue-kit-am-start/#respond</comments>
+		<pubDate>Fri, 22 Mar 2013 08:36:09 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[22.03.2013]]></category>
+		<category><![CDATA[cs_militia]]></category>
+		<category><![CDATA[cs_militia only]]></category>
+		<category><![CDATA[csgo update]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[geiseln]]></category>
+		<category><![CDATA[hostage]]></category>
+		<category><![CDATA[hostages]]></category>
+		<category><![CDATA[neues update]]></category>
+		<category><![CDATA[neuestes update]]></category>
+		<category><![CDATA[rescue kit]]></category>
+
+		<guid isPermaLink="false">/?p=1216</guid>
+		<description><![CDATA[Das Update &#8211; Here it is! Heute Nacht erschien ein vergleichbar großes CS:GO Counter-Strike Global Update heraus. In der Vergangenheit waren es eher kleinere Bugfixe aber mit diesem 197.5 MB Update kommen nun sichtbare&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3 style="text-align: center"><a href="/wp-content/uploads/sites/2/2013/03/csgo_cs_militia.jpg"><img class="alignnone size-full wp-image-1223" title="csgo_cs_militia" src="/wp-content/uploads/sites/2/2013/03/csgo_cs_militia.jpg" alt="" width="280" height="120" /></a></h3>
+<h3></h3>
+<h3>Das Update &#8211; Here it is!</h3>
+<p>Heute Nacht erschien ein vergleichbar großes CS:GO Counter-Strike Global Update heraus. In der Vergangenheit waren es eher kleinere Bugfixe aber mit diesem 197.5 MB Update kommen nun sichtbare Änderungen dazu.</p>
+<p>Was sofort auffällt ist natürlich das Hauptmenü welches im Vergleich zum Vorherigen eine komplett andere Anordnung hat. Wir wissen noch nicht so ganz ob es uns gefällt aber das wird wahrscheinlich nur Gewöhnungssache sein. Die Navigation wurde zum oberen Bildschirmrand verschoben. Dafür nehmen in der Mitte nun die Freundesliste und die News-Box den gesamten Platz ein.</p>
+<p><a href="/wp-content/uploads/sites/2/2013/03/csgo_neues_menue.jpg"><img class="alignnone size-medium wp-image-1217" title="csgo_neues_menue" src="/wp-content/uploads/sites/2/2013/03/csgo_neues_menue-300x168.jpg" alt="" width="300" height="168" /></a></p>
+<p>&nbsp;</p>
+<h3>cs_militia mit neuem Hostage Rescue Kit !</h3>
+<p>cs_militia ist  wieder da, Sie hat in CS:GO einige neue Texturen und Layouts bekommen und sieht jetzt richtig schick aus. Im folgenden Video welches auf Youtube bereits vor offiziellem Update Release veröffentlicht wurde findet ihr einen kurzen Überblick. Darüber hinaus gibt es jetzt auch die Möglichkeit durch das neue Hostage Rescue Kit die Hostages (Geiseln) innerhalb von einer Sekunde zu entfesseln. Ohne dieses Kit dauert es dagegen 5 Sekunden. Auch die Spielzeit wird verlängert wenn eine Geisel befreit wurde und sich auf dem Weg zum Rescue Point befindet. Darüber hinaus werden die Geiseln nur noch &#8222;Huckepack&#8220; sprich auf die Schultern genommen und dann durch die Map getragen.</p>
+<p>Aufgrund der hohen Nachfrage haben wir schon jetzt einen CS_Militia ONLY Server aufgesetzt welchen Ihr unter folgender IP findet:</p>
+<p>global-offensive.com:27015 [GER] cs_militia ONLY &#8211; by Global-Offensive.com</p>
+<p>&nbsp;</p>
+<p>Neben den Hauptänderungen wurde viele kleinere Änderungen vorgenommen welche Ihr aber selbst im Note lesen könnt:</p>
+<h3>CS:GO Update Release 21/3/2013</h3>
+<p>&#8211; Added new Hostage Rescue map cs_militia<br />
+&#8211; Update Hostage Rescue Mode rules<br />
+&#8211; Hostage positions are randomly assigned at the beginning of the match. The hostages will start at these positions for the entire match.<br />
+&#8211; Hostages are now carried by CTs instead of following behind.<br />
+&#8211; Hold +use for 4 seconds to pick up a hostage. (Equipping a rescue kit will decrease the time required to 1 second.)<br />
+&#8211; CTs win a round when the first hostage is rescued.<br />
+&#8211; Reduced round timer. Round time is extended when the first hostage has been picked up.<br />
+&#8211; Rebalanced money rewards to accommodate new rules.<br />
+&#8211; Hostages now indicate whether they are above or below you on the radar.<br />
+&#8211; cs_office, cs_assault, and cs_italy have updated to use random hostage spawn points.<br />
+&#8211; Added convars to modify new hostage rules<br />
+&#8212; mp_hostages_max &#8211; Sets the maximum number of hostages to spawn.<br />
+&#8212; mp_hostages_rescuetime &#8211; Setting 0 removes the time extension when CTs pick up the first hostage.<br />
+&#8212; mp_hostages_spawn_farthest &#8211; Setting 1 forces hostage spawn points to choose be the farthest possible combinations.<br />
+&#8212; mp_hostages_spawn_force_positions &#8211; Setting a comma separate list (ex: 0,2 ) forces specific hostage spawn point combinations.<br />
+&#8212; mp_hostages_spawn_same_every_round &#8211; Setting 0 randomizes the hostage spawn points every round.<br />
+&#8212; mp_hostages_takedamage &#8211; Setting 0 allows hostages to be hurt.<br />
+&#8211; Added hostage entity properties for new hostage rules<br />
+&#8212; HostageSpawnRandomFactor &#8211; Allows to increase probability of hostage random spawning rules to use that spawn point.<br />
+&#8212; HostageSpawnExclusionGroupN &#8211; Hostages sharing same spawn exclusion group will never spawn together.<br />
+&#8211; The action of defusing a bomb will now terminate when you turn your view too far from facing the bomb.<br />
+&#8211; Players always play a quiet client-side jump sound that can only be heard by the jumper.<br />
+&#8211; Players play the regular jump (step) sound when moving greater than walk speed that can be heard by both the jumper and all clients in earshot.<br />
+&#8211; The timer that performs the random map selection visuals now properly gets killed when the scoreboard hides.<br />
+&#8211; Fixed convar mp_weapons_allow_map_place not properly eliminating map-placed weapons. NOTE: FY servers will need to set this convar to 1.<br />
+&#8211; Added an option to func_dustmotes entity volumes that lets them choose to not be affected by wind.<br />
+&#8211; Fixed in-game clipping for triple-monitor rendering configurations.<br />
+&#8211; Added overtime indicator to GOTV spectators miniscoreboard.<br />
+&#8211; Radar should now correctly follow spectated player when spectating via GOTV.<br />
+&#8211; Adjusted score and MVP rewards for gameplay events related to planting, defending and defusing the bomb, and for reaching, protecting and extracting hostages.<br />
+&#8211; Steam overlay game details will now correctly show players score.<br />
+&#8211; Fixed special characters of player name not correctly displaying in some UI elements.<br />
+&#8211; Fixed a bug where friends were banned from joining parties where one of the members failed to recently accept a competitive match.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/groses-csgo-update-jetzt-neues-menu-cs_militia-und-rescue-kit-am-start/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

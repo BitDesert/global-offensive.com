@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>de_season &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/de_season/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>de_season &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Trick-Smokes – Sehr hilfreiche Smoke Granaten auf de_season</title>
+		<link>/csgo-trick-smokes-sehr-hilfreiche-smoke-granaten-auf-de_season/</link>
+		<comments>/csgo-trick-smokes-sehr-hilfreiche-smoke-granaten-auf-de_season/#comments</comments>
+		<pubDate>Sun, 16 Nov 2014 18:07:32 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Granaten]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Video Guides]]></category>
+		<category><![CDATA[de_season]]></category>
+		<category><![CDATA[rauchgranaten]]></category>
+		<category><![CDATA[smoke]]></category>
+
+		<guid isPermaLink="false">/?p=3046</guid>
+		<description><![CDATA[Gute Rauchgranaten auf de_season In diesem Video werden euch einige sehr hilfreich und nicht all zu schwere Smoke Würfe gezeigt. Verwendet dieses Smokes im Matchmaking und ihr besitzt vor allem auf der CT Site&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Gute Rauchgranaten auf de_season</h3>
+<p>In diesem Video werden euch einige sehr hilfreich und nicht all zu schwere Smoke Würfe gezeigt. Verwendet dieses Smokes im Matchmaking und ihr besitzt vor allem auf der CT Site einige Vorteile.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-trick-smokes-sehr-hilfreiche-smoke-granaten-auf-de_season/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

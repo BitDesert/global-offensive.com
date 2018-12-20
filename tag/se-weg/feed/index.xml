@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>se weg &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/se-weg/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>se weg &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Workshop maps abonnieren</title>
+		<link>/de_dust2_se-download-esl-map-workshopmaps-abonnieren/</link>
+		<comments>/de_dust2_se-download-esl-map-workshopmaps-abonnieren/#respond</comments>
+		<pubDate>Sat, 23 Feb 2013 19:05:57 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[dust2_se]]></category>
+		<category><![CDATA[esl maps]]></category>
+		<category><![CDATA[esl se map]]></category>
+		<category><![CDATA[map konnte nicht gefunden werden]]></category>
+		<category><![CDATA[se karten]]></category>
+		<category><![CDATA[se laden]]></category>
+		<category><![CDATA[se maps]]></category>
+		<category><![CDATA[se weg]]></category>
+
+		<guid isPermaLink="false">/?p=1006</guid>
+		<description><![CDATA[Da bei uns täglich sehr viele Anfragen bezüglich der se maps eintreffen, dachten wir uns hier noch mal einen Beitrag zu schreiben. Grund ist das letzte Update, welches die workshopmaps ins Leben gerufen hat.&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Da bei uns täglich sehr viele Anfragen bezüglich der se maps eintreffen, dachten wir uns hier noch mal einen Beitrag zu schreiben. Grund ist das letzte Update, welches die workshopmaps ins Leben gerufen hat. Wie könnt ihr nun also dust2_se downloaden und spielen?</p>
+<p>Besucht zunächst folgende Seite in eurem Browser <a title="Workshopmaps" href="http://steamcommunity.com/sharedfiles/filedetails/?id=125499818" target="_blank">Link </a>.</p>
+<p>Dort landet ihr auf der offiziellen Kollektion der Workshopmaps von csgo. Klickt nun auf  &#8222;alle abonnieren&#8220; über den einzelnen Maps. Nun müsst ihr euch mit eurem Steamprofil anmelden, sofern ihr das nicht über den Steam eigenen Browser geöffnet habt. Nun solltet ihr alle se Maps mit eurem Profil verknüpft haben. Um sicherzugehen das alles geklappt hat, schließt Steam noch einmal komplett und startet es neu. Wenn ihr jetzt CSGO öffnet, müsste in der Console eine blaue Schrift angezeigt sein, die euch die se maps bestätigt.</p>
+<p>Das wars! Nun solltet ihr auf jeden Server connecten können. Wenn ihr die map auf beispielsweise de_dust2_se wechseln wollt, lest dies einfach in <a title="SE_Maps" href="/anleitung-csgo-workshop-se_maps-so-funktionierts/" target="_blank">diesem post </a> von uns noch einmal nach.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/de_dust2_se-download-esl-map-workshopmaps-abonnieren/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

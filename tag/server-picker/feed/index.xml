@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>server picker &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/server-picker/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>server picker &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Matchmaking Server Picker Software &#8211; Keine Russen, Polen&#8230; und schlechten Pings mehr etc. [Software]</title>
+		<link>/csgo-matchmaking-server-picker-software-keine-russen-polen-und-schlechten-pings-mehr-etc-software/</link>
+		<comments>/csgo-matchmaking-server-picker-software-keine-russen-polen-und-schlechten-pings-mehr-etc-software/#comments</comments>
+		<pubDate>Mon, 13 Oct 2014 17:31:07 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[matchmaking]]></category>
+		<category><![CDATA[server picker]]></category>
+		<category><![CDATA[software]]></category>
+
+		<guid isPermaLink="false">/?p=2893</guid>
+		<description><![CDATA[Mit dem Matchamking Server Picker 1.7 nur noch auf guten Servern spielen Ihr kennt das Problem, Steam verbindet euch zu wirklich miserablen Server und als Krönung ist das ganze Team voller aggressiver Russen welche&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Mit dem Matchamking Server Picker 1.7 nur noch auf guten Servern spielen</h3>
+<p>Ihr kennt das Problem, Steam verbindet euch zu wirklich miserablen Server und als Krönung ist das ganze Team voller aggressiver Russen welche die von Anfang an dicht &#8222;flamen&#8220;. Wir wollen hier kein Hass gegen Russen schüren, allerdings ist es allgemein bekannt, dass die Russischen Freunde in CS:GO etwas schneller unter die Decke gehen als andere. Um diese Umstände und das Verbinden zu schlechten Servern mit schlechten Pingzeiten zu verhindern, wurde nun von Gamebanana.com ein Tool veröffentlicht, welches euch erlaubt die Server aus Asien, Amerika etc. zu blocken. Somit können Ihr ziemlich granular festlegen, auf was für Server ihr Spielen wollt. Durch das kleine Programm werden durch die Firewall entsprechende Matchmaking Server geblockt.</p>
+<p>Hier der Download</p>
+<p>[infobox color=&#8220;blue&#8220;]<a href="http://ds-servers.com/gbh/gb903/tools/361/mmserverpicker_1_7.zip?hl=US">DOWNLOAD LINK für Matchmaking-Server-Picker</a> (Als Administrator ausführen)[/infobox]</p>
+<h4> Hier ein kurzes Video wie das Programm funktioniert</h4>
+<p>Dieses Programm wirbt mit:</p>
+<p>&nbsp;</p>
+<ul>
+<li style="color: #1e90ff;font-size: small;font-family: tahoma">People who don&#8217;t want to play on the Russian servers, and rather play on the EU West servers where more people speak English and there are far less Russians (Russians get close to 100ms on EU West).</li>
+<li style="color: #1e90ff;font-size: small;font-family: tahoma">Players living in South America who aren&#8217;t Brazilian, and want to play with people who speak English on the American servers.</li>
+<li style="color: #1e90ff;font-size: small;font-family: tahoma">Australian players who want to play at down time and can&#8217;t find any games. They can block the Aus servers and play on the Asian ones with 100ms ping.</li>
+<li style="color: #1e90ff;font-size: small;font-family: tahoma">People like me who don&#8217;t mind 300 ping and like to visit new servers every now and then.</li>
+<li style="color: #1e90ff;font-size: small;font-family: tahoma">People in India and UAE and other countries who want to play on other servers rather than play on the hackfest that is the Dubai servers, you can block Dubai using this program. (valve locks you to the dubai servers if you have under 80ms ping to them)</li>
+</ul>
+<p>[infobox color=&#8220;yellow&#8220;]<a href="http://csgo.gamebanana.com/tools/5684">Solltet ihr Fehler beim öffnen erhalten, bitte hier KLICKEN</a>[/infobox]</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-matchmaking-server-picker-software-keine-russen-polen-und-schlechten-pings-mehr-etc-software/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

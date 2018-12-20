@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Plugins &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/category/csgo-server-guide/plugins/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>Plugins &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Mapwechsel von Workshop Maps &#8211; Neuer Befehl: changelevel2 [Server]</title>
+		<link>/csgo-mapwechsel-von-workshop-maps-neuer-befehl-changelevel2-server/</link>
+		<comments>/csgo-mapwechsel-von-workshop-maps-neuer-befehl-changelevel2-server/#comments</comments>
+		<pubDate>Mon, 02 Sep 2013 10:51:34 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Plugins]]></category>
+		<category><![CDATA[Server Administration]]></category>
+		<category><![CDATA[_se maps]]></category>
+		<category><![CDATA[administration]]></category>
+		<category><![CDATA[changelevel2]]></category>
+		<category><![CDATA[Map]]></category>
+		<category><![CDATA[map wechseln]]></category>
+		<category><![CDATA[rcon]]></category>
+		<category><![CDATA[Workshop]]></category>
+
+		<guid isPermaLink="false">/?p=1802</guid>
+		<description><![CDATA[Workshop maps auf dem CS:GO Server laden Seit dem letzten Update verzeichnen wir hohen Traffic auf die Suchbegriffe &#8222;Workshop Maps wechseln&#8220;. In der Tat wurde in dem Arms Update von Counter-Strike: Global-Offensive etwas geändert&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Workshop maps auf dem CS:GO Server laden</h3>
+<p>Seit dem letzten Update verzeichnen wir hohen Traffic auf die Suchbegriffe &#8222;Workshop Maps wechseln&#8220;. In der Tat wurde in dem Arms Update von Counter-Strike: Global-Offensive etwas geändert was nun das wechseln der _se maps über den alten Befehl &#8222;host_workshop_map ID&#8220; nicht mehr möglich macht. Der Befehl dient lediglich dazu die _se maps auf den Server zu laden, sprich der CS:GO Server läd sich die Datei aus dem Workshop. Man kann jetzt jedoch vergeblich darauf warten dass diese Map auch geladen wird.</p>
+<p>Absofort müsst ihr den etwas komplizierteren Weg mit changelevel2 gehen.</p>
+<h3>Wir haben euch die Befehle für die aktuellen Workshop-Maps mal als Alias hinterlegt, diese einfach in eure Config.cfg im CS:GO cfg Verzeichnis am Ende einfügen:</h3>
+<p>alias &#8222;dust&#8220; &#8222;rcon changelevel2 workshop125498851de_dust_se&#8220;</p>
+<p>alias &#8222;dust2&#8220; &#8222;rcon changelevel2 workshop125488374de_dust2_se&#8220;<br />
+alias &#8222;inferno&#8220; &#8222;rcon changelevel2 workshop125499116de_inferno_se&#8220;<br />
+alias &#8222;nuke&#8220; &#8222;rcon changelevel2 workshop125498553de_nuke_se&#8220;<br />
+alias &#8222;train&#8220; &#8222;rcon changelevel2 workshop125498231de_train_se&#8220;<br />
+alias &#8222;mirage&#8220; &#8222;rcon changelevel2 workshop123769103de_mirage_ce&#8220;<br />
+alias &#8222;mill&#8220; &#8222;rcon changelevel2 workshop125620805de_mill_&#8220;<br />
+alias &#8222;cache&#8220; &#8222;rcon changelevel2 workshop125670041de_cache&#8220;</p>
+<p>Nun müsst ihr euch nur noch am server mit rcon_password DEM_RCON_PASSWORT anmelden und anschließend für die map de_dust2_se, &#8222;dust2&#8220; in die console eingeben. Die Map wird nun gewechselt.</p>
+<p>Sollte der Server melden dass die Map nicht auf dem Server vorhanden ist, müsst ihr vorher diese mit dem Befehle (hier als Beispiel für de_dust2_se) &#8222;host_workshop_map 1254988651&#8220; eingeben. Der Server gibt dann eine Nachricht aus dass die Map von Steam heruntergeladen wird.</p>
+<p><strong>Oder alternativ direkt über die Console mit: </strong></p>
+<p>rcon changelevel2 workshop125488374de_dust2_se</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-mapwechsel-von-workshop-maps-neuer-befehl-changelevel2-server/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Metamod und Sourcemod auf CS:GO Server installieren [Video Anleitung]</title>
+		<link>/metamod-und-sourcemod-auf-csgo-server-installieren-video-anleitung/</link>
+		<comments>/metamod-und-sourcemod-auf-csgo-server-installieren-video-anleitung/#respond</comments>
+		<pubDate>Thu, 06 Jun 2013 15:46:28 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Plugins]]></category>
+		<category><![CDATA[Anleitung]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[hlstatsx]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[metamod]]></category>
+		<category><![CDATA[sourcemod]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[video]]></category>
+		<category><![CDATA[video guide]]></category>
+		<category><![CDATA[windows]]></category>
+		<category><![CDATA[zombie mod]]></category>
+
+		<guid isPermaLink="false">/?p=1670</guid>
+		<description><![CDATA[Wie installiere Sourcemod und Metamod auf dem CS:GO Server? Metamod und Sourcemod sind wohl die wichtigsten bzw. sinnvollsten Plugins für einen Counter-Strike: Global-Offensive (CS:GO) Server. Sowohl auf Linux als auch auf Windows XP, Windows&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Wie installiere Sourcemod und Metamod auf dem CS:GO Server?</h3>
+<p>Metamod und Sourcemod sind wohl die wichtigsten bzw. sinnvollsten Plugins für einen Counter-Strike: Global-Offensive (CS:GO) <strong>Server.</strong> Sowohl auf <strong>Linux</strong> als auch auf <strong>Windows XP</strong>, <strong>Windows 7</strong> und<strong> 8</strong> laufen die Plugins.</p>
+<p>Jeder der einen CS:GO Gameserver betreibt oder einen betreiben möchte, sollte sich diese 2 Plugins auf seinem Server installieren. Nicht nur eine einfache Menüführung sondern auch eine damit verbundene Möglichkeit viele weitere Plugins wie HLstatsX, Zombie Mod etc. können dann einfach installiert werden.</p>
+<p>Hier die Video Anleitung.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/metamod-und-sourcemod-auf-csgo-server-installieren-video-anleitung/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Chicken Defusal Mod [Video]</title>
+		<link>/csgo-chicken-defusal-mod-video/</link>
+		<comments>/csgo-chicken-defusal-mod-video/#respond</comments>
+		<pubDate>Mon, 15 Oct 2012 17:21:45 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Plugins]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[Chicken]]></category>
+		<category><![CDATA[Defusal Mod]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[Downloadlink]]></category>
+		<category><![CDATA[Installation]]></category>
+		<category><![CDATA[Installationsanleitung]]></category>
+
+		<guid isPermaLink="false">/?p=486</guid>
+		<description><![CDATA[Seit kurzer Zeit schwirren mehrere Videos zum Thema &#8222;CS:GO Chicken Defusal Mod&#8220; bei Youtube und anderen Videoportalen herum. Bei dem Chicken Defusal Mod ist einem Huhn die Bombe auf den Rücken geschnallt und die Spieler&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Seit kurzer Zeit schwirren mehrere Videos zum Thema &#8222;CS:GO Chicken Defusal Mod&#8220; bei Youtube und anderen Videoportalen herum. <br />Bei dem Chicken Defusal Mod ist einem Huhn die Bombe auf den Rücken geschnallt und die Spieler müssen versuchen die Bombe auf dem Rücken des Huhns zu entschärfen. Dies ist kein leichtes Unterfangen denn das Huhn ist ja wie gewohnt recht schnell auf seinen Beinchen unterwegs und schlägt dazu noch wirklich fiese Harken.  </p>
+<p>Unsere Recherchen haben ergeben dass zur Zeit noch kein Download existiert und noch an dem Mod gearbeitet wird. Sobald er öffentlich ist werdet ihr Ihn hier natürlich downloaden können. Wir halten euch auf dem Laufenden.</p>
+<p>Einen Vorgeschmack auf den &#8222;CS:GO Chicken Defusal Mod&#8220; findet ihr in diesem Video vom User &#8222;machinimarespawn&#8220;:</p>
+<p>&nbsp;</p>
+<p> </p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-chicken-defusal-mod-video/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Server absturz ab 5 Playern, CS:GO Serverprobleme</title>
+		<link>/server-disconnect-bei-5-playern-hangt-sich-auf-csgo-serverprobleme/</link>
+		<comments>/server-disconnect-bei-5-playern-hangt-sich-auf-csgo-serverprobleme/#respond</comments>
+		<pubDate>Sat, 13 Oct 2012 14:51:35 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Plugins]]></category>
+		<category><![CDATA[Server Administration]]></category>
+		<category><![CDATA[Bug]]></category>
+		<category><![CDATA[Disconnect]]></category>
+		<category><![CDATA[Server disconnect]]></category>
+		<category><![CDATA[Server Probleme]]></category>
+		<category><![CDATA[Serverbug]]></category>
+		<category><![CDATA[Serverprobleme]]></category>
+
+		<guid isPermaLink="false">/?p=261</guid>
+		<description><![CDATA[Server disconnect bei mehr als 5 Playern – CS:GO Serverprobleme: Um den in der Überschrift genannten Bug zu beheben, überprüft ihr zunächst alle Plugnis auf eurem Server. In den meisten Fällen ist das ESL Server&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Server disconnect bei mehr als 5 Playern – CS:GO Serverprobleme:<br />
+Um den in der Überschrift genannten Bug zu beheben, überprüft ihr zunächst alle Plugnis auf eurem Server. In den meisten Fällen ist das ESL Server Plugin CS:GO für den Serverausfall verantwortlich. Ihr findet das Plugin unter cstrike/addons auf dem FTP Server. Löscht / deaktiviert das Plugin.</p>
+<p>Um zu schauen ob alle Plugins deaktiviert sind / zu schauen welche Plugins noch laufen könnt ihr mit dem Konsolenbefehl &#8222;plugin_print&#8220; auslesen. Dieser zeigt euch dann beispielsweise folgendes an:</p>
+<p>16:46:50 plugin_print<br />
+16:46:50 Loaded plugins:<br />
+&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;<br />
+0:&lt;TAB&gt;&#8220;Metamod:Source 1.9.0&#8243;<br />
+&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;<br />
+16:46:50 L 10/13/2012 &#8211; 16:46:46: rcon from &#8222;XXXXXXXXX&#8220;: command &#8222;plugin_print&#8220;</p>
+<p>In diesem Fall läuft also nur der Metamod auf unserem Server.</p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/server-disconnect-bei-5-playern-hangt-sich-auf-csgo-serverprobleme/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sourcemod Adminbefehle</title>
+		<link>/sourcemod-adminbefehle/</link>
+		<comments>/sourcemod-adminbefehle/#comments</comments>
+		<pubDate>Sat, 13 Oct 2012 12:31:00 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Plugins]]></category>
+		<category><![CDATA[Server Administration]]></category>
+		<category><![CDATA[Adminbefehle]]></category>
+		<category><![CDATA[Konsolenbefehle]]></category>
+		<category><![CDATA[rcon]]></category>
+		<category><![CDATA[Serverbefehle]]></category>
+
+		<guid isPermaLink="false">/?p=213</guid>
+		<description><![CDATA[Sourcemod ist ein sehr starkes und sinnvolles Plugin. Gerade auf Public Servern kann mit diesem Plugin schon einiges &#8222;gesteuert&#8220; werden. Oft ist beim Serveranbieter selber das Plugin über ein Webinterface ganz eleganz und einfach&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Sourcemod ist ein sehr starkes und sinnvolles Plugin.<br />
+Gerade auf Public Servern kann mit diesem Plugin schon einiges &#8222;gesteuert&#8220; werden.<br />
+<br />
+<img class="aligncenter" title="Sourcemod Logo" src="http://www.sourcemod.net/sourcemod-site-bounded.png" alt="" width="393" height="60" /><br />
+<br />
+Oft ist beim Serveranbieter selber das Plugin über ein Webinterface ganz eleganz und einfach zu installieren. Sollte das nicht der Fall sein oder ihr hostet den Server selber, findet hier unter folgenden Link das Sourcemod-Paket: <a href="http://www.sourcemod.net/downloads.php">http://www.sourcemod.net/downloads.php</a></p>
+<p>Hier alle Kommandos die per rcon console ingame ausgeführt werden können&#8230;.<span id="more-213"></span></p>
+<p><strong>Standardbefehle:</strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td><strong>Befehl</strong></td>
+<td><strong>Recht</strong></td>
+<td><strong>Beschreibung</strong></td>
+<td><strong>Beispiel</strong></td>
+</tr>
+<tr>
+<td>sm_addban</td>
+<td>rcon (m)</td>
+<td>Fügt Spieler der Banliste hinzu</td>
+<td>sm_addban 0 STEAM_0:1:23456 Cheater</td>
+</tr>
+<tr>
+<td>sm_admin</td>
+<td>admin (b)</td>
+<td>Öffnet das Adminmenü</td>
+<td>sm_admin</td>
+</tr>
+<tr>
+<td>sm_ban</td>
+<td>ban (d)</td>
+<td>Bannt einen Spieler</td>
+<td>sm_ban #userID 0 Cheater</td>
+</tr>
+<tr>
+<td>sm_banip</td>
+<td>rcon (m)</td>
+<td>Bannt einen Spieler über die IP</td>
+<td>sm_banip IP 0 Cheater</td>
+</tr>
+<tr>
+<td>sm_cancelvote</td>
+<td>vote (k)</td>
+<td>Bricht jeden aktiven Vote ab</td>
+<td>sm_cancelvote</td>
+</tr>
+<tr>
+<td>sm_cvar</td>
+<td>cvar (h)</td>
+<td>Das Recht Cvars zu ändern</td>
+<td>sm_cvar mp_timelimit 10</td>
+</tr>
+<tr>
+<td>sm_execcfg</td>
+<td>config (i)</td>
+<td>Das Recht configs auszuführen</td>
+<td>sm_execcfg 5on5.cfg</td>
+</tr>
+<tr>
+<td>sm_help</td>
+<td>admin (b)</td>
+<td>Zeigt eine Hilfe zu den Befehlen</td>
+<td>sm_help</td>
+</tr>
+<tr>
+<td>sm_kick</td>
+<td>kick (c)</td>
+<td>Kickt einen Spieler vom Server</td>
+<td>sm_kick Name Grund</td>
+</tr>
+<tr>
+<td>sm_map</td>
+<td>map (g)</td>
+<td>Wechselt die map</td>
+<td>sm_map Mapname</td>
+</tr>
+<tr>
+<td>sm_rcon</td>
+<td>rcon (m)</td>
+<td>Führt Rcon-Commands aus</td>
+<td>sm_rcon sv_password 1234</td>
+</tr>
+<tr>
+<td>sm_realoadadmins</td>
+<td>config (i)</td>
+<td>Aktualisiert die Admins</td>
+<td>sm_reloadadmins</td>
+</tr>
+<tr>
+<td>sm_unban</td>
+<td>unban (e)</td>
+<td>Entbannt einen Spieler</td>
+<td>sm_unban STEAM_0:1:23456</td>
+</tr>
+<tr>
+<td>sm_who</td>
+<td>admin (b)</td>
+<td>Zeigt alle Admins samt Rechte an</td>
+<td>sm_who</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Erweiterte (Fun) Befehle:</strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td><strong>Befehl</strong></td>
+<td><strong>Recht</strong></td>
+<td><strong>Beschreibung</strong></td>
+<td><strong>Beispiel</strong></td>
+</tr>
+<tr>
+<td>sm_beacon</td>
+<td>slay (f)</td>
+<td> Macht einen Ring um einen Spieler</td>
+<td>sm_beacon Spielername</td>
+</tr>
+<tr>
+<td>sm_burn</td>
+<td>slay (f)</td>
+<td> Zündet einen Spieler für Zeit X an</td>
+<td>sm_burn Spielername X</td>
+</tr>
+<tr>
+<td>sm_chat</td>
+<td>chat (j)</td>
+<td> Sendet eine Nachricht an alle Admins</td>
+<td>sm_chat Hallo</td>
+</tr>
+<tr>
+<td>sm_csay</td>
+<td>chat (j)</td>
+<td> Sendet eine Nachricht an alle Spieler</td>
+<td>sm_csay Hallo</td>
+</tr>
+<tr>
+<td>sm_gag</td>
+<td>chat (j)</td>
+<td> Verhindert das Nutzen des Chats eines Spielers</td>
+<td>sm_gag Spielername</td>
+</tr>
+<tr>
+<td>sm_hsay</td>
+<td>chat (j)</td>
+<td> Schickt eine Nachricht an alle Spieler über die Centerbox</td>
+<td>sm_hsay Hallo</td>
+</tr>
+<tr>
+<td>sm_msay</td>
+<td>chat (j)</td>
+<td> Schickt eine Nachricht an alle Spieler</td>
+<td>sm_msay Hallo</td>
+</tr>
+<tr>
+<td>sm_mute</td>
+<td>chat (j)</td>
+<td> Verhindert das nutzen des Voicechats</td>
+<td>sm_mute Spielername</td>
+</tr>
+<tr>
+<td>sm_play</td>
+<td>admin (b)</td>
+<td> Spielt ein Soundfile auf dem Server ab</td>
+<td>sm_play Soundfile</td>
+</tr>
+<tr>
+<td>sm_psay</td>
+<td>chat (j)</td>
+<td> Schickt einem Spieler eine Nachricht</td>
+<td>sm_psay Spieler Hallo</td>
+</tr>
+<tr>
+<td>sm_rename</td>
+<td>slay (f)</td>
+<td> Ändert den Namen eines Spielers</td>
+<td>sm_rename Spielername</td>
+</tr>
+<tr>
+<td>sm_resetcvar</td>
+<td>cvar (h)</td>
+<td> Setzt eine Cvar auf den Defaultwert</td>
+<td>sm_resetcvar mp_timelimit</td>
+</tr>
+<tr>
+<td>sm_say</td>
+<td>chat (j)</td>
+<td> Schickt eine Nachricht an alle Spieler</td>
+<td>sm_say Hallo</td>
+</tr>
+<tr>
+<td>sm_silence</td>
+<td>chat (j)</td>
+<td> Bewirkt sm_gag und sm_mute bei einem Spieler</td>
+<td>sm_silence Spielername</td>
+</tr>
+<tr>
+<td>sm_slap</td>
+<td>slay (f)</td>
+<td> Schlägt einen Spieler mit Schaden X</td>
+<td>sm_slap Spielername 20</td>
+</tr>
+<tr>
+<td>sm_slay</td>
+<td>slay (f)</td>
+<td> Tötet einen Spieler</td>
+<td>sm_slay Spielername</td>
+</tr>
+<tr>
+<td>sm_tsay</td>
+<td>chat (j)</td>
+<td> Schickt eine farbige Nachtricht an alle Spieler.</td>
+<td> sm_tsay green Hallo</td>
+</tr>
+<tr>
+<td>sm_ungag</td>
+<td>chat (j)</td>
+<td> Erlaubt dem Spieler  das nutzen des Chats</td>
+<td> sm_ungang Spielername</td>
+</tr>
+<tr>
+<td>sm_unmute</td>
+<td>chat (j)</td>
+<td> Erlaubt dem Spieler  das nutzen des Voicechats</td>
+<td> sm_unmute Spielername</td>
+</tr>
+<tr>
+<td>sm_unsilence</td>
+<td>chat (j)</td>
+<td> Erlaubt dem Spieler das nutzen des Chats und Voicechats</td>
+<td> sm_unsilence Spielername</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><em><strong>Vote-Befehle:</strong></em></p>
+<table border="0">
+<tbody>
+<tr>
+<td>sm_vote</td>
+<td>vote (k)</td>
+<td>Startet einen ganz normalen Vote</td>
+<td>sm_vote Frage Antwort1 Antwort2 &#8230;</td>
+</tr>
+<tr>
+<td>sm_votealltalk</td>
+<td>vote (k)</td>
+<td>Startet einen Vote für Alltalk</td>
+<td>sm_votealltalk</td>
+</tr>
+<tr>
+<td>sm_voteban</td>
+<td>vote, ban (k,d)</td>
+<td>Startet einen Voteban</td>
+<td>sm_voteban Spielername</td>
+</tr>
+<tr>
+<td>sm_voteburn</td>
+<td>vote, slay (k,f)</td>
+<td>Startet einen Vote um einen Spieler anzuzünden</td>
+<td>sm_voteburn Spielername</td>
+</tr>
+<tr>
+<td>sm_voteff</td>
+<td>vote (k)</td>
+<td>Startet einen Vote für FriendlyFire</td>
+<td>sm_voteff</td>
+</tr>
+<tr>
+<td>sm_votegravity</td>
+<td>vote (k)</td>
+<td>Startet einen Vote für die Gravity</td>
+<td>sm_votegravity Wert1 Wert2 Wert3 &#8230;</td>
+</tr>
+<tr>
+<td>sm_votekick</td>
+<td>vote, kick (k,c)</td>
+<td>Startet einen Kickvote</td>
+<td>sm_votekick Spielername Grund</td>
+</tr>
+<tr>
+<td>sm_votemap</td>
+<td>vote, map (k,g)</td>
+<td>Startet einen Mapvote</td>
+<td>sm_votemap map1 map2 map3 &#8230;</td>
+</tr>
+<tr>
+<td>sm_voteslay</td>
+<td>vote, slay (k,f)</td>
+<td>Startet einen Vote gegen einen Spieler</td>
+<td>sm_voteslay Spielername</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/sourcemod-adminbefehle/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>spectator &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/spectator/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>spectator &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Update – Flashbangs und Spectator überarbeitet</title>
+		<link>/csgo-update-flashbangs-und-spectator-uberarbeitet/</link>
+		<comments>/csgo-update-flashbangs-und-spectator-uberarbeitet/#respond</comments>
+		<pubDate>Sat, 26 Oct 2013 10:29:11 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[GOTV]]></category>
+		<category><![CDATA[spectator]]></category>
+
+		<guid isPermaLink="false">/?p=1814</guid>
+		<description><![CDATA[Wieder ein neues Counter-Strike: Global Offensive (CS:GO) Update!  Eine neue Animation wurde ins Spiel integriert und die Startpunkte im Deathmatch sind nun optimiert worden und man landet nicht im Nirvana. Neue Animation für Flashbangs&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Wieder ein neues Counter-Strike: Global Offensive (CS:GO) Update!  Eine neue Animation wurde ins Spiel integriert und die Startpunkte im Deathmatch sind nun optimiert worden und man landet nicht im Nirvana.</p>
+<h3>Neue Animation für Flashbangs</h3>
+<p>Valve hat eine neue Animation eingefügt. Geht eine Flashbang hoch und ein anderer Spieler wird geblendet, dann sieht man nun wie sich dessen Spielfigur eine Hand vor das Gesicht hält, um die Augen zu schützen. Auf die Flashbangs und den Blendeffekt an sich hat das keinerlei Auswirkung, die Animation macht es nur leichter zu erkennen, ob ein Spieler tatsächlich geblendet wurde oder nicht.</p>
+<h3>Spectator Modus wurde überarbeitet</h3>
+<p>Die meisten Änderungen gab es am Spectator Mode von CS:GO. Valve überarbeitete hierbei die bereits bekannten “statischen” Kameras. Aber auch der “Freiflug”-Modus wurde verbessert. Die wohl herausstechendsten Änderungen sind eine dünne Linie, die anzeigt wohin die Spieler gerade zielen und die neue Umrandung der Spieler – der momentan ausgewählte Spieler wird dabei weiß eingefärbt. Aber auch die zustandsbedingten Farben der Bombenumrandung (Gelb = fallengelassen, Rot = gelegt, Grün = entschärft), dürften für Zuschauer einiges einfacher machen.</p>
+<p>Außerdem gab es einige Bugfixes an GOTV: Hier werden jetzt die richtigen Stats der Spieler und die korrekte Anzahl der Frags auf StatTrak-Waffen angezeigt. Auch das Spectator HUD wurde überarbeitet. Noch wichtiger ist allerdings die nun korrekte Übermittlung des Recoils.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-update-flashbangs-und-spectator-uberarbeitet/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Update &#8211; Viele kleine Änderungen, Bombenplant, Genauigkeit, Watch-Menü, und und und&#8230;</title>
+		<link>/csgo-update-viele-kleine-anderungen-bombenplant-genauigkeit-watch-menu-und-und-und/</link>
+		<comments>/csgo-update-viele-kleine-anderungen-bombenplant-genauigkeit-watch-menu-und-und-und/#respond</comments>
+		<pubDate>Sat, 26 Oct 2013 10:08:19 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[bombenplant]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[overwatch]]></category>
+		<category><![CDATA[spectator]]></category>
+		<category><![CDATA[updates]]></category>
+		<category><![CDATA[watch]]></category>
+
+		<guid isPermaLink="false">/?p=1812</guid>
+		<description><![CDATA[In der vergangenen Nacht wurde wieder mal ein Update von Valve eingespielt, was eine Neuerung mit sich bringt. Durch das eingeführte WATCH-Menü kann man nun bei &#8218;highly-ranked&#8216; Pro-Spielern zuschauen, wie sie gerade Matchmaking spielen.&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>In der vergangenen Nacht wurde wieder mal ein Update von Valve eingespielt, was eine Neuerung mit sich bringt. Durch das eingeführte WATCH-Menü kann man nun bei &#8218;highly-ranked&#8216; Pro-Spielern zuschauen, wie sie gerade Matchmaking spielen. Zudem gibt es eine Match-History, sowie das Herunterladen von Demos der Spiele und das neu erschienene &#8218;GOTV Theater&#8216;, was es ermöglicht Spiele anzuschauen, ähnlich wie GOTV.</p>
+<p>Ein weiterer wichtiger Punkt ist die Verbesserung der Genauigkeit im Burst der Glock und Famas. Ebenfalls wurden Anpassungen am Bombenplant vorgenommen, dass man nun nach einem Plant weiterhin in der Hocke bleiben kann und nicht automatisch aufsteht. Hier bedankt man sich bei NiP-Spieler Adam &#8218;<a href="http://csgo.99damage.de/de/edb/player/2699-friberg" target="_blank">friberg</a>&#8218; Friberg. Ansonsten ist die Liste des Updates mit weiteren kleinen Bugfixes, vor allem am Spectator-Overlay, relativ kurz. Als wichtiges Detail am Rand wurde der Equipment Value gefixt und wechselt nun auch nach der Halbzeit die Seite.</p>
+<p><img alt="" src="http://store.cdn.gamesports.net/29000/29111.jpg" /></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-update-viele-kleine-anderungen-bombenplant-genauigkeit-watch-menu-und-und-und/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

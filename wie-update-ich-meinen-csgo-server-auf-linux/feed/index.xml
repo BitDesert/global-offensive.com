@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Kommentare zu: Wie update ich meinen CS:GO Server auf Linux? (Anleitung)</title>
+	<atom:link href="/wie-update-ich-meinen-csgo-server-auf-linux/feed/" rel="self" type="application/rss+xml" />
+	<link>/wie-update-ich-meinen-csgo-server-auf-linux/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 14 Nov 2017 21:13:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<item>
+		<title>Von: CSGO Server update funktioniert nicht. Fehler: app_update 740 Assertion Failed &#8230; &#124; GLOBAL-OFFENSIVE.COM</title>
+		<link>/wie-update-ich-meinen-csgo-server-auf-linux/#comment-213</link>
+		<dc:creator><![CDATA[CSGO Server update funktioniert nicht. Fehler: app_update 740 Assertion Failed &#8230; &#124; GLOBAL-OFFENSIVE.COM]]></dc:creator>
+		<pubDate>Thu, 09 Oct 2014 09:16:29 +0000</pubDate>
+		<guid isPermaLink="false">/?p=936#comment-213</guid>
+		<description><![CDATA[[&#8230;] Wir kennen es selber, mal wieder ein Update erschienen und man möchte gerade noch mal so spät am Abend den letzten &#8220;War&#8221; spielen. Doch dann verbindet man sich auf den Server und wird direkt wieder in das Hauptmenü geschmissen. Spätestens dann weiß man, dass wieder ein Update erschienen ist und man natürlich jetzt noch &#8220;mal eben&#8221; den Server updaten muss. Wie das funktioniert haben wir hier schon beschrieben: Wie update ich meinen CSGO Server auf Linux  [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Wir kennen es selber, mal wieder ein Update erschienen und man möchte gerade noch mal so spät am Abend den letzten &#8220;War&#8221; spielen. Doch dann verbindet man sich auf den Server und wird direkt wieder in das Hauptmenü geschmissen. Spätestens dann weiß man, dass wieder ein Update erschienen ist und man natürlich jetzt noch &#8220;mal eben&#8221; den Server updaten muss. Wie das funktioniert haben wir hier schon beschrieben: Wie update ich meinen CSGO Server auf Linux  [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: Kevin</title>
+		<link>/wie-update-ich-meinen-csgo-server-auf-linux/#comment-212</link>
+		<dc:creator><![CDATA[Kevin]]></dc:creator>
+		<pubDate>Thu, 28 Mar 2013 07:59:46 +0000</pubDate>
+		<guid isPermaLink="false">/?p=936#comment-212</guid>
+		<description><![CDATA[Hallo ich hätte auch gerne sowas das man die updates automatisch machen kann!
+
+Gruss
+Kevin]]></description>
+		<content:encoded><![CDATA[<p>Hallo ich hätte auch gerne sowas das man die updates automatisch machen kann!</p>
+<p>Gruss<br />
+Kevin</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: Joe</title>
+		<link>/wie-update-ich-meinen-csgo-server-auf-linux/#comment-211</link>
+		<dc:creator><![CDATA[Joe]]></dc:creator>
+		<pubDate>Tue, 26 Mar 2013 14:39:52 +0000</pubDate>
+		<guid isPermaLink="false">/?p=936#comment-211</guid>
+		<description><![CDATA[Hallo Stefan,
+
+vielen Dank für deine Frage. Heute Abend werde ich einen Artikel zum vereinfachten bzw. automatischen update erstellen. 
+
+Beste Grüße,
+Joe]]></description>
+		<content:encoded><![CDATA[<p>Hallo Stefan,</p>
+<p>vielen Dank für deine Frage. Heute Abend werde ich einen Artikel zum vereinfachten bzw. automatischen update erstellen. </p>
+<p>Beste Grüße,<br />
+Joe</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: Stefan Silbertein</title>
+		<link>/wie-update-ich-meinen-csgo-server-auf-linux/#comment-210</link>
+		<dc:creator><![CDATA[Stefan Silbertein]]></dc:creator>
+		<pubDate>Tue, 26 Mar 2013 11:35:10 +0000</pubDate>
+		<guid isPermaLink="false">/?p=936#comment-210</guid>
+		<description><![CDATA[Könntet Ihr eventuell beschreiben, wie man das automatische Update programmieren könnte?]]></description>
+		<content:encoded><![CDATA[<p>Könntet Ihr eventuell beschreiben, wie man das automatische Update programmieren könnte?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: CSGO Server updaten funktioniert nicht. app_update 740 * Assertion Failed &#8230; &#124; Global-Offensive.com</title>
+		<link>/wie-update-ich-meinen-csgo-server-auf-linux/#comment-209</link>
+		<dc:creator><![CDATA[CSGO Server updaten funktioniert nicht. app_update 740 * Assertion Failed &#8230; &#124; Global-Offensive.com]]></dc:creator>
+		<pubDate>Mon, 18 Mar 2013 15:02:30 +0000</pubDate>
+		<guid isPermaLink="false">/?p=936#comment-209</guid>
+		<description><![CDATA[[...] Wir kennen es selber, mal wieder ein Update erschienen und man möchte gerade noch mal so spät am Abend den letzten &#8220;War&#8221; spielen. Doch dann verbindet man sich auf den Server und wird wieder in das Hauptmenü geschmissen. Spätestens dann weiß man dass es wieder ein Update gab und man natürlich jetzt noch &#8220;mal eben&#8221; den Server updaten will. Wie das funktioniert haben wir hier schon beschrieben: Wie update ich meinen CSGO Server auf Linux  [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Wir kennen es selber, mal wieder ein Update erschienen und man möchte gerade noch mal so spät am Abend den letzten &#8220;War&#8221; spielen. Doch dann verbindet man sich auf den Server und wird wieder in das Hauptmenü geschmissen. Spätestens dann weiß man dass es wieder ein Update gab und man natürlich jetzt noch &#8220;mal eben&#8221; den Server updaten will. Wie das funktioniert haben wir hier schon beschrieben: Wie update ich meinen CSGO Server auf Linux  [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

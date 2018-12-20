@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Investigators &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/investigators/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>Investigators &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Mini-Update: Mehr Prüfer für Overwatch und Crosshair Änderungen vorgenommen</title>
+		<link>/csgo-mini-update-mehr-prufer-fur-overwatch-und-crosshair-anderungen-vorgenommen/</link>
+		<comments>/csgo-mini-update-mehr-prufer-fur-overwatch-und-crosshair-anderungen-vorgenommen/#respond</comments>
+		<pubDate>Thu, 06 Jun 2013 18:34:16 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Overwatch]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[ausgeschlossen]]></category>
+		<category><![CDATA[classic]]></category>
+		<category><![CDATA[crosshair]]></category>
+		<category><![CDATA[crosshaur]]></category>
+		<category><![CDATA[gebannt]]></category>
+		<category><![CDATA[Investigators]]></category>
+		<category><![CDATA[klassisch]]></category>
+		<category><![CDATA[Match making]]></category>
+		<category><![CDATA[overwatch]]></category>
+		<category><![CDATA[prüfer]]></category>
+		<category><![CDATA[update]]></category>
+
+		<guid isPermaLink="false">/?p=1653</guid>
+		<description><![CDATA[Weitere Overwatch Prüfer&#8230; In der vergangenen Nacht wurde ein weiteres Update durch Valve veröffentlicht. Counter-Strike: Global-Offensive (CS:GO) und das damit verbundene Overwatch hat nun weitere Prüfer bekommen. Bist du vielleicht auch dabei?  Wenn du&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Weitere Overwatch Prüfer&#8230;</h3>
+<p>In der vergangenen Nacht wurde ein weiteres Update durch Valve veröffentlicht. Counter-Strike: Global-Offensive (CS:GO) und das damit verbundene Overwatch hat nun weitere Prüfer bekommen. Bist du vielleicht auch dabei?  Wenn du mehr als 100 gespielte Competitive Matches gespielt hast, ist die Wahrscheinlichkeit gar nicht mal so gering.</p>
+<h3>Crosshair Änderungen</h3>
+<p>Darüber hinaus wurden weitere Änderungen an dem klassischen Crosshair durchgeführt. Wer das alte (klassische) Crosshair verwendet (cl_crosshairstyle 4) wird nun beim Waffenwechsel nicht mehr die nervende in der Größe verändernde Lück finden. Das Crosshair mit seinem &#8222;Lücken&#8220; ist nun statisch beim Waffenwechsel.</p>
+<p>Sonst war nichts weiteres in dem knapp 9 MB großen Update implementiert.</p>
+<p>&nbsp;</p>
+<p>Hier noch die Changelog:</p>
+<p>[ OVERWATCH ]<br />
+&#8211; Added more investigators to the Overwatch Beta.</p>
+<p>[ MISC ]<br />
+&#8211; Added an explanation for no binary signature validation for clients running in -insecure mode.<br />
+&#8211; Fixed an exploit where clients could bypass network convar restrictions using setinfo.<br />
+&#8211; The crosshair gap size will no longer change when switching weapons while using “Classic Static” (cl_crosshairstyle 4) — other crosshair styles are unaffected.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-mini-update-mehr-prufer-fur-overwatch-und-crosshair-anderungen-vorgenommen/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Kleines CS: GO Update &#8211; Overwatch und Netsettings zum Teil Ingame nicht mehr änderbar!</title>
+		<link>/kleines-cs-go-update-overwatch-und-netsettings-zum-teil-ingame-nicht-mehr-anderbar/</link>
+		<comments>/kleines-cs-go-update-overwatch-und-netsettings-zum-teil-ingame-nicht-mehr-anderbar/#respond</comments>
+		<pubDate>Thu, 30 May 2013 16:12:26 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Overwatch]]></category>
+		<category><![CDATA[.dll]]></category>
+		<category><![CDATA[Investigators]]></category>
+		<category><![CDATA[NIP]]></category>
+		<category><![CDATA[overwatch]]></category>
+		<category><![CDATA[prüfer]]></category>
+		<category><![CDATA[sv_kick_players_with_cooldown]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[vac]]></category>
+		<category><![CDATA[valve anti cheat]]></category>
+
+		<guid isPermaLink="false">/?p=1595</guid>
+		<description><![CDATA[Kleine Änderungen Heute Nacht wurde wie schon wie in den einschlägigen Foren bekannt gegeben, ein weiteres kleines Counter-Strike: Global-Offensive Update veröffentlicht. Im wesentlichen wurden nur kleinere Verbesserungen unter anderem an dem neuen Overwatch vorgenommen.&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Kleine Änderungen</h3>
+<p>Heute Nacht wurde wie schon wie in den einschlägigen Foren bekannt gegeben, ein weiteres kleines Counter-Strike: Global-Offensive Update veröffentlicht. Im wesentlichen wurden nur kleinere Verbesserungen unter anderem an dem neuen Overwatch vorgenommen. Overwatch ist laut den Update Notes in den letzten Zügen das es komplett aus der Beta Phase in die finale Phase springt. Darüber hinaus wurden einige Dinge wie Netsettings nun im Spiel fixiert. Dies bedeutet, dass während des Spielens die Netsettings nicht mehr änderbar sind. Die Befehle wie cl_updaterate und &amp; cl_cmdrate fallen mitunter in diese Änderungen.</p>
+<h3>Die Overwatch Änderungen:</h3>
+<ul>
+<li><span style="line-height: 13px">Die Overwatch Prüfer bekommen nun die Stats wie Kills, Assists und Deaths hervorgehoben angezeigt, der Name des Cheat-Verdächtigen ist nach wie vor nur &#8222;The Subject&#8220;</span></li>
+<li>Serverbetreiber haben die Möglichkeit mit dem Befehl sv_kick_players_with_cooldown die Möglichkeit, gebannte Spieler zu erlauben, auf den Server zu verbinden.</li>
+</ul>
+<h3>Wie sicher ist Overwatch?</h3>
+<p>Das hat Valve anhand von einigen Demos testweise ausgespielt, hier wurden Demos von Profispielern wie unter anderem NIP zur Prüfung freigegeben, und die Ergebnisse waren alle einstimmig: Kein Cheat Verdacht. Inwiefern das auch der Realität entspricht, bleibt weiter offen.</p>
+<p>Darüber hinaus werden Signaturen von DLL-Dateien des Spiels oder von Plugins nun zwangsweise überprüft. Startet man CS:GO mit veränderten DLL-Dateien wird man darüber informiert und man kann nicht mehr zu VAC-geschützten Servern verbinden, um zu verhindern, dass man einen Bann bekommt.</p>
+<h3>CS:GO Dll Fehler:</h3>
+<p>Sollten DLL Dateien bearbeitet oder nicht original sein, erhält der Spieler folgende Meldung: &#8222;Some of your game files have been detected to have no signatures or invalid signatures. You cannot play Classic Competitive mode, because you are not allow to join VAC secure Server.&#8220;</p>
+<p>Als schönes Fix ist auch zu nennen, dass nun der Fehler behoben wurde, dass wenn die Verbindung im Matchmaking unterbrochen wurde, man nicht in der selben Runde spawnen kann.  Absofort können also Spieler welche den Zwangsdisconnect oder einen csgo.exe Absturz hatten, problemlos wieder in die Runde joinen.</p>
+<p>Solltet ihr das Problem haben, erneuert eure Game files wie hier auf dem Screenshot zu sehen:</p>
+<div style="width: 627px" class="wp-caption alignnone"><img alt="" src="http://i.imgur.com/TQCQic6.png" width="617" height="400" /><p class="wp-caption-text">Some of your game files have been detected to have no signatures or invalid signatures. You cannot play Classic Competitive mode, because you are not allow to join VAC secure Server.</p></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/kleines-cs-go-update-overwatch-und-netsettings-zum-teil-ingame-nicht-mehr-anderbar/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

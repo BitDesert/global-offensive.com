@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>maus &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/maus/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>maus &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Wie man richtig CS:GO spielt! Ein ausführlicher Anfänger Bericht! [How to play CS:GO]</title>
+		<link>/aller-anfang-ist-schwer-wie-man-csgo-spielt-ausfuhrlicher-anfangerbericht-how-to-play-csgo/</link>
+		<comments>/aller-anfang-ist-schwer-wie-man-csgo-spielt-ausfuhrlicher-anfangerbericht-how-to-play-csgo/#comments</comments>
+		<pubDate>Fri, 05 Apr 2013 16:26:41 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[anfänger]]></category>
+		<category><![CDATA[Anfänger guide]]></category>
+		<category><![CDATA[beginner]]></category>
+		<category><![CDATA[die config]]></category>
+		<category><![CDATA[kauftipps]]></category>
+		<category><![CDATA[körperhaltung]]></category>
+		<category><![CDATA[maus]]></category>
+		<category><![CDATA[richtig kaufen]]></category>
+		<category><![CDATA[so gehts]]></category>
+		<category><![CDATA[strafen]]></category>
+		<category><![CDATA[tastatur]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[waffen]]></category>
+		<category><![CDATA[wie gehts]]></category>
+
+		<guid isPermaLink="false">/?p=1284</guid>
+		<description><![CDATA[Vorwort Aufgrund von einigen Nachfragen wie man eigentlich CS:GO spielt, was zu beachten ist, was es für Grundlagen gibt etc. ist global-offensive.com auf den Steam Guide vom Steamuser &#8222;mad&#8220; aufmerksam geworden. Ursprünglich war die&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><div>
+<h3>Vorwort</h3>
+</div>
+<div></div>
+<div id="33607">
+<div>Aufgrund von einigen Nachfragen wie man eigentlich CS:GO spielt, was zu beachten ist, was es für Grundlagen gibt etc. ist global-offensive.com auf den Steam Guide vom Steamuser &#8222;mad&#8220; aufmerksam geworden. Ursprünglich war die Überlegung diesen Guide aus eigener Feder zu schreiben aber nachdem wir uns mad&#8217;s Guide aufmerksam durchgelesen haben haben wir uns entschlossen diesen hier zu veröffentlichen. Ein großes Dankeschön geht also an<strong> &#8222;mad</strong>&#8220; für seine Arbeit die er in diesen schönen Bericht investiert hat.</div>
+<div></div>
+<div></div>
+<div>
+<div>Mad beschreibt wirklich von NULL auf das Spiel und jeder der sich den Guide durchlesen möchte um wirklich etwas zu lernen, der sollte <span style="text-decoration: underline">100% ehrlich zu sich selbst</span> sein und das was er schreibt nicht gleich verspotten.</div>
+<div></div>
+</div>
+</div>
+<div></div>
+<div id="33625">
+<h3>Die Config</h3>
+<div>
+<blockquote>
+<div>Bevor ihr das Spiel startet,</div>
+<p>solltet ihr die <strong>Entwicklerkonsole</strong> aktivieren. Das geht, indem ihr in der STEAM-Bibliothek mit der rechten Maustaste auf CS:GO klickt und dann Eigenschaften auswählt. Direkt auf der ersten Karteikarte findet ihr einen Button: &#8222;<em>Startoptionen festlegen&#8230;</em>&#8220; angeklickt, öffnet sich ein Fenster mit einer Eingabemöglichkeit. Dort tippt ihr ein <em>-console</em> .</p>
+<p>Startet ihr nun das Spiel, erscheint eine Entwicklerkonsole in die ihr Befehle eingeben könnt. Unter Spieleinstellungen, Tastatur, könnt ihr eine Taste festlegen, mit der ihr die Console jederzeit öffnen und schließen könnt.</p></blockquote>
+<h4>Hier die wichtigsten Einstellungen in der Config.cfg</h4>
+<p><strong><strong>[checklist]</strong></strong></p>
+<ul>
+<li><strong>cl_interp 0</strong><br />
+cl steht für Client und somit für euren Computer &#8211; interp steht für interpretieren. Dieser Wert ist standardmäßig auf 1 gestellt und erlaubt eurem Computer zu interpretieren ob ein Schuss ein Treffer war oder nicht. Um zu verstehen warum das ein Problem ist, müsst ihr das System dahinter verstehen. Es läuft so: Ihr ballert, dann rennt euer Computer zum Server hin und sag:&#8220;hey, den hab ich getroffen&#8220; &#8211; der Server hingegen sagt:&#8220;Leider nein, leider gar nicht&#8220; und drei mal dürft ihr raten wer das Sagen hat. <img src="https://s.w.org/images/core/emoji/11/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Wenn ihr in den Prozess noch cl_interp 1 schaltet. Dann wird euch trotzdem Blut an der Wand hinter dem Gegner gezeigt obwohl der Server sagt, dass ihr ihn nicht getroffen habt.</li>
+<li><strong>net_graph 1</strong><br />
+Ganz klar, damit schaltet ihr einen Graphen ein, der euch zeigt, welchen Ping ihr habt und wie stark eure Verbindung ist bzw. wie hoch die Tickrate des Servers ist. Die Tickrate sagt euch wie oft in der Sekunde der Server die Positionen von Mitspielern an alle Mitspieler sendet. Eine höhere Tickrate hat den Vorteil, dass die Hitboxen genauer auf dem Spielermodell liegen, während es sich bewegt. Auf den Matchmaking Servern ist die Tickrate immer 64.</li>
+<li><strong>cl_updaterate 128</strong> | <strong>cl_cmdrate 128</strong><br />
+Mit cl_updaterate und cl_cmdrate befehlt ihr eurem PC die höchste Tickrate zu benutzen. Das ist eher wichtig, wenn ihr ESL spielt oder Clanwars auf Servern mit höherer Tickrate.</li>
+<li><strong>rate 80000</strong><br />
+Gibt die maximale Größe der Pakete an, die ihr vom Server erhaltet. Der Server schickt euch Informationen, was eure Mates und Gegner machen. Wo Kugeln langfliegen etc. 80000 ist dabei die höchste rate.</li>
+</ul>
+<p><strong>[/checklist]</strong></p>
+<p><span style="line-height: 1.5em">Das sind die Befehle die euch bestens für das Spiel rüsten und das Beste aus eurer Leitung herausholen. Wenn ich dazu komme werde ich diesen Teil des Guides noch erläutern. Erst mal schauen, ob der überhaupt gelesen wird. <img src="https://s.w.org/images/core/emoji/11/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span></p>
+<h4>Fadenkreuz</h4>
+<p>Das neue Fadenkreuz in CS:GO zeigt euch mit einem Farbwechsel an ob es sich um einen Gegner handelt den ihr da in weiter Entfernung erspäht oder doch nur um einen Gummireifen. Es zeigt euch auch Freunde an. Zusätzlich finde ich die kleineren, dünnen Linien, die den Recoil genauer anzeigen höchst hilfreich. Beim alten Fadenkreuz ziehen sich nur die dicken Linien auseinander und man kriegt nicht wirklich mit wie groß eigentlich euer Recoil gerade ist.</p>
+<div>Automatisches Waffenwechseln bei besserer Waffe</div>
+<p>unbedingt ausschalten. Stellt euch vor ihr seid gerade im Kampf mit der Pistole und lauft dabei versehentlich über eine Primärwaffe. Ihr wechselt dann automatisch die Waffe und gebt dem Gegner eine gute Gelegenheit euch ohne Befürchtungen zu töten.</p>
+<p><strong><br />
+</strong></p>
+<h3>Die Maus</h3>
+<p>&nbsp;</p>
+<p><strong></strong>Geschwindigkeit ist wahrscheinlich ein höchst umstrittenes Thema und hier werde ich wahrscheinlich viele abschrecken, denn meiner Meinung nach ist es das Beste, die Empfindlichkeit der Maus so gering wie möglich zu halten.</p>
+<p>Ich habe bei Windows7 (geht aber auch mit WindowsXP und Windows8) bei den Mauseinstellungen den vierten Strich von Links und die Mausbeschleunigung aus. Spiele mit 3200DPI. In Counterstrike habe ich Mausempfindlichkeit auf 1, Zoomempfindlichkeit auf 1, Rohdatennutzung EIN, Mausbeschleunigung AUS. Ich muss die Maus von rechts nach links 25cm verschieben um mich ganz umzudrehen. Spielt ihr im Team solltet ihr euch aber eigentlich keine Gedanken machen müssen ob einer hinter euch ist, weil es immer jemanden geben sollte der Rückendeckung gibt. (Dazu mehr wenn wir zum Teamplay kommen.)</p>
+<p>Euer Ziel ist es das Fadenkreuz auf den Kopf des Gegners zu richten und abzufeuern. Um das zu schaffen könnte man denken, dass es sinnvoll ist eine schnelle Maus zu haben, damit man die Zeit verkürzt in der man von irgendwo auf den Kopf zielt. Allerdings müsstet ihr damit feinmotorisch echt begabt sein, denn der Gegner hält in den seltensten Fällen still. Seid ihr dazu noch etwas nervös, weil ihr der letzte seid und gegen drei Spieler spielt, überträgt sich das Ganze auf eure Fähigkeit zu zielen. Trefft ihr mit den ersten Schüssen nicht, schaltet ihr um auf Dauerfeuer und dann war es das meistens auch. Die langsamere Mausgeschwindkeit wirkt wie ein Puffer, der euch hilft feiner zu arbeiten und zu zielen. Wenn ihr es dann noch schafft die Nerven zu behalten und zu zielen, seid ihr den meisten Spielern zwei Schritte voraus.</p>
+<p><strong><br />
+</strong></p>
+<h3>Tastatur</h3>
+<p>&nbsp;</p>
+<p>Hierzu nur ganz kurz. Grundsätzlich ist es jedem selbst überlassen ob er mit WASD oder den Pfeiltasten spielt. Ein guter Grund für WASD ist allerdings die Menge an umliegenden Tasten. Nicht nur, dass ihr mit Q einen schnellen Waffenwechsel durchführen könnt. Ihr könnt auch andere Tasten wie z.B. F dafür verwenden sofort eine Blendgranate griffbereit zu haben und nicht erst durch wiederholtes Drücken der Taste 4 zur Blendgranate zu wechseln.</p>
+<blockquote><p>bind f &#8222;use weapon_flashbang&#8220;</p></blockquote>
+<div></div>
+</div>
+</div>
+<div></div>
+<div id="33631">
+<div>Equipment und Körperhaltung</div>
+<div>
+<p>Euer Ziel ist es gut zu werden. Wie schafft ihr das? Indem ihr Ruhe und Abgeklärtheit in euer Spielverhalten bringt. Jede Konfrontation mit einem Gegner ist ein Wettlauf. Wer fügt als erstes 100 Schadenspunkte zu? Um den Wettlauf zu gewinnen müsst ihr effektiver und präziser spielen als euer Gegner. Dafür müssen allerdings optimale Bedingungen herrschen. Ich zeige euch nun worauf es ankommt.</p>
+<p>Kauft euch ein <strong>Headset </strong>oder nehmt Papas alten Stereokopfhörer. Ein 5.1 Kopfhörer ist natürlich die beste Wahl, schont allerdings nicht so sehr den Geldbeutel. Wenn ihr mit Boxen spielt, hört ihr weniger. Ihr seid nicht abgeschirmt von eurer Umwelt und die feinen, leisen Töne, die ein gegnerischer Spieler auf Entfernung macht sind nicht mehr zu hören. Mit einem Kopfhörer und etwas Übung beim Interpretieren der Geräuschkulisse werdet ihr wissen, wann und wo eure Gegner kommen und ihr werdet vorbereitet sein.</p>
+<p>Kauft euch ein <strong>Mauspad</strong>! Eins über welches eure Maus fast schwebt. Ich selber benutze ein X-Board, was man bei Amazon für 5 € kaufen kann. <a href="//www.amazon.de/PC-X-Board-V2-Apache-red/dp/B00067YSN2/ref=sr_1_2?ie=UTF8&amp;qid=1362609609&amp;sr=8-2">Amazon-Link</a> Ihr solltet auf gar keinen Fall von eurem Tisch oder einem klebrigen Mauspad daran gehindert werden ordentlich zu zielen.</p>
+<p>Kauft euch eine <strong>Maus, die extra für das Spielen geschaffen wurde</strong>. Die liegen einfach besser in der Hand und sind höchst genau. Ob Razer oder Logitech ist Geschmackssache. Ausprobieren was euer Ding ist. Ich spiele mit einer Razer Deathadder und bin höchst zufrieden.</p>
+<p>Eine spezielle Gamer-Tastatur halte ich bei CS:GO für überflüssig. Ich spiele auf einer 10 € Tastatur von Logitech und kann mich nicht beklagen. G-Tasten benötigt man nun echt nicht für CS:GO und Beleuchtung würde nur ein ablenkendes Gegenlicht zum Monitor erzeugen.</p>
+<p>Kommen wir zur <strong>Körperhaltung</strong>: Ihr solltet so bequem wie möglich sitzen. Wenn ihr euch am wohlsten im Bademantel fühlt, dann zieht den eben an. Legt euren Unterarm auf den Tisch und den Handballen auf das Mauspad. Ihr Lenkt die Maus mit dem Handballen seitlich und mit den Fingern hoch und runter. Dadurch ist ein höchstes Maß an Feinmotorig gegeben. Wenn ihr einmal eine Sitzposition und Haltung gefunden habt in der ihr euch richtig wohl fühlt und merkt, dass es klappt, dann merkt euch diese und haltet daran fest. Ich z.B. setze mich nie ganz zurück in den Stuhl und hocke ca. 30-50cm, je nachdem ob ich gerade einen Gegner auf Entfernung versuche zu legen oder ganz normal durch die Gegend renne, vor einem 23&#8243; Monitor.</p>
+<p>Zum Schluss sei noch gesagt: Licht aus und Rollos runter!!! Eure Aufmerksamkeit <img src="https://s.w.org/images/core/emoji/11/72x72/2665.png" alt="♥" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/11/72x72/2665.png" alt="♥" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/11/72x72/2665.png" alt="♥" class="wp-smiley" style="height: 1em; max-height: 1em;" />ussiert sich voll und ganz auf den Monitor und ihr seid für alle Reize die das Spiel sendet empfänglich. Natürlich solltet ihr nach jedem Matchmaking spiel frische Luft ins Zimmer lassen <img src="https://s.w.org/images/core/emoji/11/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<div></div>
+</div>
+</div>
+<div id="33608">
+<div>
+<h3>Das Kaufen</h3>
+</div>
+<p>ist eine sehr wichtige Sache. Gutes Geldmanagement und gerade am Anfang nicht all sein Geld auszugeben sind Dinge, die spielentscheident sein können. Ich sehe immer wieder Leute, die ohne Sinn und Verstand kaufen und damit das ganze Team gefährden. Um es kurz zu machen.</p>
+<h4>Erste Runde</h4>
+<p>Es gibt drei Möglichkeiten in der ersten Runde zu kaufen. Euch stehen 800$ zur Verfügung.</p>
+<ol>
+<li> Deagle</li>
+<li> Kevlar</li>
+<li>Granaten</li>
+<li> Pistole eurer Wahl</li>
+</ol>
+<p><strong>Zu Punkt eins</strong><br />
+Die Deagle ist eine Waffe, welche man nicht unterschätzen sollte. Sie tötet mit zwei Schuss in die Brust &#8211; egal ob der Gegner Kevlar trägt oder nicht. Sie tötet IMMER mit einem Schuss in den Kopf. Mit dieser Waffe ist man im Nahkampf gegen eine M4 oder AK bestens gerüstet. Allerdings bedarf es eine ruhige Hand und starke Nerven den Umgang mit der Deagle zu meistern. Wer die Deagle aus 1.6 oder CSS kennt und sich an die &#8222;neue&#8220; Deagle aus CS:GO herangewagt hat, wurde wahrscheinlich enttäuscht. Sie ist längst nicht mehr so akkurat wie die älteren Modelle. Deshalb bedarf es starke Nerven. Nach Möglichkeit solltet ihr nach jedem Schuss eine gefühlte Sekunde warten, bevor ihr den nächsten abfeuert. Achtet auf die dünnen, kurzen Striche die beim Schießen ganz weit nach außen gehen. Sobald ihr ein Gefühl dafür entwickelt habt, wie lange ihr nach jedem Schuss warten müsst, bevor die Waffe wieder zielsicher ist, könnt ihr euch während dieser Pause auf das Zielen konzentrieren. Zwingt euch einfach dazu nicht ins Schnellfeuer zu geraten. Das ist bei dieser Waffe die falsche Wahl.</p>
+<div><strong>Zu Punkt zwei</strong></div>
+<p>Es ist immer eine gute Wahl in der ersten Runde Kevlar zu kaufen, vor allem als CT. Spielt ihr auf Seiten der CT&#8217;s habt ihr meistens die Glock als Gegner. Sie ist auf Entfernung weniger genau als die USP und fügt weniger Körperschaden zu als die USP. Ihr müsst also dreimal am Kopf getroffen werden oder echt viele Treffer kassieren bevor ihr zu Boden geht. Nutzt diese extra Treffer, die ihr kassieren könnt, um zu zielen. Nachteil bei der USP sind ganz klar die 13 Schuss. Folgende Situation: Ihr trefft auf einen Gegner beide haben in der ersten Runde Kevlar gekauft. Glock-Spieler neigen dazu ihre 20 Schuss im Dauerfeuer zu verpulvern. Das bietet sich ja auch an. Denn ein CT zieht immer den Kürzeren, wenn auch er ins Dauerfeuer gerät und euch dabei nicht umnietet. Bei der USP muss jeder Schuss sitzen. Behaltet eure Nerven und zielt mit dem Ding. Dann ist es auch möglich von kurz eine AK zu legen.</p>
+<div><strong>Zu Punkt drei</strong></div>
+<p>Ihr könnt drei Granaten tragen. Ich empfehle folgende Reihenfolge: 1# Smoke, 2# Flash, 3# HE. Eine Smoke ist wichtiger als eine Flash, weil ihr damit Barrieren erschaffen könnt die das gegnerische Team in zwei Teile spalten oder einzelne Spieler vom Rest der Truppe isolieren. Beispiel dust_2: Zwei Terroristen sind noch übrig und haben auf B gelegt. Meistens deckt einer Tunnel und einer ergreift eine Position von der er das Fenster und die Doors im Blick hat. Angenommen der eine Terrorist steht Links beim Auto, der andere in der Ecke auf dem Plateau. Du bist alleine und hast noch deine Smoke über. Wirfst du Sie durch die Türen so, dass der Spot abgetrennt ist, hast du damit für die Terroristen die ganze Übersicht kaputt gemacht. Der Bombspot ist nun in zwei Teile geteilt und egal ob du durch das Fenster oder durch die Doors gehst, steht dir ein 1on1 bevor, was du für dich entscheiden kannst.</p>
+<div><strong>Zu Punkt vier</strong></div>
+<p>Solltet ihr euch dafür entscheiden eine andere Pistole als die Deagle zu kaufen, könnt ihr, abgesehen bei den Duals, noch Granaten kaufen. Hier gilt wieder: Smoke vor Flash! Warum der vierte Punkt in Klammern gehalten ist, liegt daran, dass ich der Meinung bin, wenn man mit den Startwaffen umgehen kann ist man besser dran drei Granaten oder Kevlar zu kaufen. Dennoch sollte man die Möglichkeit andere Waffen zu kaufen nicht verachten. Sie alle sind für spezielle Situationen geeignet. Das erkläre ich noch.</p>
+<h4>2. und 3. Runde</h4>
+<p>Solltet ihr verloren haben habt ihr zwei Spar Runden in denen ihr höchstens zwei Granaten kauft, damit ihr in der vierten Runde genug Geld habt um euch vollständig mit Waffen, Granaten und Kevlar einzudecken und selbst wenn ihr die Runde verliert in der Danach noch genug Geld für eine Waffe mit Kevlar habt. Habt ihr die Sparrunde gewonnen, dürft ihr euch natürlich in der dritten Runde schon mit Waffen eindecken. Eine kleine Taktik für die Sparrunde: Vier kaufen sich Kevlar und einer eine Waffe. Die Waffe gebt ihr immer Reih-um, sodass der Schaden, den die Gegner machen verteilt wird und eine größere Chance besteht einen Gegner wegzuholen.</p>
+<p>Wenn ihr gewonnen habt solltet ihr in der zweiten Runde nicht direkt euer volles Buget für M4/AK ausgeben. Beispiel dust_2 ihr seid zu zweit auf B und fünf Terroristen kommen auf euch zugestürmt. Ihr schafft es drei zu legen, doch weil ihr M4 gekauft habt, besitzen die verbleibenden zwei Terroristen eine gute Chance die Runde für sich zu entscheiden. Sollten eure Teamkollegen nicht taktisch klug den Spot stürmen sondern sich einzeln wegholen lassen. Daher solltet ihr MP&#8217;s oder eine Galil/Famas kaufen. Meine Favoriten bei den MP&#8217;s sind die MP7, P90 und Bizon. Die erste Waffe ist eine solide Allround-Lösung, letzteren beiden sind gut um den Gegner zum Rückzug zu zwingen. Personen die sich für eine P90 oder Bizon entscheiden sollten die ersten sein, die sich an eine Front begeben da sie mit einem kontrollierten Kugelhagel feindliche Spieler umnieten können. Ein weiterer Grund sich für die MP&#8217;s zu entscheiden ist, dass ihr für einen Kill mit einer MP mehr Geld bekommt und somit euer Buget aufstocken könnt um noch Geld in der Reserve zu haben.</p>
+<h4>4. Runde</h4>
+<p>Spätestens jetzt habe eure Gegner genug Geld um Waffen zu kaufen. Von nun an solltet ihr eure MP&#8217;s in Gewehre tauschen und defensiver spielen. Für alle zukünftigen Runden solltet ihr aufpassen, dass ihr nicht zu viel Geld ausgebt. Durch Drücken der Tabulatortaste könnt ihr sehen wie viel Geld eure Mates haben. Bedenkt immer: Als CT solltet ihr mindestens 4100$ haben um euch eine M4 und Kevlar zu kaufen. Als T hingegen mindestens 3700$ für eine AK und Kevlar. Tut euch selbst den Gefallen und lernt mit den Waffen für große Kinder zu spielen. <img src="https://s.w.org/images/core/emoji/11/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<div></div>
+</div>
+<div></div>
+<div id="33648">
+<h3>Movement und Positionierungen</h3>
+<div>
+<div><strong>Peeken,</strong></div>
+<p>nennt man das kurze Lünkern auf eine Stelle, auf welcher aus eigener Erfahrung häufig Gegner verschanzt sind und auf einen warten. Man sollte nur im äußersten Notfall oder wenn man weiß, dass der Weg vor einem frei ist einfach so um Ecken laufen. Ansonsten IMMER einen schnellen Schritt um die Ecke, allerdings nur so weit, bis man eine dieser Stellen kontrollieren kann. Dann sofort wieder zurück. Den nächsten Schritt etwas weiter, bis zur nächsten Stelle. Ihr geht so lange Schritte vor und zurück, bis ihr alle Stellen abgefrühstückt habt.</p>
+<div><strong>Strafen</strong></div>
+<div><strong>Kantenüberlappen</strong></div>
+<p>Wenn ihr an einer Stelle auf einen Gegner wartet, solltet ihr darauf achten, dass ihr möglichst wenig von eurem Körper zeigt. Sonst gebt ihr eine gute Zielscheibe ab. Eine leicht zu lernende Technik ist die der Kantenüberlappung. Lauft ihr durch eine Karte und achtet darauf, werdet ihr überall Möglichkeiten finden Kanten in eine Linie zu bringen. Fangen wir mit der einfachsten Form an. Der rechte Winkel. Ihr steht an einer Ecke. Wenn ihr jetzt langsam aus der Ecke herausschleicht und genau gerade aus schaut, kommt ihr irgendwann zu dem Punkt, an dem ihr die andere Seite der Wand sehen könnt. Geht ihr ein paar Pixel zurück merkt ihr, dass es eine Stelle gibt bei der die Wand nicht mehr zu sehen ist. Das ist der Scheitelpunkt des rechten Winkels. Jetzt habt ihr genau die Hälfte eures Körpers in Schussbahn gebracht und könnt trotzdem alles sehen. Ihr seid aber schwerer zu treffen als jemand der aus seiner Deckung kommt um eure Position zu erobern. Das ganze funktioniert natürlich nicht nur an Rechten Winkeln. Es gibt viele Stellen bei denen Ihr eine Klare Linie bis zu einer Stelle ziehen könnt und euren Körper genau zur Hälfte in Deckung habt. Ich bin mir nicht sicher ob das verständlich genug erklärt ist. Es ist spät und mein Hirn braucht Pause. <img src="https://s.w.org/images/core/emoji/11/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<div><strong>Rückzugsmöglichkeit</strong></div>
+<p>Spätestens wenn ihr alleine einen Spot decken müsst, solltet ihr ihn immer so decken, dass ihr euch zurück in Sicherheit begeben könnt, um dort so lange zu warten bis eure Mates zur Verstärkung gekommen sind. Auf inferno z.B. könnt ihr B so decken, dass ihr euch zurück in die Kirche ziehen könnt. Damit schneidet ihr nicht nur den T&#8217;s einen möglichen Weg ab den Spot zu decken, ihr gewinnt auch etwas Zeit, in der eure Mates schon rennen können, weil die Gegner den Spot dann nicht direkt besetzen sondern Stück für Stück behutsam vorwärts decken. Schließlich könntet ihr nochmal zurückkommen und jemanden legen.</p>
+<div><strong>Überraschungsmoment</strong></div>
+<p>Sitzt ihr in einer Ecke fest und euer Gegner weiß, dass ihr dort seid ist es immer die schlechteste Idee dort auszuharren bis euer Gegner den Entschluss gefasst hat zu euch zu kommen. Viel besser ist es auch mit wenig HP den ersten Schritt zu machen. Wenn ihr ihn näherkommen hört oder der Meinung seid, jetzt könnte er nahe genug sein, macht ihr einen schnellen Ausfallschritt und versucht ihn umzunieten. Das gleiche gilt auch für den Fall, dass euer Gegner nicht weiß, dass ihr da seid. Der Gegner denkt nämlich, da könnte jemand in der Ecke sitzen und auf euch warten. Nicht aber, da könnte jetzt jemand aus der Ecke kommen.</p>
+<div></div>
+</div>
+</div>
+<div></div>
+<div id="34460">
+<h4>Wie zielt man richtig?</h4>
+<div>
+<div>
+<h3>Grundsätzliches über das Aiming</h3>
+</div>
+<p>Ihr müsst einen Kompromiss zwischen Ausweichen und Treffsicherheit finden. Zwar bietet das Hocken die beste Treffsicherheit, jedoch seid ihr eine unbewegliche Zielscheibe. Jetzt mögen einige einwerfen, dass man geduckt doch viel weniger Angriffsfläche bietet. Stimmt. Aber die Flächen, die ihr geduckt nur noch bietet sind der Kopf und die Brust. Also die, an denen ihr am meisten Schaden nehmt. Lauft ihr hingegen, ist euer Fadenkreuz weit auseinander gezogen und signalisiert euch eine große Palette von Möglichkeiten, wo eure Kugel hinfliegen kann. Ihr müsst euch das ganze so vorstellen. Wenn die Größe des Fadenkreuzes (ich rede von dem Standard-Fadenkreuz das neu mit CS:GO eingeführt wurde) zeigt euch, die Fläche, auf die eure Kugeln fliegen können. Der Kompromiss aus Zielsicherheit und Ausweichchance ist der Stutter-Step. Der funktioniert folgendersmaßen. Ihr lauft abwechselnd nach rechts oder links möglichst nicht nach dem gleichen Muster sondern auch mal noch einen weiteren Schritt nach rechts und dann wieder nach links. Etwa genau in dem Moment, in dem ihr die Richtung wechselt eher noch eine Millisekunde später, schießt ihr eure Salve auf den Gegner. Mit Laufen meine ich auch nicht ein paar Schritte sondern wirklich nur einen kurzen Moment die Taste drücken. Das bedarf viel Übung. So spielen aber auch die Profis.</p>
+<div><strong>Nicht auf den Boden schauen</strong></div>
+<p>Befindet ihr euch auf einer flachen Ebene, haltet ihr euer Fadenkreuz immer in der Horizontalen. Bei Anfängern sieht man oft, wie sie das Fadenkreuz leicht nach unten geneigt halten. Das ist nicht zu empfehlen. Lauft ihr eine Rampe hoch oder runter, schaut ihr dem Winkel, in dem sich die Rampe neigt oder hebt, entsprechend auch höher. Damit kommen wir auch gleich zum nächsten Punkt.</p>
+<p>Bedeutet, dass ihr euer Fadenkreuz an die Stellen haltet, von denen ihr denkt, dass dort ein Gegner um die Ecke kommt. Somit müsst ihr nicht mehr schnell die Maus irgendwo hinziehen sondern seid direkt auf Kopfhöhe und müsst nur noch klicken, wenn ein Gegner kommt. Dadurch spart ihr unheimlich viel Zeit in der der Gegner euch erschießen könnte. Ein weiterer Punkt der den normalen Spieler vom Profi unterscheidet ist das effektive Zielen. Ihr müsst euch das vorstellen wie der Ballbesitz beim Fußball. Schaut ihr mit eurem Fadenkreuz an eine Stelle, an kein Gegner kommen könnte, dann habt ihr den Ball nicht mehr in Besitz sondern kämpft in dem Moment mit dem Gegner darum, in dem er um die Ecke kommt. Ein Tipp. Schaut mit eurem Fadenkreuz. Die meisten Schauen ja schon instinktiv in die richtige Richtung, vergessen nur das Fadenkreuz auch dorthin zu richten.</p>
+<div><strong>Prediction-Shots</strong></div>
+<p>Peekt ihr irgendwo um die Ecke ist es meistens eine gute Idee einfach mal ein, zwei Schuss in Richtung der Stelle zu schießen, die ihr gerade abpeekt. Wenn sich dort tatsächlich ein Gegner befindet und ihr das ganze so weit geübt habt, dass ihr blind auf Kopfhöhe klicken könnt, kann es vorkommen, dass ihr Leute erschießt, bevor ihr sie wirklich seht. Prediction-Shots führt man aus ohne tatsächlich zu zielen. Um die Ecke und sofort schießen, noch bevor das Auge erkennen kann ob dort ein Gegner steht oder nicht.</p>
+<div></div>
+</div>
+</div>
+<div><strong><span style="line-height: 1.5em">Waffen und der Umgang mit ihnen</span></strong></div>
+<div id="33652">
+<div>
+<p>Wenn ihr euch vor eine Wand stellt, die Maus vom Pad hebt und durchdrückt bis das Magazin leer ist, dann werdet ihr bei allen automatischen Waffen ein Muster an der Wand erkennen. Dieses Muster nennt sich Rückstoß oder Recoil und rührt daher, dass ihr die Waffe niemals 100% ruhig halten könnt solange ihr im Dauerfeuer seid. Um dem entgegen zu wirken müsst ihr euch im Grunde nur den Ablauf des Recoils einprägen und die entegegengesetzten Bewegungen machen. Bei der AK/M4 sieht der Recoil T-förmig aus und geht erst hoch, dann nach links und dann nach rechts. Seid ihr nur wenige Schritte (so weit wie ihr eure Waffe mit G werfen könnt wenn ihr steht) zu eurem Gegner entfernt erhöht sich die Wahrscheinlichkeit, dass ihr ihn mit Dauerfeuer genau so effektiv umnieten könnt wie mit einer gezielten Salve. Daher ist es auch sinnvoll das Dauerfeuer zu beherrschen.</p>
+<p><strong><br />
+</strong></p>
+<h3>Wie schießt man richtig mit der AK</h3>
+<p>Die AK ist eine tödliche und mit den ersten Schüssen genaue Waffe. Ich empfehle eine Salve von zwei-drei Schüssen und zielt dabei nicht auf den Kopf sondern auf den Hals. Der Recoil rutscht bei den ersten drei Schüssen geringfügig nach oben. Bei drei Schüssen auf den Hals ist eine hohe Wahrscheinlichkeit gegeben den Gegner mit wenigen Versuchen in den Zuschauerraum zu befördern. Die AK tötet bei einem direkten Treffer IMMER mit einem Schuss in den Kopf.</p>
+<p><strong><br />
+</strong></p>
+<h3>Wie schießt man richtig mit der M4</h3>
+<p>Die M4 hat ein wesentlich genaueren Recoil und lässt sich leichter unter kontrolle halten. Aber auch hier empfehle ich auf Entfernung eine Salve von drei-vier Schüssen auf den Hals. Die M4 tötet bei einem direkten Treffer ohne Helm in den Kopf. Mit Helm braucht ihr danach nur irgendwo treffen.</p>
+<p><strong><br />
+</strong></p>
+<h3>Mit der Glock</h3>
+<p>Die Glock ist eine nicht zu unterschätzende Waffe. Durch die Funktion ihre Schüsse als Burst, einer sofortigen Salve von drei Schuss, abzugeben, ist sie bei einer ruhigen Hand im Nahkampf sofort tödlich. Alle drei Schüsse müssen im Kopf landen. Ihr solltet auf jeden Fall immer abwägen ob es gerade sinnvoller ist im Burst zu schießen oder mit Halbautomatik. Beispiel dust_2 in den Katakomben. Geht ihr gerade die Treppe hoch oder runter ist der Abstand zu den Gegnern die euch dort entgegen kommen sehr gering. Unbedingt im Burst schießen.</p>
+<p><strong><br />
+</strong></p>
+<h3>Mit der P2000 (ehemals USP)</h3>
+<p>Die USP ist höchst zielgenau und effizient. Sie tötet immer mit zwei Schuss in den Kopf. Das ist der Vorteil gegenüber der Glock. Der Nachteil ist das kleine Magazin. Weshalb ihr euch ähnlich wie bei der Deagle dazu zwingen solltet gründlich zu zielen. Dann könnt ihr damit auch locker zwei hintereinander aufkommende Gegner legen. Bratzt ihr euch hingegen für einen Gegner euer Magazin leer ist es für den zweiten Gegner ein leichtes den Refrag zu nehmen.</p>
+<p><strong><br />
+</strong></p>
+<h3>Mit der Deagle</h3>
+<p>Die Deagle habe ich schon beim Kaufen besprochen.</p>
+<p><strong><br />
+</strong></p>
+<h3>Mit der AWP</h3>
+<p>Die AWP tötet, abgesehen von den Füßen, egal wo ihr trefft. Daher sollte jeder Schuss ein treffer sein. Im Nahkampf seid ihr ansonsten aufgeschmissen. Euer Gegner wartet bis ihr einen Schuss abgebt und stürmt dann eure Position. Bis ihr eine neue Kugel in den Lauf gedrückt habt seid ihr tot. Auf lange Entfernung müsst ihr auf den Gegner zoomen und ihn entweder in euer Fadenkreuz laufen lassen oder ein Gefühl dafür entwickeln wie ihr mit wenig zielen den Gegner erlegt. Die Zeit zwischen zielen und feuern sollte möglichst gering gehalten sein. Das heißt, ihr solltet versuchen reflexartig auf eure Gegner zu schießen um zum Nachladen wieder in Deckung zu gehen. Beispiel: de_dust2 als T in der Grube. Schaut durch das Fernrohr mit einfachen Zoom bis sich ein Gegner zeigt dann zieht ihr aus dem Bauchgefühl* heraus auf ihn, drückt sofort ab und lauft wieder nach unten in die Grube. Beim Schießen müsst ihr zumindest für einen Moment absolut still stehen, sonst ist der Treffer nicht gewährleistet. Steht oder entschäft euer Gegner die Bombe, solltet ihr lieber einmal genauer zielen um einen sicheren Treffer zu landen.</p>
+<p>*Das Bauchgefühl wird mit jedem Schuss den ihr abgebt besser. Solange es sich um einen normalen Kampf handelt, versucht erst gar nicht so lange zu zielen bis auf jeden Fall trefft. Irgendwann habt ihr es einfach im Blut, wie weit ihr eure Maus bewegen müsst, um da hin zu treffen, wo ihr treffen wollt.</p>
+<p><strong><br />
+</strong></p>
+<h3>Mit der P90</h3>
+<p>Die P90 ist eine Sturm- und Unterstützungsfeuer Waffe Bratzt ihr nicht sofort euer Magazin leer könnt ihr den Gegnern viel Zeit rauben in der sie warten bis euer Magzin leer ist um nicht durch euren Kugelhagel zu rennen. Sie ist eine Nahkampf Waffe und wird z.B. gerne auf A-Kurz gesehen. Da sie auch beim Laufen ein gut kontrollierbaren Recoil hat, solltet ihr es euren Gegnern schwerer machen in dem ihr euch ständig bewegt.</p>
+<div></div>
+</div>
+</div>
+<div></div>
+<div id="33649">
+<div>Teamplay</div>
+<div>
+<div>Zwickmühlen</div>
+<p>Einen Gegner in eine Zwickmühle zu versetzen ist eine gute Möglichkeit Leute aus der Deckung zu locken. Beispiel de_dust2 die Bombe liegt auf A. Der Gegner kommt von kurz. Ihr selbst seid im <img src="https://s.w.org/images/core/emoji/11/72x72/2665.png" alt="♥" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/11/72x72/2665.png" alt="♥" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/11/72x72/2665.png" alt="♥" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/11/72x72/2665.png" alt="♥" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/11/72x72/2665.png" alt="♥" class="wp-smiley" style="height: 1em; max-height: 1em;" />eck. (Da wo man ist, wenn man die CT-Schräge bis zum Ende hochläuft.) Euer Mate sitzt mitten auf dem Spot hinter den Kisten. Ihr müsst jetzt nur noch so lange überleben bis die Bombe hochgeht oder den Gegner legen. Merkt ihr allerdings nach ein-zwei Versuchen, dass der Typ einfach doch etwas besser ist als ihr, solltet ihr eine Situation schaffen, die er nicht gewinnen kann. Ihr hockt euch einfach beide so lange in euer Versteck bis der CT entweder um die Ecke kommt oder ihr hört, dass er runtergesprungen ist. Wenn er um die Ecke kommt, muss er sich für einen von euch Entscheiden.</p>
+<div>Ködern</div>
+<p>Selbe Situation wie oben. Nur ist euer Mate diesmal in der Ecke und ihr seid auf A-Lang. Ihr schaut um die Ecke bis ihr den Gegner eure Position peeken seht, dann geht ihr ein paar Schritte zurück, bis ihr ca. die Mitte von A-Kurz seht, weil der Gegner die Bombe entschärfen möchte, muss er langsam vorwärts gehen. Er checkt immer wieder alle wahrscheinlichen Positionen, hat aber ein Hauptaugenmerk auf euch. Ihr [telefon] &#8230;.</p>
+<div>Rückendeckung</div>
+<p>Egal wohin ihr geht, es sollte immer einer für Rückendeckung sorgen. Logischerweise immer derjenige, der das Schlusslicht bildet. Seid ihr zu zweit auf A-Kurz gefangen, kommt bloß nicht auf die Idee beide in eine Richtung zu schauen und hektisch hin und her zu schauen. Jeder hat eine klare Richtung in die gedeckt wird.</p>
+<div>
+<h3>Den Mates vertrauen</h3>
+<h3></h3>
+</div>
+<p>Das Prinzip geht einher mit dem Vertrauen, was ihr an eure Mates geben müsst. Sobald da einer steht, der dort deckt, hat euch dieser Weg nicht mehr zu interessieren. Erst wenn jemand aus eurem Team stirbt kontrolliert ihr ob der Weg noch gedeckt ist. Im 2on2 ist es umso wichtiger, dass ihr euch nicht von einer kleinen Schießerei um die Ecke ablenken lasst, falls das ein Ablenkungsmanöver war und ihr euch beide um einen einzigen Gegner kümmert. Herzlichen glückwunsch, wenn ihr beide vom andern gelegt werdet.</p>
+<div>Boben richtig legen</div>
+<p>Wenn möglich, legt die Bombe immer so, dass man sie aus möglichst vielen Richtungen decken kann und auch einen geduckten, entschärfenden CT locker legen könnt. Nichts ist ärgerlicher als eine Bombe, die unerreichbar ist für jemanden der nicht unmittelbar am Spot ist.</p>
+<div>Refraggen</div>
+<p>Für Terroristen ist es sehr wichtig mindestens zu zweit irgendwo lang gehen damit der Hintermann, falls der Vordermann erschossen wurde. Schnell nachsetzen kann und sich den Kill sichern kann. Dann ist das ganze ein effektiver Tausch gewesen. Ein CT für einen T ist besser als ein T für einen angeschossenen CT der sich in Sicherheit bringen kann. Beispiel de_dust2: Ihr seid auf seiten der Terroristen und stürmt Mitte unten aus den Doors raus. Oftmals wird der erste T erschossen, weil er nicht weiß wohin er schießen muss. Der CT aber genau wohin er decken muss. Schaut sich der zweite T die Richtung an, in welche die Leiche seines Mates gefallen ist, kann er schnell erahnen, wo der CT steht. Schnell ums Eck und nachlegen. Das gleiche kann man auf so viele Situationen anwenden. IMMER nachrücken und den T legen. Ich habe schon viel zu oft gesehen, wie das ganze Team ins Stocken gerät, weil der Vordermann gelegt wurde. Schnell seid ihr eingekesselt und dann wars das mit der Runde.</p>
+<div>
+<h3>Sicherheit geht vor!</h3>
+</div>
+<p>Angenommen ihr spielt auf de_inferno und die Bombe liegt auf B. Viele entscheiden sich dann dafür die Mitte runter zu rennen und stürmen in Richtung Banane. Die Idee dahinter ist, dass man den Gegner einkesseln möchte. Mehr Fronten sorgen für mehr Verwirrung und Druck bei den Gegnern. Das ist zwar richtig. Allerdings müsst ihr immer das Risiko abwägen. Seid ihr euch sicher, dass ALLE auf dem Spot sind? Wenn nicht, ist es ein viel zu großes Risiko, dass man einfach von jemandem der geschickt campt weggeholt werdet. Immer über die sichere Zone zur Verstärkung rücken. Von CT-Base aus kann man einfach eine Smoke in Richtung Spot werfen, damit ihr durch die Ruinen rennen könnt. Stichwort Refraggen. <img src="https://s.w.org/images/core/emoji/11/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Spielerabtausch ist etwas positives! Je weniger Spielfiguren auf dem Feld sind, desto übersichtlicher ist das Spiel. Ein Refrag sollte immer möglich sein, es sei denn ihr seid dumm gelaufen. (Direkt hinter eurem Mate und nicht 100% aufmerksam oder einfach nicht gezielt sondern dauerfeuer. Ich kann euch versprechen, dass euch Grenzen gesetzt sind, wenn ihr nicht anfangt zu zielen und in zwei-drei Schuss Salven zu schießen.</p>
+<div>Alle für einen, einer für alle</div>
+<p>Wenn ihr auf de_dust2 zusammen kurz rushen wollt. Dann MÜSSEN alle durchrennen. Es sei denn ihr werdet geflashed, dann wird gewartet, Rückendeckung gegeben und gegengeflashed. Entschließt ihr euch dann jedoch weiter zu laufen und ihr trefft auf drei Gegner, die alle auf kurz zielen, gibt es nur eine Sache, die ihr falsch machen könnt. Einer nach dem anderen rennt raus und alle lassen sich nacheinander holen. Was ihr tun müsst ist gemeinsam rausrennen. Ihr habt drei Gegner die alle auf einen Punkt zielen. Ihr müsst also dafür sorgen, dass mehr Ziele da sind als schützen. Mit anderen Worten: Ihr rennt alle raus. VORSICHT. Einer bleibt auf kurz stehen und kümmert sich ums Backup. Bis alle rausgerannt sind, schießt er noch mit auf die CT&#8217;s dann aber kümmert er sich nur ums Backup, damit keiner seitlich reinflanken kann.</p>
+<div></div>
+</div>
+</div>
+<div></div>
+<div id="33655">
+<div>
+<h3>Das Radar</h3>
+<h3></h3>
+</div>
+<div>
+<p>Das Radar hilft euch den Überblick zu behalten. Ihr solltet regelmäßig das Radar ins Auge fassen. Wenn ihr gerade eine neue Position betreten habt. An den kleinen Pfeilen auf jedem Punkt der eure Teammates darstellt, könnt ihr sogar sehen in welche Richtung sie schauen. Somit könnt ihr in einer Sekunde feststellen ob alle Seiten gedeckt ist und wohin sich eure Kameraden bewegen. Ein Blick aufs Radar geht schneller als das ständige hin und herschauen zwischen allen möglichen Fronten. Außerdem hilft es euch Ruhe zu bewahren und gibt euch ein sicheres Gefühl, wenn ihr vollständige Übersicht darüber habt, was euer Team gerade im einzelnen macht. Aber das war es nocht nicht. Zusätzlich könnt ihr genau sehen wo jemand gestorben ist und wenn eure Freunde einen Gegner sehen wird sogar dieser auch angezeigt. Das ist für die T&#8217;s wichtig damit sie wissen wo gedeckt wird und für die CT&#8217;s damit sie wissen wo angegriffen wird und wann sie verschieben sollten. Denn &#8211; ganz wichtig &#8211; es wird auch der Bombenträger angezeigt. Solltet ihr den Bombenleger über das Radar sehen, dann ist es eine Überlegung wert ob ihr sofort den Bombspot wechselt um schnellstmöglich dem anderen Teil eures Teams beim Verteidigen zu helfen.</p>
+<div></div>
+</div>
+</div>
+<div></div>
+<div id="33653">
+<div>
+<h3>Letzte Worte</h3>
+</div>
+<div>
+<div>Spielt Deathmatch</div>
+<p>auf den offiziellen Karten so könnt ihr ohne Unterbrechung trainieren und zielen üben. Außerdem ist bei Deathmatch immer die Gefahr, dass jemand hinter euch auftaucht. Ihr lernt eure Nerven zu behalten und in stressigen Situationen eine ruhige Hand zu wahren und trotzdem zu zielen. Habt ihr euch einmal an diese Art zu spielen gewöhnt, werdet ihr schnell merken, dass ihr gegenüber den Spielern die sich nicht mit dem Spiel beschäftigen weit überlegen seid.</p>
+</div>
+</div>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/aller-anfang-ist-schwer-wie-man-csgo-spielt-ausfuhrlicher-anfangerbericht-how-to-play-csgo/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+	</channel>
+</rss>

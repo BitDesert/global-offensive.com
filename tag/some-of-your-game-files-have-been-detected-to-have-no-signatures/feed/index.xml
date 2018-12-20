@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Some of your game files have been detected to have no signatures &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/some-of-your-game-files-have-been-detected-to-have-no-signatures/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>Some of your game files have been detected to have no signatures &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Fehlermeldung: Some of your game files have been detected to have no signatures &#8230; [FIX]</title>
+		<link>/csgo-fehlermeldung-some-of-your-game-files-have-been-detected-to-have-no-signatures-fix/</link>
+		<comments>/csgo-fehlermeldung-some-of-your-game-files-have-been-detected-to-have-no-signatures-fix/#comments</comments>
+		<pubDate>Sat, 01 Jun 2013 15:55:52 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Fehlermeldungen]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[classic]]></category>
+		<category><![CDATA[competitive]]></category>
+		<category><![CDATA[Counterstrike]]></category>
+		<category><![CDATA[cs: go]]></category>
+		<category><![CDATA[fix]]></category>
+		<category><![CDATA[Global Offensive]]></category>
+		<category><![CDATA[Some of your game files have been detected to have no signatures]]></category>
+
+		<guid isPermaLink="false">/?p=1619</guid>
+		<description><![CDATA[Die Fehlermeldung: Einige Ihrer Spieldateien weisen keine oder ungültige Signaturen auf. Sie dürfen keinem durch VAC gesicherten Server beitreten. Viele User beschweren sich zur Zeit in verschiedensten Foren darüber, dass sie nicht mehr Classic Competitive&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Die Fehlermeldung: Einige Ihrer Spieldateien weisen keine oder ungültige Signaturen auf. Sie dürfen keinem durch VAC gesicherten Server beitreten.</h3>
+<p>Viele User beschweren sich zur Zeit in verschiedensten Foren darüber, dass sie nicht mehr Classic Competitive in CS:GO spielen können. Beim Starten von Steam bzw. beim Beitreten des Spiels erscheint folgende Fehlermeldung:</p>
+<p><em><strong>&#8222;Some of your game files have been detected to have no signatures or invalid signatures. You cannot play Classic Competitive mode, because you are not allow to join VAC secure Server..&#8220;</strong></em></p>
+<p>Warum diese Meldung erscheint liegt entweder an euch, in dem Ihr Spiel relevante Daten verändert habt, oder aber mal wieder an Steam. Sogar wenn ihr eine eigene GUI bzw. andere Models verwendet, erscheint diese Fehlermeldung.</p>
+<h3>Die Lösung:</h3>
+<p>Die Lösung des Problems ist, dass ihr die originalen Spieldateien wieder herstellen müsst. Dies geht glücklicherweise durch den integrierten Cache Loader welchen ihr hier seht:</p>
+<p><img class="alignnone" alt="" src="http://i.imgur.com/TQCQic6.png" width="617" height="400" /></p>
+<p>Klickt auf Verify integrity of Game Cache und stellt den Cache bzw. die originalen Daten ggf. wieder her.</p>
+<p>Sollte es dennoch nicht funktionieren, löscht bitte euren lokalen Game Content (ACHTUNG: Vorher bitte wichtige Dateien wie config.cfg und video.txt etc. absichern). Nachdem dann wirklich alles gelöscht wurde und ein frisches CS:GO aufgesetzt ist, funktioniert alles wieder.</p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-fehlermeldung-some-of-your-game-files-have-been-detected-to-have-no-signatures-fix/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Kommentare zu: Anleitung CS:GO Workshop se_maps, so funktionierts auf dem Server</title>
+	<atom:link href="/anleitung-csgo-workshop-se_maps-so-funktionierts/feed/" rel="self" type="application/rss+xml" />
+	<link>/anleitung-csgo-workshop-se_maps-so-funktionierts/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 14 Nov 2017 21:13:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<item>
+		<title>Von: Mr. Lipton</title>
+		<link>/anleitung-csgo-workshop-se_maps-so-funktionierts/#comment-196</link>
+		<dc:creator><![CDATA[Mr. Lipton]]></dc:creator>
+		<pubDate>Thu, 22 May 2014 10:19:40 +0000</pubDate>
+		<guid isPermaLink="false">/?p=695#comment-196</guid>
+		<description><![CDATA[Habs hinbekommen =) trotzdem vielen dank und weiter so!]]></description>
+		<content:encoded><![CDATA[<p>Habs hinbekommen =) trotzdem vielen dank und weiter so!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: Mr. Lipton</title>
+		<link>/anleitung-csgo-workshop-se_maps-so-funktionierts/#comment-195</link>
+		<dc:creator><![CDATA[Mr. Lipton]]></dc:creator>
+		<pubDate>Thu, 22 May 2014 09:07:31 +0000</pubDate>
+		<guid isPermaLink="false">/?p=695#comment-195</guid>
+		<description><![CDATA[Hallo Joe,
+
+ich hätte auch noch mal eine Frage zu den Custommaps. Wir haben bei usnerem Server die Maps manuell auf den server geladen, aber wir können diese nicht hosten. Gibt es etwas, dass wir übersehen haben könnten? Eigentlich haben wir uns genau an die Anweisungen gehalten.
+LG]]></description>
+		<content:encoded><![CDATA[<p>Hallo Joe,</p>
+<p>ich hätte auch noch mal eine Frage zu den Custommaps. Wir haben bei usnerem Server die Maps manuell auf den server geladen, aber wir können diese nicht hosten. Gibt es etwas, dass wir übersehen haben könnten? Eigentlich haben wir uns genau an die Anweisungen gehalten.<br />
+LG</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: [Tutorial] Automatischer Download &#38; Steam Map Workshop auf einen Blick</title>
+		<link>/anleitung-csgo-workshop-se_maps-so-funktionierts/#comment-194</link>
+		<dc:creator><![CDATA[[Tutorial] Automatischer Download &#38; Steam Map Workshop auf einen Blick]]></dc:creator>
+		<pubDate>Thu, 29 Aug 2013 19:31:33 +0000</pubDate>
+		<guid isPermaLink="false">/?p=695#comment-194</guid>
+		<description><![CDATA[[...]  [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;]  [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: Joe</title>
+		<link>/anleitung-csgo-workshop-se_maps-so-funktionierts/#comment-193</link>
+		<dc:creator><![CDATA[Joe]]></dc:creator>
+		<pubDate>Sun, 21 Apr 2013 11:01:18 +0000</pubDate>
+		<guid isPermaLink="false">/?p=695#comment-193</guid>
+		<description><![CDATA[Hallo Tofliega,
+
+vielen Dank für das positive Feedback. Wir geben unser Bestes den Gamern support zu bieten :-)]]></description>
+		<content:encoded><![CDATA[<p>Hallo Tofliega,</p>
+<p>vielen Dank für das positive Feedback. Wir geben unser Bestes den Gamern support zu bieten 🙂</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: Totfliega</title>
+		<link>/anleitung-csgo-workshop-se_maps-so-funktionierts/#comment-192</link>
+		<dc:creator><![CDATA[Totfliega]]></dc:creator>
+		<pubDate>Sat, 20 Apr 2013 11:15:17 +0000</pubDate>
+		<guid isPermaLink="false">/?p=695#comment-192</guid>
+		<description><![CDATA[Hi,
+
+danke für deine Antwort , wenn ich wieder was habe mit dem Spiel zum einstellen des Servers usw... . Schau ich hier vorbei super Beschreibung und schnelle Antworten auf alles thx.
+
+P.s noch schönen Samstag :)]]></description>
+		<content:encoded><![CDATA[<p>Hi,</p>
+<p>danke für deine Antwort , wenn ich wieder was habe mit dem Spiel zum einstellen des Servers usw&#8230; . Schau ich hier vorbei super Beschreibung und schnelle Antworten auf alles thx.</p>
+<p>P.s noch schönen Samstag 🙂</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: Joe</title>
+		<link>/anleitung-csgo-workshop-se_maps-so-funktionierts/#comment-191</link>
+		<dc:creator><![CDATA[Joe]]></dc:creator>
+		<pubDate>Sat, 20 Apr 2013 08:58:42 +0000</pubDate>
+		<guid isPermaLink="false">/?p=695#comment-191</guid>
+		<description><![CDATA[Hi Totfliega,
+
+Jeder Server auf dem eine Workshop map läuft bzw. diese Map durch den Workshop geladen wurde, enthält auch die Workshop map id. Es kann natürlich sein dass andere Server die map de_inferno_se manuell geladen haben und dann entsprechend in das map verzeichnis des server geladen haben. Hier wird dann die Map logischerweise nicht mit der ID angezeigt da sie nicht über den Workshop bezogen wurde.
+
+Wie gesagt, es wäre schön wenn es da auf Dauer eine elegantere Lösung geben wird.]]></description>
+		<content:encoded><![CDATA[<p>Hi Totfliega,</p>
+<p>Jeder Server auf dem eine Workshop map läuft bzw. diese Map durch den Workshop geladen wurde, enthält auch die Workshop map id. Es kann natürlich sein dass andere Server die map de_inferno_se manuell geladen haben und dann entsprechend in das map verzeichnis des server geladen haben. Hier wird dann die Map logischerweise nicht mit der ID angezeigt da sie nicht über den Workshop bezogen wurde.</p>
+<p>Wie gesagt, es wäre schön wenn es da auf Dauer eine elegantere Lösung geben wird.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: Totfliega</title>
+		<link>/anleitung-csgo-workshop-se_maps-so-funktionierts/#comment-190</link>
+		<dc:creator><![CDATA[Totfliega]]></dc:creator>
+		<pubDate>Sat, 20 Apr 2013 08:17:15 +0000</pubDate>
+		<guid isPermaLink="false">/?p=695#comment-190</guid>
+		<description><![CDATA[Hi,
+
+danke für deine schnelle Antwort aber nicht alle Server haben das ist es ein neuer bug.
+Weil ja alle Server mit Workshop die Maps hinzufügen mussten aber bei mir steht es dabei siehe hier Server IP: 176.57.139.236:27015]]></description>
+		<content:encoded><![CDATA[<p>Hi,</p>
+<p>danke für deine schnelle Antwort aber nicht alle Server haben das ist es ein neuer bug.<br />
+Weil ja alle Server mit Workshop die Maps hinzufügen mussten aber bei mir steht es dabei siehe hier Server IP: 176.57.139.236:27015</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: Joe</title>
+		<link>/anleitung-csgo-workshop-se_maps-so-funktionierts/#comment-189</link>
+		<dc:creator><![CDATA[Joe]]></dc:creator>
+		<pubDate>Sat, 20 Apr 2013 04:52:52 +0000</pubDate>
+		<guid isPermaLink="false">/?p=695#comment-189</guid>
+		<description><![CDATA[Hallo Totfliega,
+
+Zur Zeit ist es nicht möglich die ID anzupassen. Ist ja auch nicht weiter schlimm, denn man erkennen dass de_inferno_se als Map gewählt ist. Das gleiche wird übrigens such in HLSW Angezeigt. Hier warten wir zur azeit auf ein Update welches die Workshop Nummer verbirgt.]]></description>
+		<content:encoded><![CDATA[<p>Hallo Totfliega,</p>
+<p>Zur Zeit ist es nicht möglich die ID anzupassen. Ist ja auch nicht weiter schlimm, denn man erkennen dass de_inferno_se als Map gewählt ist. Das gleiche wird übrigens such in HLSW Angezeigt. Hier warten wir zur azeit auf ein Update welches die Workshop Nummer verbirgt.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: Totfliega</title>
+		<link>/anleitung-csgo-workshop-se_maps-so-funktionierts/#comment-188</link>
+		<dc:creator><![CDATA[Totfliega]]></dc:creator>
+		<pubDate>Sat, 20 Apr 2013 01:15:20 +0000</pubDate>
+		<guid isPermaLink="false">/?p=695#comment-188</guid>
+		<description><![CDATA[Hallo,
+
+hab alles so gemacht wie es hier beschrieben wird, nur leider wird jetzt in der Serverliste die Colletionszahl mit angezeigt bei der Karte  &#062; /125499116/de_inferno_se. Kann man das ändern ist ja nicht der Sinn des ganzen.]]></description>
+		<content:encoded><![CDATA[<p>Hallo,</p>
+<p>hab alles so gemacht wie es hier beschrieben wird, nur leider wird jetzt in der Serverliste die Colletionszahl mit angezeigt bei der Karte  &gt; /125499116/de_inferno_se. Kann man das ändern ist ja nicht der Sinn des ganzen.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: Joe</title>
+		<link>/anleitung-csgo-workshop-se_maps-so-funktionierts/#comment-187</link>
+		<dc:creator><![CDATA[Joe]]></dc:creator>
+		<pubDate>Fri, 22 Mar 2013 09:20:17 +0000</pubDate>
+		<guid isPermaLink="false">/?p=695#comment-187</guid>
+		<description><![CDATA[Schön zu hören :-)]]></description>
+		<content:encoded><![CDATA[<p>Schön zu hören 🙂</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

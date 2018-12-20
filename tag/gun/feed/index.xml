@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>gun &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/gun/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>gun &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Update 21.02.2013 &#8211; Glock geschwächt, Deagle genauer</title>
+		<link>/update-21-02-2013-glock-geschwacht-deagle-genauer/</link>
+		<comments>/update-21-02-2013-glock-geschwacht-deagle-genauer/#respond</comments>
+		<pubDate>Thu, 21 Feb 2013 16:25:36 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[21.02.2013. pistolen]]></category>
+		<category><![CDATA[belancing]]></category>
+		<category><![CDATA[Bug]]></category>
+		<category><![CDATA[Deagle]]></category>
+		<category><![CDATA[dessert eagle]]></category>
+		<category><![CDATA[fiveseven]]></category>
+		<category><![CDATA[fixes]]></category>
+		<category><![CDATA[glock]]></category>
+		<category><![CDATA[GOTV]]></category>
+		<category><![CDATA[gun]]></category>
+		<category><![CDATA[hauptmenü]]></category>
+		<category><![CDATA[nerv]]></category>
+		<category><![CDATA[pistol]]></category>
+		<category><![CDATA[probleme]]></category>
+		<category><![CDATA[tec 9]]></category>
+		<category><![CDATA[tv_enable 1. tv_relay]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[Workshop]]></category>
+
+		<guid isPermaLink="false">/?p=937</guid>
+		<description><![CDATA[&#160; Heute hat Valve mal wieder ein neuen Update herausgebracht.&#8220;Was ist neu?&#8220; Diesmal wurde mal wieder an den Pistolen gewerkelt. Anscheinend stimmte das Balancing immer noch nicht. Dazu gibt es noch einige Verbesserungen für&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>&nbsp;</p>
+<p>Heute hat Valve mal wieder ein neuen Update herausgebracht.&#8220;Was ist neu?&#8220;</p>
+<p>Diesmal wurde mal wieder an den Pistolen gewerkelt. Anscheinend stimmte das Balancing immer noch nicht. Dazu gibt es noch einige Verbesserungen für GOTV und den Maps Workshop.</p>
+<p>&nbsp;</p>
+<p><strong>Pistolen:</strong></p>
+<p>Die Glock war in letzter Zeit eine der besten Pistolen, weswegen ihr Schaden nun etwas reduziert wurde. Die Desert Eagle, welche erst kürzlich geschwächt worden ist, und dadurch eher unrentabel wurde, hat nun an Genauigkeit dazugewonnen. Bei der Fiveseven und der Tec9 wurden die Preise nach unten korrigiert, um sie wieder etwas attraktiver für Spieler zu machen.</p>
+<p>&nbsp;</p>
+<p><strong>Maps Workshop und GOTV</strong></p>
+<p>Das Update hat ein paar Probleme mit dem Maps Workshop behoben. Man bekommt nun im Hauptmenü angezeigt, ob gerade Maps heruntergeladen werde. Bei GOTV wurde das Zusammenspiel mit den Custom Maps aus dem Workshop verbessert. Interessant ist auch, dass nun &#8222;+tv_enable 1&#8220; und &#8222;tv_relay ip:port&#8220; in der Kommandozeile eines GOTV Relays angegeben werden können.<br />
+<strong>Release Notes for 2/20/2013:</strong></p>
+<blockquote><p>[ MISC ]</p>
+<p>&#8211; Reduced Glock damage.<br />
+&#8211; Reduced Deagle inaccuracy.<br />
+&#8211; Reduced Fiveseven and Tec9 prices.</p>
+<p>&#8211; Added checks to prevent clients from executing workshop concommands.<br />
+&#8211; GameModes.txt and individual map kv files now get updated and loaded everytime a new map is loaded.<br />
+&#8211; Newly subscribed maps in workshop map selector are sorted to the start of the list.<br />
+&#8211; Fixed some cases where workshop maps failed to download.<br />
+&#8211; Added status indicator to main menu that shows if maps are currently downloading.<br />
+&#8211; Added convar sv_rcon_whitelist_address, rcon clients failing to auth from the specified IP address will never get banned.<br />
+&#8211; Fixed Windows GOTV relays crashing when running without Steam client.<br />
+&#8211; Improved handling of workshop maps on GOTV relays.<br />
+&#8211; Added support for specifying +tv_enable 1 +tv_relay ip:port on GOTV relay commandline.</p></blockquote>
+<p>Quelle: <a href="http://store.steampowered.com/news/9996/" target="_blank">Steam News</a></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/update-21-02-2013-glock-geschwacht-deagle-genauer/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

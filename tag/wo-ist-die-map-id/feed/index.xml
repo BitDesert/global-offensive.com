@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>wo ist die map id &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/wo-ist-die-map-id/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>wo ist die map id &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Workshop &#8211; Map ID finden</title>
+		<link>/workshop-map-id-finden/</link>
+		<comments>/workshop-map-id-finden/#comments</comments>
+		<pubDate>Sun, 17 Feb 2013 21:57:25 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[Gamerserver]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Server Administration]]></category>
+		<category><![CDATA[aim_ak-cold]]></category>
+		<category><![CDATA[befehl]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[finden]]></category>
+		<category><![CDATA[Global Offensive]]></category>
+		<category><![CDATA[heraussuchen]]></category>
+		<category><![CDATA[host_workshop]]></category>
+		<category><![CDATA[id]]></category>
+		<category><![CDATA[Map]]></category>
+		<category><![CDATA[map id]]></category>
+		<category><![CDATA[passende id]]></category>
+		<category><![CDATA[Steam]]></category>
+		<category><![CDATA[steamcommunity]]></category>
+		<category><![CDATA[suchen]]></category>
+		<category><![CDATA[was ist die map id]]></category>
+		<category><![CDATA[wo ist die map id]]></category>
+		<category><![CDATA[Workshop]]></category>
+
+		<guid isPermaLink="false">/?p=742</guid>
+		<description><![CDATA[Um die passende ID zur Map zu finden geht ihr einfach auf &#8222;steamcommunity.com&#8220;, dort navigiert Ihr auf den Menü Punkt &#8222;Workshop&#8220;, dann weiter auf &#8222;CSGO&#8220;. Im Suchfeld könnt ihr eine Map heraussuchen. Hier als&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Um die passende ID zur Map zu finden geht ihr einfach auf <a href="http://steamcommunity.com/">&#8222;steamcommunity.com&#8220;</a>, dort navigiert Ihr auf den Menü Punkt &#8222;Workshop&#8220;, dann weiter auf &#8222;CSGO&#8220;. Im Suchfeld könnt ihr eine Map heraussuchen.</p>
+<p>Hier als Beispiel &#8222;aim_ak-colt&#8220;.</p>
+<p>In der Browser Adresszeile findet ihr nun die Map ID. Im Beispiel: &#8222;126666806&#8220;</p>
+<p><img src="/wp-content/uploads/sites/2/2013/02/map_id.jpg" alt="" /></p>
+<p>Somit könnt ihr ganz einfach auf die Map &#8222;aim_ak-cold&#8220; mit den Befehl &#8222;rcon host_workshop_map 126666806” wechseln.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/workshop-map-id-finden/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

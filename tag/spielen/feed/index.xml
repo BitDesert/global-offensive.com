@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>spielen &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/spielen/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>spielen &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Counter-Strike Beta Download &#8211; Erste Counter-Strike Version vom Jahr 1999 kostenlos downloaden und online spielen</title>
+		<link>/counter-strike-beta-download-erste-counter-strike-version-vom-jahr-1999-kostenlos-downloaden-und-online-spielen/</link>
+		<comments>/counter-strike-beta-download-erste-counter-strike-version-vom-jahr-1999-kostenlos-downloaden-und-online-spielen/#comments</comments>
+		<pubDate>Fri, 18 Apr 2014 14:26:54 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Software]]></category>
+		<category><![CDATA[beta]]></category>
+		<category><![CDATA[counter strike]]></category>
+		<category><![CDATA[cs]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[online]]></category>
+		<category><![CDATA[spielen]]></category>
+
+		<guid isPermaLink="false">/?p=2486</guid>
+		<description><![CDATA[Ihr wollt wissen wie die erste Counter-Strike Version war? Nachdem wir immer wieder von Community Mitgliedern gefragt werden, wie das erste Counter-Strike war, haben wir für euch diese zum kostenlosen Download hochgeladen. Einige aus&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Ihr wollt wissen wie die erste Counter-Strike Version war?</h3>
+<p>Nachdem wir immer wieder von Community Mitgliedern gefragt werden, wie das erste <strong>Counter-Strike</strong> war, haben wir für euch diese zum kostenlosen <strong>Download</strong> hochgeladen. Einige aus unserem Team haben vor fast 15 Jahren angefangen Counter-Strike zu spielen. Es ist zu heute natürlich ein Unterschied von Tag und Nacht, sei es die Waffen oder die Sprites / Texturen. Aber es macht immer noch Spaß in Erinnerung zu schwelgen! Das schöne daran ist, es ist komplett <strong>kostenlos</strong>. Ihr könnt die Datei weiter unten direkt <strong>herunterladen</strong> und die &#8222;hl.exe&#8220; im Half-Life Ordner starten.</p>
+<p>Habt ihr dieses getan gebt folgenden <strong>Counter-Strike Key</strong> ein: &#8222;<strong>1234-1234-1234-1234</strong>&#8222;. Nachdem Intro müsst ihr über das Hauptmenü und Games noch Counter-Strike aktivieren. ihr nur noch die Grafik Einstellungen und Game-Modes hochschrauben, achtet darauf dass ihr dabei nicht Direct3D wählt sondern OpenGL. Dann nur noch die Auflösung einstellen. Und über die Multiplayer Funktion auf Internet Games gehen und einen der folgenden Server hinzufügen:</p>
+<h3>Counter-Strike Beta Serverliste</h3>
+<p>[checklist]</p>
+<ul>
+<li>185.26.144.85:270142</li>
+<li>185.26.144.85:270160</li>
+<li>185.26.144.85:270170</li>
+<li>cstrk71.ndlp.info:270170</li>
+<li>cstrk11.ndlp.info:270200</li>
+<li>cstrk61.ndlp.info:270160</li>
+<li>cstrk52.ndlp.info:270220</li>
+</ul>
+<p>[/checklist]</p>
+<h3>Hier geht es zum Download von CS Beta</h3>
+<p><a href="http://www.sendspace.com/pro/dl/nprdag"><strong>Download Counter-Strike Beta Standalone</strong></a></p>
+<h3>Hier zwei Videos zum Gameplay bzw. zu einigen Frags:</h3>
+<p><strong>Gameplay:</strong></p>
+<p><strong>Frag-Movie:</strong></p>
+<p><strong style="line-height: 1.5em"></strong></p>
+<p><strong style="line-height: 1.5em">Hier noch ein paar nützliche Befehle:</strong></p>
+<p>&#8222;rate 25000&#8220; will set your rates to lan quality.<br />
+&#8222;room_type 0&#8220; eliminates the annoying echo sound in game.<br />
+&#8222;hud_fastswitch 1&#8220; enables fast weapon switching.<br />
+&#8222;cl_hidefrags 0&#8220; allows you to see other players scores, it doesn&#8217;t always work immediately.<br />
+&#8222;fps_modem 72&#8220; sets your frames per second to the maximum possible.<br />
+&#8222;r_netgraph 1&#8220; shows your net graph and fps, the maximum is 72 fps.<br />
+&#8222;setinfo lefthand 0&#8220; switches weapon model to right hand (must restart cs to see change)</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/counter-strike-beta-download-erste-counter-strike-version-vom-jahr-1999-kostenlos-downloaden-und-online-spielen/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

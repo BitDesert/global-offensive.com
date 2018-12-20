@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PROGAMING &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/progaming/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>PROGAMING &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS: GO Profi Matches Livestreams direkt über Google Chrome Plugin starten [Software]</title>
+		<link>/cs-go-profi-matches-livestreams-direkt-uber-google-chrome-plugin-starten-software/</link>
+		<comments>/cs-go-profi-matches-livestreams-direkt-uber-google-chrome-plugin-starten-software/#respond</comments>
+		<pubDate>Sun, 02 Jun 2013 17:18:12 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[ADDON]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[EXTENSION]]></category>
+		<category><![CDATA[GOOGLE CHROME]]></category>
+		<category><![CDATA[LIVESTREAM]]></category>
+		<category><![CDATA[MATCHES]]></category>
+		<category><![CDATA[MATHCES]]></category>
+		<category><![CDATA[plugin]]></category>
+		<category><![CDATA[PROGAMING]]></category>
+		<category><![CDATA[TWITCH.TV.]]></category>
+
+		<guid isPermaLink="false">/?p=1629</guid>
+		<description><![CDATA[CS:GO Livestreams von Twitch.TV direkt in Google Chrome Heute wurde von einem Reddit Community Mitglied ein nettes Chrome Plugin  veröffentlicht. Das Plugin bietet einem die Möglichkeit, direkt über den Browser die verschiedenen Live-Matches von&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>CS:GO Livestreams von Twitch.TV direkt in Google Chrome</h3>
+<p>Heute wurde von einem Reddit Community Mitglied ein nettes Chrome Plugin  veröffentlicht. Das Plugin bietet einem die Möglichkeit, direkt über den Browser die verschiedenen Live-Matches von Twitch.TV aufzurufen.</p>
+<p>Hier seht ihr einen Screenshot des Plugins in Google Chrome:</p>
+<p><a href="http://beta.global-offensive.com/wp-content/uploads/sites/2/2013/06/chrome_twitch.png"><img alt="chrome_twitch" src="http://beta.global-offensive.com/wp-content/uploads/sites/2/2013/06/chrome_twitch.png" width="1210" height="812" /></a></p>
+<p>&nbsp;</p>
+<h3>Installation und Download:</h3>
+<ol>
+<li>Downloaded euch das Plugin hier: <a href="http://www.mediafire.com/download/01ll917n0p7lea5/CSGO+Matches+of+the+Day%282%29.crx">CS:GO Matches of the day</a></li>
+<li>Öffnet den Download Ordner und wählt die Datei aus die ihr gerade heruntergeladen habt</li>
+<li>gibt in die Browserleiste von Google Chrome folgendes ein: Chrome://extensions</li>
+<li>Zieht die Plugindatei welche ihr heruntergeladen habt per &#8222;Drag and Drop&#8220; direkt in das Extensions Fenster</li>
+<li>Bestätigt die Meldung mit dem Klick auf &#8222;add&#8220;.</li>
+</ol>
+<p>Nun besitzt ihr wie auf dem Screenshot zusehen rechts oben in der Leiste das Plugin. Mit einem Klick auf das CS:GO Symbol öffnet sich das Tab mit den Livestreams</p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/cs-go-profi-matches-livestreams-direkt-uber-google-chrome-plugin-starten-software/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

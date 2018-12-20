@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>1.10.2014 &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/1-10-2014/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>1.10.2014 &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Update: Tec-9 noch stärker &#8211; Map-Änderungen &#8211; Große Bugfixes &#8211; Weitere Sticker</title>
+		<link>/csgo-update-tec-9-noch-staerker-map-aenderungen-grosse-bugfixes/</link>
+		<comments>/csgo-update-tec-9-noch-staerker-map-aenderungen-grosse-bugfixes/#respond</comments>
+		<pubDate>Wed, 01 Oct 2014 07:45:51 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[App]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[1.10.2014]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[tec 9]]></category>
+		<category><![CDATA[update]]></category>
+
+		<guid isPermaLink="false">/?p=2854</guid>
+		<description><![CDATA[Counter-Strike: Global-Offensive Update vom 01.10.2014 Heute Nacht ist ein weiteres CS:GO Update erschienen wo sowohl Gameplay, Maps als auch das Matchmaking verbessert wurden. Im Matchmaking wurden viele Verbindungsprobleme behoben welche das wiederverbinden von gedroppten&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h2 style="text-align: center"><img class="aligncenter size-medium wp-image-2859" src="/wp-content/uploads/sites/2/2014/10/csgo-update-300x168.jpg" alt="csgo-update" width="300" height="168" /></h2>
+<h2>Counter-Strike: Global-Offensive Update vom 01.10.2014</h2>
+<p>Heute Nacht ist ein weiteres CS:GO Update erschienen wo sowohl Gameplay, Maps als auch das Matchmaking verbessert wurden. Im Matchmaking wurden viele Verbindungsprobleme behoben welche das wiederverbinden von gedroppten Spielern unmöglich machte. Es sollten also Verbindungsspezifische Probleme im Matchmaking wesentlich weniger erscheinen.</p>
+<p>Insgesamt wurden mehrere kleinere Änderungen durchgeführt welche wir euch in der Short-Auflistung zeigen:</p>
+<h3>Gameplay:</h3>
+<ul>
+<li>Tec-9: Genauigkeit wurden weiter verbessert und recoil reduziert</li>
+</ul>
+<h3>Maps:</h3>
+<ul>
+<li>Overpass: Bug behoben welcher ermöglichste dass man vom Balkon auf B die Bombe auf A defusen konnte. <a href="https://www.youtube.com/watch?v=Gg5taerG0IM&amp;hd=1" target="_blank">(Youtube  Video)</a></li>
+<li>Eine &#8222;collision&#8220; wurde im Park bei den Säulen hinzugefügt.</li>
+<li>Ein Boiler wurde hinzugefügt (mal wieder). Position: Raum direkt beim A-Pit</li>
+</ul>
+<h3>Matchmaking:</h3>
+<ul>
+<li>Das Session System wurde &#8222;signifikant&#8220; verbessert.</li>
+<li>Das Matchmaking Backend wurde verbessert</li>
+<li>Verbindung zu Game Servern können nun jederzeit wieder aufgenommen auch wenn im Hintergrund Spiele- Updates laufen</li>
+<li>Matchmaking Spiele können wieder beigetreten werden wenn Spieler die Verbindung (Steam Logout) erhalten haben.</li>
+<li>Wenn ein CS:GO Update erscheint, werden Spieler im Spiel nicht darüber informiert dass ein Update vorliegt.</li>
+<li><em><strong>Offizielle Competitive Matches werden nun abgebrochen, sobald ein Spieler noch während der Aufwärmphase ein Cool-Down bekommt bzw. nicht weiter spielen kann. Z.B. Verbindungsprobleme. (Sehr cool!!)</strong></em></li>
+</ul>
+<h3>Linux:  (Interessiert die wenigsten daher in Englisch)</h3>
+<ul>
+<li>Made it possible to connect to community servers</li>
+<li>Made it possible to download custom content from servers</li>
+<li>Fixed a variety of bugs when using non-English locales</li>
+<li>Added icon in the store page</li>
+<li>Improved client stability</li>
+</ul>
+<h3>MAC CLIENT</h3>
+<ul>
+<li>Fixed a bug causing a line in the shadows to follow the player around</li>
+<li>Improved client stability</li>
+</ul>
+<h3>Sonstiges:</h3>
+<ul>
+<li>Hauptmenü wurde überarbeitet</li>
+<li>Es können nun auch individuelle Items im Market angeboten werden</li>
+<li>Ein neues Set von Community Stickern</li>
+<li>Ein weiterer Filter Link für den Inhalt von Cases</li>
+<li>Preview Funktion für Community Sticker (<a href="http://csgostash.com/stickers.php?capsule=Community+Stickers+Series+2" target="_blank">Neue Sticker hier</a>)</li>
+</ul>
+<p>&nbsp;</p>
+<p>Für eine übersichtliche Darstellung bitte die Seite aufrufen. (Weltkugel oben rechts)</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-update-tec-9-noch-staerker-map-aenderungen-grosse-bugfixes/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Kommentare zu: Sourcemod Adminbefehle</title>
+	<atom:link href="/sourcemod-adminbefehle/feed/" rel="self" type="application/rss+xml" />
+	<link>/sourcemod-adminbefehle/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 14 Nov 2017 21:13:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<item>
+		<title>Von: Patrick</title>
+		<link>/sourcemod-adminbefehle/#comment-82</link>
+		<dc:creator><![CDATA[Patrick]]></dc:creator>
+		<pubDate>Sat, 09 Aug 2014 12:52:52 +0000</pubDate>
+		<guid isPermaLink="false">/?p=213#comment-82</guid>
+		<description><![CDATA[der code sm_rcon_restart funktioniert leider nicht.]]></description>
+		<content:encoded><![CDATA[<p>der code sm_rcon_restart funktioniert leider nicht.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: Joe</title>
+		<link>/sourcemod-adminbefehle/#comment-81</link>
+		<dc:creator><![CDATA[Joe]]></dc:creator>
+		<pubDate>Sat, 09 Aug 2014 10:33:32 +0000</pubDate>
+		<guid isPermaLink="false">/?p=213#comment-81</guid>
+		<description><![CDATA[Hallo!
+
+versuchs mal mit sm_rcon_restart
+
+VG Joe]]></description>
+		<content:encoded><![CDATA[<p>Hallo!</p>
+<p>versuchs mal mit sm_rcon_restart</p>
+<p>VG Joe</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: Patrick</title>
+		<link>/sourcemod-adminbefehle/#comment-80</link>
+		<dc:creator><![CDATA[Patrick]]></dc:creator>
+		<pubDate>Fri, 08 Aug 2014 17:54:09 +0000</pubDate>
+		<guid isPermaLink="false">/?p=213#comment-80</guid>
+		<description><![CDATA[Guten tag, Author,
+gibt es auch ein Command (befehl) wo man die map/karte neustarten kann?]]></description>
+		<content:encoded><![CDATA[<p>Guten tag, Author,<br />
+gibt es auch ein Command (befehl) wo man die map/karte neustarten kann?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

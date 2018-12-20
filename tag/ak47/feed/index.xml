@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ak47 &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/ak47/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>ak47 &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Richtig zielen mit der AK47 [How to aim]</title>
+		<link>/richtig-zielen-mit-der-ak47-how-to-aim/</link>
+		<comments>/richtig-zielen-mit-der-ak47-how-to-aim/#respond</comments>
+		<pubDate>Wed, 03 Apr 2013 16:37:26 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[How to aim]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[aim tipps]]></category>
+		<category><![CDATA[ak47]]></category>
+		<category><![CDATA[how to aim]]></category>
+		<category><![CDATA[richtig zielen]]></category>
+		<category><![CDATA[wie zielt man richtig]]></category>
+
+		<guid isPermaLink="false">/?p=1250</guid>
+		<description><![CDATA[Hier mal kurz ein weiteres Video aus der How to aim Reihe vom Youtube User Sonnyaner. In diesem Video geht er kurz auf die Waffeneigenschaften der AK47 ein. Wichtig ist dass mit der AK47&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Hier mal kurz ein weiteres Video aus der How to aim Reihe vom Youtube User Sonnyaner. In diesem Video geht er kurz auf die Waffeneigenschaften der AK47 ein. Wichtig ist dass mit der AK47 in Salven geschossen wird damit möglichst viele Schüsse auch genau in das Ziel treffen. Dauerfeuer ist mit dieser Waffe auf keinen Fall zu empfehlen:</p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/richtig-zielen-mit-der-ak47-how-to-aim/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

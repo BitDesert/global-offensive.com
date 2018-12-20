@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>cly &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/cly/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>cly &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>cLy fortan auch in der ESL gesperrt</title>
+		<link>/cly-fortan-auch-in-der-esl-gesperrt/</link>
+		<comments>/cly-fortan-auch-in-der-esl-gesperrt/#respond</comments>
+		<pubDate>Thu, 04 Dec 2014 09:25:09 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Szene]]></category>
+		<category><![CDATA[banned]]></category>
+		<category><![CDATA[Cheat]]></category>
+		<category><![CDATA[cheater]]></category>
+		<category><![CDATA[cly]]></category>
+		<category><![CDATA[Sperre]]></category>
+
+		<guid isPermaLink="false">/?p=3239</guid>
+		<description><![CDATA[Ab sofort erhalten alle Spieler die einen VAC-Ban erhalten haben automatisch eine zwei Jahres Sperre in der ESL, dies betrifft unter anderem auch Planetkeys Anil &#8218;cLy&#8218; Gülec. Die Sperre in der ESL startet rückwirkend an&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Ab sofort erhalten alle Spieler die einen <strong>VAC-Ban</strong> erhalten haben automatisch eine zwei Jahres Sperre in der <strong>ESL</strong>, dies betrifft unter anderem auch Planetkeys Anil &#8218;<strong>cLy</strong>&#8218; Gülec. Die Sperre in der <strong>ESL</strong> startet rückwirkend an dem Tag an dem der <strong>VAC-Ban</strong> ausgesprochen wurde, somit ist <strong>cLy</strong> bist zum 30.06.2016 für den Ligabetrieb gesperrt.</p>
+<p><a href="http://esports-newscenter.de/wp-content/uploads/2014/12/cLy.jpg"><img class="size-full wp-image-1394 aligncenter" src="http://esports-newscenter.de/wp-content/uploads/2014/12/cLy.jpg" alt="cLy" width="554" height="110" /></a></p>
+<p>Neben <strong>cLy</strong> sind auch weitere bekannte Gesichter der Szene betroffen, auch Hovik &#8218;<strong>KQLY</strong>&#8218; Tovmassian und Gordon &#8218;<strong>Sf</strong>&#8218; Giry haben eine Sperre in der <strong>ESL </strong>bekommen. Der dänische Spieler Nichlas &#8218;<strong>Nille</strong>&#8218; Busk hat hingegen Glück, er hat in der <strong>ESL</strong> einen anderen Steam-Account eingetragen und umgeht somit seine Sperre in der Liga.</p>
+<p>Ob die<strong> Planetkey Dynamics</strong> nun für die Finals der <strong>ESL</strong> gesperrt werden bleibt offen, da <strong>cLy</strong> vier der fünf <strong>EPS Cups</strong> mitgespielt hat könnte dieser Zug der <strong>ESL</strong> aber in den kommenden Tagen folgen.</p>
+<p><strong>Statement Philipp Saedler, Senior Editor ESL:</strong></p>
+<blockquote><p><em>Over the past weeks we reviewed our policies and protocols for CS:GO matches and events, and we will continue to evaluate them regularly to take any necessary steps to ensure fair play in our leagues and tournaments. With our own ESL Wire Anti-Cheat, which is under continuous development and receives regular updates, we already provide one of the most secure environments to play competitive matches in. In our discussions, we made a lot of progress, and as a first result we have decided to extend our cooperation and communication with Valve in relation to anti-cheating measures, as well as to change our cheating policies.</em></p>
+<p>One part of the cooperation and change in our policies is that players with a VAC ban will be given a cheating ban on ESL for two years. The date when the player was banned by VAC will be the start date of the two years cheating ban on ESL. This is a step we are going to roll out over time for everyone on ESL as we get verified information, but we have already started handing out cheating-related bans to notable persons where we have verified information available.</p>
+<p>Another change which will be implemented for our higher leagues is that players in those leagues and tournaments have to upload their POV demos after each match from now on. Before, players were only required to record demos and upload them on request, but with this change we want to allow the community watch any action from any player via the recorded POV demos.</p>
+<p><em>We will also be tightening our security measures for offline events. However, we are not able to disclose any information about what kind of steps we are taking here at this stage in order to avoid compromising our efforts.</em></p></blockquote>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/cly-fortan-auch-in-der-esl-gesperrt/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>debug modus &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/debug-modus/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>debug modus &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Debug Modus aktivieren um Fehler zu erkennen.</title>
+		<link>/csgo-debug-modus-aktivieren-um-fehler-zu-erkennen/</link>
+		<comments>/csgo-debug-modus-aktivieren-um-fehler-zu-erkennen/#comments</comments>
+		<pubDate>Mon, 10 Feb 2014 17:58:39 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Fehlermeldungen]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[debug modus]]></category>
+
+		<guid isPermaLink="false">/?p=1934</guid>
+		<description><![CDATA[CS:GO Debug Modus aktivieren (um Support zu erhalten) Seit dem letzten Update häufen sich die Fehlermeldungen, angefangen von csgo.exe Fehler bis schwarzen Screens ist alles dabei. Damit wir die Fehler nachvollziehen können benötigen wir&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>CS:GO Debug Modus aktivieren (um Support zu erhalten)</h3>
+<p>Seit dem letzten Update häufen sich die Fehlermeldungen, angefangen von csgo.exe Fehler bis schwarzen Screens ist alles dabei.</p>
+<p>Damit wir die Fehler nachvollziehen können benötigen wir weitere Infos. Bitte füge den CS:GO Startoptionen die Befehle &#8222;-forcedebug -debug -forceupdate&#8220; an.</p>
+<h3>Hier die Schritte um schnell Hilfe zu erhalten:</h3>
+<ol>
+<li>Rechte Maustaste auf Counter-Strike: Global-Offensive (siehe Bild unten)</li>
+<li>Eigenschaften</li>
+<li>Startoptionen festlegen: -forcedebug -debug -forceupdate</li>
+<li>Anschließend das Spiel starten</li>
+<li>Dann wieder schließen</li>
+<li>Die Debug.log im  Ordner C:Program Files (x86)SteamsteamappscommonCounter-Strike Global Offensive mit einem editor öffnen</li>
+<li>Den Inhalt nun auf <a href="http://codepaste.net/">http://codepaste.net/</a> einfügen und uns den Link per Chat, Teamspeak oder in unserem<a href="/forum/counter-strike-global-offensive-group5/probleme-oder-fragen-forum6/"> Forum HIER</a> schicken</li>
+</ol>
+<p>&nbsp;</p>
+<p>Hier das Fenster wo ihr die Startoptionen eingeben könnt:</p>
+<p><img class="alignnone" alt="" src="http://gyazo.com/1a6d28e7bb31d8695b5cc020349dfef5.png" width="747" height="626" /></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-debug-modus-aktivieren-um-fehler-zu-erkennen/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

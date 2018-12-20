@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>awp_ice_csgo &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/awp_ice_csgo/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>awp_ice_csgo &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO &#8211; Operation Vanguard</title>
+		<link>/csgo-operation-vanguard/</link>
+		<comments>/csgo-operation-vanguard/#respond</comments>
+		<pubDate>Wed, 12 Nov 2014 06:46:24 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[App]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[awp_ice_csgo]]></category>
+		<category><![CDATA[Operation Vanguard]]></category>
+
+		<guid isPermaLink="false">/?p=3027</guid>
+		<description><![CDATA[Die News auf Deutsch dazu gibt&#8217;s später in detaillierter Form. Hier nun erstmal die Info damit ihr die ersten seid die es erfahrt. OPERATION VANGUARD Six community maps added to the Operation Vanguard map&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Die News auf Deutsch dazu gibt&#8217;s später in detaillierter Form. Hier nun erstmal die Info damit ihr die ersten seid die es erfahrt.</p>
+<h3>OPERATION VANGUARD</h3>
+<ul>
+<li>Six community maps added to the Operation Vanguard map group, available for free to ALL CS:GO players.
+<ul style="margin: 10px 2em;padding: 0px">
+<li>de_marquis, de_facade, de_season, de_bazaar, cs_workout, and cs_backalley</li>
+</ul>
+</li>
+<li>The Operation Vanguard Pass is now available. With an operation pass, you&#8217;ll receive:
+<ul>
+<li>A personal Operation Vanguard Journal</li>
+<li>Exclusive access to the new Operation Vanguard weapon case as a separate timed drop.</li>
+<li>TWO all-new Campaigns: Weapon Specialist and Vanguard. Choose your own path through a series of missions that span the globe, and receive extra weapons or Operation Vanguard weapon cases as a reward.</li>
+<li>Access to two optional campaigns: Maghreb and Eurasia.</li>
+<li>An Operation Vanguard Challenge Coin, which can be upgraded by completing branches of a campaign.</li>
+<li>Active Duty and Vanguard Scorecards, and Friends Leaderboards to track and compare your Competitive Matchmaking performance throughout the Operation.</li>
+</ul>
+</li>
+<li>Operation runs until February 10th, 2015.</li>
+</ul>
+<h3>ARMS RACE</h3>
+<ul>
+<li>Friendly Fire has been turned off.</li>
+<li>de_stmarc, de_lake and de_safehouse are now available in Arms Race mode.</li>
+<li>Fixed game reporting the wrong name of the player who got to knife level in Arms Race.</li>
+<li>Major update to Arms Race mode:
+<ul>
+<li>Leaders (players with the highest weapon index) from each team now glow for a short time after attacking.</li>
+<li>The weapon progression list now picks a weapon randomly from 5 fixed weapon categories.</li>
+<li>The number of levels to reach Golden Knife have been reduced to 16.</li>
+<li>Two kills are needed to upgrade with each weapon (unless you get a knife kill or kill the enemy leader).</li>
+<li>Added some new sounds to AR mode.</li>
+<li>To see more of the Arms Race rules changes, see this guide:<a style="text-decoration: none;color: #3a4b55 !important;font-weight: bold;border-bottom-width: 1px;border-bottom-style: dotted;border-bottom-color: #000000" href="http://steamcommunity.com/sharedfiles/filedetails/?id=336510139">http://steamcommunity.com/sharedfiles/filedetails/?id=336510139</a></li>
+</ul>
+</li>
+</ul>
+<h3>DEMOLITION</h3>
+<ul>
+<li>Friendly Fire has been turned off.</li>
+<li>de_shortdust added to Demolition mode</li>
+</ul>
+<h3>DEATHMATCH</h3>
+<ul>
+<li>Changed Deathmatch bonus weapon to support all guns.</li>
+</ul>
+<h3>GAMEPLAY</h3>
+<ul>
+<li>When FF is off, bullets no longer penetrate teammates</li>
+</ul>
+<h3>UI</h3>
+<ul>
+<li>Fixed grenades icons in weapon panel obeying the user&#8217;s HUD color setting</li>
+<li>Fixed Mini-Scoreboard panel not properly hiding a few avatars slots on a full server in casual when you had the Mini-Scoreboard Style set to &#8222;Just Show Player Count&#8220;</li>
+<li>Fixed the freeze panel overlapping with the info panel.</li>
+</ul>
+<h3>MISC</h3>
+<ul>
+<li>Halloween has come to a grisly end. (sv_holiday_mode set back to 0)</li>
+<li>Fixed rebuy not rebuying nades, defuse kit, or taser correctly.</li>
+<li>Volume of ambient and 1st person sounds have been slightly reduced in &#8222;headphones&#8220; setting.</li>
+<li>Death Camera music no longer plays while spectating.</li>
+<li>Half-time / Game-end music no longer plays in overwatch mode.</li>
+<li>Fixed bug where 10 second countdown music(s) would play after round end when round end music volume was set to 0.</li>
+<li>Addressed hitches that were caused by synchronous file i/o.</li>
+</ul>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-operation-vanguard/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>ESL Maps auf einmal herunterladen. (Kollektion / Mappack Download)</title>
+		<link>/esl-maps-auf-einmal-herunterladen-kollektion-mappack-download/</link>
+		<comments>/esl-maps-auf-einmal-herunterladen-kollektion-mappack-download/#respond</comments>
+		<pubDate>Wed, 27 Mar 2013 12:15:48 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[ESL]]></category>
+		<category><![CDATA[Maps]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[aim_dust_go]]></category>
+		<category><![CDATA[aim_map]]></category>
+		<category><![CDATA[aim_map_go]]></category>
+		<category><![CDATA[Anleitung]]></category>
+		<category><![CDATA[awp_bridge]]></category>
+		<category><![CDATA[awp_bycastor32]]></category>
+		<category><![CDATA[awp_ice_csgo]]></category>
+		<category><![CDATA[awp_vietnam]]></category>
+		<category><![CDATA[aztec_se]]></category>
+		<category><![CDATA[de_cache]]></category>
+		<category><![CDATA[de_mirage_go]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[dust2_se]]></category>
+		<category><![CDATA[esl maps]]></category>
+		<category><![CDATA[herunterladen]]></category>
+		<category><![CDATA[inferno_se]]></category>
+		<category><![CDATA[kollektion]]></category>
+		<category><![CDATA[kostenlos]]></category>
+		<category><![CDATA[laden]]></category>
+		<category><![CDATA[nuke_se]]></category>
+		<category><![CDATA[train_se]]></category>
+		<category><![CDATA[vertigo]]></category>
+		<category><![CDATA[wie lade ich esl maps]]></category>
+		<category><![CDATA[Workshop]]></category>
+
+		<guid isPermaLink="false">/?p=1232</guid>
+		<description><![CDATA[Wie lade ich die ESL Maps auf einmal herunter? Möchtet ihr das offizielle Mappack oder besser gesagt die offizielle ESL Map Kollektion schnell und komfortabel laden, könnt ihr dieses über diesen Link: http://steamcommunity.com/sharedfiles/filedetails/?id=128253498 durchführen. Alternative könnt&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3><a href="/wp-content/uploads/sites/2/2013/03/esl_mappack.jpg"><img class="size-full wp-image-1236 aligncenter" title="esl_mappack" src="/wp-content/uploads/sites/2/2013/03/esl_mappack.jpg" alt="" width="280" height="120" /></a></h3>
+<h3>Wie lade ich die ESL Maps auf einmal herunter?</h3>
+<p>Möchtet ihr das offizielle Mappack oder besser gesagt die offizielle ESL Map Kollektion schnell und komfortabel laden, könnt ihr dieses</p>
+<p>über diesen Link: <a href="http://steamcommunity.com/sharedfiles/filedetails/?id=128253498">http://steamcommunity.com/sharedfiles/filedetails/?id=128253498</a> durchführen. Alternative könnt ihr auch im Workshop innerhalb  von Steam unter &#8222;Kollektionen&#8220; nach &#8222;official ESL Mappack&#8220; suchen:</p>
+<p><a href="/wp-content/uploads/sites/2/2013/03/csgo_esl_mappack.jpg"><img class="alignnone size-medium wp-image-1233" title="csgo_esl_mappack" src="/wp-content/uploads/sites/2/2013/03/csgo_esl_mappack-300x204.jpg" alt="" width="300" height="204" /></a></p>
+<p>klickt auf die Kollektion und klickt au f &#8222;add to  Collection&#8220;</p>
+<p><a href="/wp-content/uploads/sites/2/2013/03/csgo_esl_mappack1.jpg"><img class="alignnone size-medium wp-image-1234" title="csgo_esl_mappack" src="/wp-content/uploads/sites/2/2013/03/csgo_esl_mappack1-300x189.jpg" alt="" width="300" height="189" /></a></p>
+<p> <br />Nun läd sich Steam automatisch alle ESL Maps herunter was natürlich einen Moment dauert. Die Maps findet ihr dann in dem Ordner: X:Program Files (x86)SteamSteamAppscommonCounter-Strike Global Offensivecsgomapsworkshop.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/esl-maps-auf-einmal-herunterladen-kollektion-mappack-download/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

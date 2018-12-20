@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>wall &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/wall/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>wall &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS: GO Tricky! Auf die Wand beim Bombenplatz B auf de_dust2_se [Video Guide]</title>
+		<link>/cs-go-tricky-auf-die-wand-beim-bombenplatz-b-auf-de_dust2_se-video-guide/</link>
+		<comments>/cs-go-tricky-auf-die-wand-beim-bombenplatz-b-auf-de_dust2_se-video-guide/#respond</comments>
+		<pubDate>Mon, 27 May 2013 13:33:20 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Taktik]]></category>
+		<category><![CDATA[Video Guides]]></category>
+		<category><![CDATA[b]]></category>
+		<category><![CDATA[bombemplatz]]></category>
+		<category><![CDATA[croach]]></category>
+		<category><![CDATA[duck Jump]]></category>
+		<category><![CDATA[position]]></category>
+		<category><![CDATA[wall]]></category>
+		<category><![CDATA[wand]]></category>
+
+		<guid isPermaLink="false">/?p=1572</guid>
+		<description><![CDATA[Neue Position auf de_dust2_se? Bei Recherchen sind wir mal wieder auf ein tolles Youtube Video gestoßen. In diesem Video wird euch erklärt wie man auf dem Bombenplatz B auf de_dust2_se auf die Wand &#8222;klettern&#8220;&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Neue Position auf de_dust2_se?</h3>
+<p>Bei Recherchen sind wir mal wieder auf ein tolles Youtube Video gestoßen. In diesem Video wird euch erklärt wie man auf dem Bombenplatz B auf de_dust2_se auf die Wand &#8222;klettern&#8220; könnt. Die meißten Gegner werden euch an dieser Position nicht erwarten! Ich bin mir nicht sicher wie viele diesen Spot schon kennen, meiner Meinung nach ist er aber neu!</p>
+<p>Wichtig ist dass ihr mit einem Duck-Jump auf die Mauer springt.</p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/cs-go-tricky-auf-die-wand-beim-bombenplatz-b-auf-de_dust2_se-video-guide/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

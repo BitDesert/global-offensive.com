@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Kommentare zu: CS:GO Videos mit DxTory aufnehmen und mit Sony Vegas weiter bearbeiten. [Anleitung]</title>
+	<atom:link href="/csgo-videos-mit-dxtory-aufnehmen-und-mit-sony-vegas-weiter-bearbeiten-anleitung/feed/" rel="self" type="application/rss+xml" />
+	<link>/csgo-videos-mit-dxtory-aufnehmen-und-mit-sony-vegas-weiter-bearbeiten-anleitung/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 14 Nov 2017 21:13:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<item>
+		<title>Von: Nockel</title>
+		<link>/csgo-videos-mit-dxtory-aufnehmen-und-mit-sony-vegas-weiter-bearbeiten-anleitung/#comment-426</link>
+		<dc:creator><![CDATA[Nockel]]></dc:creator>
+		<pubDate>Sun, 09 Apr 2017 21:42:34 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1692#comment-426</guid>
+		<description><![CDATA[mit dxtory kann man cs go nicht aufnhemen. es wird bei dxtory getrackt aber wird nicht aufgenommen]]></description>
+		<content:encoded><![CDATA[<p>mit dxtory kann man cs go nicht aufnhemen. es wird bei dxtory getrackt aber wird nicht aufgenommen</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: Lackschuh</title>
+		<link>/csgo-videos-mit-dxtory-aufnehmen-und-mit-sony-vegas-weiter-bearbeiten-anleitung/#comment-261</link>
+		<dc:creator><![CDATA[Lackschuh]]></dc:creator>
+		<pubDate>Fri, 03 Oct 2014 17:02:08 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1692#comment-261</guid>
+		<description><![CDATA[das mit dem das Fraps splittet, kann man einstellen.]]></description>
+		<content:encoded><![CDATA[<p>das mit dem das Fraps splittet, kann man einstellen.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

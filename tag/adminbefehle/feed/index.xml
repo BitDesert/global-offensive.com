@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Adminbefehle &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/adminbefehle/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>Adminbefehle &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Sourcemod Adminbefehle</title>
+		<link>/sourcemod-adminbefehle/</link>
+		<comments>/sourcemod-adminbefehle/#comments</comments>
+		<pubDate>Sat, 13 Oct 2012 12:31:00 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Plugins]]></category>
+		<category><![CDATA[Server Administration]]></category>
+		<category><![CDATA[Adminbefehle]]></category>
+		<category><![CDATA[Konsolenbefehle]]></category>
+		<category><![CDATA[rcon]]></category>
+		<category><![CDATA[Serverbefehle]]></category>
+
+		<guid isPermaLink="false">/?p=213</guid>
+		<description><![CDATA[Sourcemod ist ein sehr starkes und sinnvolles Plugin. Gerade auf Public Servern kann mit diesem Plugin schon einiges &#8222;gesteuert&#8220; werden. Oft ist beim Serveranbieter selber das Plugin über ein Webinterface ganz eleganz und einfach&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Sourcemod ist ein sehr starkes und sinnvolles Plugin.<br />
+Gerade auf Public Servern kann mit diesem Plugin schon einiges &#8222;gesteuert&#8220; werden.<br />
+<br />
+<img class="aligncenter" title="Sourcemod Logo" src="http://www.sourcemod.net/sourcemod-site-bounded.png" alt="" width="393" height="60" /><br />
+<br />
+Oft ist beim Serveranbieter selber das Plugin über ein Webinterface ganz eleganz und einfach zu installieren. Sollte das nicht der Fall sein oder ihr hostet den Server selber, findet hier unter folgenden Link das Sourcemod-Paket: <a href="http://www.sourcemod.net/downloads.php">http://www.sourcemod.net/downloads.php</a></p>
+<p>Hier alle Kommandos die per rcon console ingame ausgeführt werden können&#8230;.<span id="more-213"></span></p>
+<p><strong>Standardbefehle:</strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td><strong>Befehl</strong></td>
+<td><strong>Recht</strong></td>
+<td><strong>Beschreibung</strong></td>
+<td><strong>Beispiel</strong></td>
+</tr>
+<tr>
+<td>sm_addban</td>
+<td>rcon (m)</td>
+<td>Fügt Spieler der Banliste hinzu</td>
+<td>sm_addban 0 STEAM_0:1:23456 Cheater</td>
+</tr>
+<tr>
+<td>sm_admin</td>
+<td>admin (b)</td>
+<td>Öffnet das Adminmenü</td>
+<td>sm_admin</td>
+</tr>
+<tr>
+<td>sm_ban</td>
+<td>ban (d)</td>
+<td>Bannt einen Spieler</td>
+<td>sm_ban #userID 0 Cheater</td>
+</tr>
+<tr>
+<td>sm_banip</td>
+<td>rcon (m)</td>
+<td>Bannt einen Spieler über die IP</td>
+<td>sm_banip IP 0 Cheater</td>
+</tr>
+<tr>
+<td>sm_cancelvote</td>
+<td>vote (k)</td>
+<td>Bricht jeden aktiven Vote ab</td>
+<td>sm_cancelvote</td>
+</tr>
+<tr>
+<td>sm_cvar</td>
+<td>cvar (h)</td>
+<td>Das Recht Cvars zu ändern</td>
+<td>sm_cvar mp_timelimit 10</td>
+</tr>
+<tr>
+<td>sm_execcfg</td>
+<td>config (i)</td>
+<td>Das Recht configs auszuführen</td>
+<td>sm_execcfg 5on5.cfg</td>
+</tr>
+<tr>
+<td>sm_help</td>
+<td>admin (b)</td>
+<td>Zeigt eine Hilfe zu den Befehlen</td>
+<td>sm_help</td>
+</tr>
+<tr>
+<td>sm_kick</td>
+<td>kick (c)</td>
+<td>Kickt einen Spieler vom Server</td>
+<td>sm_kick Name Grund</td>
+</tr>
+<tr>
+<td>sm_map</td>
+<td>map (g)</td>
+<td>Wechselt die map</td>
+<td>sm_map Mapname</td>
+</tr>
+<tr>
+<td>sm_rcon</td>
+<td>rcon (m)</td>
+<td>Führt Rcon-Commands aus</td>
+<td>sm_rcon sv_password 1234</td>
+</tr>
+<tr>
+<td>sm_realoadadmins</td>
+<td>config (i)</td>
+<td>Aktualisiert die Admins</td>
+<td>sm_reloadadmins</td>
+</tr>
+<tr>
+<td>sm_unban</td>
+<td>unban (e)</td>
+<td>Entbannt einen Spieler</td>
+<td>sm_unban STEAM_0:1:23456</td>
+</tr>
+<tr>
+<td>sm_who</td>
+<td>admin (b)</td>
+<td>Zeigt alle Admins samt Rechte an</td>
+<td>sm_who</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Erweiterte (Fun) Befehle:</strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td><strong>Befehl</strong></td>
+<td><strong>Recht</strong></td>
+<td><strong>Beschreibung</strong></td>
+<td><strong>Beispiel</strong></td>
+</tr>
+<tr>
+<td>sm_beacon</td>
+<td>slay (f)</td>
+<td> Macht einen Ring um einen Spieler</td>
+<td>sm_beacon Spielername</td>
+</tr>
+<tr>
+<td>sm_burn</td>
+<td>slay (f)</td>
+<td> Zündet einen Spieler für Zeit X an</td>
+<td>sm_burn Spielername X</td>
+</tr>
+<tr>
+<td>sm_chat</td>
+<td>chat (j)</td>
+<td> Sendet eine Nachricht an alle Admins</td>
+<td>sm_chat Hallo</td>
+</tr>
+<tr>
+<td>sm_csay</td>
+<td>chat (j)</td>
+<td> Sendet eine Nachricht an alle Spieler</td>
+<td>sm_csay Hallo</td>
+</tr>
+<tr>
+<td>sm_gag</td>
+<td>chat (j)</td>
+<td> Verhindert das Nutzen des Chats eines Spielers</td>
+<td>sm_gag Spielername</td>
+</tr>
+<tr>
+<td>sm_hsay</td>
+<td>chat (j)</td>
+<td> Schickt eine Nachricht an alle Spieler über die Centerbox</td>
+<td>sm_hsay Hallo</td>
+</tr>
+<tr>
+<td>sm_msay</td>
+<td>chat (j)</td>
+<td> Schickt eine Nachricht an alle Spieler</td>
+<td>sm_msay Hallo</td>
+</tr>
+<tr>
+<td>sm_mute</td>
+<td>chat (j)</td>
+<td> Verhindert das nutzen des Voicechats</td>
+<td>sm_mute Spielername</td>
+</tr>
+<tr>
+<td>sm_play</td>
+<td>admin (b)</td>
+<td> Spielt ein Soundfile auf dem Server ab</td>
+<td>sm_play Soundfile</td>
+</tr>
+<tr>
+<td>sm_psay</td>
+<td>chat (j)</td>
+<td> Schickt einem Spieler eine Nachricht</td>
+<td>sm_psay Spieler Hallo</td>
+</tr>
+<tr>
+<td>sm_rename</td>
+<td>slay (f)</td>
+<td> Ändert den Namen eines Spielers</td>
+<td>sm_rename Spielername</td>
+</tr>
+<tr>
+<td>sm_resetcvar</td>
+<td>cvar (h)</td>
+<td> Setzt eine Cvar auf den Defaultwert</td>
+<td>sm_resetcvar mp_timelimit</td>
+</tr>
+<tr>
+<td>sm_say</td>
+<td>chat (j)</td>
+<td> Schickt eine Nachricht an alle Spieler</td>
+<td>sm_say Hallo</td>
+</tr>
+<tr>
+<td>sm_silence</td>
+<td>chat (j)</td>
+<td> Bewirkt sm_gag und sm_mute bei einem Spieler</td>
+<td>sm_silence Spielername</td>
+</tr>
+<tr>
+<td>sm_slap</td>
+<td>slay (f)</td>
+<td> Schlägt einen Spieler mit Schaden X</td>
+<td>sm_slap Spielername 20</td>
+</tr>
+<tr>
+<td>sm_slay</td>
+<td>slay (f)</td>
+<td> Tötet einen Spieler</td>
+<td>sm_slay Spielername</td>
+</tr>
+<tr>
+<td>sm_tsay</td>
+<td>chat (j)</td>
+<td> Schickt eine farbige Nachtricht an alle Spieler.</td>
+<td> sm_tsay green Hallo</td>
+</tr>
+<tr>
+<td>sm_ungag</td>
+<td>chat (j)</td>
+<td> Erlaubt dem Spieler  das nutzen des Chats</td>
+<td> sm_ungang Spielername</td>
+</tr>
+<tr>
+<td>sm_unmute</td>
+<td>chat (j)</td>
+<td> Erlaubt dem Spieler  das nutzen des Voicechats</td>
+<td> sm_unmute Spielername</td>
+</tr>
+<tr>
+<td>sm_unsilence</td>
+<td>chat (j)</td>
+<td> Erlaubt dem Spieler das nutzen des Chats und Voicechats</td>
+<td> sm_unsilence Spielername</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><em><strong>Vote-Befehle:</strong></em></p>
+<table border="0">
+<tbody>
+<tr>
+<td>sm_vote</td>
+<td>vote (k)</td>
+<td>Startet einen ganz normalen Vote</td>
+<td>sm_vote Frage Antwort1 Antwort2 &#8230;</td>
+</tr>
+<tr>
+<td>sm_votealltalk</td>
+<td>vote (k)</td>
+<td>Startet einen Vote für Alltalk</td>
+<td>sm_votealltalk</td>
+</tr>
+<tr>
+<td>sm_voteban</td>
+<td>vote, ban (k,d)</td>
+<td>Startet einen Voteban</td>
+<td>sm_voteban Spielername</td>
+</tr>
+<tr>
+<td>sm_voteburn</td>
+<td>vote, slay (k,f)</td>
+<td>Startet einen Vote um einen Spieler anzuzünden</td>
+<td>sm_voteburn Spielername</td>
+</tr>
+<tr>
+<td>sm_voteff</td>
+<td>vote (k)</td>
+<td>Startet einen Vote für FriendlyFire</td>
+<td>sm_voteff</td>
+</tr>
+<tr>
+<td>sm_votegravity</td>
+<td>vote (k)</td>
+<td>Startet einen Vote für die Gravity</td>
+<td>sm_votegravity Wert1 Wert2 Wert3 &#8230;</td>
+</tr>
+<tr>
+<td>sm_votekick</td>
+<td>vote, kick (k,c)</td>
+<td>Startet einen Kickvote</td>
+<td>sm_votekick Spielername Grund</td>
+</tr>
+<tr>
+<td>sm_votemap</td>
+<td>vote, map (k,g)</td>
+<td>Startet einen Mapvote</td>
+<td>sm_votemap map1 map2 map3 &#8230;</td>
+</tr>
+<tr>
+<td>sm_voteslay</td>
+<td>vote, slay (k,f)</td>
+<td>Startet einen Vote gegen einen Spieler</td>
+<td>sm_voteslay Spielername</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/sourcemod-adminbefehle/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

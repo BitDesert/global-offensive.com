@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ESPORTS NETWORK &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/author/esnt/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>ESPORTS NETWORK &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Update: Operation Hydra &#8211; Weapons Expert nun spielbar außerdem neuer Scoreboard Bug!</title>
+		<link>/csgo-update-operation-hydra-weapons-expert-nun-spielbar-ausserdem-neuer-scoreboard-bug/</link>
+		<comments>/csgo-update-operation-hydra-weapons-expert-nun-spielbar-ausserdem-neuer-scoreboard-bug/#respond</comments>
+		<pubDate>Thu, 08 Jun 2017 13:33:42 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[expert]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[weapons]]></category>
+
+		<guid isPermaLink="false">/?p=3715</guid>
+		<description><![CDATA[Weapons Expert nun spielbar Inzwischen geht Operation Hydra in die dritte Woche . Wie ihr wisst, bedeutet das nun dass der nächste Modi spielbar ist. Weapons Expert sorgt auf 30 Runden dafür dass ich&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Weapons Expert nun spielbar</h3>
+<p>Inzwischen geht Operation Hydra in die dritte Woche . Wie ihr wisst, bedeutet das nun dass der nächste Modi spielbar ist. Weapons Expert sorgt auf 30 Runden dafür dass ich im Wettkampfmodus nur jede Waffe genau einmal kaufen könnt. Ihr müsst somit genau überlegen wann ihr welche Waffen kauft. So wäre es natürlich suboptimal in in den letzten Runden lediglich die Pistolen spielbar zu haben, die Gegner werden vermutlich die Rifles bis zum Schluss aufbewahren. Spielt Ihr Weapons Expert so erhaltet ihr auch einen extra Rang hierfür.</p>
+<h3>Bugs, Bugs und noch mehr Bugs..</h3>
+<p>Wie es scheint, prüft Valve vor Veröffentlichung der Updates nicht immer ganz genau die Auswirkungen. So berichten Spieler über Bugs während des Spiels! Zum einen berichten Spieler über Schüsse welche auf den Gegner gerichtet werden jedoch nicht dort einschlagen sondern direkt in den Boden unterhalb der Spielfigur vom Gegner. Dieses ist zwar nur Client-Seitig, sprich die &#8222;hits&#8220; treffen schon den Spieler (auf dem Server), jedoch wird dieses euch anders angezeigt und kann unter Umständen sehr störend sein.</p>
+<p>Darüber hinaus gibt es derzeit ein Problem mit dem Scoreboard, üblicherweise werden nur die Ranks der Mitspieler angezeigt, nun sieht man auch ab und zu die Ranks der Gegner. Jedoch auch hier ist es so, man sieht nur die eigenen Ranks welche auf den Gegner gespiegelt werden.</p>
+<h3>Und hier gibt es die Update log:</h3>
+<blockquote>
+<h6>[ TWITCH INTEGRATION ]<br />
+* Added listing of some gamemodes in Twitch.tv CS:GO header in addition to maps.</h6>
+<h6>[ OPERATION HYDRA ]<br />
+* Fixed various bugs<br />
+* Added Hydra competitive rank display to lobbies &amp; nearby lobby display for Hydra modes.<br />
+* Flying Scoutsman: Increase sv_airaccelerate from 477 to 20000<br />
+* Stab Stab Zap: Replaced dust2 with shorttrain</h6>
+<h6>[ MAPS ]<br />
+* Fixed fade-to-black bug in Deathmatch on cs_insertion<br />
+* Updated de_shipped to latest version from mapmakers<br />
+* Fixed a regression in lighting for old community maps that interacted badly with new lighting features. Newer maps with lighting problems can be fixed by recompiling them in Hammer.<br />
+* Added player clipping above boxes at CT spawn in de_shortdust to prevent visibility in unintended areas</h6>
+<h6>[ MISC ]<br />
+* Added more back-end UI work in preparation for Panorama switch. Please report any new UI bugs to csgoteamfeedback@valvesoftware.com<br />
+* Fixed tickrate-dependence in spray patterns for fast-firing weapons. Thanks SlothSquadron &amp; friends!<br />
+* Fixed incorrect skin tones on some player gloves<br />
+* Fixeded a bug where 2v2 scoreboard would show round win icons for the first half on the wrong side after halftime<br />
+* Updated Operation Hydra gamemode names used in Rich Presence</h6>
+</blockquote>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-update-operation-hydra-weapons-expert-nun-spielbar-ausserdem-neuer-scoreboard-bug/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Videos der letzten Woche * Highlights *</title>
+		<link>/csgo-videos-der-letzten-woche-highlights/</link>
+		<comments>/csgo-videos-der-letzten-woche-highlights/#respond</comments>
+		<pubDate>Tue, 01 Dec 2015 10:42:23 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+
+		<guid isPermaLink="false">/?p=3639</guid>
+		<description><![CDATA[Die Video Highlights der letzten 7 Tage aus dem Netz seang@res zeus full control &#160; Freakazoid EZ pistol ace Killed you with a GUITAR! &#124; CS:GO Highlight &#160; CS:GO bots are on the cutting&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Die Video Highlights der letzten 7 Tage aus dem Netz</h3>
+<h4>seang@res zeus full control</h4>
+<p><iframe src="https://www.youtube.com/embed/rDnELqzNefk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>&nbsp;</p>
+<h4>Freakazoid EZ pistol ace</h4>
+<p><iframe src="https://www.youtube.com/embed/cBVsaNikX9s" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<h4>Killed you with a GUITAR! | CS:GO Highlight</h4>
+<p><iframe src="https://www.youtube.com/embed/pMQe7Ki1CvY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>&nbsp;</p>
+<h4>CS:GO bots are on the cutting edge</h4>
+<p><iframe src="https://www.youtube.com/embed/rkjdC8y-g8w" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<h4>KennyS Crazy 1vs3 Cluth</h4>
+<p><iframe src="https://www.youtube.com/embed/b8IozlKrCQ8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-videos-der-letzten-woche-highlights/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>VAC-BANWELLE &#8211; 26.11.2015 &#8211; Wie viel Geld wurde heute &#8222;Verb(r)anned&#8220;?</title>
+		<link>/vac-banwelle-26-11-2015-wie-viel-geld-wurde-heute-verbranned/</link>
+		<comments>/vac-banwelle-26-11-2015-wie-viel-geld-wurde-heute-verbranned/#respond</comments>
+		<pubDate>Thu, 26 Nov 2015 12:22:52 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[App]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[ban wave]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[vac ban]]></category>
+		<category><![CDATA[vac wave ban]]></category>
+
+		<guid isPermaLink="false">/?p=3633</guid>
+		<description><![CDATA[WUUUSCHHH, VAC INC IN CS:GO &#8211; Counter-Strike Global-Offensive! Erfreuliche Nachrichten, soeben haben wir die Info erhalten dass eine weitere VAC-Banwelle ausgerollt wurde. Sehr schön kann man dieses an der folgenden Grafik von VAC-BAN.com sehen:&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>WUUUSCHHH, VAC INC IN CS:GO &#8211; Counter-Strike Global-Offensive!</h3>
+<p>Erfreuliche Nachrichten, soeben haben wir die Info erhalten dass eine weitere VAC-Banwelle ausgerollt wurde. Sehr schön kann man dieses an der folgenden Grafik von VAC-BAN.com sehen:</p>
+<p><a href="/wp-content/uploads/sites/2/2015/11/vac-ban-wave-csgo.png"><img class="alignnone size-full wp-image-3634" src="/wp-content/uploads/sites/2/2015/11/vac-ban-wave-csgo.png" alt="vac-ban-wave-csgo" width="1118" height="303" srcset="/wp-content/uploads/sites/2/2015/11/vac-ban-wave-csgo.png 1118w, /wp-content/uploads/sites/2/2015/11/vac-ban-wave-csgo-300x81.png 300w, /wp-content/uploads/sites/2/2015/11/vac-ban-wave-csgo-1024x278.png 1024w" sizes="(max-width: 1118px) 100vw, 1118px" /></a></p>
+<h3>Wie viel Geld wurde &#8222;Verb(r)anned&#8220;?</h3>
+<p>Bei den insgesamt 623 verzeichneten Bans auf VAC-Banned.com wurde ein inventarwert von 13.904$ vernichtet. Relative auf die Anzahl der Bans ergibt das ein Durschnittswert von: 22.30$.</p>
+<p>Die Statistik erfasst natürlich nur die Spieler welche &#8222;monitored&#8220; sprich pro-aktiv unter Beobachtung waren. Die tatsächliche Bananzahl wird sich auf viele Tausende belaufen.</p>
+<p>Vermutlich ist das zocken momentan wieder etwas &#8222;sauberer&#8220;.</p>
+<h3>Wen hats besonders schwer getroffen?</h3>
+<p>Insbesondere den Spieler <a href="http://www.vac-ban.com/76561198073338718/stats.html">&#8222;Mister Bitcoin&#8220;</a> hat mit einem Gesamtschaden von 3.971,00$ sehr schwer getroffen. Es scheint leider ein Deutscher zu sein (Schande!) Wir freuen uns!</p>
+<p><a href="/wp-content/uploads/sites/2/2015/11/inventor-hacker.png"><img class="alignnone size-full wp-image-3636" src="/wp-content/uploads/sites/2/2015/11/inventor-hacker.png" alt="inventor-hacker" width="568" height="581" srcset="/wp-content/uploads/sites/2/2015/11/inventor-hacker.png 568w, /wp-content/uploads/sites/2/2015/11/inventor-hacker-293x300.png 293w" sizes="(max-width: 568px) 100vw, 568px" /></a></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/vac-banwelle-26-11-2015-wie-viel-geld-wurde-heute-verbranned/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Update 18.09.2015 &#8211; Neues Shadow Case &#8211; Neue Messer &#8211; Neue Skins &#8211; Fixes &#8211;</title>
+		<link>/csgo-update-18-09-2015-neues-shadow-case-neue-messer-neue-skins-fixes/</link>
+		<comments>/csgo-update-18-09-2015-neues-shadow-case-neue-messer-neue-skins-fixes/#comments</comments>
+		<pubDate>Fri, 18 Sep 2015 12:47:58 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Hilfe]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Szene]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[Global Offensive]]></category>
+		<category><![CDATA[shadow case]]></category>
+		<category><![CDATA[update]]></category>
+
+		<guid isPermaLink="false">/?p=3496</guid>
+		<description><![CDATA[&#160; Hoppala, das ging aber schnell. Ein weiteres Update für Counter-Strike: Global-Offensive, kurz CS:GO ist erschienen. Neue Cases / Kisten: Ein neues Case mit dem Namen Shadow Case ist nun erhältlich. Mit Ihr insgesamt&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>&nbsp;</p>
+<p>Hoppala, das ging aber schnell. Ein weiteres Update für Counter-Strike: Global-Offensive, kurz CS:GO ist erschienen.</p>
+<h3>Neue Cases / Kisten:</h3>
+<p>Ein neues Case mit dem Namen Shadow Case ist nun erhältlich. Mit Ihr insgesamt 16 neue Community Skins. Das wohl coolste in der Kiste ist die Chance auf eines der vielen neuen Shadow Daggers, doppel Messer im Ninja Style. Hier seht ihr ein Bild eines der Knifes:</p>
+<p><a href="/wp-content/uploads/sites/2/2015/09/shadow-dagger-1.png"><img class="alignnone size-medium wp-image-3498" src="/wp-content/uploads/sites/2/2015/09/shadow-dagger-1-300x156.png" alt="S" width="300" height="156" srcset="/wp-content/uploads/sites/2/2015/09/shadow-dagger-1-300x156.png 300w, /wp-content/uploads/sites/2/2015/09/shadow-dagger-1.png 845w" sizes="(max-width: 300px) 100vw, 300px" /></a> <a href="/wp-content/uploads/sites/2/2015/09/shadow-dagger-2.png"><img class="alignnone size-medium wp-image-3499" src="/wp-content/uploads/sites/2/2015/09/shadow-dagger-2-300x168.png" alt="shadow dagger 2" width="300" height="168" srcset="/wp-content/uploads/sites/2/2015/09/shadow-dagger-2-300x168.png 300w, /wp-content/uploads/sites/2/2015/09/shadow-dagger-2.png 786w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>Und hier die Animation des zustechens:<br />
+<iframe src="https://www.youtube.com/embed/BD7H0m7vaAs?list=PLiFZevigR_39OPCWmDNPy5tjFSkwfGn4s" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<h3>Die neuen Waffen Skins (Community Skins)</h3>
+<p><a href="/wp-content/uploads/sites/2/2015/09/shadow-case-skins-csgo.png"><img class="alignnone size-full wp-image-3522" src="/wp-content/uploads/sites/2/2015/09/shadow-case-skins-csgo.png" alt="shadow-case-skins-csgo" width="733" height="1005" srcset="/wp-content/uploads/sites/2/2015/09/shadow-case-skins-csgo.png 733w, /wp-content/uploads/sites/2/2015/09/shadow-case-skins-csgo-219x300.png 219w" sizes="(max-width: 733px) 100vw, 733px" /></a></p>
+<h3>Neue Animation / Fixes:</h3>
+<p>Darüber hinaus wurden einige Animation Probleme des letzten Updates weiter gefixed und verbessert. Des weiteren wurde das Kabel der Bombe beim entschärfen realitätsnaher. Siehe hier:</p>
+<p><a href="/wp-content/uploads/sites/2/2015/09/GiALtCB1.jpg"><img class="alignnone size-medium wp-image-3497" src="/wp-content/uploads/sites/2/2015/09/GiALtCB1-300x169.jpg" alt="CS:GO Shadow Dagger Knife" width="300" height="169" srcset="/wp-content/uploads/sites/2/2015/09/GiALtCB1-300x169.jpg 300w, /wp-content/uploads/sites/2/2015/09/GiALtCB1-1024x576.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>Weitere Animationen wie die des Moloto, falsche Fuß Positionen der Models in manchen Situationen, Ghost Steps, Dicke des Bomben Entschärfungskabels, Duckanimationen wurden ebenfalls optimiert. Zum Schluss wurde die Map de_cache in der neuesten Version nun in das Matchmaking integriert.</p>
+<p><strong>Counter-Strike.net Changelog:</strong></p>
+<h1>CSGO</h1>
+<ul>
+<li>Added the Shadow Case, featuring 16 community designs, with a chance to contain the all-new Shadow Daggers.</li>
+</ul>
+<h1>GAMEPLAY</h1>
+<ul>
+<li>Zeus can only be purchased once per round and cannot be dropped.</li>
+<li>Players can now only purchase five of any weapon per round (controlled with mp_weapons_allow_typecount).</li>
+</ul>
+<h1>ANIMATION</h1>
+<ul>
+<li>Improved animation performance for certain configurations.</li>
+<li>Fixed Molotov holding pose.</li>
+<li>Fixed incorrect foot position for pistol deploys.</li>
+<li>Reduced cycle rates for ladder animations at top speed.</li>
+<li>Small increase to crouchwalk cycle rates, footfall fixes.</li>
+<li>Adjusted blend on C4 plant animation.</li>
+<li>Adjusted defuser cable thickness.</li>
+<li>Fixed defuser cables not disconnecting from the defusing CT player.</li>
+<li>Adjusted crouch animation rise and fall speed.</li>
+</ul>
+<h1>MISC</h1>
+<ul>
+<li>Fixed some improper inventory icon camera positions.</li>
+<li>Fixed flickering shadows associated with dynamic player culling.</li>
+<li>Fixed cases where culling plane intersected or completely covered players.</li>
+</ul>
+<h1>MAPS</h1>
+<ul>
+<li>Updated Cache to the latest version.</li>
+</ul>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-update-18-09-2015-neues-shadow-case-neue-messer-neue-skins-fixes/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO &#8211; Overpass Rauchgranaten / Smokegrenade Tutorial [Video]</title>
+		<link>/csgo-overpass-rauchgranaten-smokegrenade-tutorial-video/</link>
+		<comments>/csgo-overpass-rauchgranaten-smokegrenade-tutorial-video/#comments</comments>
+		<pubDate>Thu, 17 Sep 2015 07:50:18 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[de_overpass]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[Granaten]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Video Guides]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[Anleitung]]></category>
+		<category><![CDATA[Rauchgranate]]></category>
+		<category><![CDATA[smoke]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[video]]></category>
+
+		<guid isPermaLink="false">/?p=3493</guid>
+		<description><![CDATA[Overpass Rauchgranaten Tutorial Mit diesem Beitrag möchten wir euch auf ein sehr gutes und interessantes Smoke Tutorial für die Map de_overpass aufmerksam machen. Der Youtuber Jamiew hat es geschafft die wichtigstens Spots für Rauchgranaten&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Overpass Rauchgranaten Tutorial</h3>
+<p>Mit diesem Beitrag möchten wir euch auf ein sehr gutes und interessantes Smoke Tutorial für die Map de_overpass aufmerksam machen. Der Youtuber Jamiew hat es geschafft die wichtigstens Spots für Rauchgranaten im Video auf den Punkt zu bringen.</p>
+<p><iframe src="https://www.youtube.com/embed/L5a3Jd75RBA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-overpass-rauchgranaten-smokegrenade-tutorial-video/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Großes Update: Operation Bloodhound, Profiles Ranks, XP Points, Ranks nun in Profilen, Neue Maps, Falchion Weapon Case, 16 neue Waffen&#8230;</title>
+		<link>/grosses-update-operation-bloodhound-profiles-ranks-xp-points-ranks-nun-in-profilen-neue-maps/</link>
+		<comments>/grosses-update-operation-bloodhound-profiles-ranks-xp-points-ranks-nun-in-profilen-neue-maps/#respond</comments>
+		<pubDate>Wed, 27 May 2015 06:24:18 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+
+		<guid isPermaLink="false">/?p=3433</guid>
+		<description><![CDATA[Operation Bloodhound Es ist soweit, eine lang ersehnte neue Operation ist da. Genauer gesagt die Operation Bloodhound mit 6 neuen Community Maps im offiziellen Matchmaking, als absolute Neuerung gibt es nun auf XP Punkten&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Operation Bloodhound</h3>
+<p>Es ist soweit, eine lang ersehnte neue Operation ist da. Genauer gesagt die Operation Bloodhound mit 6 neuen Community Maps im offiziellen Matchmaking, als absolute Neuerung gibt es nun auf XP Punkten basierende Profile Ranks. Man erhält durch höhere XP am Ende der Woche nun neue Skins als Belohnung! Und vieles mehr. Das Update in Bildern seht ihr weiter unten.</p>
+<p>Der Access Pass für die neue Operation Bloodhound kostet 5.99$. Insegsamt beinhaltet dieser Pass rund 62 neue Missionen und ein Falchion Case mit neuen Skins  / Waffen. Die Operation Bloodhound Challenge Coin wird upgradbar sein. Die Coin befindet sich sichtbar im Profile. Die gedroppten &#8222;Belohnungen&#8220; am Ende jeder Woche stammen aus den Waffen Kollektionen Cobblestone, Cache und Overpass und darüber hinaus die neuen Waffen Kollektionen Gods and Monstern, The Rising Sun and Chop Shop.</p>
+<h3>Profile Ranks:</h3>
+<ul>
+<li>Neue Profile Ranks sind nun im Profil sichtbar <img src="https://s.w.org/images/core/emoji/11/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> nicht nur wenn man befreundet ist</li>
+<li>Sobald auf offiziellen Valve Servern / Matchmaking / Deathmatch gespielt wird, erhaltet ihr XP Punkte.</li>
+<li>Im Match Making hängt die Anzahl an XP Punkten davon ab, wie viele Runden ihr gewonnen habt.</li>
+<li>In allen anderen Modes, erhaltet ihr nach Anzahl Score im Scoreboard eure Punkte</li>
+<li>Zusätzliche XP Punkte werden verdient, wenn ihr die Operation Bloodhound abschließt.</li>
+<li>Zusätzlich um die Profil Rank zu steigern, wird dein Fortschritt am ende einer jeden Woche mit einer Waffen belohnt. Sofern der Operation Bloodhound Pass gekauft wurde, kommt der Waffendrop aus der Operation.</li>
+</ul>
+<h3>Der neue Knife Skin mit cooler Animation:</h3>
+<p>Ranks nun von jedem sichtbar:</p>
+<p><img class="alignnone" src="http://i.imgur.com/WkA7sn4.png" alt="" width="1920" height="1080" /></p>
+<h3>Neue Waffen:</h3>
+<div class="album-description">
+<div class="under-title-info">
+<div id="e0uVI0G" class="image">
+<div class="wrapper">
+<div class="image textbox">
+<div>
+<div class="image image-viewer"><img src="http://i.imgur.com/e0uVI0G.jpg" alt="" /></div>
+</div>
+</div>
+</div>
+</div>
+<div id="7hdOG7i" class="image">
+<div class="wrapper">
+<div class="image textbox">
+<div>
+<div class="image image-viewer"><img src="http://i.imgur.com/7hdOG7i.jpg" alt="" /></div>
+</div>
+</div>
+</div>
+</div>
+<div id="xhld1v9" class="image">
+<div class="wrapper">
+<div class="image textbox">
+<div>
+<div class="image image-viewer"><img src="http://i.imgur.com/xhld1v9.jpg" alt="" /></div>
+</div>
+</div>
+</div>
+</div>
+<p><a name="wMtckuD"></a></p>
+<div id="wMtckuD" class="image">
+<div class="wrapper">
+<div class="image textbox">
+<div>
+<div class="image image-viewer"><img src="http://i.imgur.com/wMtckuD.jpg" alt="" /></div>
+</div>
+</div>
+</div>
+</div>
+<p><a name="dzTfu5B"></a></p>
+<div id="dzTfu5B" class="image">
+<div class="wrapper">
+<div class="image textbox">
+<div>
+<div class="image image-viewer"><img src="http://i.imgur.com/dzTfu5B.jpg" alt="" /></div>
+</div>
+</div>
+</div>
+</div>
+<p><a name="wX3XVyj"></a></p>
+<div id="wX3XVyj" class="image">
+<div class="wrapper">
+<div class="image textbox">
+<div>
+<div class="image image-viewer"><img src="http://i.imgur.com/wX3XVyj.jpg" alt="" /></div>
+</div>
+</div>
+</div>
+</div>
+<p><a name="EOHzqYk"></a></p>
+<div id="EOHzqYk" class="image">
+<div class="wrapper">
+<div class="image textbox">
+<div>
+<div class="image image-viewer"><img src="http://i.imgur.com/EOHzqYk.jpg" alt="" /></div>
+</div>
+</div>
+</div>
+</div>
+<p><a name="XQGjGYl"></a></p>
+<div id="XQGjGYl" class="image">
+<div class="wrapper">
+<div class="image textbox">
+<div>
+<div class="image image-viewer"><img src="http://i.imgur.com/XQGjGYl.jpg" alt="" /></div>
+</div>
+</div>
+</div>
+</div>
+<p><a name="yRI8moC"></a></p>
+<div id="yRI8moC" class="image">
+<div class="wrapper">
+<div class="image textbox">
+<div>
+<div class="image image-viewer"><img src="http://i.imgur.com/yRI8moC.jpg" alt="" /></div>
+</div>
+</div>
+</div>
+</div>
+<p><a name="uPdiicw"></a></p>
+<div id="uPdiicw" class="image">
+<div class="wrapper">
+<div class="image textbox">
+<div>
+<div class="image image-viewer"><img src="http://i.imgur.com/uPdiicw.jpg" alt="" /></div>
+</div>
+</div>
+</div>
+</div>
+<p><a name="Mo51fEl"></a></p>
+<div id="Mo51fEl" class="image">
+<div class="wrapper">
+<div class="image textbox">
+<div>
+<div class="image image-viewer"><img src="http://i.imgur.com/Mo51fEl.jpg" alt="" /></div>
+</div>
+</div>
+</div>
+</div>
+<p><a name="esZrZfM"></a></p>
+<div id="esZrZfM" class="image">
+<div class="wrapper">
+<div class="image textbox">
+<div>
+<div class="image image-viewer"><img src="http://i.imgur.com/esZrZfM.jpg" alt="" /></div>
+</div>
+</div>
+</div>
+</div>
+<p><a name="A4j4lwI"></a></p>
+<div id="A4j4lwI" class="image">
+<div class="wrapper">
+<div class="image textbox">
+<div>
+<div class="image image-viewer"><img src="http://i.imgur.com/A4j4lwI.jpg" alt="" /></div>
+</div>
+</div>
+</div>
+</div>
+<p><a name="4ezarmA"></a></p>
+<div id="4ezarmA" class="image">
+<div class="wrapper">
+<div class="image textbox">
+<div>
+<div class="image image-viewer"><img src="http://i.imgur.com/4ezarmA.jpg" alt="" /></div>
+</div>
+</div>
+</div>
+</div>
+<p><a name="lg0w3nP"></a></p>
+<div id="lg0w3nP" class="image">
+<div class="wrapper">
+<div class="image textbox">
+<div>
+<div class="image image-viewer"><img src="http://i.imgur.com/lg0w3nP.jpg" alt="" /></div>
+</div>
+</div>
+</div>
+</div>
+<p><a name="DKnMQsz"></a></p>
+</div>
+</div>
+<div id="image-container">
+<p><a name="DKnMQsz"></a></p>
+<div id="DKnMQsz" class="image">
+<div class="wrapper">
+<div class="image textbox">
+<div>
+<div class="image image-viewer"><img src="http://i.imgur.com/DKnMQsz.png" alt="" /></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><strong>Weitere eher uninteressante Neuerungen weiter unten.</strong></p>
+<p>Hier nun Bilder der neuen Operation:</p>
+<div style="width: 1928px" class="wp-caption alignnone"><img class="" src="http://i.imgur.com/u8ytLa5.jpg" alt="" width="1918" height="1081" /><p class="wp-caption-text">Neues Profil</p></div>
+<div style="width: 523px" class="wp-caption alignnone"><img class="" src="http://i.imgur.com/rt0JX3A.png" alt="" width="513" height="361" /><p class="wp-caption-text">Neues Profile</p></div>
+<div style="width: 943px" class="wp-caption alignnone"><img class="" src="http://i.imgur.com/300knAJ.png" alt="" width="933" height="377" /><p class="wp-caption-text">Operation Bloodhound Challenge Coin</p></div>
+<p><img class="alignnone" src="http://i.imgur.com/G1l0Lt4.jpg" alt="" width="1294" height="881" /></p>
+<div style="width: 371px" class="wp-caption alignnone"><img class="" src="http://i.imgur.com/5KI7wo3.png" alt="" width="361" height="150" /><p class="wp-caption-text">Falchion Case</p></div>
+<h1>CASUAL</h1>
+<ul>
+<li>Reduced Round timer from 3:00 to 2:15.</li>
+<li>Increased warmup time from 30 to 90 seconds.</li>
+<li>Disabled vote to restart match.</li>
+<li>Vote to change level is disabled after a team has reached match point.</li>
+</ul>
+<h1>UI</h1>
+<ul>
+<li>Fixed sometimes (but rarely) seeing health of players on the other team in the mini scoreboard.</li>
+<li>Fixed the freeze panel sometimes getting stuck on and staying on even after the player is alive.</li>
+</ul>
+<h1>MISC</h1>
+<ul>
+<li>Added trace-based visibility checks to prevent networking invisible enemy players.</li>
+<li>Updated CSGO engine to the latest Steam API SDK.</li>
+<li>Improved support for integrated web browser MOTD popups.</li>
+<li>Fixed several server-crashing exploits.</li>
+<li>Fixed voice chat echo in lobby.</li>
+<li>Re-enabled a bunch of player model variants including the much missed Balkan “Ido” model, otherwise known as tm_balkan_variantC.</li>
+<li>Added a convar (sv_disable_immunity_alpha) that when set, allows mods to handle their own alpha on players.</li>
+<li>Limited support for FBX in studiomdl.</li>
+<li>Added sv_vote_to_changelevel_before_match_point (default 0, vote is never disallowed). When set to 1, the vote to change level is disabled after a team has reached match point.</li>
+</ul>
+<h1>MAPS</h1>
+<h3>Cache</h3>
+<ul>
+<li>Fixed multiple bomb-stuck spots</li>
+<li>Fixed an issue where saving CTs could be seen on radar from outside spawn</li>
+<li>Fixed an annoying issue where grenades would collide with ground geometry map-wide</li>
+<li>Deleted a problematic glass pane in mid (thanks RoF Anders)</li>
+<li>Ensured tarps on crates are actually spammable</li>
+</ul>
+<h3>Season</h3>
+<ul>
+<li>Reduced width of Upper B T-side and long A to their CS:Source dimensions</li>
+<li>Fixed every “white on white” corner to improve visibility (Thanks Shahzam)</li>
+<li>Added a railing on catwalk to ensure that T’s don’t rush A site without potential punishment from pit</li>
+<li>Fixed an angle at B lower to ensure that defensive grenades can be bounced off a wall easily and properly, as was the case in CS:Source</li>
+<li>Made squeeky door louder</li>
+<li>Bug fix: fixed metal sounds being made on all surfaces throughout the map.</li>
+</ul>
+<h3>Mirage</h3>
+<ul>
+<li>Fixed some spots where C4 could get stuck</li>
+<li>Fixed some spots where players could get stuck on walls</li>
+</ul>
+<p>An diesem Beitrag wird gerade geschrieben, aktualisiere alle paar Minuten..</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/grosses-update-operation-bloodhound-profiles-ranks-xp-points-ranks-nun-in-profilen-neue-maps/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Letzte Spiele auf VAC gebannte Spieler prüfen (Tool / Script)</title>
+		<link>/letzte-spiele-auf-vac-gebannte-spieler-pruefen-tool-script/</link>
+		<comments>/letzte-spiele-auf-vac-gebannte-spieler-pruefen-tool-script/#comments</comments>
+		<pubDate>Fri, 15 May 2015 15:03:15 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Hilfe]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+
+		<guid isPermaLink="false">/?p=3426</guid>
+		<description><![CDATA[In der letzten Zeit ist es verhäuft zu Ban Wellen von VAC gekommen. Nun haben sich zwei Entwickler die Mühe gemacht und ein simples Javscript welches als Bookmark im Browser bei Google Chrome angelegt werden&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>In der letzten Zeit ist es verhäuft zu Ban Wellen von VAC gekommen. Nun haben sich zwei Entwickler die Mühe gemacht und ein simples Javscript welches als Bookmark im Browser bei Google Chrome angelegt werden kann, zu entwickeln. Diese Javascript zeigt einem mit einem Klick den VAC Status der letzten Spiele an. Ziemlich cool wie wir finden, man hat ja öfter eine Ahnung dass jemand cheatet, kann es aber nur aufwendig verfolgen. Mit diesem Script geht das ruck zuck <img src="https://s.w.org/images/core/emoji/11/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><strong>So sieht das aus:</strong></p>
+<p><a href="/wp-content/uploads/sites/2/2015/05/vac-ban-checker.png" target="_blank"><img class="alignnone size-medium wp-image-3428" src="/wp-content/uploads/sites/2/2015/05/vac-ban-checker-300x106.png" alt="vac-ban-checker" width="300" height="106" /></a></p>
+<p><strong>So gehts:</strong></p>
+<ol>
+<li>Erstellt ein Bookmark / Lesezeichen bei Google Chrome, zum Beispiel unsere Seite. Klickt auf Lesezeichen -&gt; &#8222;Diese Seite als Lesezeichen speichern&#8220;</li>
+<li>Geht erneut auf das Lesezeichen welches Ihr gerade hinzugefügt habt, und klickt mit rechter Maustaste auf &#8222;Bearbeiten&#8220;.</li>
+<li>Vergebt einen Namen z.B. &#8222;VAC CHECKER&#8220; und als Url kopiert ihr folgenden Scriptcode ein: <a href="https://raw.githubusercontent.com/MrHayato/VacBanChecker/master/vaccheck.min.js">Hier klicken</a></li>
+<li>Nachdem ihr auf OK geklickt habt einfach in der Steam Community auf &#8222;Zuletzt gespielte Matches&#8220; oder hier über den <a href="http://steamcommunity.com/my/friends/coplay">Link Hier klicken</a></li>
+<li>Nun das Lesezeichen ausführen und TADDAAAA alle User haben nun eine Info &#8222;No Bans&#8230;&#8220; oder &#8222;VAC Ban seit XXX Tagen&#8220;</li>
+</ol>
+<p>Quelle: <a href="https://www.reddit.com/r/GlobalOffensive/comments/34hbxj/check_your_recently_played_games_for_vac_status/">Reddit</a> | Credit over to /u/iEyepawd &amp; /u/MrHayato</p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/letzte-spiele-auf-vac-gebannte-spieler-pruefen-tool-script/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Erneute VAC Banwelle &#8211; 2 große Privathack Anbieter nun DETECTED</title>
+		<link>/erneute-vac-banwelle-2-grosse-privathack-anbieter-nun-detected/</link>
+		<comments>/erneute-vac-banwelle-2-grosse-privathack-anbieter-nun-detected/#respond</comments>
+		<pubDate>Wed, 06 May 2015 10:51:26 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[Szene]]></category>
+		<category><![CDATA[vac banwave]]></category>
+
+		<guid isPermaLink="false">/?p=3418</guid>
+		<description><![CDATA[Vor wenigen Stunden ist eine weitere VAC Banwelle ausgerollt. Insgesamt hat es 2 (möglicherweise auch mehr) große Privat Hack Anbieter erwischt. Die folgenden Screenshots sind Auszüge aus entsprechenden Foren von den Anbietern direkt. Man&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Vor wenigen Stunden ist eine weitere VAC Banwelle ausgerollt. Insgesamt hat es 2 (möglicherweise auch mehr) große Privat Hack Anbieter erwischt. Die folgenden Screenshots sind Auszüge aus entsprechenden Foren von den Anbietern direkt. Man kann davon ausgehen, dass das Matchmaking momentan mehr oder weniger &#8222;clean&#8220; ist. Sollten wir weitere Infos bezüglich den Hacks erhalten, werden wir es hier updaten.</p>
+<p><strong>Hier könnt ihr übrigens sehr einfach eure Friendlist auf Cheater prüfen:</strong><a href="https://vacstat.us/list/latest/vac"> https://vacstat.us/list/latest/vac</a></p>
+<p><strong>Screenshots aus den Foren: </strong></p>
+<ul>
+<li>http://i.imgur.com/MGTZBt8.png</li>
+<li><a href="http://i.imgur.com/9rFXLFN.png">http://i.imgur.com/9rFXLFN.png</a></li>
+<li><a href="http://i.imgur.com/GDjcFPp.png">http://i.imgur.com/GDjcFPp.png</a></li>
+<li><a href="http://i.imgur.com/N7Z9GXV.png">http://i.imgur.com/N7Z9GXV.png</a></li>
+</ul>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/erneute-vac-banwelle-2-grosse-privathack-anbieter-nun-detected/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Harte CS:GO Profi Clutches im Video</title>
+		<link>/harte-csgo-profi-clutches-im-video/</link>
+		<comments>/harte-csgo-profi-clutches-im-video/#respond</comments>
+		<pubDate>Wed, 06 May 2015 10:20:34 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[Videos]]></category>
+
+		<guid isPermaLink="false">/?p=3403</guid>
+		<description><![CDATA[Counter-Strike: Global-Offensive Profi Clutches #1 In diesem Video mal wieder ein paar sehr starke Szenen von KennyS, PashzaBiceps, taz und weiteren. Zum Teil wirklich Gänsehaut denn die original Kommentatoren sind im Video hinterlegt. Dieser&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h4>Counter-Strike: Global-Offensive Profi Clutches #1</h4>
+<p>In diesem Video mal wieder ein paar sehr starke Szenen von KennyS, PashzaBiceps, taz und weiteren. Zum Teil wirklich Gänsehaut denn die original Kommentatoren sind im Video hinterlegt. Dieser rasten regelrecht aus <img src="https://s.w.org/images/core/emoji/11/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Gönnt&#8217;s euch, wir finden es super!</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/harte-csgo-profi-clutches-im-video/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Nur für euch! CSGO-Stats.net erstrahlt im neuen Design! Neue Funktionen!</title>
+		<link>/nur-fuer-euch-csgo-stats-net-erstrahlt-in-neuen-design-neue-funktionen/</link>
+		<comments>/nur-fuer-euch-csgo-stats-net-erstrahlt-in-neuen-design-neue-funktionen/#respond</comments>
+		<pubDate>Tue, 05 May 2015 20:59:23 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+
+		<guid isPermaLink="false">/?p=3405</guid>
+		<description><![CDATA[CSGO-Stats.net V2.0 ist Online! Es ist vollbracht, nach mehren Monaten Arbeit haben wir nun endlich eines unserer Projekte fertig gestellt. Die Rede ist von www.CSGO-Stats.net, dieses Projekt findet täglich mehrere tausend User welche sich selber&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>CSGO-Stats.net V2.0 ist Online!</h3>
+<p>Es ist vollbracht, nach mehren Monaten Arbeit haben wir nun endlich eines unserer Projekte fertig gestellt.<br />
+Die Rede ist von <a href="http://www.CSGO-Stats.net/">www.CSGO-Stats.net</a>, dieses Projekt findet täglich mehrere tausend User welche sich selber mit anderen Freunden oder auch Progamern vergleichen. Wir könnten euch nun mit vielen Funktionen vollspammen, denken uns jedoch, dass ihr am Besten selber mal vorbeischaut und alles ausgiebig testet.</p>
+<p>Also auf gehts auf: <a href="http://www.CSGO-Stats.net/">www.CSGO-Stats.net</a> oder auf die <a href="https://play.google.com/store/apps/details?id=net.csgo_stats">Google Play Store App hier.</a></p>
+<p>Wir freuen uns auf euer Feedback!</p>
+<p><a href="/wp-content/uploads/sites/2/2015/05/csgostats.png"><img class="alignnone  wp-image-3407" src="/wp-content/uploads/sites/2/2015/05/csgostats-300x243.png" alt="csgostats" width="286" height="231" /></a> <a href="/wp-content/uploads/sites/2/2015/05/csgo-stats2.png"><img class="alignnone size-medium wp-image-3410" src="/wp-content/uploads/sites/2/2015/05/csgo-stats2-300x233.png" alt="csgo-stats2" width="300" height="233" /></a> <a href="/wp-content/uploads/sites/2/2015/05/csgo-stats3.png"><img class="alignnone  wp-image-3411" src="/wp-content/uploads/sites/2/2015/05/csgo-stats3-300x191.png" alt="csgo-stats3" width="361" height="230" /></a></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/nur-fuer-euch-csgo-stats-net-erstrahlt-in-neuen-design-neue-funktionen/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

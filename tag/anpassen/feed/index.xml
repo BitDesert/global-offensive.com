@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>anpassen &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/anpassen/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>anpassen &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Crosshair Anleitung</title>
+		<link>/crosshair-anleitung/</link>
+		<comments>/crosshair-anleitung/#respond</comments>
+		<pubDate>Tue, 18 Dec 2012 14:55:47 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[anpassen]]></category>
+		<category><![CDATA[cl_]]></category>
+		<category><![CDATA[counter strike]]></category>
+		<category><![CDATA[crosshair ändern]]></category>
+		<category><![CDATA[crosshair anleitung]]></category>
+		<category><![CDATA[crosshair farbe ändern]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[Global Offensive]]></category>
+		<category><![CDATA[tutorial]]></category>
+
+		<guid isPermaLink="false">/?p=791</guid>
+		<description><![CDATA[&#160; Hier mal eine kleine Auflistung der Befehle für das Crosshair. Es gibt eine Reihe an möglichen Anpassungen die Ihr in Bezug auf das Crosshair durchführen könnt. &#160; Befehle: cl_crosshairstyle &#8211; Stellt den Fadenkreuz-Style ein&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p><a href="/wp-content/uploads/sites/2/2012/12/crosshair.jpg"><img class="size-medium wp-image-796 aligncenter" title="crosshair" src="/wp-content/uploads/sites/2/2012/12/crosshair-300x185.jpg" alt="" width="300" height="185" srcset="/wp-content/uploads/sites/2/2012/12/crosshair-300x185.jpg 300w, /wp-content/uploads/sites/2/2012/12/crosshair.jpg 577w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>&nbsp;</p>
+<p><strong>Hier mal eine kleine Auflistung der Befehle für das Crosshair. Es gibt eine Reihe an möglichen Anpassungen die Ihr in Bezug auf das Crosshair durchführen könnt.<span id="more-791"></span></strong></p>
+<p>&nbsp;</p>
+<p>Befehle:</p>
+<div><strong>cl_crosshairstyle &#8211; </strong>Stellt den Fadenkreuz-Style ein (0-4).</div>
+<div><strong>cl_crosshairsize</strong> &#8211; Gibt die Länge des Crosshairs an (1-1000).</div>
+<div><strong>cl_crosshairthickness</strong> &#8211; Legt die Breite des Crosshairs fest (0-5).</div>
+<div><strong>cl_fixedcrosshairgap &#8211; </strong>Legt den Abstande der Balken fest (standard 3).<br />
+<strong>cl_crosshaircolor</strong> &#8211; Ermöglicht das einstellen der (Crosshair) Farbe (0-5).</div>
+<div><strong>cl_crosshaircolor_r</strong> &#8211; Stellt den roten Farbenanteil ein (0-255).</div>
+<div><strong>cl_crosshaircolor_g &#8211; </strong>Legt den grünen Farbenanteil fest (0-255).</div>
+<div><strong>cl_crosshaircolor_b &#8211; </strong>Gibt den blauen Farbenanteil vor (0-255).</div>
+<div><strong>cl_crosshairusealpha</strong> &#8211; Setzt die Transparenz für das Crosshair (0-1).</div>
+<div><strong>cl_crosshairalpha</strong> &#8211; Stellt die Undurchsichttigkeit des Crosshairs ein (0-255).</div>
+<div><strong>cl_crosshairdot</strong> &#8211; Setzt einen Punkt in der Mitte des Crosshairs (0-1).</div>
+<div></div>
+<div>__________________________________</div>
+<div></div>
+<div>Erläuterung der Befehle:</div>
+<div><span style="text-decoration: underline"><strong>cl_crosshairstyle</strong></span>Legt den Style (das Aussehen) des Fadenkreuzes fest. Lässt sich unter Options &#8211; Game Settings &#8211; menu &#8211; Crosshair Style auswählen. Dabei stehen folgenden Bereiche zu Verfügung, 0 = Default (Standard) ist:</div>
+<div></div>
+<div><strong>cl_crosshairstyle &#8222;0&#8220;</strong><strong> </strong>= Default, dynamisches Crosshair.<br />
+<strong>cl_crosshairstyle &#8222;1&#8220; </strong>= Default Static,<strong> </strong>festes Crosshair.<br />
+<strong>cl_crosshairstyle &#8222;2&#8220; </strong>= Classic, leicht bewegendes Crosshair.<strong></strong><br />
+<strong>cl_crosshairstyle &#8222;3&#8220; = </strong>Classic Dynamic, stark dynamisches Crosshair.<br />
+<strong>cl_crosshairstyle &#8222;4&#8220; </strong>= Classic Static, festes Crosshair.<br />
+<strong></strong></div>
+<div></div>
+<div><strong>cl_crosshairsize</strong></div>
+<div>Mit cl_crosshairsize lässt sich die Länge der Fadenkreuzstriche einstellen. Umso höher der Wert eingestellt wird, je größer werden die Fadenkreuzstriche.</div>
+<div><span style="text-decoration: underline"><strong>cl_crosshairthickness</strong></span>Der Befehl cl_crosshairthickness gibt die Breite der einzelnen Fadenkreuzstriche vor. Auch hierbei gilt, umso höher der Wert eingestellt ist, je dicker sind die einzelnen Fadenkreuzstriche.</div>
+<div><span style="text-decoration: underline"><strong>cl_crosshaircolor</strong></span>Bei cl_crosshairstyle &#8222;2&#8220;<strong> </strong>&#8211; &#8222;4&#8220; möglich.Dieser Befehl stellt die Farbe des Fadenkreuzes ein. Dabei gibt es verschiedene Einstellungen für cl_crosshairstyle 2-4. Möglich sind Werte zwischen 0-5. Hierbei haben Zahlen folgende Bedeutung:<strong>0</strong> = die Farbe <strong>Rot</strong>.<br />
+<strong>1</strong> = <strong>Standardwert</strong> <strong>Grün</strong>.<br />
+<strong>2</strong> = die Farbe <strong>Gelb</strong>.<br />
+<strong>3</strong> = die Farbe <strong>Blau</strong>.<br />
+<strong>4 </strong>= die Farbe <strong>Hellblau</strong>.<br />
+<strong>5</strong> = <strong>ermöglicht das Einstellen einer eigenen Farbe.</strong></p>
+<p><strong>cl_crosshairusealpha</strong></p>
+<p>Bei cl_crosshairstyle &#8222;2&#8220;<strong> </strong>&#8211; &#8222;4&#8220; möglich.</p>
+<p>Dieser Befehl legt die Transparenz (Durchsichtigkeit) des Fadenkreuzes (Crosshairs) fest. Gibt man 0 ein, schaltet man cl_crosshairusealpha aus und bekommt die volle Farbstärke. Stellt man 1 ein, kann man mit cl_crosshairalpha einstellen wie transparent (durchsichtig) das Fadenkreuz sein soll.</p>
+<p><strong>cl_crosshairalpha</strong></p>
+<p>Bei cl_crosshairstyle &#8222;2&#8220;<strong> </strong>&#8211; &#8222;4&#8220; möglich.</p>
+<p>Legt die Transparenz (Durchsichtigkeit) des Fadenkreuzes (Crosshairs) fest. Man kann den Wert zwischen 0-255 verändern. Je höher der Wert eingestellt wird, desto größer wird die Undurchsichtigkeit (Transparenz) das Fadenkreuzes.</p>
+<p><strong>cl_crosshairdot</strong></p>
+<p>Bei cl_crosshairstyle &#8222;2&#8220;<strong> </strong>&#8211; &#8222;4&#8220; möglich.</p>
+<p>Mit cl_crosshairdot 1 erhält man einen Punkt in der Mitte des Fadenkreuzes (Crosshairs). Bei cl_crosshairdot 0 ist das Crosshair (Fadenkreuz) wieder ohne Punkt.</p>
+</div>
+<div></div>
+<div></div>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/crosshair-anleitung/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

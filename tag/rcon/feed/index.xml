@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>rcon &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/rcon/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>rcon &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Mapwechsel von Workshop Maps &#8211; Neuer Befehl: changelevel2 [Server]</title>
+		<link>/csgo-mapwechsel-von-workshop-maps-neuer-befehl-changelevel2-server/</link>
+		<comments>/csgo-mapwechsel-von-workshop-maps-neuer-befehl-changelevel2-server/#comments</comments>
+		<pubDate>Mon, 02 Sep 2013 10:51:34 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Plugins]]></category>
+		<category><![CDATA[Server Administration]]></category>
+		<category><![CDATA[_se maps]]></category>
+		<category><![CDATA[administration]]></category>
+		<category><![CDATA[changelevel2]]></category>
+		<category><![CDATA[Map]]></category>
+		<category><![CDATA[map wechseln]]></category>
+		<category><![CDATA[rcon]]></category>
+		<category><![CDATA[Workshop]]></category>
+
+		<guid isPermaLink="false">/?p=1802</guid>
+		<description><![CDATA[Workshop maps auf dem CS:GO Server laden Seit dem letzten Update verzeichnen wir hohen Traffic auf die Suchbegriffe &#8222;Workshop Maps wechseln&#8220;. In der Tat wurde in dem Arms Update von Counter-Strike: Global-Offensive etwas geändert&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Workshop maps auf dem CS:GO Server laden</h3>
+<p>Seit dem letzten Update verzeichnen wir hohen Traffic auf die Suchbegriffe &#8222;Workshop Maps wechseln&#8220;. In der Tat wurde in dem Arms Update von Counter-Strike: Global-Offensive etwas geändert was nun das wechseln der _se maps über den alten Befehl &#8222;host_workshop_map ID&#8220; nicht mehr möglich macht. Der Befehl dient lediglich dazu die _se maps auf den Server zu laden, sprich der CS:GO Server läd sich die Datei aus dem Workshop. Man kann jetzt jedoch vergeblich darauf warten dass diese Map auch geladen wird.</p>
+<p>Absofort müsst ihr den etwas komplizierteren Weg mit changelevel2 gehen.</p>
+<h3>Wir haben euch die Befehle für die aktuellen Workshop-Maps mal als Alias hinterlegt, diese einfach in eure Config.cfg im CS:GO cfg Verzeichnis am Ende einfügen:</h3>
+<p>alias &#8222;dust&#8220; &#8222;rcon changelevel2 workshop125498851de_dust_se&#8220;</p>
+<p>alias &#8222;dust2&#8220; &#8222;rcon changelevel2 workshop125488374de_dust2_se&#8220;<br />
+alias &#8222;inferno&#8220; &#8222;rcon changelevel2 workshop125499116de_inferno_se&#8220;<br />
+alias &#8222;nuke&#8220; &#8222;rcon changelevel2 workshop125498553de_nuke_se&#8220;<br />
+alias &#8222;train&#8220; &#8222;rcon changelevel2 workshop125498231de_train_se&#8220;<br />
+alias &#8222;mirage&#8220; &#8222;rcon changelevel2 workshop123769103de_mirage_ce&#8220;<br />
+alias &#8222;mill&#8220; &#8222;rcon changelevel2 workshop125620805de_mill_&#8220;<br />
+alias &#8222;cache&#8220; &#8222;rcon changelevel2 workshop125670041de_cache&#8220;</p>
+<p>Nun müsst ihr euch nur noch am server mit rcon_password DEM_RCON_PASSWORT anmelden und anschließend für die map de_dust2_se, &#8222;dust2&#8220; in die console eingeben. Die Map wird nun gewechselt.</p>
+<p>Sollte der Server melden dass die Map nicht auf dem Server vorhanden ist, müsst ihr vorher diese mit dem Befehle (hier als Beispiel für de_dust2_se) &#8222;host_workshop_map 1254988651&#8220; eingeben. Der Server gibt dann eine Nachricht aus dass die Map von Steam heruntergeladen wird.</p>
+<p><strong>Oder alternativ direkt über die Console mit: </strong></p>
+<p>rcon changelevel2 workshop125488374de_dust2_se</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-mapwechsel-von-workshop-maps-neuer-befehl-changelevel2-server/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Anleitung CS:GO Workshop se_maps, so funktionierts auf dem Server</title>
+		<link>/anleitung-csgo-workshop-se_maps-so-funktionierts/</link>
+		<comments>/anleitung-csgo-workshop-se_maps-so-funktionierts/#comments</comments>
+		<pubDate>Sun, 17 Feb 2013 17:53:20 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[Gamerserver]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Server Administration]]></category>
+		<category><![CDATA[aim_map]]></category>
+		<category><![CDATA[anleitung workshop]]></category>
+		<category><![CDATA[api key]]></category>
+		<category><![CDATA[changelevel]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[de_dust2_se]]></category>
+		<category><![CDATA[de_inferno_se]]></category>
+		<category><![CDATA[de_nuke_se]]></category>
+		<category><![CDATA[de_train_se]]></category>
+		<category><![CDATA[ESL]]></category>
+		<category><![CDATA[Global Offensive]]></category>
+		<category><![CDATA[Map]]></category>
+		<category><![CDATA[mapchange]]></category>
+		<category><![CDATA[rcon]]></category>
+		<category><![CDATA[Server]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[wie funktioniert der csgo workshop]]></category>
+		<category><![CDATA[Workshop]]></category>
+
+		<guid isPermaLink="false">/?p=695</guid>
+		<description><![CDATA[&#160; &#8222;Wie funktioniert der CS:GO Workshop?&#8220; oder &#8222;Wie lade ich se maps?&#8220; Sind Fragen die uns in letzter Zeit öfter per Mail gestellt worden sind. Zugegeben wir haben anfangs auch vor dem Problem gestanden&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p><a href="/wp-content/uploads/sites/2/2013/02/workshop.jpg"><img class="size-medium wp-image-702 aligncenter" title="workshop" alt="" src="/wp-content/uploads/sites/2/2013/02/workshop-300x155.jpg" width="300" height="155" srcset="/wp-content/uploads/sites/2/2013/02/workshop-300x155.jpg 300w, /wp-content/uploads/sites/2/2013/02/workshop.jpg 580w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>&nbsp;</p>
+<p>&#8222;Wie funktioniert der CS:GO Workshop?&#8220; oder &#8222;Wie lade ich se maps?&#8220; Sind Fragen die uns in letzter Zeit öfter per Mail gestellt worden sind. Zugegeben wir haben anfangs auch vor dem Problem gestanden Maps wie de_dust2_se zu laden. Der Server oder der Client hat immer Fehler versucht was das Spielen von se Maps nicht möglich macht.</p>
+<p>Aus diesem Grund schreiben wir hier die einfache Anleitung wie ihr wieder die se maps laden könnt.</p>
+<p>Hintergrund ist dass Maps wie <strong>de_dust2_se</strong>, <strong>de_inferno_se</strong>, <strong>de_train_se</strong> oder <strong>de_nuke_se </strong>absofort nur noch über den Counter-Strike Global Offensive internen Workshop angeboten werden. Das heißt es nicht nicht mehr möglich über &#8222;rcon map de_dust2_se&#8220; entsprechende Maps zu laden. Diese Maps sind weiterhin natürlich in der ESL offiziell erlaubt.</p>
+<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;</p>
+<p><strong>Hier nun die Schritt für Schritt Anleitung:</strong></p>
+<p><strong>1. </strong>Erstmal braucht ihr einen API Schlüssel um Steam (also den Workshop zu erlauben auf euren Server zu fungieren). Hierfür klickt ihr  Auf diesen <a href="https://steamcommunity.com/login/home/?goto=%2Fdev%2Fapikey">LINK </a>und registriert euren Schlüssel. Wichtig hierbei ist dass die Adresse welche in dem Registrierungsprozess abgefragt wird, eure IP Adresse ist, also die des Servers.</p>
+<p><strong>2. </strong>Am Ende des Registrierungsprozess solltet ihr einen Schlüssel ausgestellt bekommen der ungefähr so aussieht: &#8222;18472E3D39B65D592FD1C69XXXXXXXXX&#8220;</p>
+<p><strong>3.</strong> Im nächsten Schritt müsst ihr dem CSGO Server diesen API Key zuweisen. Dies funktioniert ganz einfach über eine Textdatei mit dem Namen &#8222;webapi_authkey.txt&#8220; welche ihr erstellt und in das /csgo/ verzeichnis kopiert.</p>
+<p><strong>4.</strong> Nun müsst ihr eine workshop Map oder eine collection einfügen unzwar in eure autoexec.cfg wenn ihr noch keine habt erstellt einfach eine autoexec.cfg (diese liegt auch im /csgo/cfg/ Ordner.</p>
+<ol>
+<li><strong>Kopiert nun folgende Befehle in die autoexec.cfg:</strong></li>
+</ol>
+<blockquote><p>game_type 0<br />
+game_mode 1<br />
+host_workshop_collection 125951285<br />
+log on<br />
+map de_inferno</p></blockquote>
+<p>Startet euren Counter-Strike Global Offensive Gameserver neu und nach einigen Minuten sollten alle &#8222;se maps&#8220;  auf dem Server automatisch heruntergeladen worden sein. Die Maps liegen im /csgo/maps/workshop/ Ordner. Sind die Maps dort enthalten, habt ihr alles korrekt ausgeführt.</p>
+<p>Nun könnt ihr über folgende Befehle die Ihr über RCON ausführt die Maps laden.</p>
+<p><strong>Beispiel für folgende maps:</strong></p>
+<p>dust2: &#8222;<strong>rcon host_workshop_map 125488374</strong>&#8220;<br />
+inferno: &#8222;<strong>rcon host_workshop_map 125499116</strong>&#8220;<br />
+train &#8222;<strong>rcon host_workshop_map 125498231</strong>&#8220;<br />
+nuke &#8222;<strong>rcon host_workshop_map 125498553</strong>&#8220;<br />
+dust &#8222;<strong>rcon host_workshop_map 125498851</strong>&#8220;<br />
+aztec &#8222;<strong>rcon host_workshop_map 125498692</strong>&#8220;<br />
+mirage &#8222;<strong>rcon host_workshop_map 123769103</strong>&#8220;<br />
+mill &#8222;<strong>rcon host_workshop_map 125620805</strong>&#8220;<br />
+cache &#8222;<strong>rcon host_workshop_map 125670041</strong>&#8220;</p>
+<p>&nbsp;</p>
+<p>Um jetzt nicht immer rcon host_workshop_map ID eingeben zu müssen könnt ihr ganz einfach ein Alias schreiben welches ihr am Ende der server.cfg folgendes einfügt:</p>
+<p>alias dust2 &#8222;host_workshop_map 125488374&#8220;<br />
+alias inferno &#8222;host_workshop_map 125499116&#8220;<br />
+alias train &#8222;host_workshop_map 125498231&#8220;<br />
+alias nuke &#8222;host_workshop_map 125498553&#8220;<br />
+alias dust &#8222;host_workshop_map 125498851&#8220;<br />
+alias aztec &#8222;host_workshop_map 125498692&#8220;<br />
+alias mirage &#8222;host_workshop_map 123769103&#8220;<br />
+alias mill &#8222;host_workshop_map 125620805&#8220;<br />
+alias cache &#8222;host_workshop_map 125670041&#8220;</p>
+<p>Nun könnt ihr ganz einfach über &#8222;rcon dust2&#8220; die de_dust2_se map laden <img src="https://s.w.org/images/core/emoji/11/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><strong>Das war es auch schon, wir wünschen euch viel Spaß beim Spielen der de_maps</strong></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/anleitung-csgo-workshop-se_maps-so-funktionierts/feed/</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+		</item>
+		<item>
+		<title>Sourcemod Adminbefehle</title>
+		<link>/sourcemod-adminbefehle/</link>
+		<comments>/sourcemod-adminbefehle/#comments</comments>
+		<pubDate>Sat, 13 Oct 2012 12:31:00 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Plugins]]></category>
+		<category><![CDATA[Server Administration]]></category>
+		<category><![CDATA[Adminbefehle]]></category>
+		<category><![CDATA[Konsolenbefehle]]></category>
+		<category><![CDATA[rcon]]></category>
+		<category><![CDATA[Serverbefehle]]></category>
+
+		<guid isPermaLink="false">/?p=213</guid>
+		<description><![CDATA[Sourcemod ist ein sehr starkes und sinnvolles Plugin. Gerade auf Public Servern kann mit diesem Plugin schon einiges &#8222;gesteuert&#8220; werden. Oft ist beim Serveranbieter selber das Plugin über ein Webinterface ganz eleganz und einfach&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Sourcemod ist ein sehr starkes und sinnvolles Plugin.<br />
+Gerade auf Public Servern kann mit diesem Plugin schon einiges &#8222;gesteuert&#8220; werden.<br />
+<br />
+<img class="aligncenter" title="Sourcemod Logo" src="http://www.sourcemod.net/sourcemod-site-bounded.png" alt="" width="393" height="60" /><br />
+<br />
+Oft ist beim Serveranbieter selber das Plugin über ein Webinterface ganz eleganz und einfach zu installieren. Sollte das nicht der Fall sein oder ihr hostet den Server selber, findet hier unter folgenden Link das Sourcemod-Paket: <a href="http://www.sourcemod.net/downloads.php">http://www.sourcemod.net/downloads.php</a></p>
+<p>Hier alle Kommandos die per rcon console ingame ausgeführt werden können&#8230;.<span id="more-213"></span></p>
+<p><strong>Standardbefehle:</strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td><strong>Befehl</strong></td>
+<td><strong>Recht</strong></td>
+<td><strong>Beschreibung</strong></td>
+<td><strong>Beispiel</strong></td>
+</tr>
+<tr>
+<td>sm_addban</td>
+<td>rcon (m)</td>
+<td>Fügt Spieler der Banliste hinzu</td>
+<td>sm_addban 0 STEAM_0:1:23456 Cheater</td>
+</tr>
+<tr>
+<td>sm_admin</td>
+<td>admin (b)</td>
+<td>Öffnet das Adminmenü</td>
+<td>sm_admin</td>
+</tr>
+<tr>
+<td>sm_ban</td>
+<td>ban (d)</td>
+<td>Bannt einen Spieler</td>
+<td>sm_ban #userID 0 Cheater</td>
+</tr>
+<tr>
+<td>sm_banip</td>
+<td>rcon (m)</td>
+<td>Bannt einen Spieler über die IP</td>
+<td>sm_banip IP 0 Cheater</td>
+</tr>
+<tr>
+<td>sm_cancelvote</td>
+<td>vote (k)</td>
+<td>Bricht jeden aktiven Vote ab</td>
+<td>sm_cancelvote</td>
+</tr>
+<tr>
+<td>sm_cvar</td>
+<td>cvar (h)</td>
+<td>Das Recht Cvars zu ändern</td>
+<td>sm_cvar mp_timelimit 10</td>
+</tr>
+<tr>
+<td>sm_execcfg</td>
+<td>config (i)</td>
+<td>Das Recht configs auszuführen</td>
+<td>sm_execcfg 5on5.cfg</td>
+</tr>
+<tr>
+<td>sm_help</td>
+<td>admin (b)</td>
+<td>Zeigt eine Hilfe zu den Befehlen</td>
+<td>sm_help</td>
+</tr>
+<tr>
+<td>sm_kick</td>
+<td>kick (c)</td>
+<td>Kickt einen Spieler vom Server</td>
+<td>sm_kick Name Grund</td>
+</tr>
+<tr>
+<td>sm_map</td>
+<td>map (g)</td>
+<td>Wechselt die map</td>
+<td>sm_map Mapname</td>
+</tr>
+<tr>
+<td>sm_rcon</td>
+<td>rcon (m)</td>
+<td>Führt Rcon-Commands aus</td>
+<td>sm_rcon sv_password 1234</td>
+</tr>
+<tr>
+<td>sm_realoadadmins</td>
+<td>config (i)</td>
+<td>Aktualisiert die Admins</td>
+<td>sm_reloadadmins</td>
+</tr>
+<tr>
+<td>sm_unban</td>
+<td>unban (e)</td>
+<td>Entbannt einen Spieler</td>
+<td>sm_unban STEAM_0:1:23456</td>
+</tr>
+<tr>
+<td>sm_who</td>
+<td>admin (b)</td>
+<td>Zeigt alle Admins samt Rechte an</td>
+<td>sm_who</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Erweiterte (Fun) Befehle:</strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td><strong>Befehl</strong></td>
+<td><strong>Recht</strong></td>
+<td><strong>Beschreibung</strong></td>
+<td><strong>Beispiel</strong></td>
+</tr>
+<tr>
+<td>sm_beacon</td>
+<td>slay (f)</td>
+<td> Macht einen Ring um einen Spieler</td>
+<td>sm_beacon Spielername</td>
+</tr>
+<tr>
+<td>sm_burn</td>
+<td>slay (f)</td>
+<td> Zündet einen Spieler für Zeit X an</td>
+<td>sm_burn Spielername X</td>
+</tr>
+<tr>
+<td>sm_chat</td>
+<td>chat (j)</td>
+<td> Sendet eine Nachricht an alle Admins</td>
+<td>sm_chat Hallo</td>
+</tr>
+<tr>
+<td>sm_csay</td>
+<td>chat (j)</td>
+<td> Sendet eine Nachricht an alle Spieler</td>
+<td>sm_csay Hallo</td>
+</tr>
+<tr>
+<td>sm_gag</td>
+<td>chat (j)</td>
+<td> Verhindert das Nutzen des Chats eines Spielers</td>
+<td>sm_gag Spielername</td>
+</tr>
+<tr>
+<td>sm_hsay</td>
+<td>chat (j)</td>
+<td> Schickt eine Nachricht an alle Spieler über die Centerbox</td>
+<td>sm_hsay Hallo</td>
+</tr>
+<tr>
+<td>sm_msay</td>
+<td>chat (j)</td>
+<td> Schickt eine Nachricht an alle Spieler</td>
+<td>sm_msay Hallo</td>
+</tr>
+<tr>
+<td>sm_mute</td>
+<td>chat (j)</td>
+<td> Verhindert das nutzen des Voicechats</td>
+<td>sm_mute Spielername</td>
+</tr>
+<tr>
+<td>sm_play</td>
+<td>admin (b)</td>
+<td> Spielt ein Soundfile auf dem Server ab</td>
+<td>sm_play Soundfile</td>
+</tr>
+<tr>
+<td>sm_psay</td>
+<td>chat (j)</td>
+<td> Schickt einem Spieler eine Nachricht</td>
+<td>sm_psay Spieler Hallo</td>
+</tr>
+<tr>
+<td>sm_rename</td>
+<td>slay (f)</td>
+<td> Ändert den Namen eines Spielers</td>
+<td>sm_rename Spielername</td>
+</tr>
+<tr>
+<td>sm_resetcvar</td>
+<td>cvar (h)</td>
+<td> Setzt eine Cvar auf den Defaultwert</td>
+<td>sm_resetcvar mp_timelimit</td>
+</tr>
+<tr>
+<td>sm_say</td>
+<td>chat (j)</td>
+<td> Schickt eine Nachricht an alle Spieler</td>
+<td>sm_say Hallo</td>
+</tr>
+<tr>
+<td>sm_silence</td>
+<td>chat (j)</td>
+<td> Bewirkt sm_gag und sm_mute bei einem Spieler</td>
+<td>sm_silence Spielername</td>
+</tr>
+<tr>
+<td>sm_slap</td>
+<td>slay (f)</td>
+<td> Schlägt einen Spieler mit Schaden X</td>
+<td>sm_slap Spielername 20</td>
+</tr>
+<tr>
+<td>sm_slay</td>
+<td>slay (f)</td>
+<td> Tötet einen Spieler</td>
+<td>sm_slay Spielername</td>
+</tr>
+<tr>
+<td>sm_tsay</td>
+<td>chat (j)</td>
+<td> Schickt eine farbige Nachtricht an alle Spieler.</td>
+<td> sm_tsay green Hallo</td>
+</tr>
+<tr>
+<td>sm_ungag</td>
+<td>chat (j)</td>
+<td> Erlaubt dem Spieler  das nutzen des Chats</td>
+<td> sm_ungang Spielername</td>
+</tr>
+<tr>
+<td>sm_unmute</td>
+<td>chat (j)</td>
+<td> Erlaubt dem Spieler  das nutzen des Voicechats</td>
+<td> sm_unmute Spielername</td>
+</tr>
+<tr>
+<td>sm_unsilence</td>
+<td>chat (j)</td>
+<td> Erlaubt dem Spieler das nutzen des Chats und Voicechats</td>
+<td> sm_unsilence Spielername</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><em><strong>Vote-Befehle:</strong></em></p>
+<table border="0">
+<tbody>
+<tr>
+<td>sm_vote</td>
+<td>vote (k)</td>
+<td>Startet einen ganz normalen Vote</td>
+<td>sm_vote Frage Antwort1 Antwort2 &#8230;</td>
+</tr>
+<tr>
+<td>sm_votealltalk</td>
+<td>vote (k)</td>
+<td>Startet einen Vote für Alltalk</td>
+<td>sm_votealltalk</td>
+</tr>
+<tr>
+<td>sm_voteban</td>
+<td>vote, ban (k,d)</td>
+<td>Startet einen Voteban</td>
+<td>sm_voteban Spielername</td>
+</tr>
+<tr>
+<td>sm_voteburn</td>
+<td>vote, slay (k,f)</td>
+<td>Startet einen Vote um einen Spieler anzuzünden</td>
+<td>sm_voteburn Spielername</td>
+</tr>
+<tr>
+<td>sm_voteff</td>
+<td>vote (k)</td>
+<td>Startet einen Vote für FriendlyFire</td>
+<td>sm_voteff</td>
+</tr>
+<tr>
+<td>sm_votegravity</td>
+<td>vote (k)</td>
+<td>Startet einen Vote für die Gravity</td>
+<td>sm_votegravity Wert1 Wert2 Wert3 &#8230;</td>
+</tr>
+<tr>
+<td>sm_votekick</td>
+<td>vote, kick (k,c)</td>
+<td>Startet einen Kickvote</td>
+<td>sm_votekick Spielername Grund</td>
+</tr>
+<tr>
+<td>sm_votemap</td>
+<td>vote, map (k,g)</td>
+<td>Startet einen Mapvote</td>
+<td>sm_votemap map1 map2 map3 &#8230;</td>
+</tr>
+<tr>
+<td>sm_voteslay</td>
+<td>vote, slay (k,f)</td>
+<td>Startet einen Vote gegen einen Spieler</td>
+<td>sm_voteslay Spielername</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/sourcemod-adminbefehle/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Bot Rcon Befehle</title>
+		<link>/rcon-befehle-auf-bots-bezogen/</link>
+		<comments>/rcon-befehle-auf-bots-bezogen/#respond</comments>
+		<pubDate>Sat, 13 Oct 2012 11:56:58 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Server Administration]]></category>
+		<category><![CDATA[administrieren]]></category>
+		<category><![CDATA[bannen]]></category>
+		<category><![CDATA[befehle]]></category>
+		<category><![CDATA[Bot in bestimmtes Team einfügen]]></category>
+		<category><![CDATA[Bots]]></category>
+		<category><![CDATA[deaktivieren]]></category>
+		<category><![CDATA[erstellen]]></category>
+		<category><![CDATA[festlegen]]></category>
+		<category><![CDATA[kicken]]></category>
+		<category><![CDATA[rcon]]></category>
+		<category><![CDATA[teamwechsel]]></category>
+		<category><![CDATA[waffen]]></category>
+
+		<guid isPermaLink="false">/?p=190</guid>
+		<description><![CDATA[Hier eine kleine Liste der Rcon-Befehle die verwendet werden können um die Bots auf dem Server zu &#8222;administrieren&#8220;. Befehl Beschreibung bot_add Fügt ein Bot hinzu. bot_add_ct Fügt ein Bot zu den Counterterroristen hinzu. bot_add_t&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Hier eine kleine Liste der Rcon-Befehle die verwendet werden können um die Bots auf dem Server zu &#8222;administrieren&#8220;.<span id="more-190"></span></p>
+<table border="1">
+<tbody>
+<tr>
+<th>Befehl</th>
+<th>Beschreibung</th>
+</tr>
+<tr>
+<td>bot_add</td>
+<td>Fügt ein Bot hinzu.</td>
+</tr>
+<tr>
+<td>bot_add_ct</td>
+<td>Fügt ein Bot zu den Counterterroristen hinzu.</td>
+</tr>
+<tr>
+<td>bot_add_t</td>
+<td>Fügt ein Bot zu den Terroristen hinzu.</td>
+</tr>
+<tr>
+<td>bot_all_weapons</td>
+<td>Erlaubt den Bots alle Waffen zu benutzen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_allow_grenades</td>
+<td>Erlaubt den Bots Granaten zu benutzen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_allow_machine_guns</td>
+<td>Erlaubt den Bots Maschinenpistolen zu benutzen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_allow_pistols</td>
+<td>Erlaubt den Bots Pistolen zu benutzen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_allow_rifles</td>
+<td>Erlaubt den Bots Gewehre zu nutzen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_allow_rogues</td>
+<td>Erlaubt den Bots MP´s zu nutzen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_allow_shotguns</td>
+<td>Erlaubt den Bots Schrotgewehre zu nutzen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_allow_snipers</td>
+<td>Erlaubt den Bots Scharfschützengewehre zu nutzen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_allow_sub_machine_guns</td>
+<td>Erlaubt den Bots SMG´s zu nutzen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_kick</td>
+<td>Kickt alle Bots.</td>
+</tr>
+<tr>
+<td>bot_kill</td>
+<td>Lässt alle Bots sterben.</td>
+</tr>
+<tr>
+<td>bot_snipers_only</td>
+<td>Bots benutzen nur noch Scharfschützengewehre. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_pistols_only</td>
+<td>Bots benutzen nur noch Pistolen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_knives_only</td>
+<td>Bots benutzen nur noch Messer. 0=nein; 1=ja</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/rcon-befehle-auf-bots-bezogen/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

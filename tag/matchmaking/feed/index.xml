@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>matchmaking &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/matchmaking/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>matchmaking &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Matchmaking Server Picker Software &#8211; Keine Russen, Polen&#8230; und schlechten Pings mehr etc. [Software]</title>
+		<link>/csgo-matchmaking-server-picker-software-keine-russen-polen-und-schlechten-pings-mehr-etc-software/</link>
+		<comments>/csgo-matchmaking-server-picker-software-keine-russen-polen-und-schlechten-pings-mehr-etc-software/#comments</comments>
+		<pubDate>Mon, 13 Oct 2014 17:31:07 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[matchmaking]]></category>
+		<category><![CDATA[server picker]]></category>
+		<category><![CDATA[software]]></category>
+
+		<guid isPermaLink="false">/?p=2893</guid>
+		<description><![CDATA[Mit dem Matchamking Server Picker 1.7 nur noch auf guten Servern spielen Ihr kennt das Problem, Steam verbindet euch zu wirklich miserablen Server und als Krönung ist das ganze Team voller aggressiver Russen welche&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Mit dem Matchamking Server Picker 1.7 nur noch auf guten Servern spielen</h3>
+<p>Ihr kennt das Problem, Steam verbindet euch zu wirklich miserablen Server und als Krönung ist das ganze Team voller aggressiver Russen welche die von Anfang an dicht &#8222;flamen&#8220;. Wir wollen hier kein Hass gegen Russen schüren, allerdings ist es allgemein bekannt, dass die Russischen Freunde in CS:GO etwas schneller unter die Decke gehen als andere. Um diese Umstände und das Verbinden zu schlechten Servern mit schlechten Pingzeiten zu verhindern, wurde nun von Gamebanana.com ein Tool veröffentlicht, welches euch erlaubt die Server aus Asien, Amerika etc. zu blocken. Somit können Ihr ziemlich granular festlegen, auf was für Server ihr Spielen wollt. Durch das kleine Programm werden durch die Firewall entsprechende Matchmaking Server geblockt.</p>
+<p>Hier der Download</p>
+<p>[infobox color=&#8220;blue&#8220;]<a href="http://ds-servers.com/gbh/gb903/tools/361/mmserverpicker_1_7.zip?hl=US">DOWNLOAD LINK für Matchmaking-Server-Picker</a> (Als Administrator ausführen)[/infobox]</p>
+<h4> Hier ein kurzes Video wie das Programm funktioniert</h4>
+<p>Dieses Programm wirbt mit:</p>
+<p>&nbsp;</p>
+<ul>
+<li style="color: #1e90ff;font-size: small;font-family: tahoma">People who don&#8217;t want to play on the Russian servers, and rather play on the EU West servers where more people speak English and there are far less Russians (Russians get close to 100ms on EU West).</li>
+<li style="color: #1e90ff;font-size: small;font-family: tahoma">Players living in South America who aren&#8217;t Brazilian, and want to play with people who speak English on the American servers.</li>
+<li style="color: #1e90ff;font-size: small;font-family: tahoma">Australian players who want to play at down time and can&#8217;t find any games. They can block the Aus servers and play on the Asian ones with 100ms ping.</li>
+<li style="color: #1e90ff;font-size: small;font-family: tahoma">People like me who don&#8217;t mind 300 ping and like to visit new servers every now and then.</li>
+<li style="color: #1e90ff;font-size: small;font-family: tahoma">People in India and UAE and other countries who want to play on other servers rather than play on the hackfest that is the Dubai servers, you can block Dubai using this program. (valve locks you to the dubai servers if you have under 80ms ping to them)</li>
+</ul>
+<p>[infobox color=&#8220;yellow&#8220;]<a href="http://csgo.gamebanana.com/tools/5684">Solltet ihr Fehler beim öffnen erhalten, bitte hier KLICKEN</a>[/infobox]</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-matchmaking-server-picker-software-keine-russen-polen-und-schlechten-pings-mehr-etc-software/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Update: Leichte Waffenanpassungen, Overwatch verbessert und Matchmaking optimiert.</title>
+		<link>/csgo-update-leichte-waffenanpassungen-overwatch-verbessert-und-matchmaking-optimiert/</link>
+		<comments>/csgo-update-leichte-waffenanpassungen-overwatch-verbessert-und-matchmaking-optimiert/#comments</comments>
+		<pubDate>Mon, 01 Jul 2013 18:46:09 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Overwatch]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[aug]]></category>
+		<category><![CDATA[ban]]></category>
+		<category><![CDATA[kick vote]]></category>
+		<category><![CDATA[matchmaking]]></category>
+		<category><![CDATA[overwatch]]></category>
+		<category><![CDATA[waffen]]></category>
+
+		<guid isPermaLink="false">/?p=1702</guid>
+		<description><![CDATA[Mal wieder ein weiteres Counter-Strike: Global Offensive (CS:GO) Update.  Es wurde an den Waffenverhalt von der  AUG und der SG553 gearbeitet, de_mirage wurde von Bugs befreit, Overwatch verbessert und am wichtigsten: das Kick Vote&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Mal wieder ein weiteres Counter-Strike: Global Offensive (CS:GO) Update.  Es wurde an den Waffenverhalt von der  AUG und der SG553 gearbeitet, de_mirage wurde von Bugs befreit, Overwatch verbessert und am wichtigsten: das Kick Vote im Matchmaking wurde entschärft und ist jetzt weniger anfällig für Missbrauch.</p>
+<h3>Hybrid-Waffen: AUG &amp; SG553</h3>
+<p>In der letzten Woche wurden diese Waffen wie erwähnt schon verbessert. Jetzt wurde wieder etwas verändert, leider wird in der Release Log nicht weiter drauf eingegangen.</p>
+<h3>Map Fixes</h3>
+<p>Auf der Map de_vertigo gab es das Problem, dass die Bombenplätze A und B. (Die Posis waren vertauscht).  Dieses wurde gefixt.</p>
+<h3>Kick Vote</h3>
+<p>Die Kick Vote Funktion wäre ja eigentlich eine tolle Sache, wenn sie nicht von so vielen Spielern missbraucht werden würde. Die Beschwerden über ungerechte und den Spielern schadende Kicks häuften sich in letzter Zeit, da mittlerweile auch temporäre Matchmaking Bans bei zu vielen Kicks verhängt werden. Deshalb war es für Valve Zeit zu reagieren.</p>
+<p>Bekommt ein Spieler einen Cooldown, weil er aus zu vielen Matches gekickt wurde, dann passt sich dieser nun dem aktuellen Straflevel des Spielers an. Die erste Stufe sind nur 30 Minuten, dann 2 Stunden, 24 Stunden und die höchste Stufe sind 7 Tage. Pro Woche ohne neues Vergehen, geht das Straflevel um eine Stufe zurück.</p>
+<p>Sehr erfreulich ist folgende Änderung: Begibt sich ein Spieler allein ins Matchmaking und wird dabei von einem Team aus vier zusammengehörigen Spielern gekickt, kann das nicht in einem Cooldown resultieren. In der Vergangenheit fanden es “besonders lustige Spieler” nämlich witzig, wenn sie kurz vor Ende des Matches das fünfte Teammitglied kicken und ihm damit schaden. Von solchen Aktionen tragen betroffene Spieler nun also keinen Schaden mehr in Form eines Matchmaking Bans davon.</p>
+<p>Bekommt man einen temporären Bann, weil man zu oft gekickt wurde, dann wird das jetzt sofort im Hauptmenü angezeigt und nicht mehr erst nach Ende des Matches.</p>
+<h3>Sonstiges</h3>
+<p>Overwatch macht weiter Fortschritte: Das System, das die Testfälle zum Überprüfen des Urteilvermögens der Spieler verteilt, wurde verbessert.</p>
+<p>Außerdem gibt es mit “sv_vote_issue_kick_allowed” und “sv_vote_kick_ban_duration” zwei neue Serverbefehle. Mit dem Konsolenbefehl “cl_interpolate” ist es von nun an möglich die Interpolation beim Anschauen von Demos oder auf Listen Servern auszuschalten. Unabhängig von dieser Einstellung ist die Interpolation auf Dedicated Servern immer aktiv. Und die <a title="CS:GO Grenade Trajectory" href="http://cs.ingame.de/tipps-tricks/csgo-grenade-trajectory/" target="_blank">Flugbahn von Granaten</a> kann man sich nun auch im Spectator Mode anzeigen lassen. Mit “sv_grenade_trajectory_time_spectator 1″ schaltet man sie für den Zuschauermodus an.</p>
+<p><a href="http://cs.ingame.de/files/2013/06/csgo-grenade-trajectory-04.jpg" rel="shadowbox[sbpost-25120];player=img;"><img alt="cs go grenade trajectory" src="http://cs.ingame.de/files/2013/06/csgo-grenade-trajectory-04-296x185.jpg" width="296" height="185" /></a></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-update-leichte-waffenanpassungen-overwatch-verbessert-und-matchmaking-optimiert/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

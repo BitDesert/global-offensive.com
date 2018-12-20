@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>status &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/status/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>status &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO ESL Server Plugin Download und Befehle</title>
+		<link>/csgo-neues-esl-server-plugin-download/</link>
+		<comments>/csgo-neues-esl-server-plugin-download/#respond</comments>
+		<pubDate>Mon, 11 Feb 2013 23:51:26 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[ESL]]></category>
+		<category><![CDATA[Gamerserver]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Server Administration]]></category>
+		<category><![CDATA[autorecord]]></category>
+		<category><![CDATA[befehle]]></category>
+		<category><![CDATA[bugfix]]></category>
+		<category><![CDATA[command]]></category>
+		<category><![CDATA[demo]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[esl config]]></category>
+		<category><![CDATA[esl plugin]]></category>
+		<category><![CDATA[fehler]]></category>
+		<category><![CDATA[Global Offensive]]></category>
+		<category><![CDATA[kommandos]]></category>
+		<category><![CDATA[Pro Series]]></category>
+		<category><![CDATA[server config]]></category>
+		<category><![CDATA[status]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[wie funktioniert]]></category>
+
+		<guid isPermaLink="false">/?p=675</guid>
+		<description><![CDATA[Lange war es still um das ESL Plugin, aber heute gibt es endlich das nötige Update. Bereits seit geraumer Zeit war dieses Update geplant, aber leider gab es einige Probleme und Fehler mit dem&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><div align="justify"><a href="/wp-content/uploads/sites/2/2012/10/esl-pro.jpg"><img class="size-full wp-image-566 aligncenter" title="esl-pro" src="/wp-content/uploads/sites/2/2012/10/esl-pro.jpg" alt="" width="150" height="195" /></a></div>
+<div align="justify">Lange war es still um das ESL Plugin, aber heute gibt es endlich das nötige Update.</div>
+<div align="justify">Bereits seit geraumer Zeit war dieses Update geplant, aber leider gab es einige Probleme und Fehler mit dem Plugin,<strong>welche sehr kompliziert zu lösen waren</strong>.Vor zwei Wochen befand sich dann eine funktionierende Version in der Testphase, aber durch das letzt CS:GO Update wurde das Plugin erneut inkompatibel noch bevor wir es fertigstellen konnten.Leider sind noch nicht alle Funktionen im Bezug auf CS:GO getestet, sodass das Plugin weiterhin in <strong>CS:GO freiwillig</strong> zu benutzen ist. Das gestrige Update von CS:S hat ein Release aber notwendig gemacht, auch wenn nicht alles getestet ist.Sollten Fehler auftreten, bitten wir diese im <strong>Forum oder hier in den Kommentaren</strong>zu melden, sodass wir schnell reagieren können.</div>
+<div align="justify">
+<p>Das aktuelle CS:Source Update hat leider auch den Autoupdater des Plugins deaktiviert, sodass die Provider zunächst wohl nicht automatisch an eine funktionierende Version des Plugins kommen.</p>
+<p>Für <strong>CS:Source gilt aber weiterhin die Pflicht des Plugins</strong>, sodass ihr bis euer Provider ein Update bereitstellt das Update manuell installieren müsst und somit <strong>kein Protected Modus</strong> funktioniert.</p>
+</div>
+<div align="justify"></div>
+<div style="text-align: center" align="justify"><em><strong><a title="http://www.esl.eu/de/csgo/download/26337194/" href="http://www.esl.eu/de/csgo/download/26337194/">Download hier</a></strong></em></div>
+<div style="text-align: center" align="justify"></div>
+<div style="text-align: center" align="justify"></div>
+<div style="text-align: center" align="justify"></div>
+<div align="justify"></div>
+<div align="justify"><strong>Die Counter-Strike Global Offensive ESL Plugin Befehle sind folgende:</strong></div>
+<div align="justify"><strong>rcon status</strong><br />
+Zeigt alle normalen rcon status Informationen an und gibt zusätzlich Informationen über die Version des Plugins und geladene Serverplugins an.</div>
+<div align="justify"><strong>rcon eslplugin_version</strong><br />
+Zeigt die aktuelle Version des Plugins an (Read only)</div>
+<div align="justify"><strong>rcon esl_update</strong><br />
+Manuell nach Updates suchen</div>
+<div align="justify"><strong>rcon esl_autorecord</strong> [0 / 1] (default: 0)<br />
+(Im Moment gibt es noch keinen SourceTV. Entsprechend ist diese Variable noch ohne Funktion)</div>
+<div align="justify"><strong>rcon esl_autoarmor</strong> [0 / 1] (default: 0)<br />
+Gibt allen Spielern am Anfang der Runde 100 Armor. Diese Setting ist für Knife Ladders gedacht.</div>
+<div align="justify"><strong>rcon 5on5</strong><br />
+Führt die ESL Server Config aus.</div>
+<div align="justify">User Console:<strong> eslstatus</strong><br />
+Zeigt alle normalen status Informationen an und gibt zusätzlich Informationen über die Version des Plugins und geladene Serverplugins an.</div>
+<div align="justify"><strong>rcon esl_webstart / esl_webstop</strong><br />
+Startet/Stoppt den internen Webserver</div>
+<div align="justify"><strong>rcon esl_webip</strong><br />
+Ändert die IP auf den der Webserver hört.</div>
+<div align="justify"><strong>rcon esl_webport</strong><br />
+Ändert den Port auf den der Webserver hört. Da es noch kein SourceTV gibt, sollte man den Port des Webservers manuell setzen. (zB auf 27020)</div>
+<div align="justify"><strong>rcon esl_start</strong><br />
+Alias für mp_restartgame 3</div>
+<div align="justify"><strong>rcon esl_gasearch</strong> [ 0 / 1 / 2] (default: 1)<br />
+Spieler die beim Cheaten erwischt werden, werden automatisch im ESL Plugin geblacklistet. Mit dieser Einstellung könnt ihr entscheiden, ob ihr diese Funktion deaktivieren, nur warnen oder betroffene Spieler umgehend kicken wollt.</div>
+<div align="justify"><strong>rcon esl_cashback</strong> [ 0 / 1 ] (default: 1)<br />
+Sobald ein Spieler vom Server dropped, wird sein aktueller Kontostand gespeichert und beim re-join auf den Server wiederhergestellt.</div>
+<div align="justify"></div>
+<div align="justify"></div>
+<div align="justify">Quelle: ESL.eu //</div>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-neues-esl-server-plugin-download/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

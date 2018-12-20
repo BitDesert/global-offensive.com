@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>CS: GO Config &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/cs-go-config/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>CS: GO Config &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS: GO Config 2013 / 2014</title>
+		<link>/cs-go-config/</link>
+		<comments>/cs-go-config/#respond</comments>
+		<pubDate>Tue, 05 Feb 2013 13:42:24 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Die Config]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Anleitung]]></category>
+		<category><![CDATA[befehle]]></category>
+		<category><![CDATA[Config]]></category>
+		<category><![CDATA[CS: GO Config]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[efehle]]></category>
+		<category><![CDATA[erklärung]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Tricks]]></category>
+
+		<guid isPermaLink="false">/?p=1395</guid>
+		<description><![CDATA[FPS MAX Config &#8211; So bekommst du die letzten FPS aus deiner Config heraus! (Stand 10.12.2013) Hier werden die wichtigsten Befehle für die CS:GO Config erklärt, dabei wird auf die Punkte Netsettings und Grafiksettings&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>FPS MAX Config &#8211; So bekommst du die letzten FPS aus deiner Config heraus! (Stand 10.12.2013)</h3>
+<p>Hier werden die wichtigsten Befehle für die CS:GO Config erklärt, dabei wird auf die Punkte Netsettings und Grafiksettings ein besonderer Stellenwert gelegt, da diese beiden Punkte die essenziellen Bereiche für ein angenehmes Zocken mit maximalen FPS sind.</p>
+<p>Auch wir haben hier die Einstellungen aufgegriffen und es empfehlen sich folgende Videosettings (video.txt):</p>
+<p>&#8222;VideoConfig&#8220;<br />
+{<br />
+&#8222;setting.cpu_level&#8220; &#8222;0&#8220;<br />
+&#8222;setting.gpu_level&#8220; &#8222;0&#8220;<br />
+&#8222;setting.mat_antialias&#8220; &#8222;1&#8220;<br />
+&#8222;setting.mat_aaquality&#8220; &#8222;0&#8220;<br />
+&#8222;setting.mat_forceaniso&#8220; &#8222;0&#8220;<br />
+&#8222;setting.mat_vsync&#8220; &#8222;0&#8220;<br />
+&#8222;setting.mat_triplebuffered&#8220; &#8222;0&#8220;<br />
+&#8222;setting.mat_grain_scale_override&#8220; &#8222;1&#8220;<br />
+&#8222;setting.gpu_mem_level&#8220; &#8222;0&#8220;<br />
+&#8222;setting.mem_level&#8220; &#8222;2&#8220;<br />
+&#8222;setting.mat_queue_mode&#8220; &#8222;-1&#8220;<br />
+&#8222;setting.csm_quality_level&#8220; &#8222;0&#8220;<br />
+&#8222;setting.mat_software_aa_strength&#8220; &#8222;0&#8220;<br />
+&#8222;setting.mat_motion_blur_enabled&#8220; &#8222;0&#8220;<br />
+&#8222;setting.fullscreen&#8220; &#8222;1&#8220;<br />
+&#8222;setting.defaultres&#8220; &#8222;1680&#8220;<br />
+&#8222;setting.defaultresheight&#8220; &#8222;1050&#8220;<br />
+&#8222;setting.aspectratiomode&#8220; &#8222;2&#8220;<br />
+&#8222;setting.nowindowborder&#8220; &#8222;0&#8220;<br />
+}</p>
+<p>Dabei werden auf die höchstmögliche Performance und trotzdem guten Sichtbereich (1680×1050) Wert gelegt.</p>
+<p>Darüber die wichtigen Settings in der valve.rc</p>
+<p>// NETSETTINGS<br />
+rate &#8222;80000&#8220;<br />
+cl_cmdrate &#8222;128&#8220;<br />
+cl_updaterate &#8222;128&#8220;<br />
+cl_interp &#8222;0&#8220;<br />
+cl_interp_ratio &#8222;1&#8220;</p>
+<p>// MOUSE<br />
+m_customaccel &#8222;0&#8220;<br />
+m_customaccel_exponent &#8222;1.05&#8220;<br />
+m_customaccel_max &#8222;0&#8220;<br />
+m_customaccel_scale &#8222;0.04&#8220;<br />
+m_forward &#8222;1&#8220;<br />
+m_mouseaccel1 &#8222;0&#8220;<br />
+m_mouseaccel2 &#8222;0&#8220;<br />
+m_mousespeed &#8222;1&#8220;<br />
+m_pitch &#8222;0.022&#8220;<br />
+m_rawinput &#8222;0&#8220;<br />
+m_side &#8222;0.8&#8220;<br />
+m_yaw &#8222;0.022&#8220;<br />
+sensitivity &#8222;2.4&#8220;</p>
+<p>// CROSSHAIR<br />
+cl_crosshairalpha &#8222;255&#8220;<br />
+cl_crosshaircolor &#8222;1&#8220;<br />
+cl_crosshaircolor_b &#8222;50&#8220;<br />
+cl_crosshaircolor_g &#8222;250&#8220;<br />
+cl_crosshaircolor_r &#8222;50&#8220;<br />
+cl_crosshairdot &#8222;0&#8220;<br />
+cl_crosshairscale &#8222;0&#8220;<br />
+cl_crosshairsize &#8222;4&#8220;<br />
+cl_crosshairthickness &#8222;1&#8220;<br />
+cl_crosshairusealpha &#8222;1&#8220;<br />
+cl_dynamiccrosshair &#8222;0&#8220;<br />
+cl_fixedcrosshairgap &#8222;3&#8220;<br />
+cl_crosshairgap &#8222;-2&#8220;<br />
+cl_crosshairstyle &#8222;4&#8220;</p>
+<p>// VIEWMODEL<br />
+viewmodel_fov &#8222;65&#8220;<br />
+viewmodel_offset_x &#8222;2.5&#8220;<br />
+viewmodel_offset_y &#8222;2&#8220;<br />
+viewmodel_offset_z &#8222;-2&#8220;<br />
+cl_bob_lower_amt &#8222;5&#8220;<br />
+cl_bobamt_lat &#8222;0.1&#8220;<br />
+cl_bobamt_vert &#8222;0.1&#8220;<br />
+cl_bobcycle &#8222;0.98&#8220;<br />
+cl_viewmodel_shift_left_amt &#8222;0.5&#8220;<br />
+cl_viewmodel_shift_right_amt &#8222;0.25&#8220;</p>
+<p>// NETGRAPH<br />
+net_graph &#8222;0&#8220;<br />
+net_graphheight &#8222;64&#8220;<br />
+net_graphmsecs &#8222;400&#8220;<br />
+net_graphpos &#8222;2&#8220;<br />
+net_graphproportionalfont &#8222;0&#8220;<br />
+net_graphshowinterp &#8222;1&#8220;<br />
+net_graphshowlatency &#8222;1&#8220;<br />
+net_graphsolid &#8222;1&#8220;<br />
+net_graphtext &#8222;1&#8220;</p>
+<p>// SOUND<br />
+snd_mixahead &#8222;0.05&#8220;</p>
+<p>// OTHER<br />
+hud_scaling &#8222;0.95&#8220;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/cs-go-config/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

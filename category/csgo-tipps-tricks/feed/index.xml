@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>CS:GO Tipps &amp; Tricks &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/category/csgo-tipps-tricks/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>CS:GO Tipps &amp; Tricks &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Update: Operation Hydra &#8211; Weapons Expert nun spielbar außerdem neuer Scoreboard Bug!</title>
+		<link>/csgo-update-operation-hydra-weapons-expert-nun-spielbar-ausserdem-neuer-scoreboard-bug/</link>
+		<comments>/csgo-update-operation-hydra-weapons-expert-nun-spielbar-ausserdem-neuer-scoreboard-bug/#respond</comments>
+		<pubDate>Thu, 08 Jun 2017 13:33:42 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[expert]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[weapons]]></category>
+
+		<guid isPermaLink="false">/?p=3715</guid>
+		<description><![CDATA[Weapons Expert nun spielbar Inzwischen geht Operation Hydra in die dritte Woche . Wie ihr wisst, bedeutet das nun dass der nächste Modi spielbar ist. Weapons Expert sorgt auf 30 Runden dafür dass ich&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Weapons Expert nun spielbar</h3>
+<p>Inzwischen geht Operation Hydra in die dritte Woche . Wie ihr wisst, bedeutet das nun dass der nächste Modi spielbar ist. Weapons Expert sorgt auf 30 Runden dafür dass ich im Wettkampfmodus nur jede Waffe genau einmal kaufen könnt. Ihr müsst somit genau überlegen wann ihr welche Waffen kauft. So wäre es natürlich suboptimal in in den letzten Runden lediglich die Pistolen spielbar zu haben, die Gegner werden vermutlich die Rifles bis zum Schluss aufbewahren. Spielt Ihr Weapons Expert so erhaltet ihr auch einen extra Rang hierfür.</p>
+<h3>Bugs, Bugs und noch mehr Bugs..</h3>
+<p>Wie es scheint, prüft Valve vor Veröffentlichung der Updates nicht immer ganz genau die Auswirkungen. So berichten Spieler über Bugs während des Spiels! Zum einen berichten Spieler über Schüsse welche auf den Gegner gerichtet werden jedoch nicht dort einschlagen sondern direkt in den Boden unterhalb der Spielfigur vom Gegner. Dieses ist zwar nur Client-Seitig, sprich die &#8222;hits&#8220; treffen schon den Spieler (auf dem Server), jedoch wird dieses euch anders angezeigt und kann unter Umständen sehr störend sein.</p>
+<p>Darüber hinaus gibt es derzeit ein Problem mit dem Scoreboard, üblicherweise werden nur die Ranks der Mitspieler angezeigt, nun sieht man auch ab und zu die Ranks der Gegner. Jedoch auch hier ist es so, man sieht nur die eigenen Ranks welche auf den Gegner gespiegelt werden.</p>
+<h3>Und hier gibt es die Update log:</h3>
+<blockquote>
+<h6>[ TWITCH INTEGRATION ]<br />
+* Added listing of some gamemodes in Twitch.tv CS:GO header in addition to maps.</h6>
+<h6>[ OPERATION HYDRA ]<br />
+* Fixed various bugs<br />
+* Added Hydra competitive rank display to lobbies &amp; nearby lobby display for Hydra modes.<br />
+* Flying Scoutsman: Increase sv_airaccelerate from 477 to 20000<br />
+* Stab Stab Zap: Replaced dust2 with shorttrain</h6>
+<h6>[ MAPS ]<br />
+* Fixed fade-to-black bug in Deathmatch on cs_insertion<br />
+* Updated de_shipped to latest version from mapmakers<br />
+* Fixed a regression in lighting for old community maps that interacted badly with new lighting features. Newer maps with lighting problems can be fixed by recompiling them in Hammer.<br />
+* Added player clipping above boxes at CT spawn in de_shortdust to prevent visibility in unintended areas</h6>
+<h6>[ MISC ]<br />
+* Added more back-end UI work in preparation for Panorama switch. Please report any new UI bugs to csgoteamfeedback@valvesoftware.com<br />
+* Fixed tickrate-dependence in spray patterns for fast-firing weapons. Thanks SlothSquadron &amp; friends!<br />
+* Fixed incorrect skin tones on some player gloves<br />
+* Fixeded a bug where 2v2 scoreboard would show round win icons for the first half on the wrong side after halftime<br />
+* Updated Operation Hydra gamemode names used in Rich Presence</h6>
+</blockquote>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-update-operation-hydra-weapons-expert-nun-spielbar-ausserdem-neuer-scoreboard-bug/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Letzte Spiele auf VAC gebannte Spieler prüfen (Tool / Script)</title>
+		<link>/letzte-spiele-auf-vac-gebannte-spieler-pruefen-tool-script/</link>
+		<comments>/letzte-spiele-auf-vac-gebannte-spieler-pruefen-tool-script/#comments</comments>
+		<pubDate>Fri, 15 May 2015 15:03:15 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Hilfe]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+
+		<guid isPermaLink="false">/?p=3426</guid>
+		<description><![CDATA[In der letzten Zeit ist es verhäuft zu Ban Wellen von VAC gekommen. Nun haben sich zwei Entwickler die Mühe gemacht und ein simples Javscript welches als Bookmark im Browser bei Google Chrome angelegt werden&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>In der letzten Zeit ist es verhäuft zu Ban Wellen von VAC gekommen. Nun haben sich zwei Entwickler die Mühe gemacht und ein simples Javscript welches als Bookmark im Browser bei Google Chrome angelegt werden kann, zu entwickeln. Diese Javascript zeigt einem mit einem Klick den VAC Status der letzten Spiele an. Ziemlich cool wie wir finden, man hat ja öfter eine Ahnung dass jemand cheatet, kann es aber nur aufwendig verfolgen. Mit diesem Script geht das ruck zuck <img src="https://s.w.org/images/core/emoji/11/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><strong>So sieht das aus:</strong></p>
+<p><a href="/wp-content/uploads/sites/2/2015/05/vac-ban-checker.png" target="_blank"><img class="alignnone size-medium wp-image-3428" src="/wp-content/uploads/sites/2/2015/05/vac-ban-checker-300x106.png" alt="vac-ban-checker" width="300" height="106" /></a></p>
+<p><strong>So gehts:</strong></p>
+<ol>
+<li>Erstellt ein Bookmark / Lesezeichen bei Google Chrome, zum Beispiel unsere Seite. Klickt auf Lesezeichen -&gt; &#8222;Diese Seite als Lesezeichen speichern&#8220;</li>
+<li>Geht erneut auf das Lesezeichen welches Ihr gerade hinzugefügt habt, und klickt mit rechter Maustaste auf &#8222;Bearbeiten&#8220;.</li>
+<li>Vergebt einen Namen z.B. &#8222;VAC CHECKER&#8220; und als Url kopiert ihr folgenden Scriptcode ein: <a href="https://raw.githubusercontent.com/MrHayato/VacBanChecker/master/vaccheck.min.js">Hier klicken</a></li>
+<li>Nachdem ihr auf OK geklickt habt einfach in der Steam Community auf &#8222;Zuletzt gespielte Matches&#8220; oder hier über den <a href="http://steamcommunity.com/my/friends/coplay">Link Hier klicken</a></li>
+<li>Nun das Lesezeichen ausführen und TADDAAAA alle User haben nun eine Info &#8222;No Bans&#8230;&#8220; oder &#8222;VAC Ban seit XXX Tagen&#8220;</li>
+</ol>
+<p>Quelle: <a href="https://www.reddit.com/r/GlobalOffensive/comments/34hbxj/check_your_recently_played_games_for_vac_status/">Reddit</a> | Credit over to /u/iEyepawd &amp; /u/MrHayato</p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/letzte-spiele-auf-vac-gebannte-spieler-pruefen-tool-script/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Crosshair Generator V2 &#8211; Crosshairs von Progamern und neue Funktionen.</title>
+		<link>/csgo-crosshair-generator-v2-crosshairs-von-progamern-und-neue-funktionen/</link>
+		<comments>/csgo-crosshair-generator-v2-crosshairs-von-progamern-und-neue-funktionen/#respond</comments>
+		<pubDate>Sat, 21 Feb 2015 19:15:22 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[crosshair]]></category>
+		<category><![CDATA[Generator]]></category>
+
+		<guid isPermaLink="false">/?p=3348</guid>
+		<description><![CDATA[Die neue Crosshair Generator-Map in Version 2 Gestern wurde der CS:GO Crosshair Generator vom Youtube User Crashz fertig entwickelt. Bananagaming hat sich dieses zum Anlass genommen, alle neuen Features in einem Video zu präsentieren.&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Die neue Crosshair Generator-Map in Version 2</h3>
+<p>Gestern wurde der CS:GO Crosshair Generator vom Youtube User Crashz fertig entwickelt. Bananagaming hat sich dieses zum Anlass genommen, alle neuen Features in einem Video zu präsentieren.</p>
+<h3>Download</h3>
+<p>Die Maps im Download gibt es <a title="Download Crosshair V2" href="http://steamcommunity.com/sharedfiles/filedetails/?id=308490450">hier</a>.</p>
+<h3>Die neuen Funktionen im Überblick:</h3>
+<ul>
+<li>Man sieht nun Animationen der verschiedenen Crosshair Typen</li>
+<li>Per Schuss auf einen der rund 60 Progamern an der Wand, ändert sich das Crosshair sofort in selbiges vom Progamer <img src="https://s.w.org/images/core/emoji/11/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>Weitere Farben möglich</li>
+<li>Neue Maps hinzugefügt..</li>
+<li>und weitere Features findet ihr im Video:</li>
+</ul>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-crosshair-generator-v2-crosshairs-von-progamern-und-neue-funktionen/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tipp: Custom Radar in CS:GO für die Maps de_dust2, de_inferno, de_mirage *HOT*</title>
+		<link>/tipp-custom-radar-in-csgo-fuer-die-maps-de_dust2-de_inferno-de_mirage-hot/</link>
+		<comments>/tipp-custom-radar-in-csgo-fuer-die-maps-de_dust2-de_inferno-de_mirage-hot/#respond</comments>
+		<pubDate>Fri, 30 Jan 2015 10:21:58 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[bananagaming]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[custom radar]]></category>
+		<category><![CDATA[eigenes radar]]></category>
+
+		<guid isPermaLink="false">/?p=3337</guid>
+		<description><![CDATA[Custom Radar für Counter-Strike: Global-Offensive (CS:GO) Die Jungs von Bananagaming.TV haben ein eigenes optimierteres Custom Radar entworfen. Durch die neuen gelben Konturen ist es einfacher die Positionen gerade auf dunklen Maps bzw. in dunklen&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h2>Custom Radar für Counter-Strike: Global-Offensive (CS:GO)</h2>
+<p>Die Jungs von Bananagaming.TV haben ein eigenes optimierteres Custom Radar entworfen. Durch die neuen gelben Konturen ist es einfacher die Positionen gerade auf dunklen Maps bzw. in dunklen Bereich zu erkennen. Es handelt sich hier um keinen Hack / Cheater oder unerlaubte Hilfsmittel. Ihr werdet nicht von VAC gebanned etc. es wurde lediglich die Grafik etwas angepasst.</p>
+<h3>Wie installiere ich das Custom Radar?</h3>
+<p>1. Bitte dieses Archiv herrunterladen: <a href="https://drive.google.com/file/d/0BystDvgA7cRyeUZPQnN6bjUtVUE/view" target="_blank">DOWNLOAD</a> und entpacken.<br />
+2.Kopiert die Dateien in den euren CS:GO Order in  &#8230;csgoresourceoverviews und ersetzt die vorhandenen Dateien.<br />
+3. Wenn ihr das Custom Radar wieder entfernen möchtet, ersetzt einfach die Dateien wieder mit den Originalen die ebenfalls im Archiv sind.</p>
+<h3>Hier mal Screenshots wie das CS:GO Custom Radar aussieht:</h3>
+<p>&nbsp;</p>
+<p><img class="wp-image-176 size-large alignleft" src="http://bananagaming.tv/wp-content/uploads/2015/01/d2-1024x576.png" alt="d2" width="480" height="270" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><img class="alignleft size-large wp-image-177" src="http://bananagaming.tv/wp-content/uploads/2015/01/inferno-1024x576.png" alt="inferno" width="480" height="270" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><img class="alignleft wp-image-178 size-large" src="http://bananagaming.tv/wp-content/uploads/2015/01/mirage-1024x576.png" alt="mirage" width="480" height="270" /></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/tipp-custom-radar-in-csgo-fuer-die-maps-de_dust2-de_inferno-de_mirage-hot/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Neue Spots auf de_dust2 &#8211; Sexy Granaten und gute Moves!</title>
+		<link>/neue-spots-auf-de_dust2-sexy-granaten-und-gute-moves/</link>
+		<comments>/neue-spots-auf-de_dust2-sexy-granaten-und-gute-moves/#respond</comments>
+		<pubDate>Thu, 27 Nov 2014 16:45:24 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[dust2]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Tricks]]></category>
+		<category><![CDATA[video]]></category>
+
+		<guid isPermaLink="false">/?p=3201</guid>
+		<description><![CDATA[Dust2 Granaten Guide Ganz frisch ist dieses Video bei uns eingetrudelt, es zeigt wirklich sehr gute und effektive zum Teil unbekannte Spots die euch auf de_dust2 einen enormen Vorteil erschaffen. Hinterlegt mit cooler Musik&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h2>Dust2 Granaten Guide</h2>
+<p>Ganz frisch ist dieses Video bei uns eingetrudelt, es zeigt wirklich sehr gute und effektive zum Teil unbekannte Spots die euch auf de_dust2 einen enormen Vorteil erschaffen. Hinterlegt mit cooler Musik ist dieses Trick Video ein absolutes Must-Have für Spieler die oft auf de_dust2 spielen!</p>
+<p>Gönnt&#8217;s euch hier:</p>
+<p><iframe src="https://www.youtube.com/embed/kJmM0DJeZrg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/neue-spots-auf-de_dust2-sexy-granaten-und-gute-moves/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>[CS:GO Video] RunBoost Tricks auf Cache, Nuke, Mirage&#8230;</title>
+		<link>/csgo-video-runboost-tricks-auf-cache-nuke-mirage/</link>
+		<comments>/csgo-video-runboost-tricks-auf-cache-nuke-mirage/#respond</comments>
+		<pubDate>Sun, 26 Oct 2014 18:37:32 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[runboost]]></category>
+		<category><![CDATA[video]]></category>
+
+		<guid isPermaLink="false">/?p=2979</guid>
+		<description><![CDATA[Runboost Tricks auf Cache, Nuke, Cobblestorm, Mirage &#8230; Der Youtuber und Counter-Strike: Global-Offensive Spieler Trilluxe hat ein mal wieder ein nettes Video zum Thema Runboost gemacht. Er präsentiert euch auf verschiedenen Maps wo und&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Runboost Tricks auf Cache, Nuke, Cobblestorm, Mirage &#8230;</h3>
+<p>Der Youtuber und Counter-Strike: Global-Offensive Spieler Trilluxe hat ein mal wieder ein nettes Video zum Thema Runboost gemacht. Er präsentiert euch auf verschiedenen Maps wo und wie man per Runboost an sehr vorteilhafte Positionen kommt.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-video-runboost-tricks-auf-cache-nuke-mirage/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CSGO-Stats.NET &#8211; Beta veröffentlicht &#8211; Map und Waffen- Statistiken aus deinem CS:GO</title>
+		<link>/csgo-stats-net-beta-veroeffentlicht-map-und-waffen-statistiken-aus-deinem-csgo/</link>
+		<comments>/csgo-stats-net-beta-veroeffentlicht-map-und-waffen-statistiken-aus-deinem-csgo/#comments</comments>
+		<pubDate>Sun, 19 Oct 2014 18:26:47 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[csgo stats]]></category>
+
+		<guid isPermaLink="false">/?p=2931</guid>
+		<description><![CDATA[Nach harter Arbeit und einigen Wochen Arbeit unserer Projekt und Web Entwickler haben wir nun eine erste Version unser CSGO Analytics Tool welches nun auch Bestandteil des ESPORTS NETWORK ist. Wir würden uns sehr darüber&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Nach harter Arbeit und einigen Wochen Arbeit unserer Projekt und Web Entwickler haben wir nun eine erste Version unser CSGO Analytics Tool welches nun auch Bestandteil des ESPORTS NETWORK ist. Wir würden uns sehr darüber freuen wenn Ihr uns mögliche Fehler direkt über diesen Beitrag mitteilen könnt. In den nächsten Tagen wird hierfür auch ein Android App im Google Play Store erscheinen. Hierzu erhaltet ihr noch eine separate News.</p>
+<p>Ihr könnt als einer der Ersten das Projekt begutachten, Freunde hinzufügen und eure Stats direkt mit denen vergleichen. Weitere Funktionen wie visualisierte Statistiken, werden in naher Zukunft folgen. Ihr könnt entweder euren Steam Link nutzen oder aber euch direkt per Steam-Login auf der Seite anmelden.</p>
+<p>Bitte jetzt mal die Seite besuchen und uns Feedback zukommen lassen:</p>
+<h2><a href="http://www.csgo-stats.net/" target="_blank">www.CSGO-Stats.NET</a></h2>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-stats-net-beta-veroeffentlicht-map-und-waffen-statistiken-aus-deinem-csgo/feed/</wfw:commentRss>
+		<slash:comments>14</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Matchmaking Server Picker Software &#8211; Keine Russen, Polen&#8230; und schlechten Pings mehr etc. [Software]</title>
+		<link>/csgo-matchmaking-server-picker-software-keine-russen-polen-und-schlechten-pings-mehr-etc-software/</link>
+		<comments>/csgo-matchmaking-server-picker-software-keine-russen-polen-und-schlechten-pings-mehr-etc-software/#comments</comments>
+		<pubDate>Mon, 13 Oct 2014 17:31:07 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[matchmaking]]></category>
+		<category><![CDATA[server picker]]></category>
+		<category><![CDATA[software]]></category>
+
+		<guid isPermaLink="false">/?p=2893</guid>
+		<description><![CDATA[Mit dem Matchamking Server Picker 1.7 nur noch auf guten Servern spielen Ihr kennt das Problem, Steam verbindet euch zu wirklich miserablen Server und als Krönung ist das ganze Team voller aggressiver Russen welche&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Mit dem Matchamking Server Picker 1.7 nur noch auf guten Servern spielen</h3>
+<p>Ihr kennt das Problem, Steam verbindet euch zu wirklich miserablen Server und als Krönung ist das ganze Team voller aggressiver Russen welche die von Anfang an dicht &#8222;flamen&#8220;. Wir wollen hier kein Hass gegen Russen schüren, allerdings ist es allgemein bekannt, dass die Russischen Freunde in CS:GO etwas schneller unter die Decke gehen als andere. Um diese Umstände und das Verbinden zu schlechten Servern mit schlechten Pingzeiten zu verhindern, wurde nun von Gamebanana.com ein Tool veröffentlicht, welches euch erlaubt die Server aus Asien, Amerika etc. zu blocken. Somit können Ihr ziemlich granular festlegen, auf was für Server ihr Spielen wollt. Durch das kleine Programm werden durch die Firewall entsprechende Matchmaking Server geblockt.</p>
+<p>Hier der Download</p>
+<p>[infobox color=&#8220;blue&#8220;]<a href="http://ds-servers.com/gbh/gb903/tools/361/mmserverpicker_1_7.zip?hl=US">DOWNLOAD LINK für Matchmaking-Server-Picker</a> (Als Administrator ausführen)[/infobox]</p>
+<h4> Hier ein kurzes Video wie das Programm funktioniert</h4>
+<p>Dieses Programm wirbt mit:</p>
+<p>&nbsp;</p>
+<ul>
+<li style="color: #1e90ff;font-size: small;font-family: tahoma">People who don&#8217;t want to play on the Russian servers, and rather play on the EU West servers where more people speak English and there are far less Russians (Russians get close to 100ms on EU West).</li>
+<li style="color: #1e90ff;font-size: small;font-family: tahoma">Players living in South America who aren&#8217;t Brazilian, and want to play with people who speak English on the American servers.</li>
+<li style="color: #1e90ff;font-size: small;font-family: tahoma">Australian players who want to play at down time and can&#8217;t find any games. They can block the Aus servers and play on the Asian ones with 100ms ping.</li>
+<li style="color: #1e90ff;font-size: small;font-family: tahoma">People like me who don&#8217;t mind 300 ping and like to visit new servers every now and then.</li>
+<li style="color: #1e90ff;font-size: small;font-family: tahoma">People in India and UAE and other countries who want to play on other servers rather than play on the hackfest that is the Dubai servers, you can block Dubai using this program. (valve locks you to the dubai servers if you have under 80ms ping to them)</li>
+</ul>
+<p>[infobox color=&#8220;yellow&#8220;]<a href="http://csgo.gamebanana.com/tools/5684">Solltet ihr Fehler beim öffnen erhalten, bitte hier KLICKEN</a>[/infobox]</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-matchmaking-server-picker-software-keine-russen-polen-und-schlechten-pings-mehr-etc-software/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO &#8211; Ein Problem mit Ihrem Computer blockiert das VAC System. Sie können nicht auf VAC gesicherten Servern spielen [Trick]</title>
+		<link>/csgo-ein-problem-mit-ihrem-computer-blockiert-das-vac-system-sie-koennen-nicht-auf-vac-gesicherten-servern-spielen-trick/</link>
+		<comments>/csgo-ein-problem-mit-ihrem-computer-blockiert-das-vac-system-sie-koennen-nicht-auf-vac-gesicherten-servern-spielen-trick/#respond</comments>
+		<pubDate>Thu, 09 Oct 2014 18:51:59 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Fehlermeldungen]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[blockiert]]></category>
+		<category><![CDATA[problem]]></category>
+		<category><![CDATA[system]]></category>
+		<category><![CDATA[vac]]></category>
+
+		<guid isPermaLink="false">/?p=3009</guid>
+		<description><![CDATA[Ein Problem mit Ihrem Computer, das VAC System&#8230; Einige von euch kennen es bereits schon, man wird vom Servers geschmissen. Auf den ersten Blick denkt man, dass man zu unrecht gebannt wurde. Dieses ist&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Ein Problem mit Ihrem Computer, das VAC System&#8230;</h3>
+<p>Einige von euch kennen es bereits schon, man wird vom Servers geschmissen. Auf den ersten Blick denkt man, dass man zu unrecht gebannt wurde. Dieses ist in den meisten Fällen jedoch nicht der Fall. Ihr habt nur ein Problem bei der Verbindung zum VAC Server.</p>
+<h3>Den Fehler könnt ihr sehr schnell über die Eingabekonsole von Windows beseitigen:</h3>
+<p>Öffnet dieses (Windows Taste + R  drücken) und schreibt folgendes in das Feld:</p>
+<blockquote><p><strong>bcedite.exe /set [current] nx Optin</strong></p></blockquote>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-ein-problem-mit-ihrem-computer-blockiert-das-vac-system-sie-koennen-nicht-auf-vac-gesicherten-servern-spielen-trick/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Case Opening Simulator und Trade-Up Contract Simular [Software]</title>
+		<link>/csgo-case-opening-simulartor-und-trade-up-contract-simular-software/</link>
+		<comments>/csgo-case-opening-simulartor-und-trade-up-contract-simular-software/#comments</comments>
+		<pubDate>Thu, 09 Oct 2014 08:48:04 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[App]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+
+		<guid isPermaLink="false">/?p=2872</guid>
+		<description><![CDATA[Kostenlos CS:GO Cases öffnen Wir kennen es alle, man kauft sich für viele Euros ein paar Keys, kauft ein paar Kisten und man bekommt in der Regel nur wertlose Waffen wie Tec-9, Pumpguns und&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Kostenlos CS:GO Cases öffnen</h3>
+<p>Wir kennen es alle, man kauft sich für viele Euros ein paar Keys, kauft ein paar Kisten und man bekommt in der Regel nur wertlose Waffen wie Tec-9, Pumpguns und ganz beliebt auch die Negev&#8217;s. Wenn ihr trotzdem mal kostenlos das feeling bekommen wollt, wie es ist unendlich viel Geld zu haben und dann ab und zu einen guten Skin zu erhalten, haben wir hier genau das Richtige für euch.</p>
+<p>Die Rede ist von dem CS:GO Case Simulartor welcher vom CS:GO Community Mitglied Orel programmiert wurde. Der Simulator basiert auf Flash und kann auf allen Flash kompatiblen Geräten abgespielt werden. Das gefährliche an dem Simulartor ist, dass man schnell süchtig wird und sich &#8222;echte&#8220; Keys kauft um dann wahrscheinlich wieder nur eine Negev zu bekommen. Daher unser Tipp, nur im Simulator spielen :-).</p>
+<p>Hier ein paar Fotos. Weiter unten ist der Link zum Simulator.</p>
+<p><img class="aligncenter size-medium wp-image-2875" src="/wp-content/uploads/sites/2/2014/10/case-simulator-csgo-300x242.png" alt="case-simulator-csgo" width="300" height="242" /> <img class="aligncenter size-medium wp-image-2873" src="/wp-content/uploads/sites/2/2014/10/case-simulator-300x257.png" alt="case-simulator" width="300" height="257" /> <img class="aligncenter size-medium wp-image-2874" src="/wp-content/uploads/sites/2/2014/10/case-simulator-cases-300x150.png" alt="case-simulator-cases" width="300" height="150" /> <img class="aligncenter size-medium wp-image-2876" src="/wp-content/uploads/sites/2/2014/10/csgo-case-simulator-300x248.png" alt="csgo-case-simulator" width="300" height="248" /></p>
+<p>&nbsp;</p>
+<h3 style="text-align: center"><a href="http://case.convars.com/" target="_blank">HIER GEHTS ZUM SIMULATOR</a></h3>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-case-opening-simulartor-und-trade-up-contract-simular-software/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

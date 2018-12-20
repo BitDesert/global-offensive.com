@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>launchoptions &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/launchoptions/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>launchoptions &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>So geht&#8217;s: Die richtigen CS:GO Startparameter einstellen</title>
+		<link>/csgo-die-richtigen-start-optionen-einstellen-startparameter/</link>
+		<comments>/csgo-die-richtigen-start-optionen-einstellen-startparameter/#comments</comments>
+		<pubDate>Wed, 20 Mar 2013 15:57:59 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Die Config]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[-console -32bit -dxlevel90 -novid -refresh 120 -tickrate128 -noborder -heapsize]]></category>
+		<category><![CDATA[counter strike]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[Global Offensive]]></category>
+		<category><![CDATA[launchoptions]]></category>
+		<category><![CDATA[options]]></category>
+		<category><![CDATA[startparameter]]></category>
+
+		<guid isPermaLink="false">/?p=1201</guid>
+		<description><![CDATA[Die richtigen Startoptionen für CS:GO Counter-Strike: Global-Offensive Mit den Startparametern ist es möglich verschiedene (Grund-)Einstellungen von Counter-Strike Global Offensive (kurz CS:GO) festzulegen bzw. zu verändern. Die Startparameter ermöglichen es unter anderem einige FPS herauszukitzeln&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Die richtigen Startoptionen für CS:GO Counter-Strike: Global-Offensive</h3>
+<p>Mit den Startparametern ist es möglich verschiedene (Grund-)Einstellungen von Counter-Strike Global Offensive (kurz CS:GO) festzulegen bzw. zu verändern. Die Startparameter ermöglichen es unter anderem einige FPS herauszukitzeln und grundlegende Grafikeinstellungen zu bearbeiten. Auch der zugewiesene Arbeitsspeicher für das Spiel lässt sich so bestimmen.</p>
+<blockquote><p>Die Startparameter Einstellungen lassen sich über Steam -&gt; Bibliothek -&gt; Rechte Maustaste auf Counter-Strike Global-Offensive -&gt; Eigenschaften -&gt; Startparameter einfügen.</p></blockquote>
+<p><a href="/wp-content/uploads/sites/2/2013/03/csgo_startparameter.jpg"><img class="alignnone size-medium wp-image-1204" title="csgo_startparameter" src="/wp-content/uploads/sites/2/2013/03/csgo_startparameter-300x184.jpg" alt="" width="300" height="184" /></a></p>
+<p><strong>Folgende Startparameter sind ein MUST-HAVE:</strong></p>
+<blockquote>
+<pre>-console -32bit -dxlevel90 -novid -refresh 120 -tickrate128 -noborder -heapsize 1179648 1179648</pre>
+</blockquote>
+<h3>Und hier die Erläuterung der Befehle:</h3>
+<ul>
+<li>-console = Schaltet die Konsole an.</li>
+<li>-32bit = startet das Spiel im 32Bit-Modus</li>
+<li>-dxlevel 90 = startet das Spiel mit der DirectX-Version 9.0</li>
+<li>-nointro = Schaltet das Video am Start aus.</li>
+<li>-refresh 120 = erzwingt eine Monitorhertzzahl</li>
+<li>-fps_max 128 = Für ein besseres Spielgefühl sollte dieser Wert an die Tickrate von 128 angepasst werden. 128 Fps sind mehr als ausreichend, da CS: GO bereits ab niedrigeren Werten flüssig läuft.</li>
+<li>-noborder = Schaltet den Randschatten aus und erhöt das Vollbild.</li>
+<li>-threads= Startet das Spiel jenach Anzahl der CPU Kerne threads 2 (dualcore) threads 4 ( quad core) threads 6 (hex core)</li>
+</ul>
+<h3>Hier die optionalen Startparameter:</h3>
+<ul>
+<li>tickrate 128 = setzt die Tickrate auf 128 wenn ein LAN-Server gestartet wird</li>
+<li>noborder = Schaltet den Randschatten aus und erhöt das Vollbild.</li>
+<li>noforcemparms = Verwendet die selben Maustasten wie im Betriebssystem</li>
+<li>noforcemaccel = Stellt die Mausbeschleunigung aus.</li>
+<li>noforcemspd = Verwendet Zeigergeschwindigkeit wie im Betriebssystem.</li>
+<li>windowed = Startet im Fenstermodus.</li>
+<li>full / fullscreen = Vollbild</li>
+<li>noborder = Schaltet die Ränder von Fenstermodus aus.</li>
+<li>low = Schaltet die Game-Priorität auf niedrig.</li>
+<li>high = Schaltet die Game-Priorität auf hoch.</li>
+<li>language english = Sprache auf Englisch</li>
+<li>heapsize = Mit diesem Wert lässt sich CS:GO mehr Arbeitsspeicher zuweisen und erhöht die FPS, was in einem flüssigerem Bild resultiert. Hinter &#8222;-heapsize&#8220; müsst ihr die Bits angeben, welche wir hier entschlüsseln:</li>
+</ul>
+<blockquote><p>512MB = 524288<br />
+1GB = 1048576<br />
+1,5GB = 1572864<br />
+2GB = 2097152<br />
+4 GB = 4194304</p></blockquote>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-die-richtigen-start-optionen-einstellen-startparameter/feed/</wfw:commentRss>
+		<slash:comments>14</slash:comments>
+		</item>
+	</channel>
+</rss>

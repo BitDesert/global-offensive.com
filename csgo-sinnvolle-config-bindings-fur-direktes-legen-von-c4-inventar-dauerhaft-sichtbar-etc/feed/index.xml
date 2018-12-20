@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Kommentare zu: CS:GO Sinnvolle Config Bindings für direktes Legen von C4, Inventar dauerhaft sichtbar etc.</title>
+	<atom:link href="/csgo-sinnvolle-config-bindings-fur-direktes-legen-von-c4-inventar-dauerhaft-sichtbar-etc/feed/" rel="self" type="application/rss+xml" />
+	<link>/csgo-sinnvolle-config-bindings-fur-direktes-legen-von-c4-inventar-dauerhaft-sichtbar-etc/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 14 Nov 2017 21:13:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<item>
+		<title>Von: SteamUser1</title>
+		<link>/csgo-sinnvolle-config-bindings-fur-direktes-legen-von-c4-inventar-dauerhaft-sichtbar-etc/#comment-273</link>
+		<dc:creator><![CDATA[SteamUser1]]></dc:creator>
+		<pubDate>Wed, 07 Jan 2015 12:57:26 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1760#comment-273</guid>
+		<description><![CDATA[schau einfach mal bei dem Bind-Generator vorbei, der ist echt hilfreich und vielseitig: http://xxl-clan.de/?CSGOBG]]></description>
+		<content:encoded><![CDATA[<p>schau einfach mal bei dem Bind-Generator vorbei, der ist echt hilfreich und vielseitig: <a href="http://xxl-clan.de/?CSGOBG" rel="nofollow">http://xxl-clan.de/?CSGOBG</a></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: dafuq</title>
+		<link>/csgo-sinnvolle-config-bindings-fur-direktes-legen-von-c4-inventar-dauerhaft-sichtbar-etc/#comment-272</link>
+		<dc:creator><![CDATA[dafuq]]></dc:creator>
+		<pubDate>Sat, 25 Oct 2014 12:21:01 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1760#comment-272</guid>
+		<description><![CDATA[alias &quot;+bombe&quot; &quot;use weapon_C4;+use&quot;
+alias &quot;-bombe&quot; &quot;-use&quot;
+
+bind &quot;mouse5&quot; &quot;+bombe&quot;
+
+man muss nur die taste gedrückt halten]]></description>
+		<content:encoded><![CDATA[<p>alias &#8222;+bombe&#8220; &#8222;use weapon_C4;+use&#8220;<br />
+alias &#8222;-bombe&#8220; &#8222;-use&#8220;</p>
+<p>bind &#8222;mouse5&#8220; &#8222;+bombe&#8220;</p>
+<p>man muss nur die taste gedrückt halten</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: Planlos</title>
+		<link>/csgo-sinnvolle-config-bindings-fur-direktes-legen-von-c4-inventar-dauerhaft-sichtbar-etc/#comment-271</link>
+		<dc:creator><![CDATA[Planlos]]></dc:creator>
+		<pubDate>Sun, 15 Jun 2014 09:28:33 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1760#comment-271</guid>
+		<description><![CDATA[Kommt aufs gleiche dan ist use Blockiert
+der befehl muss mit -use bzw. -attack behoben werden
+da es keinen wait timer mehr gibt wird man da wohl kaum ein makro hinkriegen]]></description>
+		<content:encoded><![CDATA[<p>Kommt aufs gleiche dan ist use Blockiert<br />
+der befehl muss mit -use bzw. -attack behoben werden<br />
+da es keinen wait timer mehr gibt wird man da wohl kaum ein makro hinkriegen</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: Comment</title>
+		<link>/csgo-sinnvolle-config-bindings-fur-direktes-legen-von-c4-inventar-dauerhaft-sichtbar-etc/#comment-270</link>
+		<dc:creator><![CDATA[Comment]]></dc:creator>
+		<pubDate>Thu, 12 Jun 2014 17:31:51 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1760#comment-270</guid>
+		<description><![CDATA[bind &quot;mouse5&quot; &quot;use weapon_c4;+use&quot; ist richtig.]]></description>
+		<content:encoded><![CDATA[<p>bind &#8222;mouse5&#8220; &#8222;use weapon_c4;+use&#8220; ist richtig.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: Comment</title>
+		<link>/csgo-sinnvolle-config-bindings-fur-direktes-legen-von-c4-inventar-dauerhaft-sichtbar-etc/#comment-269</link>
+		<dc:creator><![CDATA[Comment]]></dc:creator>
+		<pubDate>Thu, 12 Jun 2014 13:07:54 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1760#comment-269</guid>
+		<description><![CDATA[Leider auch nicht, dann kann man nicht mehr schießen.]]></description>
+		<content:encoded><![CDATA[<p>Leider auch nicht, dann kann man nicht mehr schießen.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: Comment</title>
+		<link>/csgo-sinnvolle-config-bindings-fur-direktes-legen-von-c4-inventar-dauerhaft-sichtbar-etc/#comment-268</link>
+		<dc:creator><![CDATA[Comment]]></dc:creator>
+		<pubDate>Thu, 12 Jun 2014 13:01:39 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1760#comment-268</guid>
+		<description><![CDATA[Um C4 direkt auszuwählen und zulegen:
+bind “mouse5″ “use weapon_c4;drop”
+
+Wäre es nicht eher:
+bind &quot;key&quot; &quot;use weapon_c4;+attack&quot;
+
+Bei drop schmeißt man nämlich das Zeug weg.]]></description>
+		<content:encoded><![CDATA[<p>Um C4 direkt auszuwählen und zulegen:<br />
+bind “mouse5″ “use weapon_c4;drop”</p>
+<p>Wäre es nicht eher:<br />
+bind &#8222;key&#8220; &#8222;use weapon_c4;+attack&#8220;</p>
+<p>Bei drop schmeißt man nämlich das Zeug weg.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: S0lll0s</title>
+		<link>/csgo-sinnvolle-config-bindings-fur-direktes-legen-von-c4-inventar-dauerhaft-sichtbar-etc/#comment-267</link>
+		<dc:creator><![CDATA[S0lll0s]]></dc:creator>
+		<pubDate>Sun, 25 May 2014 12:46:51 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1760#comment-267</guid>
+		<description><![CDATA[bind F10 “volume 0;echo volume_off”
+ und
+bind “F1″ “voice_enable 0;echo VOICE_MUTED”
+
+kann man auf je eine Taste legen (an/aus schalter):
+
+bind F10 &quot;toggle volume 0 1&quot;
+bind F1 &quot;toggle voice_enable 0 1&quot;
+
+man kann sogar zwischen mehr als zwei Werten wechseln, evtl bei lautstärke recht nützlich:
+bind F10 &quot;toggle volume 0 0.5 0.7 1&quot;]]></description>
+		<content:encoded><![CDATA[<p>bind F10 “volume 0;echo volume_off”<br />
+ und<br />
+bind “F1″ “voice_enable 0;echo VOICE_MUTED”</p>
+<p>kann man auf je eine Taste legen (an/aus schalter):</p>
+<p>bind F10 &#8222;toggle volume 0 1&#8220;<br />
+bind F1 &#8222;toggle voice_enable 0 1&#8220;</p>
+<p>man kann sogar zwischen mehr als zwei Werten wechseln, evtl bei lautstärke recht nützlich:<br />
+bind F10 &#8222;toggle volume 0 0.5 0.7 1&#8220;</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

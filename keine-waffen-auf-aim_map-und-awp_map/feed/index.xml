@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Kommentare zu: Keine Waffen auf aim_map und awp_map [Server Guide]</title>
+	<atom:link href="/keine-waffen-auf-aim_map-und-awp_map/feed/" rel="self" type="application/rss+xml" />
+	<link>/keine-waffen-auf-aim_map-und-awp_map/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 14 Nov 2017 21:13:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<item>
+		<title>Von: Daniel</title>
+		<link>/keine-waffen-auf-aim_map-und-awp_map/#comment-441</link>
+		<dc:creator><![CDATA[Daniel]]></dc:creator>
+		<pubDate>Sun, 29 Jan 2017 12:12:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1419#comment-441</guid>
+		<description><![CDATA[Hallo ich habe ein problem und würde im ts warten]]></description>
+		<content:encoded><![CDATA[<p>Hallo ich habe ein problem und würde im ts warten</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: Kaggeundbrett</title>
+		<link>/keine-waffen-auf-aim_map-und-awp_map/#comment-240</link>
+		<dc:creator><![CDATA[Kaggeundbrett]]></dc:creator>
+		<pubDate>Sat, 13 Dec 2014 13:22:47 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1419#comment-240</guid>
+		<description><![CDATA[Hallo dr-technokiller,
+
+hast du den schon unsere Lösungsvorschläge in diesem Beitrag durchprobiert
+und am Ende deinen Server via RCON neugestartet? Sollte das Problem noch nicht behoben sein komm 
+doch einfach mal auf unseren TS: allesgaming.de :) Ein User mit der Servergruppe [Support] sollte für deine Fragen offen sein.
+
+MfG, Kaggeundbrett]]></description>
+		<content:encoded><![CDATA[<p>Hallo dr-technokiller,</p>
+<p>hast du den schon unsere Lösungsvorschläge in diesem Beitrag durchprobiert<br />
+und am Ende deinen Server via RCON neugestartet? Sollte das Problem noch nicht behoben sein komm<br />
+doch einfach mal auf unseren TS: allesgaming.de 🙂 Ein User mit der Servergruppe [Support] sollte für deine Fragen offen sein.</p>
+<p>MfG, Kaggeundbrett</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: dr- technokller</title>
+		<link>/keine-waffen-auf-aim_map-und-awp_map/#comment-239</link>
+		<dc:creator><![CDATA[dr- technokller]]></dc:creator>
+		<pubDate>Fri, 12 Dec 2014 19:38:18 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1419#comment-239</guid>
+		<description><![CDATA[Ich habe das Problem, dass bei mir auf dem Server bei allen Maps die Waffen nicht spawnen wo sie eigentlich spawnen müssen, was hab muss ich tun damit auch diese Waffen spawnen??]]></description>
+		<content:encoded><![CDATA[<p>Ich habe das Problem, dass bei mir auf dem Server bei allen Maps die Waffen nicht spawnen wo sie eigentlich spawnen müssen, was hab muss ich tun damit auch diese Waffen spawnen??</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>verlängerung &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/verlaengerung/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>verlängerung &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>[CS:GO] Operation Bravo extended &#8211; Das Paket wird verlängert!</title>
+		<link>/csgo-operation-bravo-extended-das-paket-wird-verlaengert/</link>
+		<comments>/csgo-operation-bravo-extended-das-paket-wird-verlaengert/#respond</comments>
+		<pubDate>Tue, 21 Jan 2014 19:47:29 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[extended]]></category>
+		<category><![CDATA[operation bravo]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Tricks]]></category>
+		<category><![CDATA[verlängerung]]></category>
+
+		<guid isPermaLink="false">/?p=1886</guid>
+		<description><![CDATA[Operation Bravo Extended! Hurra! Operation Bravo Paket wird verlängert. Ursprünglich sollte heute das Operation Bravo Paket auslaufen allerdings überrascht uns Steam mit einer erfreulichen Nachricht (Offizieller Counter-Strike Blog). Die Zeit wird auf den 5.&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h2>Operation Bravo Extended!</h2>
+<p>Hurra! Operation Bravo Paket wird verlängert. Ursprünglich sollte heute das Operation Bravo Paket auslaufen allerdings überrascht uns Steam mit einer erfreulichen Nachricht (Offizieller Counter-Strike Blog). Die Zeit wird auf den 5. Februar 2014 verlängert. Somit können die Maps weiterhin im Matchmaking gespielt werden.</p>
+<p>Viel Spaß dabei <img src="https://s.w.org/images/core/emoji/11/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><img class="alignnone" alt="" src="http://blog.counter-strike.net/wp-content/uploads/sites/2/2013/09/Bravo.jpg" width="520" height="480" /></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-operation-bravo-extended-das-paket-wird-verlaengert/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

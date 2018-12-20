@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Anforderungen &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/anforderungen/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>Anforderungen &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Wie installiere ich einen CS:GO Server auf Linux?</title>
+		<link>/wie-installiere-ich-einen-csgo-server-auf-linux/</link>
+		<comments>/wie-installiere-ich-einen-csgo-server-auf-linux/#comments</comments>
+		<pubDate>Sat, 16 Feb 2013 16:29:59 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Server Administration]]></category>
+		<category><![CDATA[Anforderungen]]></category>
+		<category><![CDATA[cent os]]></category>
+		<category><![CDATA[classic]]></category>
+		<category><![CDATA[competitive]]></category>
+		<category><![CDATA[console]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[deatmatch]]></category>
+		<category><![CDATA[Gameserver aufsetzen]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[How to install a dedicated cs:go server]]></category>
+		<category><![CDATA[how to install server]]></category>
+		<category><![CDATA[linux installation]]></category>
+		<category><![CDATA[putty]]></category>
+		<category><![CDATA[Ram]]></category>
+		<category><![CDATA[screen]]></category>
+		<category><![CDATA[Server]]></category>
+		<category><![CDATA[server stürtzt immer ab]]></category>
+		<category><![CDATA[serverinstallation]]></category>
+		<category><![CDATA[ssh]]></category>
+		<category><![CDATA[startbefehl]]></category>
+		<category><![CDATA[suse]]></category>
+		<category><![CDATA[Systemvoraussetzungen]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[ubuntu]]></category>
+		<category><![CDATA[useradd -m]]></category>
+		<category><![CDATA[wie installiere ich einen cs:go server]]></category>
+
+		<guid isPermaLink="false">/?p=823</guid>
+		<description><![CDATA[CS:GO Server Installieren Im Internet kursieren viele Tutorials (hauptsächlich auf Englisch) wie ein Counter Strike Global Offensive Server auf Linux ( Betriebsystemz.b. Suse, Redhat, Ubuntu, Cent OS..) installiert wird. Wir beschreiben nun nochmal detailliert die&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>CS:GO Server Installieren</h3>
+<p>Im Internet kursieren viele Tutorials (hauptsächlich auf Englisch) wie ein Counter Strike Global Offensive Server auf Linux ( Betriebsystemz.b. Suse, Redhat, Ubuntu, Cent OS..) installiert wird. Wir beschreiben nun nochmal detailliert die Schritte die durchgeführt werden müssen um auch für Anfänger in der Linux Umgebung dies möglich zu machen.</p>
+<p>&nbsp;</p>
+<p><strong>Folgende Dinge werden benötigt:</strong><br />
+&#8211; <a title="putty download" href="http://the.earth.li/~sgtatham/putty/latest/x86/putty.exe" target="_blank">Putty</a> (zum verbinden mit dem VPS/Root/Server)<br />
+&#8211; Root oder Virtual Server mit Root rechten<br />
+&#8211; 400MB Ram und minimal 650MHZ<br />
+&#8211; Internetanbindung<br />
+&#8211; Linux Distribution wie Suse, Ubuntu, Redhat,  Cent OS, etc&#8230;</p>
+<p>____________________________________________________________________</p>
+<p>1. Nachdem wir uns mit dem root user und pw eingeloggt haben, gehen wir zuerst in den /home Ordner</p>
+<pre>cd /home</pre>
+<p>2. nun legen wir einen Benutzer samt Homeverzeichnis in /home an, um den Server einzurichten. Der Parameter -m legt in /home einen Homeordner des Benutzers an.</p>
+<pre>useradd -m csgo</pre>
+<p>3. wir setzen ein Passwort für den User &#8222;csgo&#8220;</p>
+<pre>passwd csgo</pre>
+<p>4. nachdem wir das Passwort erfolgreich gesetzt haben, loggen wir uns als csgo ein.</p>
+<pre>su csgo</pre>
+<p>5. wir gehen in den entsprechenden Ordner</p>
+<pre>cd /home/csgo</pre>
+<p>6. nun müssen wir uns den Steaminstaller per wget laden</p>
+<pre>wget blog.counter-strike.net/wp-content/uploads/sites/2/2012/04/steamcmd.tar.gz</pre>
+<p>7. wir entpacken die Datei</p>
+<pre>tar xfvz steamcmd.tar.gz</pre>
+<p>8. wir verteilen Schreib/Lese rechte damit die Datei ausgeführt werden darf.</p>
+<pre>chmod +x ./steam.sh</pre>
+<p>9. nun müssen wir über den unten stehenden Befehl das Shellscript (Installer) ausführen</p>
+<pre>STEAMEXE=steamcmd ./steam.sh</pre>
+<p>10. Nun loggen wir Steam über einen vorhandenen Steam Account (z.b. euren eigenen Spielaccount) ein.</p>
+<pre>login EUERSTEAMNAME EUERPASSWORT</pre>
+<p>11. In vielen Fällen kommt eine Meldung dass der Server / Rechner noch nicht mit Steam verknüpft war und aus diesem Grund wird euch an die in Steam hinterlegte Emailadresse ein Authcode zugeschickt. Steam müssen wir diesen nun mitteilen. Dies geschieht mit folgendem Befehl:</p>
+<pre>set_steam_guard_code EuerCodeDenIhrPerMailBekommenHabt</pre>
+<p>und:</p>
+<pre>login EUERSTEAMNAME EUERPASSWORT</pre>
+<p>12. nun setzen wir den Installationsordner:</p>
+<pre>force_install_dir /home/csgo</pre>
+<p>13.<strong> und führen ein Update durch:</strong></p>
+<pre>app_update 740 validate</pre>
+<p>Der Ladevorgang sollte nun starten und jenach Serverleistung (RAM, CPU und vorallem Leitung) kann dies einige Minuten dauern.</p>
+<p>Wenn keine Fehler entstanden sind und die Installation erfolgreich war könnt ihr den Server mit folgendem Befehlen (jenachdem welchen Modi ihr verwenden möchte) starten.</p>
+<p>Hier die verschiedenen Startbefehle der Modis:<br />
+Classic:</p>
+<pre>./srcds -game csgo -console -usercon +game_type 0 +game_mode 0 +mapgroup mg_allclassic +map de_dust2</pre>
+<p>Competetive:</p>
+<pre>./srcds -game csgo -console -usercon +game_type 0 +game_mode 1 +mapgroup mg_allclassic +map de_dust2</pre>
+<p>Gungame:</p>
+<pre>./srcds -game csgo -console -usercon +game_type 1 +game_mode 0 +mapgroup mg_armsrace +map de_dust2</pre>
+<p>Demoltion:</p>
+<pre>./srcds -game csgo -console -usercon +game_type 1 +game_mode 1 +mapgroup mg_demolition +map de_dust2</pre>
+<p>Deathmatch:</p>
+<pre>./srcds -game csgo -console -usercon +game_type 1 +game_mode 2 +mapgroup mg_allclassic +map de_dust</pre>
+<p>&nbsp;</p>
+<p><strong>!! Das Problem ist nun wenn ihr die SSH Console (Putty) schließt, fährt auch der Server runter.!!</strong></p>
+<p>Durch das App &#8222;Screen&#8220; könnt ihr den Server am leben behalten in dem er von Screen aufrecht erhalten wird. Mit folgenden Befehl startet ihr den Server in Screen also für den Competetive Modus:</p>
+<pre>screen -A -m -d -S csgo ./srcds -game csgo -console -usercon +game_type 0 +game_mode 1 +mapgroup mg_allclassic +map de_dust2</pre>
+<p>So bleibt der Server solange online, bis ihr ihn beendet.</p>
+<p>&nbsp;</p>
+<p>PS: Wenn euch es zu mühsam ist diesen langen Befehl immer wieder einzutippen dann empfehle ich euch eine Shelldatei zu erstellen. Nutzt dafür einfach den Linux Internen VI Editor.</p>
+<pre>vi start.sh</pre>
+<p>Kopiert nun mit rechter Maustaste den screen befehl in diese Datei und speichert sie mit &#8222;:wq&#8220; ab. Gebt einfach in das Fenster &#8222;:wq&#8220; ein und ihr hab die Datei gespeichert.</p>
+<p>Nun nur noch</p>
+<pre>./start.sh</pre>
+<p>und der Server ist gestartet.</p>
+<p>Viel Spaß mit eurem Server <img src="https://s.w.org/images/core/emoji/11/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/wie-installiere-ich-einen-csgo-server-auf-linux/feed/</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+		</item>
+	</channel>
+</rss>

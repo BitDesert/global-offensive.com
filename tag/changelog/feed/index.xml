@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>changelog &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/changelog/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>changelog &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Update- Fix von Auto Team Balancing 03.04.2013</title>
+		<link>/csgo-update-fix-von-auto-team-balancing-03-04-2013/</link>
+		<comments>/csgo-update-fix-von-auto-team-balancing-03-04-2013/#respond</comments>
+		<pubDate>Thu, 04 Apr 2013 18:40:52 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[Änderungen]]></category>
+		<category><![CDATA[auto team balance]]></category>
+		<category><![CDATA[changelog]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[de_vertigo]]></category>
+		<category><![CDATA[server bug]]></category>
+		<category><![CDATA[team balance]]></category>
+		<category><![CDATA[update]]></category>
+
+		<guid isPermaLink="false">/?p=1261</guid>
+		<description><![CDATA[Schon wieder ein Update&#8230;. 🙂 Alle heutigen Spieler begrüßte mal wieder der Steam Updater mit einem kleinen Counter-Strike: Global Offensive Update. Im wesentlichen wurden nur kleinere Fehler im Matchmaking behoben. Bisher war es möglich,&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3> Schon wieder ein Update&#8230;. <img src="https://s.w.org/images/core/emoji/11/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></h3>
+<p>Alle heutigen Spieler begrüßte mal wieder der Steam Updater mit einem kleinen Counter-Strike: Global Offensive Update. Im wesentlichen wurden nur kleinere Fehler im Matchmaking behoben. Bisher war es möglich, dass der Server bei offiziellen Matchmaking Spielen die Spieler durch das Team Balancing automatisch in das gegnerische Team verschob. Dieser Fehler bemerkte man allerdings nur, wenn das Match abgebrochen wurde oder zu viele Spieler den Server verlassen haben.</p>
+<p>Einige kleine Fehler wurden auf der Map de_vertigo ausgebessert und darüber hinaus wurden laut Changelog auch die Round Backup Files verbessert, sie speichern nun auch die Positionen der Geiseln. Außerdem natürlich ganz wichtig: Die Mazedonische Flagge ist nun auch in Steam als Heimatland auswählbar ;-).</p>
+<p>Insgesamt also keine wesentlichen Änderungen des Spielverlaufs!</p>
+<p>&nbsp;</p>
+<h3>Hier die Changelog vom CS:GO Update 03.04.13</h3>
+<blockquote><p>[ MISC ]</p>
+<p>&#8211; Fixed a bug where a player who joined team during halftime pause would not correctly switch teams together with teammates for the second half.<br />
+&#8211; Fixed auto team balancing code to not move players to other team during official competitive match after several players on one team abandoned the game.<br />
+&#8211; Added hostage spawn location indices to round backup files.<br />
+&#8211; Fixed loser money not restoring correctly from round backups at halftime.<br />
+&#8211; Fixed an exploit on de_vertigo.<br />
+&#8211; Added Macedonia country flag (MK)</p></blockquote>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-update-fix-von-auto-team-balancing-03-04-2013/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Update &#8211; Was ist neu?</title>
+		<link>/csgo-update-was-ist-neu/</link>
+		<comments>/csgo-update-was-ist-neu/#respond</comments>
+		<pubDate>Sat, 13 Oct 2012 12:55:19 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[bomb]]></category>
+		<category><![CDATA[bombenbug]]></category>
+		<category><![CDATA[Bugfixes]]></category>
+		<category><![CDATA[bugs]]></category>
+		<category><![CDATA[changelog]]></category>
+		<category><![CDATA[fixed]]></category>
+		<category><![CDATA[Steam]]></category>
+		<category><![CDATA[updates]]></category>
+		<category><![CDATA[Was ist neu?]]></category>
+
+		<guid isPermaLink="false">/?p=224</guid>
+		<description><![CDATA[Es kommt einem vor als ob mittlerweile fast wöchentlich neue Updates von Valve erscheinen. Im Detail wurden seit dem letzten Updaten weitere Änderungen am Spielmodi Classic in Counter-Strike: Global Offenssive (CS:GO) vorgenommen. Diese Änderungen&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Es kommt einem vor als ob mittlerweile fast wöchentlich neue Updates von Valve erscheinen. Im Detail wurden seit dem letzten Updaten weitere Änderungen am Spielmodi Classic in Counter-Strike: Global Offenssive (CS:GO) vorgenommen. Diese Änderungen werden wir hier kurz erläutern.</p>
+<p>Classic: Hier wurden einige Bugfixes und Neuerungen eingeführt. Das Entschärfen der Bombe wird jetzt nicht mehr durch Serverlaggs oder weniger FPS (20 Bilder pro Sekunden oder &lt;) unterbrochen. Dies ist sicherlich sehr erfreulich da gerade in Clanwars das eher unproduktiv war (nett ausgedrückt).</p>
+<p>Das Interface erzeugte in CS:GO auch öfter Fehler oder Abstürze (siehe Changelog) welche aber nicht weiter definiert wurden.</p>
+<p>Desweiteren hat der neue Competitive Matchmaking Modi viele Fragen aufgeworfen und aus diesem Grund wurde im Menü nun eine ausführlichere Beschreibung für den Modi integriert. Die Strafen beim Verlassen eines Matches innerhalb des Modis wurden auch härter: Verlassen: 30 Minuten Strafzeit, zweite Mal: 2 Stunden usw.</p>
+<p>Bei Verbindungsabbruch welcher zur Zeit ja doch recht oft passiert, wurde nun eine Änderung erstellt dass das Geld wieder vorliegt welches ihr bei &#8222;timeout&#8220; oder &#8222;connection abort&#8220; hattet. Wichtig hierbei: &#8222;reconnect&#8220; command nutzen um dieses Geld auch zu erhalten.</p>
+<h4>Hier die originale Changelog von Valve:</h4>
+<blockquote><p>Release notes for 10/11/2012</p>
+<p>[ Minor Fixes ]<br />
+-Fixed bomb defusal resetting when a server lags below 20fps.<br />
+-Fixed a case where the round and timer were not being updated when spectating.<br />
+-Fixed another case where warmup alerts panel didn&#8217;t show for late joiners.<br />
+-Fixed a crash that would happen when you died that associated with the spectator panel.<br />
+-Fixed general scaleform crashes.<br />
+-Made radio commands also selectable via the keypad numbers.<br />
+-Fixed enemies on radar that were above/below you showing their up/down indicators rotated.<br />
+-Made alive/dead state on the spectator UI easier to read.<br />
+-Replaced mp_teamname_t and mp_teamname_ct with mp_teamname_1 and mp_teamname_2 to disambiguate convars from sides in a mode that supports team switching at halftime. Now the names follow the teams after the switch. ( mp_teamname_1 is the team that first plays CT ).<br />
+-Changed spectator HUD to show which primary weapon each player has purchased during freeze time.<br />
+-Made spectator HUD show all grenades carried by each player.</p>
+<p>[ Classic Competitive Changes ]<br />
+-Added an explanation about competitive mode rules to better explain its difference from other modes.<br />
+-Added save/restore of cash for competitive matches: When a player disconnects and reconnects in competitive mode, their pre-disconnect money will now be preserved.<br />
+-Added a button requiring players to ready-up when a competitive match is found. When all 10 players ready-up then the matchmaking servers lock them in for the match. Abandoning at any point after clicking the ACCEPT button will result in Competitive cooldown.<br />
+-Increased competitive cooldowns to 30 minutes for first offense, 2 hours for second offense and so on.<br />
+-Kicking a player no longer offers a vote to continue. The game will proceed with a bot in place of the kicked player.</p>
+<p>&nbsp;</p>
+<p>Quelle: Steam News ( <a href="http://store.steampowered.com/news/9066/" target="_blank">http://store.steampowered.com/news/9066/</a> )</p></blockquote>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-update-was-ist-neu/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

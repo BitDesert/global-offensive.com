@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>boiler &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/boiler/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>boiler &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Update: Tec-9 ist nun genauer &#8211; weniger Recoil &#8211; Inferno kleine Änderungen</title>
+		<link>/csgo-update-tec-9-ist-nun-genauer-weniger-recoil-inferno-kleine-aenderungen/</link>
+		<comments>/csgo-update-tec-9-ist-nun-genauer-weniger-recoil-inferno-kleine-aenderungen/#respond</comments>
+		<pubDate>Thu, 18 Sep 2014 14:08:21 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[boiler]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[update]]></category>
+
+		<guid isPermaLink="false">/?p=2814</guid>
+		<description><![CDATA[Mini-Update: Heute Nacht ist ein kleines Update von CS:GO erschienen, im wesentlichen sagt die Überschrift schon fast alles aus. Neben der höheren Treffgenauigkeit ist noch auf de_inferno der Boiler versetzt worden. Darüber hinaus wurden für&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Mini-Update:</h3>
+<p>Heute Nacht ist ein kleines Update von CS:GO erschienen, im wesentlichen sagt die Überschrift schon fast alles aus. Neben der höheren Treffgenauigkeit ist noch auf de_inferno der Boiler versetzt worden. Darüber hinaus wurden für die OSX also Apple Nutzer einige Fehler beseitigt. Sie können zum Beispiel nun auch Multicore-Rendering nutzen. Alle anderen Spieler haben ggf. nun noch eine etwas verbesserte Performance.</p>
+<p>Es bleibt abzuwarten ob die Tec-9 nun wieder mehr im Spiel zusehen ist.</p>
+<p>Hier der versetzte Boiler auf dem Bombenplatz B:</p>
+<p><img class="alignnone" src="http://i.imgur.com/cGMqCWt.jpg" alt="" width="1920" height="1080" /></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-update-tec-9-ist-nun-genauer-weniger-recoil-inferno-kleine-aenderungen/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

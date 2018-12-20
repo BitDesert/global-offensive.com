@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Public &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/public/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>Public &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO richtige Netsettings</title>
+		<link>/csgo-richtige-netsettings/</link>
+		<comments>/csgo-richtige-netsettings/#respond</comments>
+		<pubDate>Mon, 15 Oct 2012 19:36:05 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Configs]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Die Config]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Scripts]]></category>
+		<category><![CDATA[beste Netsettings]]></category>
+		<category><![CDATA[cl_cmdrate]]></category>
+		<category><![CDATA[cl_interp]]></category>
+		<category><![CDATA[cl_interp_ratio]]></category>
+		<category><![CDATA[cl_updaterate]]></category>
+		<category><![CDATA[Config]]></category>
+		<category><![CDATA[cs: go]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[Public]]></category>
+		<category><![CDATA[richtige Netsettings]]></category>
+		<category><![CDATA[Settings]]></category>
+		<category><![CDATA[valve.rc]]></category>
+
+		<guid isPermaLink="false">/?p=490</guid>
+		<description><![CDATA[Im Allgemeinen lässt sich sagen, dass die Netsettings vom Server abhängen. Die unten stehenden Befehle können in der valve.rc oder config.cfg oder als Startparameter festgelegt werden. Es empfiehlt sich jedoch diese in die Valve.rc&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p><a href="/wp-content/uploads/sites/2/2012/10/cs_go_config_title.jpg"><img class=" wp-image-491 aligncenter" title="cs_go_config_title" alt="" src="/wp-content/uploads/sites/2/2012/10/cs_go_config_title.jpg" width="360" height="180" srcset="/wp-content/uploads/sites/2/2012/10/cs_go_config_title.jpg 600w, /wp-content/uploads/sites/2/2012/10/cs_go_config_title-300x150.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></p>
+<p>Im Allgemeinen lässt sich sagen, dass die Netsettings vom Server abhängen. Die unten stehenden Befehle können in der valve.rc oder config.cfg oder als Startparameter festgelegt werden. Es empfiehlt sich jedoch diese in die Valve.rc zu schreiben. Diese Datei findet ihr wie alle anderen auch im CFG Ordner im CS Directory.</p>
+<p>Es ist darauf zu achten, dass der letzte Befehl in der Valve.rc immer mit &#8222;stuffcmds&#8220; endet.</p>
+<p><strong>Bei 128 Tick</strong><strong> Servern </strong></p>
+<p>rate &#8222;80000&#8220;, im Allgemeinen für schnelle DSL-Leitungen ab 6.000.<br />
+cl_cmdrate &#8222;128&#8220;<br />
+cl_updaterate &#8222;128&#8220;<br />
+cl_interp &#8222;0&#8220;<br />
+cl_interp_ratio &#8222;1&#8220;</p>
+<p><em><br />
+</em><strong>Bei 64</strong><em><strong> </strong></em><strong>Tick</strong><em><strong> </strong></em><strong>Servern</strong><br />
+rate &#8222;80000&#8220;  auch für schnelle DSL-Leitungen ab 6.000 empfohlen.<br />
+cl_cmdrate &#8222;64&#8220;<br />
+cl_updaterate &#8222;64&#8220;<br />
+cl_interp &#8222;0&#8220;<br />
+cl_interp_ratio &#8222;1&#8220;</p>
+<p>Auf Publicservern, also Servern ohne Passwort (und oft auch vielen Plugins) empfiehlt sich eine Rate von 128000.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-richtige-netsettings/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Typisch Public! [Video]</title>
+		<link>/csgo-typisch-public-video/</link>
+		<comments>/csgo-typisch-public-video/#respond</comments>
+		<pubDate>Sat, 13 Oct 2012 14:20:47 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[Counterstrike GO Video]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[CSGO Video]]></category>
+		<category><![CDATA[Lustig]]></category>
+		<category><![CDATA[Movie]]></category>
+		<category><![CDATA[Parodie]]></category>
+		<category><![CDATA[Public]]></category>
+		<category><![CDATA[Typisch]]></category>
+		<category><![CDATA[Vids]]></category>
+
+		<guid isPermaLink="false">/?p=249</guid>
+		<description><![CDATA[Wer kennt es nicht, diese Situationen auf einem Public Server wo man einfach nur noch sagen kann: &#8222;Typisch Public&#8220;, oder &#8222;War ja klar, Public&#8220;. Dieses Video zeigt sehr schön, mit welche Aktionen man regelmäßig&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Wer kennt es nicht, diese Situationen auf einem Public Server wo man einfach nur noch sagen kann: &#8222;Typisch Public&#8220;, oder &#8222;War ja klar, Public&#8220;.<br />
+Dieses Video zeigt sehr schön, mit welche Aktionen man regelmäßig auf CS:GO (Counter-Strike: Global Offensive) Servern konfrontiert wird.</p>
+<p>Super Arbeit vom Youtube Channel &#8222;Machinima&#8220;.</p>
+<p>Hier das Video:</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-typisch-public-video/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>skins &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/skins/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>skins &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Items Workshop / Eigene Waffenskins in Steam erstellen / Anleitung</title>
+		<link>/csgo-items-workshop-eigene-waffenskins-in-steam-erstellen-anleitung/</link>
+		<comments>/csgo-items-workshop-eigene-waffenskins-in-steam-erstellen-anleitung/#comments</comments>
+		<pubDate>Wed, 13 Nov 2013 13:09:19 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[earn money]]></category>
+		<category><![CDATA[editor]]></category>
+		<category><![CDATA[finishes]]></category>
+		<category><![CDATA[overwatch]]></category>
+		<category><![CDATA[skins]]></category>
+		<category><![CDATA[tool]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[workbench]]></category>
+
+		<guid isPermaLink="false">/?p=1816</guid>
+		<description><![CDATA[Die Counter-Strike: Global Offensive (CS:GO) Workbench ist da!  Jetzt kann jeder seine eigenen Skins oder auch von valve finishes genannt Workshop zu laden! Darüber hinaus bestätigte Valve dass die Skins auch in potentiellen Waffen&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Die Counter-Strike: Global Offensive (CS:GO) Workbench ist da!  Jetzt kann jeder seine eigenen Skins oder auch von valve finishes genannt Workshop zu laden! Darüber hinaus bestätigte Valve dass die Skins auch in potentiellen Waffen Packs erscheinen sprich integriert werden.</p>
+<p><strong>Vorweg einige Kurzlinks:</strong></p>
+<p>&#8211; Die <a title="CS:GO Workshop" href="http://steamcommunity.com/workshop/browse/?appid=730&amp;section=mtxitems" target="_blank">Item Sektion</a> von Steam &#8211; Hier könnt ihr euch die Skins anschauen.<br />
+&#8211; Die <a title="Counter-Strike Blog" href="http://blog.counter-strike.net/workshop/finishes/" target="_blank">Tutorials</a> also die Anleitungen von Valve bieten euch die Möglichkeit, eigene Skins für CS:GO zu erstellen.</p>
+<p><strong> CS:GO Workbench Skins – Eigenkreationen</strong></p>
+<p>Valve stellt euch mit der CS:GO Workbench ein mächtiges Tool zu Verfügung. Der Counter-Strike Entwickler schreibt auf seinem offiziellen Blog, dass versucht wurde die verschiedenen Techniken des “Waffeneinfärbens” für das neue Werkzeug von Anfang an zur Verfügung zu stellen. Ihr könnt hier direkt und ohne Vorkenntnisse einsteigen und loslegen. Durch die vielen bereitgestellten Einstellmöglichkeiten könnt ihr schon tolle Skins – oder Finishes – erstellen. Und wem das noch nicht reicht, der kann auch mit einem externen Programm erstellte Skins direkt importieren.</p>
+<p><img alt="cs go workbench tool" src="http://cs.ingame.de/files/2013/10/csgo-workbench-tool.jpg" width="542" height="342" /></p>
+<p>Die Workbench kann man im Spiel selbst öffnen. Dazu muss man die <a title="Konsole aktivieren" href="http://cs.ingame.de/tipps-tricks/csgo-konsole-aktivieren/" target="_blank">Entwicklerkonsole</a> aktiviert haben. In diese gibt man einfach den Befehl “workshop_workbench” ein und schon öffnet sich das Tool. Empfohlen wird eine Aufklösung von mindestens 1024×768, damit das Fenster richtig dargestellt wird.</p>
+<p>Hochladen kann man die selbsterstellten Waffen Skins dann über das CS:GO SDK, dort gibt es nun den “Workshop Weapon Finish Publisher” der so funktioniert wie der <a title="Mapping Forum" href="http://cs.ingame.de/forum/showthread.php?t=17489" target="_blank">Map Publisher</a>.</p>
+<p>Wer richtig gut ist und viel positives Feedback von der Community bekommt, der hat die Chance, dass sein Skin irgendwann mit einem Update offiziell ins Spiel integriert wird.</p>
+<blockquote><p>Create a finish and apply it to a weapon. Submit your finished weapon to the CS:GO Workshop. Better yet, create a collection of finished weapons. Get enough positive votes from the community and we’ll consider your work for inclusion in an official update.</p></blockquote>
+<h3></h3>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-items-workshop-eigene-waffenskins-in-steam-erstellen-anleitung/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

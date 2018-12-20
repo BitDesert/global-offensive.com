@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>halloween &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/halloween/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>halloween &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Update: Halloween Special &#8211; Spieler mit Masken, Höllen Hühner und weiteres..</title>
+		<link>/csgo-update-halloween-special-spieler-mit-masken-hoellen-huehner-und-weiteres/</link>
+		<comments>/csgo-update-halloween-special-spieler-mit-masken-hoellen-huehner-und-weiteres/#comments</comments>
+		<pubDate>Thu, 23 Oct 2014 11:10:48 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[halloween]]></category>
+		<category><![CDATA[update]]></category>
+
+		<guid isPermaLink="false">/?p=2961</guid>
+		<description><![CDATA[Halloween Update! Es wird Halloween gefeiert. Alle Spieler haben nun Ingame eine Spuk-Maste auf. Es war kein Platz mehr in der Hühner Hölle. Alle Hühner die man nun töten möchte, erwachen wieder zum leben,&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Halloween Update!</h3>
+<p>Es wird Halloween gefeiert. Alle Spieler haben nun Ingame eine Spuk-Maste auf.<br />
+Es war kein Platz mehr in der Hühner Hölle. Alle Hühner die man nun töten möchte, erwachen wieder zum leben, in einer ganz besonderen Art und Weise.<br />
+Um die Halloweenmasken und Hühner zu deaktivieren, kann über den convar sv_holiday_mode 0 dieses deaktiviert werden&#8230;.</p>
+<h3>MISC</h3>
+<ul>
+<li>Fixed radius damage from exploding HE grenade to not get applied to last bot&#8217;s location where bot had been taken over by a human.</li>
+<li>Bots can no longer be controlled by humans during warmup.</li>
+<li>Updated inventory inspect animation to reveal both sides of knife blades.</li>
+<li>Added six new offers community stickers.</li>
+</ul>
+<h3>MAPS</h3>
+<h2>Mirage:</h2>
+<ul>
+<li>Fixed wallbang inconsistency through closed window in apartments near Bombsite B</li>
+<li>Optimized placement of blue potted plant T side of mid</li>
+<li>Made balcony at Bombsite B slightly larger</li>
+<li>Opened up skybox from CT spawn to Bombsite B</li>
+</ul>
+<h2>Inferno:</h2>
+<ul>
+<li>Added relaxing windchimes to CT spawn</li>
+<li>Fixed bugs where players could get stuck on roof overhangs</li>
+<li>Fixed some textures with wrong surface properties</li>
+<li>Removed some wacky boost spots</li>
+<li>Updated collision model on pillars in Ruins</li>
+</ul>
+<p>&nbsp;</p>
+<h3>Hier ein paar Halloween CS:GO &#8211; Impressionen</h3>
+<p><img class="alignnone" src="http://cloud-4.steampowered.com/ugc/40856788887253188/5FA5C3F44FBFEBB8D0A909B6E06A342F972E5D2E/1024x576.resizedimage" alt="" width="1024" height="576" /></p>
+<p><img class="alignnone" src="http://i.imgur.com/Vv6nw7p.jpg" alt="" width="1920" height="1080" /></p>
+<p><img class="alignnone" src="http://i.imgur.com/1fnjuxO.jpg" alt="" width="1920" height="1080" /></p>
+<p><img class="alignnone" src="http://cloud-2.steampowered.com/ugc/531749148265447045/8840F3309A5C9DC876412A645011596906FA4D74/" alt="" width="1024" height="768" /><img class="alignnone" src="http://cloud-4.steampowered.com/ugc/34101389444019231/B5C444903380C76C15013C13C46EF2DE7A649941/" alt="" width="1920" height="1080" /><img class="alignnone" src="http://cloud-4.steampowered.com/ugc/34101389444018045/D9F79EFBE661A45C456DAEC03D60BF56BC44B8FB/" alt="" width="1920" height="1080" /><img class="alignnone" src="http://cloud-4.steampowered.com/ugc/34101389444016736/26D6BA2120B46DABD794EF47897C4AC9E3E7408E/" alt="" width="1920" height="1080" /></p>
+<p>An dieser News wird gerade geschrieben, aktualisiere alle 10 Minuten du und erhälst weitere Informationen.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-update-halloween-special-spieler-mit-masken-hoellen-huehner-und-weiteres/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

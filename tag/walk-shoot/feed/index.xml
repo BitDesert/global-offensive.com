@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>walk shoot &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/walk-shoot/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>walk shoot &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Walk Shoot Script &#8211; Walk and hit! + Video</title>
+		<link>/csgo-walk-shoot-script-walk-and-hit-video/</link>
+		<comments>/csgo-walk-shoot-script-walk-and-hit-video/#comments</comments>
+		<pubDate>Sun, 23 Feb 2014 10:11:00 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Die Config]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Scripts]]></category>
+		<category><![CDATA[Config.cfg]]></category>
+		<category><![CDATA[cs_militia]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[Script]]></category>
+		<category><![CDATA[walk shoot]]></category>
+
+		<guid isPermaLink="false">/?p=2095</guid>
+		<description><![CDATA[Wie treffe ich im laufen mit AWP, Deagle etc. Seit dem vorletzten Update wurde die Genauigkeit beim &#8222;gehen&#8220; in CS:GO &#8211; Counter-Strike: Global-Offensive wesentlich verbessert. Wir haben uns mal ran gesetzt und ein kleines&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3></h3>
+<h3>Wie treffe ich im laufen mit AWP, Deagle etc.</h3>
+<p>Seit dem vorletzten Update wurde die Genauigkeit beim &#8222;gehen&#8220; in CS:GO &#8211; Counter-Strike: Global-Offensive wesentlich verbessert. Wir haben uns mal ran gesetzt und ein kleines Script geschrieben um Anfänger im Matchmaking etwas auf die Sprünge zu helfen. Dieses Script ist absolut legal und wird natürlich nicht von VAC oder anderen Anti-Cheat Tools als Cheat erkannt, warum auch &#8211; es ist nur eine kleine Stütze für &#8222;Shift&#8220; Drück-Faule. Ihr müsst euch selber eine Meinung darüber bilden&#8230;</p>
+<p>[infobox color=&#8220;red&#8220;]Inzwischen wurde das Script durch Steam verboten und es kann nicht  mehr genutzt werden[/infobox]</p>
+<h3>Wie funktioniert das Walk Shoop Script für CS:GO?</h3>
+<p>In dem Moment wo ihr auf Mouse 1 einen Schuss absetzt, wechselt das Script automatisch auf den &#8222;walk&#8220; also &#8222;Geh-Modus&#8220;. Ihr verlangsamt euch also wie als ob ihr &#8222;Shift&#8220; drückt. In dem Moment wo ihr Mouse1 wieder loslasst lauft ihr wieder schnell. Mit einem Druck auf das Mausrad könnt ihr das Script aktivieren/deaktivieren.</p>
+<h3>Wie binde ich das Script ein?</h3>
+<p>Fügt folgenden Inhalt am Ende eurer Config.cfg in eurem Counter-Strike Ordner ein. (C:Program Files (x86)SteamSteamAppscommonCounter-Strike Global Offensivecsgocfgconfig.cfg)</p>
+<blockquote><p>alias +as &#8222;+attack; +speed&#8220;<br />
+alias -as &#8222;-attack; -speed&#8220;<br />
+bind mouse1 &#8222;+as&#8220;</p>
+<p>bind &#8222;mouse3&#8220; &#8222;togglewalkshoot&#8220;<br />
+alias &#8222;togglewalkshoot&#8220; &#8222;walkshoot&#8220;<br />
+alias &#8222;walkshoot&#8220; &#8222;bind mouse1 +as; alias togglewalkshoot normalshoot&#8220;<br />
+alias &#8222;normalshoot&#8220; &#8222;bind mouse1 +attack; alias togglewalkshoot walkshoot&#8220;</p></blockquote>
+<p>&nbsp;</p>
+<h3>Hier mal das Video wie es in der Realität aus sieht:</h3>
+<p>oder hier mit der AK</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-walk-shoot-script-walk-and-hit-video/feed/</wfw:commentRss>
+		<slash:comments>26</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>de_prodigy_csgo &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/de_prodigy_csgo/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>de_prodigy_csgo &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Erste Blicke auf die Map de_prodigy_csgo [Walkthrough]</title>
+		<link>/erste-blicke-auf-de_prodigy_csgo-walkthrough/</link>
+		<comments>/erste-blicke-auf-de_prodigy_csgo-walkthrough/#comments</comments>
+		<pubDate>Mon, 15 Apr 2013 21:12:25 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[Maps]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[de_prodigy]]></category>
+		<category><![CDATA[de_prodigy_csgo]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[Global Offensive]]></category>
+		<category><![CDATA[Map]]></category>
+		<category><![CDATA[Workshop]]></category>
+		<category><![CDATA[workshop id]]></category>
+
+		<guid isPermaLink="false">/?p=1366</guid>
+		<description><![CDATA[Für Counter-Strike Global Offensive jetzt auch die Map de_prodigy_csgo Ganz frisch hat unser Youtube-Broadcaster Sonnyaner für uns ein kurzes walkthrough der neuen de_prodigy_csgo erstellt. Diese Map ist uns sicherlich noch aus 1.6 Zeiten bekannt&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Für Counter-Strike Global Offensive jetzt auch die Map de_prodigy_csgo</h3>
+<p>Ganz frisch hat unser Youtube-Broadcaster Sonnyaner für uns ein kurzes walkthrough der neuen de_prodigy_csgo erstellt.<br />
+Diese Map ist uns sicherlich noch aus 1.6 Zeiten bekannt und für mich persönlich (Joe) immer einer der &#8222;besonderen&#8220; Maps gewesen, umso mehr freue ich mich dass Sie nun auch in Global-Offensive spielbar ist. Seit Ende Februar habt ihr die Möglichkeit die Map über den Workshop zu erhalten.</p>
+<p>Die Map könnt Ihr mit der Workshop ID: 125658089 laden. Der Rcon Befehl ist: rcon host_workshop_map 125658089</p>
+<p>Download unter: <a href="http://steamcommunity.com/sharedfiles/filedetails/?id=125667308">http://steamcommunity.com/sharedfiles/filedetails/?id=125667308</a></p>
+<p><strong>Hier ein Screenshot:</strong></p>
+<p><img class="alignnone" src="http://cloud.steampowered.com/ugc/1117160762437226032/AB4BE38BCC89FC318B65F398CE5968E4BFE1822C/637x358.resizedimage" alt="" width="637" height="358" /></p>
+<p>&nbsp;</p>
+<p>Sonny zeigt in diesem Video einen schnellen Einstieg als &#8222;walkthrough&#8220;:</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/erste-blicke-auf-de_prodigy_csgo-walkthrough/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

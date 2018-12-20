@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>16.10.2014 &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/16-10-2014/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>16.10.2014 &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Mini-Update &#8211; Linux &#8211; Achievement Icons und Music Kit Optimierung 16.10.2014</title>
+		<link>/csgo-mini-update-linux-achievement-icons-und-music-kit-optimierung-16-10-2014/</link>
+		<comments>/csgo-mini-update-linux-achievement-icons-und-music-kit-optimierung-16-10-2014/#respond</comments>
+		<pubDate>Thu, 16 Oct 2014 16:48:16 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[16.10.2014]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[update]]></category>
+
+		<guid isPermaLink="false">/?p=2918</guid>
+		<description><![CDATA[CS:GO Mini Update Heute Nacht ist ein kleines 15 MB Update erschienen. Nichts besonderes, aus diesem Grund wie immer bei Mini-Updates eine Strich-Punkt Auflistung: Verschiedenes [checklist] Die Achievement Icons werden nun lokal auf der&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p><strong>CS:GO Mini Update</strong></p>
+<p>Heute Nacht ist ein kleines 15 MB Update erschienen. Nichts besonderes, aus diesem Grund wie immer bei Mini-Updates eine Strich-Punkt Auflistung:</p>
+<h3>Verschiedenes</h3>
+<p>[checklist]</p>
+<ul>
+<li>Die Achievement Icons werden nun lokal auf der Festplatte gespeichert, dieses soll etwas Performance steigern. Rundenenden Musik wird nun nicht mehr mit Fehlern und Abstürzen abgespielt.</li>
+</ul>
+<p>[/checklist]</p>
+<h3>Linux</h3>
+<p>[checklist]</p>
+<ul>
+<li>Fixed bug where many items would be rendered with incorrect lighting causing them to appear very dark or black.</li>
+<li>Fixed a bug with entity lookup from player userid that was causing incorrect position/facing/team info for players in game events</li>
+</ul>
+<p>[/checklist]</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-mini-update-linux-achievement-icons-und-music-kit-optimierung-16-10-2014/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

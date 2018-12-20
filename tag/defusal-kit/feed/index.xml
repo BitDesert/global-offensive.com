@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>defusal kit &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/defusal-kit/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>defusal kit &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Update &#8211; Neues Defusal Kit, anderes Scoreboard, Gameplay, neue Hitboxen, Map Verbesserungen</title>
+		<link>/csgo-update-neues-defusal-kit-anderes-scoreboard-gameplay-neue-hitboxen-map-verbesserungen/</link>
+		<comments>/csgo-update-neues-defusal-kit-anderes-scoreboard-gameplay-neue-hitboxen-map-verbesserungen/#respond</comments>
+		<pubDate>Thu, 27 Mar 2014 14:13:32 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[defusal kit]]></category>
+		<category><![CDATA[update]]></category>
+
+		<guid isPermaLink="false">/?p=2336</guid>
+		<description><![CDATA[Neues CS:GO Update vom 27.03.2014 Ein weiteres CS:GO Update wurde von Valve released. Zusammenfassend lässt sich sagen dass nicht großartiges geändert hat. Es wurde das alte Bild vom Defusal Kit  im Buymenü verändert. Es&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Neues CS:GO Update vom 27.03.2014</h3>
+<p>Ein weiteres CS:GO Update wurde von Valve released. Zusammenfassend lässt sich sagen dass nicht großartiges geändert hat. Es wurde das alte Bild vom Defusal Kit  im Buymenü verändert. Es sieht nun etwas ansehnlicher aus. Darüber hinaus wurde das Scoreboard verändert (Screenshot siehe unten) und die Funktionalität eingefügt dass man nun die Rechte Maustaste verwenden kann um Personen zu muten, voten oder Ihnen eine Nachricht schreiben kann. Es wurde etwas an den Hitboxen gearbeitet was aber nicht wesentlich das Gameplay verändert. Desweiteren wird nun jetzt immer die teuerste Granate gedroppt wenn man als Spieler stirbt.</p>
+<h3>Die vielen kleinen Änderungen hier in der Bullet-List:</h3>
+<h4>User-Interface:</h4>
+<ul>
+<li>Maus kann nun im Scoreboard verwendet werden</li>
+<li>Wenn man im Spectator-Modus oder man noch am Leben ist, kann die Maus per Rechter Maustaste aktiviert werden</li>
+<li>Per Rechter Maustaste kann nun &#8222;Report, Comment, Block, Microphone&#8220; verwendet werden.</li>
+<li>Scoreboard passt sich nun automatisch in der Größe an, jenachdem wie viele Spieler auf dem Server sind.</li>
+</ul>
+<h4>Gameplay</h4>
+<ul>
+<li>Die Drop-Regeln für Granaten wurden angepasst: Wer stirbt dropt nun die zuletzt benutzte oder aber die teuerste Granate.</li>
+<li>Hitboxen wurden ausgerichtet.</li>
+<li>Headshot von der Seite in den Kopf verursacht nun einen anderen &#8222;flitch Effekt&#8220; um dieses besser zu erkennen von wo geschossen wurde.</li>
+<li>Defusal Kit wurde etwas verändert damit es besser auf dem Boden zu erkennen ist.</li>
+</ul>
+<h4>Diverses:</h4>
+<ul>
+<li> Arbeitsspeicher Auslastung wurde reduziert</li>
+<li>Arbeitsspeicher Crash (Csgo.exe Fehler) während Map Download wurde gefixt</li>
+<li>Die Fehlermeldung &#8222;Invalid STEAM UserID Ticket&#8220; wurde durch &#8220; wurde durch folgende ersetzt: An issue with your Computer is blocking the VAC System. You cannot play on secure servers&#8220;.</li>
+<li>Neben Europa und der USA, Canada wurde nun auch Süd-Afrika mit eigenen Matchmaking Servern versorgt</li>
+</ul>
+<h4>Maps</h4>
+<ul>
+<li><strong>Overpass</strong>: Connector vom T Wasser in den T-Tunnel wurde hinzugefügt, Nun kann durch Holz geschossen werden neben der Wand bei Bombenplatz B, Umgebungslicht wurde verbessert.</li>
+<li><strong>Dust2</strong>: Kleine Lücken auf Bombenplatz B wurden entfernt</li>
+<li>Inferno: Man kann nun durch die niedrige Wand vor dem Grill schießen, Clipping neben dem Balkon wurde gefixt.</li>
+</ul>
+<h3>Und hier die Änderungen in Bildern:</h3>
+<h3>Neues Defusal Kit</h3>
+<p><img class="alignnone" alt="" src="http://i.imgur.com/2cyQC6p.jpg" width="1920" height="1080" /></p>
+<p><img class="alignnone" alt="" src="http://i.imgur.com/cu62XKg.png" width="735" height="395" /></p>
+<p><img class="alignnone" alt="" src="http://i.imgur.com/ijtEr84.png" width="428" height="472" /></p>
+<p><img class="alignnone" alt="" src="http://i.imgur.com/n3xj0LJ.png" width="436" height="655" /></p>
+<div style="width: 1930px" class="wp-caption alignnone"><img alt="" src="http://i.imgur.com/P0w9SBq.jpg" width="1920" height="1080" /><p class="wp-caption-text">Defuser am Boden</p></div>
+<h3>Neues Scoreboard</h3>
+<p><img class="alignnone" alt="" src="http://i.imgur.com/IpDFQ5q.jpg" width="1920" height="1080" /></p>
+<p>&nbsp;</p>
+<h3></h3>
+<h3>Neue Hitboxen</h3>
+<p>&nbsp;</p>
+<div style="width: 1930px" class="wp-caption alignnone"><img alt="" src="http://i.imgur.com/t198IOU.jpg" width="1920" height="1080" /><p class="wp-caption-text">Neue Hitboxen</p></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div style="width: 1290px" class="wp-caption alignnone"><img alt="" src="http://i.imgur.com/T0BP8C1.jpg" width="1280" height="720" /><p class="wp-caption-text">Ohne Gap auf Mirage</p></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-update-neues-defusal-kit-anderes-scoreboard-gameplay-neue-hitboxen-map-verbesserungen/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Kommentare zu: CSGO-Stats.net weitere Funktionen, Progaming Teams, Teams erstellen und Fan werden</title>
+	<atom:link href="/csgo-stats-net-weitere-funktionen-progaming-teams-teams-erstellen-und-fan-werden/feed/" rel="self" type="application/rss+xml" />
+	<link>/csgo-stats-net-weitere-funktionen-progaming-teams-teams-erstellen-und-fan-werden/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 14 Nov 2017 21:13:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<item>
+		<title>Von: soRai</title>
+		<link>/csgo-stats-net-weitere-funktionen-progaming-teams-teams-erstellen-und-fan-werden/#comment-390</link>
+		<dc:creator><![CDATA[soRai]]></dc:creator>
+		<pubDate>Sat, 25 Oct 2014 16:09:39 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2968#comment-390</guid>
+		<description><![CDATA[Teamadministratoren können absofort Teams löschen sowie neue Mitglieder einladen!
+
+- neue Mitglieder bekommen das Team als Mainteam (sofern sie vorher kein Mainteam hatten)
+- neue Mitglieder werden automatisch als Spieler und an letzte Stelle im Team positioniert (Verwaltung von diesen Punkten folgt in einem weiterem Funktionsupdate)
+- neue Mitglieder können das Team nur joinen, wenn sie vorher kein Mitglied des Teams waren (Fan dürfen sie schon sein, den Status verlieren sie aber wenn sie joinen) 
+- neue Mitglieder können ein Team nur joinen, wenn sie auf csgo-stats.net via Steam Signin angemeldet sind! Ansonsten wird eine Meldung ausgegeben!]]></description>
+		<content:encoded><![CDATA[<p>Teamadministratoren können absofort Teams löschen sowie neue Mitglieder einladen!</p>
+<p>&#8211; neue Mitglieder bekommen das Team als Mainteam (sofern sie vorher kein Mainteam hatten)<br />
+&#8211; neue Mitglieder werden automatisch als Spieler und an letzte Stelle im Team positioniert (Verwaltung von diesen Punkten folgt in einem weiterem Funktionsupdate)<br />
+&#8211; neue Mitglieder können das Team nur joinen, wenn sie vorher kein Mitglied des Teams waren (Fan dürfen sie schon sein, den Status verlieren sie aber wenn sie joinen)<br />
+&#8211; neue Mitglieder können ein Team nur joinen, wenn sie auf csgo-stats.net via Steam Signin angemeldet sind! Ansonsten wird eine Meldung ausgegeben!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: soRai</title>
+		<link>/csgo-stats-net-weitere-funktionen-progaming-teams-teams-erstellen-und-fan-werden/#comment-389</link>
+		<dc:creator><![CDATA[soRai]]></dc:creator>
+		<pubDate>Sat, 25 Oct 2014 11:14:03 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2968#comment-389</guid>
+		<description><![CDATA[Teamdelete kann ab sofort genutzt werden - bei Fehlern gerne melden!]]></description>
+		<content:encoded><![CDATA[<p>Teamdelete kann ab sofort genutzt werden &#8211; bei Fehlern gerne melden!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: soRai</title>
+		<link>/csgo-stats-net-weitere-funktionen-progaming-teams-teams-erstellen-und-fan-werden/#comment-388</link>
+		<dc:creator><![CDATA[soRai]]></dc:creator>
+		<pubDate>Fri, 24 Oct 2014 20:06:12 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2968#comment-388</guid>
+		<description><![CDATA[Should be fixed. :) Sorry!]]></description>
+		<content:encoded><![CDATA[<p>Should be fixed. 🙂 Sorry!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: Joe</title>
+		<link>/csgo-stats-net-weitere-funktionen-progaming-teams-teams-erstellen-und-fan-werden/#comment-387</link>
+		<dc:creator><![CDATA[Joe]]></dc:creator>
+		<pubDate>Fri, 24 Oct 2014 19:50:24 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2968#comment-387</guid>
+		<description><![CDATA[Hi RBNN,
+
+du hast Recht, wir haben tatsächlich den JOIN Link nicht eingefügt. Dieses werden wir in den nächsten Stunden durchführen.
+
+Danke für den Hinweis!]]></description>
+		<content:encoded><![CDATA[<p>Hi RBNN,</p>
+<p>du hast Recht, wir haben tatsächlich den JOIN Link nicht eingefügt. Dieses werden wir in den nächsten Stunden durchführen.</p>
+<p>Danke für den Hinweis!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: soRai</title>
+		<link>/csgo-stats-net-weitere-funktionen-progaming-teams-teams-erstellen-und-fan-werden/#comment-386</link>
+		<dc:creator><![CDATA[soRai]]></dc:creator>
+		<pubDate>Fri, 24 Oct 2014 17:24:39 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2968#comment-386</guid>
+		<description><![CDATA[Hallo RBNN,
+
+in den Teams können bisher noch keine M8&#039;s eingeladen werden (nur in dem sie das Team selber joinen -&#062; Team besuchen und auf JOIN! klicken [ggf. das Team PW eintragen]).
+In deinem Fall wäre es folgender Link: http://csgo-stats.net/?team=Players%20Club&#038;site=join (den Link einfach deinen M8&#039;s schicken und ihnen das PW mitteilen!).
+
+Nichts desto trotz arbeiten wir schon an diesem Feature, dieses wird in den kommenden Tagen nachgereicht werden.
+
+Einfach ab und an mal schauen :)
+
+Gruß
+soRai]]></description>
+		<content:encoded><![CDATA[<p>Hallo RBNN,</p>
+<p>in den Teams können bisher noch keine M8&#8217;s eingeladen werden (nur in dem sie das Team selber joinen -&gt; Team besuchen und auf JOIN! klicken [ggf. das Team PW eintragen]).<br />
+In deinem Fall wäre es folgender Link: <a href="http://csgo-stats.net/?team=Players%20Club&#038;site=join" rel="nofollow">http://csgo-stats.net/?team=Players%20Club&#038;site=join</a> (den Link einfach deinen M8&#8217;s schicken und ihnen das PW mitteilen!).</p>
+<p>Nichts desto trotz arbeiten wir schon an diesem Feature, dieses wird in den kommenden Tagen nachgereicht werden.</p>
+<p>Einfach ab und an mal schauen 🙂</p>
+<p>Gruß<br />
+soRai</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: RBNN</title>
+		<link>/csgo-stats-net-weitere-funktionen-progaming-teams-teams-erstellen-und-fan-werden/#comment-385</link>
+		<dc:creator><![CDATA[RBNN]]></dc:creator>
+		<pubDate>Fri, 24 Oct 2014 16:44:04 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2968#comment-385</guid>
+		<description><![CDATA[Wie kann ich m8s ins Team einladen? Finde die Funktion nicht.
+
+Grüße]]></description>
+		<content:encoded><![CDATA[<p>Wie kann ich m8s ins Team einladen? Finde die Funktion nicht.</p>
+<p>Grüße</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: Joe</title>
+		<link>/csgo-stats-net-weitere-funktionen-progaming-teams-teams-erstellen-und-fan-werden/#comment-384</link>
+		<dc:creator><![CDATA[Joe]]></dc:creator>
+		<pubDate>Fri, 24 Oct 2014 14:29:11 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2968#comment-384</guid>
+		<description><![CDATA[Jaa ;-) meldet uns falls es Probleme gibt! :)]]></description>
+		<content:encoded><![CDATA[<p>Jaa 😉 meldet uns falls es Probleme gibt! 🙂</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: soRai</title>
+		<link>/csgo-stats-net-weitere-funktionen-progaming-teams-teams-erstellen-und-fan-werden/#comment-383</link>
+		<dc:creator><![CDATA[soRai]]></dc:creator>
+		<pubDate>Fri, 24 Oct 2014 12:54:38 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2968#comment-383</guid>
+		<description><![CDATA[Wer fleißig sein Team anlegt, bekommt vllt. sogar eine kleine Überraschung ;)]]></description>
+		<content:encoded><![CDATA[<p>Wer fleißig sein Team anlegt, bekommt vllt. sogar eine kleine Überraschung 😉</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>map filter &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/map-filter/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>map filter &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Update – Radar, Spielerprofile,Operation Payback</title>
+		<link>/csgo-update-radar-spielerprofileoperation-payback/</link>
+		<comments>/csgo-update-radar-spielerprofileoperation-payback/#respond</comments>
+		<pubDate>Wed, 01 May 2013 11:56:15 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[49€]]></category>
+		<category><![CDATA[5]]></category>
+		<category><![CDATA[geld verdienen]]></category>
+		<category><![CDATA[map filter]]></category>
+		<category><![CDATA[mapping]]></category>
+		<category><![CDATA[operation payback]]></category>
+		<category><![CDATA[radar]]></category>
+		<category><![CDATA[spielerprofile]]></category>
+		<category><![CDATA[valve]]></category>
+
+		<guid isPermaLink="false">/?p=1441</guid>
+		<description><![CDATA[In der Nacht vom 26.04 wurde ein neues CS:GO Update released. Im folgendes zitieren wir den schönen Artikel von in.game: CS:GO Operation Payback Operation Payback der sogenannter “Community Support Pass”, der hauptsächlich dazu dient&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>In der Nacht vom 26.04 wurde ein neues CS:GO Update released.</p>
+<p>Im folgendes zitieren wir den schönen Artikel von in.game:</p>
+<h3>CS:GO Operation Payback</h3>
+<p>Operation Payback der sogenannter “Community Support Pass”, der hauptsächlich dazu dient den Erstellern von guten Custom Maps eine Entlohnung für ihre Mühe zu bescheren. Verschiedene Werke wurde zu einem Paket zusammengefasst, das bis zum 31. Juli auf den offiziellen Servern von Valve läuft. Natürlich können die einzelnen Maps auch weiterhin kostenlos im Workshop heruntergeladen werden. Man kann den Operation Payback Pass direkt im Spiel kaufen, das dafür bezahlte Geld geht an die Ersteller der Maps. Ist die aktuelle Saison vorüber, startet die nächste mit einer neuen Ladung an Maps. Ein Pass kostet normalerweise 5,49€, wird aber auch hin und wieder reduziert angeboten. Wer einen Pass gekauft hat, kann sich außerdem verschiedene Medaillen verdienen, die aber keinerlei Auswirkung haben und nur der Zierde dienen. </p>
+<h3>CS:GO Update – Radar einstellen</h3>
+<p>Dank neuer Konsolenbefehle kann man den Radar nun den eigenen Wünschen entsprechend einstellen. Man kann ihn jetzt dezentrieren, die Größe ändern und festlegen, ob er sich mit der Spielfigur drehen soll oder nicht. Die beiden letzteren Einstellungen kann man übrigens auch über die Optionen unter “Game Settings” vornehmen.</p>
+<ul>
+<li>cl_radar_always_centered 0|1 – Gibt man 0 ein, dann ist der Radar dezentriert und kann effizienter genutzt werden.</li>
+<li>cl_radar_scale – Die Größe des Radars, Standardwert ist 0.7</li>
+<li>cl_radar_rotate 0|1 – Bei 0 dreht sich der Radar nicht mehr mit dem Spieler mit.</li>
+<li>cl_radar_icon_scale_min – Damit bleiben die Icons auch bei einem verkleinerten Radar groß, Standardwert ist 0.6</li>
+</ul>
+<h3>CS:GO Spielerprofile</h3>
+<p>Es gibt nun im Spiel selbst kleine Profile, die bei Freunden Informationen über die Skill Group, Anzahl gewonnener Matchmaking-Spiele und Lob anderer Spieler sowie bei allen Spielern im Fall den Besitz eines Community Support Pass und entsprechender Medaillen anzeigen.</p>
+<h3>Server Browser – Map Filter</h3>
+<p>Eine gute Nachricht für alle, die gerne den Server Browser verwenden: Der Map Filter wurde deutlich verbessert. Unterstriche werden jetzt ergänzt, d.h. mit “dust” findet man nun z.B. auch de_dust2_se. Mit einem Slash kann man nach Map-Präfixen suchen (z.B. “/de”), mit einem Sternchen nach Suffixen (z.B. “*_se”). Benutzt man einen Doppelslash, kann man nach exakten Map-Präfixen suchen.</p>
+<p>Und hier das englische Update-log:</p>
+<h3>CS:GO Update 26.04.13 Changelog</h3>
+<blockquote>
+<p>&#8211; Shipping “Operation” Payback”<br />&#8211; “Operation Payback, ” is a Classic Casual map group made up of seven top-rated Workshop maps on official servers.<br />&#8211; Allowed players to invite friends to play “OP” even if they haven’t purchased<br />&#8211; Added upgradeable challenge coin, viewable in avatar, that progresses from bronze to silver to gold with play</p>
+<p>&#8211; Radar changes:<br />&#8211; Spectators’ radar was replaced with a minimap, allowing for better orientation and action-following without resorting to the overview.<br />&#8211; When playing competitive or with sv_competitive_official_5v5 set, the minimap will show player hotkey values like the overview map does.<br />&#8211; Added convar cl_radar_always_centered ( default 1 ) then when set to 0 makes more efficient use of the radar at the expense of moving the POV away from the center.<br />&#8211; Added 2 options to the radar, allowing players to change the scale and orientation. These are exposed in the Game Settings menu, or directly with the cl_radar_scale ( default 0.7 ) and cl_radar_rotate ( default 1 ) convars, respectively.<br />&#8211; Added convar cl_radar_icon_scale_min ( default 0.6 ) that allows radar icons to be kept large when the scale is reduced.<br />&#8211; Moved the planted bomb icon from below the radar to the timer.<br />&#8211; Fixed radar showing above or below on a player when spectating them from chase.</p>
+<p>&#8211; CS:GO Player Profile:<br />&#8211; All players can now view other players medals/coins on the in-game Player Profile page.<br />&#8211; Friends can now view your wins and Skill Group on your in-game Player Profile page.<br />&#8211; You can now view a Player’s Profile page by hitting Z (the Command Radio Message key) when spectating that player.<br />&#8211; Added a shortcut to view a friend’s CS:GO Player Profile page from the main menu friends list.<br />&#8211; Added “Disable Autogenerated DM Spawns?” to info_map_parameters entity that allows mapper to specify that no dm spawns should be autogenerated and will be mapper-placed instead.</p>
+<p>&#8211; Added more options for map filtering in server browser:<br />&#8211; The default map filter now performs substring matching. (dust will find de_dust2_se, cs_dustyhouse, workshop or fastdl versions of maps, etc.)<br />&#8211; A single slash will search for a prefix in the base map name. (/cs will search for all hostage rescue maps)<br />&#8211; An asterisk will search for a map name suffix. (*_se will search for any map ending in “_se”)<br />&#8211; A double slash will search for an exact map name prefix. (///125488374/ will search for the official workshop de_dust2_se. ///official will search for all official workshop non-se maps)<br />&#8211; Added support for official cs_militia map workshop id 133256570 to be played as part of dedicated servers workshop collection mapcycle</p>
+<p>&nbsp;</p>
+<p>Quelle:<a href="cs.ingame.de"> ingame</a> und <a href="http://blog.counter-strike.net/index.php/2013/04/6907/">Counter-Strike.net</a></p>
+</blockquote>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-update-radar-spielerprofileoperation-payback/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

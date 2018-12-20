@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>map groups &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/map-groups/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>map groups &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Mini Update – Kleine Bug Fixes auf de_train</title>
+		<link>/csgo-mini-update-kleine-bug-fixes-auf-de_train/</link>
+		<comments>/csgo-mini-update-kleine-bug-fixes-auf-de_train/#respond</comments>
+		<pubDate>Thu, 16 May 2013 19:30:51 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[classic casual]]></category>
+		<category><![CDATA[collision bug]]></category>
+		<category><![CDATA[de_train]]></category>
+		<category><![CDATA[demolition modes]]></category>
+		<category><![CDATA[map groups]]></category>
+		<category><![CDATA[sv_vote_allow_in_warmup]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[wallbang]]></category>
+
+		<guid isPermaLink="false">/?p=1480</guid>
+		<description><![CDATA[Und schon wieder ein Update für Counter-Strike: Global Offensive (CS:GO), es ist aber nur ein Kleines. Es wurde kleinere Fehler auf de_train behoben, darüber hinaus ein Kollisionsbug der Granaten auf de_train gefixt. Darüber hinaus&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Und schon wieder ein Update für Counter-Strike: Global Offensive (CS:GO), es ist aber nur ein Kleines. Es wurde kleinere Fehler auf de_train behoben, darüber hinaus ein Kollisionsbug der Granaten auf de_train gefixt.</p>
+<p>Darüber hinaus ist es jetzt möglich mit dem Befehl &#8222;sv_vote_allow_in_warmup&#8220;  einzustellen ob Voting in der Warm Up Phase möglich sind. Als letztes sind nun Schüsse durch “nodraw” (also unsichtbare) Oberflächen nicht mehr geltend bzw. all Wallbang möglich. Außerdem wurden Mapgroups in Classic Casual und Arsenal: Demolition zusammengelegt.</p>
+<p>&nbsp;</p>
+<p>Hier die Release Note:</p>
+<h3>CS:GO Update 16.05.13 Changelog</h3>
+<blockquote>
+<p>[ MAPS ]<br />&#8211; de_train: Fixed grenade collision bug, other minor bugs.</p>
+<p>[ MISC ]<br />&#8211; Added a convar sv_vote_allow_in_warmup defaulting to off and controlling whether votes are allowed during warmup.<br />&#8211; Shooting through a nodraw surface now doesn’t count as a gun penetration (you can always shoot through nodraw).<br />&#8211; Consolidated Map Groups in Classic Casual and Demolition modes.</p>
+</blockquote>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-mini-update-kleine-bug-fixes-auf-de_train/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

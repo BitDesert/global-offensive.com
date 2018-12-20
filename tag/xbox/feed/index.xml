@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Xbox &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/xbox/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>Xbox &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>PS3 Release noch unklar</title>
+		<link>/ps3-release-noch-unklar/</link>
+		<comments>/ps3-release-noch-unklar/#respond</comments>
+		<pubDate>Mon, 15 Oct 2012 20:48:48 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[Counter]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[Playstation]]></category>
+		<category><![CDATA[PS3]]></category>
+		<category><![CDATA[Release]]></category>
+		<category><![CDATA[Shooter]]></category>
+		<category><![CDATA[Strike]]></category>
+		<category><![CDATA[Xbox]]></category>
+
+		<guid isPermaLink="false">/?p=511</guid>
+		<description><![CDATA[Da inzwischen Counter-Strike: Global-Offensive für XBox 360 und PC erhältlich ist, warten die PS3-Spieler in Europa noch auf den Release, denn in Nordamerika ist der Shooter bereits erhältlich. Die Informationen, dass Counter-Strike: Global-Offensive diese&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Da inzwischen Counter-Strike: Global-Offensive für XBox 360 und PC erhältlich ist, warten die PS3-Spieler in Europa noch auf den Release, denn in Nordamerika ist der Shooter bereits erhältlich.</p>
+<p>Die Informationen, dass Counter-Strike: Global-Offensive diese Woche im PlayStation Store auftaucht, scheint falsch zu sein.</p>
+<p>Auch Sony hat zu dem Thema keine Information: <em>&#8222;Es tut mir leid, aber ich kann euch hier nur die Standard-Antwort geben. Ich habe keine Informationen, die ich derzeit mit euch teilen kann&#8220;</em> so Sonys Jawad Ashraf in einer Stellungnahme.</p>
+<p>Valve wollte sich bis jetzt noch nicht äußern. Counter-Strike: Global Offensive ist seit dem 21. August erhältlich &#8211; seit 3 Wochen ist es keine &#8222;Offiziellen&#8220; Meldungen zum Thema Counter-Strike: Global-Offensive und PS3.</p>
+<p>Quelle: <a href="http://www.computerandvideogames.com/368147/sony-no-new-info-on-counter-strike-go-euro-release-date/" target="_blank">CVG</a></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/ps3-release-noch-unklar/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

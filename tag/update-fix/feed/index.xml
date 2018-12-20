@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Update fix &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/update-fix/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>Update fix &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS: GO Update Autoshotgun geschwächt, Mag 7 günstiger, Mac10 teurer und Shuttersteps gefixt</title>
+		<link>/cs-go-update-autoshotgun-geschwacht-mag-7-gunstiger-mac10-teurer-und-shuttersteps-gefixt/</link>
+		<comments>/cs-go-update-autoshotgun-geschwacht-mag-7-gunstiger-mac10-teurer-und-shuttersteps-gefixt/#respond</comments>
+		<pubDate>Fri, 10 May 2013 10:14:02 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[autoshotung]]></category>
+		<category><![CDATA[mac 10]]></category>
+		<category><![CDATA[mag 7]]></category>
+		<category><![CDATA[shuttersteps]]></category>
+		<category><![CDATA[sv_maxusrcmdprocessticks]]></category>
+		<category><![CDATA[teurer]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[Update fix]]></category>
+		<category><![CDATA[valve]]></category>
+		<category><![CDATA[Waffenanpassungen]]></category>
+		<category><![CDATA[xm1013]]></category>
+
+		<guid isPermaLink="false">/?p=1460</guid>
+		<description><![CDATA[Shuttersteps gefixt: Seit dem letzten Update mussten die meisten Spieler mit starken Lags innerhalb des Spiels kämpfen. Diese Lags resultierten aus einem Befehle welche im letzten Update released wurde um Speedhacks auf dem Server&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Shuttersteps gefixt:</h3>
+<p>Seit dem letzten Update mussten die meisten Spieler mit starken Lags innerhalb des Spiels kämpfen. Diese Lags resultierten aus einem Befehle welche im letzten Update released wurde um Speedhacks auf dem Server unnutzbar zu machen. Eigentlich ein feiner Zug von Valve, wenn Sie diese Änderungen auch ausreichend getestet worden wären. Wie so oft musste Valve also wieder kurz nach dem Update ein weiteres Update fix veröffentlichen welche die Lags nun unterbindet.</p>
+<p>Darüber hinaus wurden weitere kleine Änderungen durchgeführt, unter anderem die Waffenanpassungen des letzten Updates.</p>
+<h3>Autoshotgun geschwächt, Mag 7 günstiger, Mac10 teurer:</h3>
+<p>Man hat es immer öfter gesehen, selbst in Profispielen der EPS Spring 2013 bzw. ESEA Liga. Die XM1013 (Autoshotgun) richtete viel zu hohen Schaden an und war eine wirklich starke Waffe. Der Druck der Spieler und Community auf Valve wurde immer größer so dass Sie gezwungen waren, den Schaden zu reduzieren.</p>
+<p><strong>Darüber hinaus konkrete Änderungen der Waffen im Update:</strong></p>
+<ul>
+<li>Mag7: Preis reduziert auf 1800$.</li>
+<li>Mac10: Preis erhöht auf 1050$.</li>
+<li>XM1014: Schaden reduziert auf 20.</li>
+</ul>
+<h3>sv_maxusrcmdprocessticks:</h3>
+<p>&#8222;Der Standardwert des neuen Serverbefehls “sv_maxusrcmdprocessticks” wurde von 3 auf 16 erhöht und kommt damit Spielern mit niedriger Tickrate oder wenig Frames entgegen. Diese sollte bei dieser Einstellung nicht mehr unter “Stutterstepping” leiden. Stellt ein Serverbetreiber den Wert aber neidriger ein, kann das Problem natürlich durchaus wieder auftauchen. Behoben wurde auch ein Physikfehler, der Granaten dazu brachte sich im Kreis zu drehen, wenn sie auf bestimmte Arten von Physikobjekten oder Spieler geworfen wurden.&#8220; (ingame.de)</p>
+<p><strong>Hier die Update Changelog vom 9.05.2013:<br /> </strong><br /> [ GAMEPLAY ]<br /> &#8211; Mag7 – reduced cost to 1800.<br /> &#8211; Mac10 – increased price to 1050.<br /> &#8211; XM1014 – reduced damage to 20.<br /> &#8211; Body parts penetration code will not register headshot damage when penetrating into the neck hitbox through the chest hitbox, only chest damage will be dealt in this case.</p>
+<p>[ MAPS ]<br /> &#8211; Updated de_favela to latest version.<br /> &#8211; Fixed some bugs in de_inferno where the player could get stuck on geometry, fixed some minor bugs (Thanks Wλve!).</p>
+<p>[ MISC ]<br /> &#8211; If a player was vote kicked from too many recent competitive games the matchmaking system will assign them a competitive cooldown.<br /> &#8211; Added sever command line support for -net_port_try 1 to prevent servers from trying to climb ports if the request port was busy.<br /> &#8211; Fixed a rare grenade physics interaction that could cause grenades to spin in place when thrown at certain kinds of physics props or players.<br /> &#8211; Adjusted default value of sv_maxusrcmdprocessticks server convar to 16 for community servers with default settings to successfully process all user commands from even lowest tickrate and framerate clients.<br /> &#8211; When going to overtime players who survived in the last round will start with empty inventory even though teams don’t switch sides.<br /> &#8211; Fixed flashbang number not updating on the hud if you had set “close after buy.”</p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/cs-go-update-autoshotgun-geschwacht-mag-7-gunstiger-mac10-teurer-und-shuttersteps-gefixt/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

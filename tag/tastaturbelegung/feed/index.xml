@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tastaturbelegung &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/tastaturbelegung/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>tastaturbelegung &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Tastaturbelegung &#8211; Übersicht (Buyscript)</title>
+		<link>/tastaturbelegung-ubersicht-buyscript/</link>
+		<comments>/tastaturbelegung-ubersicht-buyscript/#comments</comments>
+		<pubDate>Mon, 11 Feb 2013 22:02:56 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Die Config]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[belegung]]></category>
+		<category><![CDATA[binden]]></category>
+		<category><![CDATA[bindung]]></category>
+		<category><![CDATA[Buyscript]]></category>
+		<category><![CDATA[cfg]]></category>
+		<category><![CDATA[Config]]></category>
+		<category><![CDATA[Counter]]></category>
+		<category><![CDATA[cs: go]]></category>
+		<category><![CDATA[Strike]]></category>
+		<category><![CDATA[tastatur]]></category>
+		<category><![CDATA[tastaturbelegung]]></category>
+		<category><![CDATA[übersicht]]></category>
+
+		<guid isPermaLink="false">/?p=847</guid>
+		<description><![CDATA[Hier eine kleine Übersicht, welche Tasten zum &#8222;Binden&#8220; verfügbar sind und wie sie in der Config heißen. Zum Buyscript Tutorial gehts Hier lang.]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Hier eine kleine Übersicht, welche Tasten zum &#8222;Binden&#8220; verfügbar sind und wie sie in der Config heißen.<span id="more-847"></span></p>
+<p><a href="/wp-content/uploads/sites/2/2013/02/cs-tastatur.jpg"><img alt="" src="/wp-content/uploads/sites/2/2013/02/cs-tastatur.jpg" /></a></p>
+<p>Zum Buyscript Tutorial gehts <a href="/csgo-buyscript-tutorial/">Hier </a> lang.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/tastaturbelegung-ubersicht-buyscript/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ct side &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/ct-side/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>ct side &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Keine Waffen auf aim_map und awp_map [Server Guide]</title>
+		<link>/keine-waffen-auf-aim_map-und-awp_map/</link>
+		<comments>/keine-waffen-auf-aim_map-und-awp_map/#comments</comments>
+		<pubDate>Thu, 25 Apr 2013 13:10:41 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[aim_map]]></category>
+		<category><![CDATA[awp_map]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[ct seite]]></category>
+		<category><![CDATA[ct side]]></category>
+		<category><![CDATA[keine waffen]]></category>
+		<category><![CDATA[no placed weapons on server]]></category>
+		<category><![CDATA[no weapon]]></category>
+
+		<guid isPermaLink="false">/?p=1419</guid>
+		<description><![CDATA[Ihr habt das Problem keine Waffen wie M4A1 / AK47 / AWP auf den entsprechenden Maps zu haben? Einige Anfragen erreichten uns in der Vergangenheit mit dem Problem dass auf dem Counter-Strike Global Offensive&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3></h3>
+<h3>Ihr habt das Problem keine Waffen wie M4A1 / AK47 / AWP auf den entsprechenden Maps zu haben?</h3>
+<p>Einige Anfragen erreichten uns in der Vergangenheit mit dem Problem dass auf dem Counter-Strike Global Offensive Server keine Waffen liegen. Das interessante dabei ist dass die Waffen nur auf den aim_map&#8217;s und awp_maps nicht vorhanden waren.</p>
+<h3>Der Grund für dieses Szenario ist, dass  folgende Befehle in einem der letzten Updates nun in CS:GO greifen:</h3>
+<p><strong>mp_roundtime_defuse 1.75</strong><br />
+<strong>mp_weapons_allow_map_placed 1</strong></p>
+<p>Wenn der zweitere Befehl <strong>mp_weapons_allow_map_placed</strong> auf &#8222;0&#8220;  bzw.  nicht vorhanden ist, liegen keine Waffen an den CT und T Spawns.</p>
+<p>Die Befehle findet ihr in euren gamemode_casual&#8230; etc. Dateien. Je nachdem welches gamemode ihr auf eurem Server spielt muss die gamemode_xxx.cfg bearbeitet bzw. mit den Befehlen ergänzt werden.</p>
+<p>Dann sollte es auch wieder mit den Waffen auf den Aim/AWP Maps klappen.</p>
+<p>Anschließend den Server neustarten. (Achtung komplett neu) nicht nur über &#8222;rcon quit&#8220;. Nutzt dafür bitte das entsprechende Gamehoster Interface.</p>
+<p>PS: Sollte es nach den Änderungen weiterhin nicht funktionieren, löscht den Inhalt der gamemode Dateien. Aber ich weise ausdrücklich darauf hin dass ihr NUR DEN INHALT nicht die ganze Datei löscht. Die Datei wird dann beim nächsten Start automatisch erstellt.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/keine-waffen-auf-aim_map-und-awp_map/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

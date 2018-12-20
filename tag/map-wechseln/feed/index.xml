@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>map wechseln &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/map-wechseln/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>map wechseln &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Mapwechsel von Workshop Maps &#8211; Neuer Befehl: changelevel2 [Server]</title>
+		<link>/csgo-mapwechsel-von-workshop-maps-neuer-befehl-changelevel2-server/</link>
+		<comments>/csgo-mapwechsel-von-workshop-maps-neuer-befehl-changelevel2-server/#comments</comments>
+		<pubDate>Mon, 02 Sep 2013 10:51:34 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Plugins]]></category>
+		<category><![CDATA[Server Administration]]></category>
+		<category><![CDATA[_se maps]]></category>
+		<category><![CDATA[administration]]></category>
+		<category><![CDATA[changelevel2]]></category>
+		<category><![CDATA[Map]]></category>
+		<category><![CDATA[map wechseln]]></category>
+		<category><![CDATA[rcon]]></category>
+		<category><![CDATA[Workshop]]></category>
+
+		<guid isPermaLink="false">/?p=1802</guid>
+		<description><![CDATA[Workshop maps auf dem CS:GO Server laden Seit dem letzten Update verzeichnen wir hohen Traffic auf die Suchbegriffe &#8222;Workshop Maps wechseln&#8220;. In der Tat wurde in dem Arms Update von Counter-Strike: Global-Offensive etwas geändert&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Workshop maps auf dem CS:GO Server laden</h3>
+<p>Seit dem letzten Update verzeichnen wir hohen Traffic auf die Suchbegriffe &#8222;Workshop Maps wechseln&#8220;. In der Tat wurde in dem Arms Update von Counter-Strike: Global-Offensive etwas geändert was nun das wechseln der _se maps über den alten Befehl &#8222;host_workshop_map ID&#8220; nicht mehr möglich macht. Der Befehl dient lediglich dazu die _se maps auf den Server zu laden, sprich der CS:GO Server läd sich die Datei aus dem Workshop. Man kann jetzt jedoch vergeblich darauf warten dass diese Map auch geladen wird.</p>
+<p>Absofort müsst ihr den etwas komplizierteren Weg mit changelevel2 gehen.</p>
+<h3>Wir haben euch die Befehle für die aktuellen Workshop-Maps mal als Alias hinterlegt, diese einfach in eure Config.cfg im CS:GO cfg Verzeichnis am Ende einfügen:</h3>
+<p>alias &#8222;dust&#8220; &#8222;rcon changelevel2 workshop125498851de_dust_se&#8220;</p>
+<p>alias &#8222;dust2&#8220; &#8222;rcon changelevel2 workshop125488374de_dust2_se&#8220;<br />
+alias &#8222;inferno&#8220; &#8222;rcon changelevel2 workshop125499116de_inferno_se&#8220;<br />
+alias &#8222;nuke&#8220; &#8222;rcon changelevel2 workshop125498553de_nuke_se&#8220;<br />
+alias &#8222;train&#8220; &#8222;rcon changelevel2 workshop125498231de_train_se&#8220;<br />
+alias &#8222;mirage&#8220; &#8222;rcon changelevel2 workshop123769103de_mirage_ce&#8220;<br />
+alias &#8222;mill&#8220; &#8222;rcon changelevel2 workshop125620805de_mill_&#8220;<br />
+alias &#8222;cache&#8220; &#8222;rcon changelevel2 workshop125670041de_cache&#8220;</p>
+<p>Nun müsst ihr euch nur noch am server mit rcon_password DEM_RCON_PASSWORT anmelden und anschließend für die map de_dust2_se, &#8222;dust2&#8220; in die console eingeben. Die Map wird nun gewechselt.</p>
+<p>Sollte der Server melden dass die Map nicht auf dem Server vorhanden ist, müsst ihr vorher diese mit dem Befehle (hier als Beispiel für de_dust2_se) &#8222;host_workshop_map 1254988651&#8220; eingeben. Der Server gibt dann eine Nachricht aus dass die Map von Steam heruntergeladen wird.</p>
+<p><strong>Oder alternativ direkt über die Console mit: </strong></p>
+<p>rcon changelevel2 workshop125488374de_dust2_se</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-mapwechsel-von-workshop-maps-neuer-befehl-changelevel2-server/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

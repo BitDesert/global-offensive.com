@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>CSGO.exe &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/csgo-exe/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>CSGO.exe &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Fehler: &#8222;app already running&#8220; und  &#8220; This game requires steam&#8220;</title>
+		<link>/csgo-fehler-app-already-running-und-this-game-requires-steam/</link>
+		<comments>/csgo-fehler-app-already-running-und-this-game-requires-steam/#comments</comments>
+		<pubDate>Tue, 05 Feb 2013 13:10:37 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[app already running]]></category>
+		<category><![CDATA[aufgehangen]]></category>
+		<category><![CDATA[CSGO.exe]]></category>
+		<category><![CDATA[error]]></category>
+		<category><![CDATA[failure]]></category>
+		<category><![CDATA[fehler]]></category>
+		<category><![CDATA[Ihr client benötigt ein Update]]></category>
+		<category><![CDATA[starten sie bitte das Spiel neu]]></category>
+		<category><![CDATA[Steam]]></category>
+		<category><![CDATA[taskmanager]]></category>
+		<category><![CDATA[This game requires steam]]></category>
+		<category><![CDATA[Um das Update zu errhalten]]></category>
+		<category><![CDATA[Unable to enumerate user's subscribed maps!]]></category>
+
+		<guid isPermaLink="false">/?p=979</guid>
+		<description><![CDATA[Aufgrund mehrfacher Nachfrage per Email. Diese Meldung erscheint wenn ihr ein Game wie Counter-Strike Global-Offensive.com starten wollt obwohl das Spiel bzw. eine Ausführung der Datei schon geöffnet ist. Die Meldung erscheint außerdem wenn ihr&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Aufgrund mehrfacher Nachfrage per Email. Diese Meldung erscheint wenn ihr ein Game wie Counter-Strike Global-Offensive.com starten wollt obwohl das Spiel bzw. eine Ausführung der Datei schon geöffnet ist. Die Meldung erscheint außerdem wenn ihr das Spiel offensichtlich nicht auf habt es aber noch im &#8222;Task Manager&#8220; von Windows (STR+ALT+ENTF) -&gt; Startmanager starten noch unter Prozesse aufgelistet ist.</p>
+<p>Um das Spiel starten zu können müsst ihr vorher den aktiven Prozess (csgo.exe) im Taskmanager mit einem klick auf &#8222;beenden&#8220; beenden. Nun könnt ihr wieder wie gewohnt das Spiel starten.</p>
+<p>Eine weitere Fehlermeldung ist:<br /> <strong>&#8222;This game requires steam&#8220;</strong>, diese Meldung erscheint öfter mal wenn Ihr auf die CS:GO Verknüpfung z.B. auf dem Desktop oder in der Taskleiste klickt. Die Meldung sagt eigentlich alles aus. Das Spiel kann nur gestartet sein wenn ihr Steam gestartet habt und ihr natürlich eingeloggt seid.</p>
+<p><strong> Unable to enumerate user&#8217;s subscribed maps!</strong> Dies ist ein Problem welches auf fehlende Maps zurück zuführen ist.</p>
+<p>&nbsp;</p>
+<p><strong>&#8222;Ihr client benötigt ein Update. Um das Update zu errhalten, starten sie bitte das Spiel neu.&#8220;</strong> Wie diese Fehlermeldung schon beschreibt, wurde durch Steam ein neues Update released. Wichtig ist dass ihr nun Steam komplett schließt und anschließend CS:GO startet. Das Update sollte sich nun automatisch installieren. Sollte das nicht der Fall sein bleibt vorerst nur die Lösung dass Global Offensive komplett neuinstalliert werden muss. Hierzu bitte in der Bibliothek mit Rechter Maustaste auf CS:GO klicken und &#8222;Aus Spielesammlung entfernen&#8220; anklicken. Im Anschluss CSGO neu laden. Nun seid ihr auf dem aktuellen Stand.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-fehler-app-already-running-und-this-game-requires-steam/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>&#8222;csgo.exe funktioniert nicht mehr&#8220; Fehlerbehebung</title>
+		<link>/csgo-exe-funktioniert-nicht-mehr-fehlerbehebung/</link>
+		<comments>/csgo-exe-funktioniert-nicht-mehr-fehlerbehebung/#comments</comments>
+		<pubDate>Mon, 15 Oct 2012 14:37:18 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Die Config]]></category>
+		<category><![CDATA[Fehlermeldungen]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[Bug]]></category>
+		<category><![CDATA[Counter]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[CSGO.exe]]></category>
+		<category><![CDATA[fehler]]></category>
+		<category><![CDATA[funktioniert]]></category>
+		<category><![CDATA[global]]></category>
+		<category><![CDATA[mehr]]></category>
+		<category><![CDATA[nicht]]></category>
+		<category><![CDATA[Offensive]]></category>
+		<category><![CDATA[setting.mat_queue_mode]]></category>
+		<category><![CDATA[Steam]]></category>
+		<category><![CDATA[Strike]]></category>
+		<category><![CDATA[tier0.dll]]></category>
+		<category><![CDATA[video.txt]]></category>
+
+		<guid isPermaLink="false">/?p=476</guid>
+		<description><![CDATA[** Update:  Seit neustem (Februar 2014) sind auch andere Gründe für den Absturz von CS:GO verantwortlich. Wir haben Sie hier kurz zusammengefasst: Bei einigen Systemen kann es vorkommen, dass das Counter Strike Global Offensive&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p><img class="aligncenter size-full wp-image-477" title="csgo.exe funktioniert nicht mehr" alt="" src="/wp-content/uploads/sites/2/2012/10/funktioniertnichtmehr.jpg" width="556" height="300" srcset="/wp-content/uploads/sites/2/2012/10/funktioniertnichtmehr.jpg 556w, /wp-content/uploads/sites/2/2012/10/funktioniertnichtmehr-300x162.jpg 300w" sizes="(max-width: 556px) 100vw, 556px" /></p>
+<h2></h2>
+<h2>** Update:  Seit neustem (Februar 2014) sind auch andere Gründe für den Absturz von CS:GO verantwortlich. Wir haben Sie hier kurz zusammengefasst:</h2>
+<p>Bei einigen Systemen kann es vorkommen, dass das Counter Strike Global Offensive während des Spielens einfach abstürzt und die Meldung &#8222;<strong>csgo.exe funktioniert nicht mehr</strong>&#8220; erscheint. Unter Umständen erscheint diese Meldung sehr oft und das frustriert natürlich sehr.</p>
+<p>Wenn das  Spiel im Ladebildschirm abschmiert oder der Mapwechsel die Fehlermeldung hervorruft, liegt dies sehr wahrscheinlich an der Preload-Funktion. Die Preload Funktion ist dafür verantwortlich, dass die Map im Voraus geladen wird. Wenn ihr diese Funktion deaktiviert, deaktiviert ihr auch den Fehler &#8211; sprich ihr könnt wie gewohnt spielen.</p>
+<p>Bevor ihr aber groß etwas umstellt, prüft erstmal eure Spieldateien. Das geht über Rechte Maustaste in der Bibliothek auf CS:GO -&gt; Eigenschaften -&gt; Lokale Dateien -&gt; Spieldateien auf Fehler überprüfen.</p>
+<p><a href="/wp-content/uploads/sites/2/2012/10/spieldateien_ueberpruefen.png"><img class="aligncenter size-full wp-image-1838" alt="spieldateien_ueberpruefen" src="/wp-content/uploads/sites/2/2012/10/spieldateien_ueberpruefen.png" width="612" height="397" srcset="/wp-content/uploads/sites/2/2012/10/spieldateien_ueberpruefen.png 612w, /wp-content/uploads/sites/2/2012/10/spieldateien_ueberpruefen-300x195.png 300w" sizes="(max-width: 612px) 100vw, 612px" /></a></p>
+<h4>Sollte das nicht funktionieren, lest weiter:</h4>
+<blockquote>
+<ul>
+<li>Hierfür müsst ihr den Befehl cl_forcepreload 0 in die Startoptionen eingeben. In die Startoptionen kommt ihr wie folgt: Bibliothek -&gt; Rechtsklick auf CS:GO -&gt; Eigenschaften -&gt; Startoptionen festlegen.</li>
+<li>Die zweite Lösung, welche derzeit im Internet kursiert, ist, dass ein Problem der Updateserver der Maps verantwortlich ist. Hierfür das Workshop Maps Abonnement auflösen. Dies geht direkt im Workshop und meine Abonnements.</li>
+</ul>
+</blockquote>
+<p><strong>Bitte ändert in jedem Fall die Startoptionen, diese sollten zur Minimierung des Problems führen:</strong></p>
+<blockquote><p>-32bit -dxlevel 8 -cl_disablehtmlmotd 1 -cl_forcepreload 0</p></blockquote>
+<p><strong>Ein Community Mitglied konnte darüber hinaus den Fehler beseitigen indem er einen älteren Grafiktreiber installiert. Also einfach mal einen älteren Grafikkartentreiber eures Herstellers (ATI, nVidia etc.) installieren. Hierfür müsst ihr den alten Treiber vorher entfernen.</strong></p>
+<h3></h3>
+<h3>Aktuell (23.02.2014) crashed CS:GO ebenfalls mit folgender Meldung in der Debug.log im CS:GO Verzeichnis:</h3>
+<blockquote><p>[0223/142415:ERROR:resource_bundle.cc(417)] <strong>Failed to load C:Program FilesSteamsteamappscommonCounter-Strike Global Offensivebinchrome.pak</strong><br />
+Some features may not be available.<br />
+[0223/142422:ERROR:backend_impl.cc(2123)] Corrupt Index file<br />
+[0223/142422:ERROR:cache_util_win.cc(48)] Unable to move the cache: 5<br />
+[0223/142422:ERROR:backend_impl.cc(134)] Unable to move cache folder<br />
+[0223/142422:ERROR:backend_impl.cc(264)] Unable to create cache</p></blockquote>
+<p><strong> Derzeit können wir das Problem nur eingrenzen. Wir vermuten die Fehlermeldung hängt mit einer Hardware Konstellation zusammen.</strong></p>
+<p>Wir haben bereits viele Tage an Arbeit investiert um das Problem zu analysieren, leider nur mit mäßigen Erfolg.</p>
+<h3>Wir wissen das:</h3>
+<p>[checklist]</p>
+<ul>
+<li>Das Problem nicht an einer Internet Konfiguration liegt. (Problem liegt auch bei auf Handy erstellten Hotspot vor)</li>
+<li>Nicht an der Steam Verbindung liegt (auf anderen Rechner funktioniert es) also nicht an Steam Account liegt</li>
+<li> Das Problem nach einer CS:GO Neuinstallation immer noch besteht.</li>
+<li>Der Steam Support einem NICHT WEITERHELFEN kann, wir haben bereits diverse Tickets aufgemacht und es wird immer darauf hingewiesen &#8222;Das Problem wurde an einen Entwickler weitergeleitet&#8230; von wegen..</li>
+</ul>
+<p>[/checklist]</p>
+<h3>Frühere Möglichkeiten, den Fehler zu beheben (vor März 2013).</h3>
+<p>Nur in Einzelfällen hilft das noch</p>
+<blockquote>
+<div><strong>Wir haben die <em>Lösung</em> gefunden und wollen sie euch nicht vorenthalten. </strong>Der Fehler liegt an den Grafikeinstellung innerhalb der video.txt und kann in wenigen Schritten korrigiert werden.</div>
+<div>
+<ol>
+<li>Öffnet also den folgenden Pfad (jenachdem, wo ihr CS:GO installiert habt, kann der Anfang des Pfades variieren):<strong> </strong><em style="line-height: 1.5em"><strong>SteamSteamAppscommonCounter-Strike Global Offensivecsgocfg</strong> </em>Solltet ihr den Pfad nicht auf Anhieb finden, nutzt am besten die Windows XP/7/8 Suche</li>
+<li>Jetzt öffnet ihr die Datei &#8222;<strong><em>video</em>.txt</strong>&#8222;</li>
+<li> Dann sucht ihr den Befehl &#8222;<strong><em>setting.mat_queue_mode</em></strong>&#8220; . Dahinter befindet sich ein negativer Wert wie &#8222;-1&#8220; oder &#8222;-2&#8220;. Entfernt einfach das Vorzeichen &#8222;-&#8222;, so dass dort nur noch &#8222;<em>setting.mat_queue_mode 1&#8243; steht. S</em>peichert die Datei dann ab.</li>
+<li>CS:GO neustarten und siehe da, der Fehler ist behoben und ihr könnt ohne Fehlermeldung das Spiel genießen.</li>
+</ol>
+</div>
+</blockquote>
+<div></div>
+<div>
+<p>[checklist]</p>
+<ul>
+<li>Solltet ihr einen Fehler rund um die &#8222;tier0.dll&#8220; bekommen, schaut euch diesen Workaround an: <a href="http://www.youtube.com/watch?v=ct2qRYaTIXw">http://www.youtube.com/watch?v=ct2qRYaTIXw</a></li>
+<li> Bitte prüft auch, ob ihr den aktuellsten Videotreiber eurer Grafikkarte verwendet. Nur aktuelle Treiber sind auf CS:GO perfekt abgestimmt.</li>
+</ul>
+<p>[/checklist]</p>
+</div>
+<div><span style="line-height: 1.5em"> </span></div>
+<div>
+<h2>csgo.exe stürzt beim Verbinden zum Server ab</h2>
+<p>Sollte der Fehler erscheinen, wenn ihr auf einen Server verbindet, liegt es an dem Befehl <strong>cl_disablehtmlmotd 0. Ändert diesen in <strong>cl_disablehtmlmotd 1. </strong></strong>Das Problem ist, dass bei manchen CS:GO Clienten die Message of the Day in HTML Probleme verursacht. Viele User berichteten uns, dass der Fehler der MotD der Grund für den Absturz war.</p>
+<p>&nbsp;</p>
+</div>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-exe-funktioniert-nicht-mehr-fehlerbehebung/feed/</wfw:commentRss>
+		<slash:comments>86</slash:comments>
+		</item>
+		<item>
+		<title>Wir sind online!</title>
+		<link>/wir-sind-online/</link>
+		<comments>/wir-sind-online/#respond</comments>
+		<pubDate>Fri, 12 Oct 2012 14:59:48 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Aimbot]]></category>
+		<category><![CDATA[Bugfixes]]></category>
+		<category><![CDATA[Cheat]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[Config]]></category>
+		<category><![CDATA[Counter]]></category>
+		<category><![CDATA[Counterstrike]]></category>
+		<category><![CDATA[crashed]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[CSGO.exe]]></category>
+		<category><![CDATA[ESL]]></category>
+		<category><![CDATA[failed]]></category>
+		<category><![CDATA[Fixing]]></category>
+		<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[global]]></category>
+		<category><![CDATA[Global Offensive]]></category>
+		<category><![CDATA[Hacks]]></category>
+		<category><![CDATA[League]]></category>
+		<category><![CDATA[Offensive]]></category>
+		<category><![CDATA[open]]></category>
+		<category><![CDATA[Steam]]></category>
+		<category><![CDATA[Strike]]></category>
+		<category><![CDATA[Support]]></category>
+		<category><![CDATA[Tactics]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[to]]></category>
+		<category><![CDATA[Tricks]]></category>
+		<category><![CDATA[valve]]></category>
+
+		<guid isPermaLink="false">http://premium-cs.de/wp/?p=36</guid>
+		<description><![CDATA[Herzlich Willkommen auf www.Global-Offensive.com, der Deutschen Online Community in der Ihr in Zukunft allerhand von Beiträgen rund um Counter Strike Global Offensive finden werdet. Neben Bugfixes, Scripten, Tipps, Taktiken, Configs, Aktuellen News, Wallpapers und natürlich&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p style="text-align: justify">Herzlich Willkommen auf www.Global-Offensive.com, der Deutschen Online Community in der Ihr in Zukunft allerhand von Beiträgen rund um Counter Strike Global Offensive finden werdet.</p>
+<p style="text-align: justify">Neben Bugfixes, Scripten, Tipps, Taktiken, Configs, Aktuellen News, Wallpapers und natürlich vielen Gleichgesinnten findet ihr hier vieles Weitere.</p>
+<p style="text-align: justify">Leider befinden wir uns zur Zeit in der Start-Up Phase was bedeutet dass wir mit Hochtouren an dem Content arbeiten.</p>
+<p style="text-align: justify">Bitte wartet noch einige Tage ab und ihr werdet diese Seite nicht wieder erkennen.</p>
+<p style="text-align: justify">Bis dahin alles Gute,</p>
+<p style="text-align: justify">euer Global-Offensive.com Team</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/wir-sind-online/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

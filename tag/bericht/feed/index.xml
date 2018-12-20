@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bericht &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/bericht/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>Bericht &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Chicken Defusal Mod nun im Workshop</title>
+		<link>/csgo-chicken-defusal-mod-nun-im-workshop/</link>
+		<comments>/csgo-chicken-defusal-mod-nun-im-workshop/#respond</comments>
+		<pubDate>Wed, 13 Mar 2013 22:14:24 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Gamerserver]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[Anleitung]]></category>
+		<category><![CDATA[Bericht]]></category>
+		<category><![CDATA[bombe]]></category>
+		<category><![CDATA[Chicken]]></category>
+		<category><![CDATA[chicken defusal mod]]></category>
+		<category><![CDATA[Erfahrungsbericht]]></category>
+		<category><![CDATA[Installation]]></category>
+		<category><![CDATA[Server]]></category>
+
+		<guid isPermaLink="false">/?p=1085</guid>
+		<description><![CDATA[Na da wird ja das Huhn in der Pfanne verrückt!  Seit wenigen Tagen ist nun der Fun Mod &#8222;Chicken Defuse&#8220; im Workshop erhältlich. Diese durchgeknallte Idee stammt aus einem Fun Trailer zu Counter Strike&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Na da wird ja das Huhn in der Pfanne verrückt!  Seit wenigen Tagen ist nun der Fun Mod &#8222;Chicken Defuse&#8220; im Workshop erhältlich. Diese durchgeknallte Idee stammt aus einem Fun Trailer zu Counter Strike Global Offensive und ist nun in zur virtuellen Realität geworden. </p>
+<p>Ursprünglich war Chicken Defusal als SourceMod Plugin gedacht. Leider wurden keinen entsprechenden interessierten Programmierer gefunden und aus diesem Grund ist der Mod nun als eine Map im Workshop erhältlich. Das ist nicht ungewöhnlich, sogar Valve selbst hat mit dem Control Point Mode demonstriert wie Custom Game Modes in Maps aussehen können.</p>
+<p><strong>Hier mal ein Screenshot:</strong></p>
+<p><img class="alignnone" src="http://cloud-2.steampowered.com/ugc/921256173892604227/07E679EF82F937D5D491602891B73CB9E87E6700/637x358.resizedimage" alt="" width="637" height="358" /></p>
+<p>Konkret heißt das:</p>
+<p>Bei Chicken Defusal befindet sich bei Rundenstart  die Bombe auf dem Rücken eines Huhns. Das Huhn läuft wie wild die ganze Zeit durch die Map und muss erstmal gefunden werden. Ihr habt dann die Möglichkeit die Bombe zu entschärfen, dieses klappt allerdings nur mit gutem Teamplay und Backup durch die Mitspieler.</p>
+<p>Im Steam Workshop heißt die map cd_barn und findet wie soll es auch anderes sein in einer Scheune statt. Wir finden die Map wurde sehr gut realisiert.. viel Stroh und Trecker&#8230;. (das cd_ beim Mapnamen steht übrigens für chicken defusal).</p>
+<p>Der Mapbuilder hat schon bestätigt dass es in Zukunft weitere Chicken Defusal Maps geben wird. </p>
+<p>Also nichts wie los und probiert die map aus.</p>
+<p>Die Map id  für cd_barn ist: 130926160</p>
+<p>Um die Map im Workshop zu starten tippt per RCON folgenden Befehl in die Console ein:</p>
+<p><strong>host_workshop_map 130926160</strong></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-chicken-defusal-mod-nun-im-workshop/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

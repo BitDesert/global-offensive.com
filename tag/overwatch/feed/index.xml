@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>overwatch &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/overwatch/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>overwatch &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Items Workshop / Eigene Waffenskins in Steam erstellen / Anleitung</title>
+		<link>/csgo-items-workshop-eigene-waffenskins-in-steam-erstellen-anleitung/</link>
+		<comments>/csgo-items-workshop-eigene-waffenskins-in-steam-erstellen-anleitung/#comments</comments>
+		<pubDate>Wed, 13 Nov 2013 13:09:19 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[earn money]]></category>
+		<category><![CDATA[editor]]></category>
+		<category><![CDATA[finishes]]></category>
+		<category><![CDATA[overwatch]]></category>
+		<category><![CDATA[skins]]></category>
+		<category><![CDATA[tool]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[workbench]]></category>
+
+		<guid isPermaLink="false">/?p=1816</guid>
+		<description><![CDATA[Die Counter-Strike: Global Offensive (CS:GO) Workbench ist da!  Jetzt kann jeder seine eigenen Skins oder auch von valve finishes genannt Workshop zu laden! Darüber hinaus bestätigte Valve dass die Skins auch in potentiellen Waffen&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Die Counter-Strike: Global Offensive (CS:GO) Workbench ist da!  Jetzt kann jeder seine eigenen Skins oder auch von valve finishes genannt Workshop zu laden! Darüber hinaus bestätigte Valve dass die Skins auch in potentiellen Waffen Packs erscheinen sprich integriert werden.</p>
+<p><strong>Vorweg einige Kurzlinks:</strong></p>
+<p>&#8211; Die <a title="CS:GO Workshop" href="http://steamcommunity.com/workshop/browse/?appid=730&amp;section=mtxitems" target="_blank">Item Sektion</a> von Steam &#8211; Hier könnt ihr euch die Skins anschauen.<br />
+&#8211; Die <a title="Counter-Strike Blog" href="http://blog.counter-strike.net/workshop/finishes/" target="_blank">Tutorials</a> also die Anleitungen von Valve bieten euch die Möglichkeit, eigene Skins für CS:GO zu erstellen.</p>
+<p><strong> CS:GO Workbench Skins – Eigenkreationen</strong></p>
+<p>Valve stellt euch mit der CS:GO Workbench ein mächtiges Tool zu Verfügung. Der Counter-Strike Entwickler schreibt auf seinem offiziellen Blog, dass versucht wurde die verschiedenen Techniken des “Waffeneinfärbens” für das neue Werkzeug von Anfang an zur Verfügung zu stellen. Ihr könnt hier direkt und ohne Vorkenntnisse einsteigen und loslegen. Durch die vielen bereitgestellten Einstellmöglichkeiten könnt ihr schon tolle Skins – oder Finishes – erstellen. Und wem das noch nicht reicht, der kann auch mit einem externen Programm erstellte Skins direkt importieren.</p>
+<p><img alt="cs go workbench tool" src="http://cs.ingame.de/files/2013/10/csgo-workbench-tool.jpg" width="542" height="342" /></p>
+<p>Die Workbench kann man im Spiel selbst öffnen. Dazu muss man die <a title="Konsole aktivieren" href="http://cs.ingame.de/tipps-tricks/csgo-konsole-aktivieren/" target="_blank">Entwicklerkonsole</a> aktiviert haben. In diese gibt man einfach den Befehl “workshop_workbench” ein und schon öffnet sich das Tool. Empfohlen wird eine Aufklösung von mindestens 1024×768, damit das Fenster richtig dargestellt wird.</p>
+<p>Hochladen kann man die selbsterstellten Waffen Skins dann über das CS:GO SDK, dort gibt es nun den “Workshop Weapon Finish Publisher” der so funktioniert wie der <a title="Mapping Forum" href="http://cs.ingame.de/forum/showthread.php?t=17489" target="_blank">Map Publisher</a>.</p>
+<p>Wer richtig gut ist und viel positives Feedback von der Community bekommt, der hat die Chance, dass sein Skin irgendwann mit einem Update offiziell ins Spiel integriert wird.</p>
+<blockquote><p>Create a finish and apply it to a weapon. Submit your finished weapon to the CS:GO Workshop. Better yet, create a collection of finished weapons. Get enough positive votes from the community and we’ll consider your work for inclusion in an official update.</p></blockquote>
+<h3></h3>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-items-workshop-eigene-waffenskins-in-steam-erstellen-anleitung/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Update &#8211; Viele kleine Änderungen, Bombenplant, Genauigkeit, Watch-Menü, und und und&#8230;</title>
+		<link>/csgo-update-viele-kleine-anderungen-bombenplant-genauigkeit-watch-menu-und-und-und/</link>
+		<comments>/csgo-update-viele-kleine-anderungen-bombenplant-genauigkeit-watch-menu-und-und-und/#respond</comments>
+		<pubDate>Sat, 26 Oct 2013 10:08:19 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[bombenplant]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[overwatch]]></category>
+		<category><![CDATA[spectator]]></category>
+		<category><![CDATA[updates]]></category>
+		<category><![CDATA[watch]]></category>
+
+		<guid isPermaLink="false">/?p=1812</guid>
+		<description><![CDATA[In der vergangenen Nacht wurde wieder mal ein Update von Valve eingespielt, was eine Neuerung mit sich bringt. Durch das eingeführte WATCH-Menü kann man nun bei &#8218;highly-ranked&#8216; Pro-Spielern zuschauen, wie sie gerade Matchmaking spielen.&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>In der vergangenen Nacht wurde wieder mal ein Update von Valve eingespielt, was eine Neuerung mit sich bringt. Durch das eingeführte WATCH-Menü kann man nun bei &#8218;highly-ranked&#8216; Pro-Spielern zuschauen, wie sie gerade Matchmaking spielen. Zudem gibt es eine Match-History, sowie das Herunterladen von Demos der Spiele und das neu erschienene &#8218;GOTV Theater&#8216;, was es ermöglicht Spiele anzuschauen, ähnlich wie GOTV.</p>
+<p>Ein weiterer wichtiger Punkt ist die Verbesserung der Genauigkeit im Burst der Glock und Famas. Ebenfalls wurden Anpassungen am Bombenplant vorgenommen, dass man nun nach einem Plant weiterhin in der Hocke bleiben kann und nicht automatisch aufsteht. Hier bedankt man sich bei NiP-Spieler Adam &#8218;<a href="http://csgo.99damage.de/de/edb/player/2699-friberg" target="_blank">friberg</a>&#8218; Friberg. Ansonsten ist die Liste des Updates mit weiteren kleinen Bugfixes, vor allem am Spectator-Overlay, relativ kurz. Als wichtiges Detail am Rand wurde der Equipment Value gefixt und wechselt nun auch nach der Halbzeit die Seite.</p>
+<p><img alt="" src="http://store.cdn.gamesports.net/29000/29111.jpg" /></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-update-viele-kleine-anderungen-bombenplant-genauigkeit-watch-menu-und-und-und/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Update: Leichte Waffenanpassungen, Overwatch verbessert und Matchmaking optimiert.</title>
+		<link>/csgo-update-leichte-waffenanpassungen-overwatch-verbessert-und-matchmaking-optimiert/</link>
+		<comments>/csgo-update-leichte-waffenanpassungen-overwatch-verbessert-und-matchmaking-optimiert/#comments</comments>
+		<pubDate>Mon, 01 Jul 2013 18:46:09 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Overwatch]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[aug]]></category>
+		<category><![CDATA[ban]]></category>
+		<category><![CDATA[kick vote]]></category>
+		<category><![CDATA[matchmaking]]></category>
+		<category><![CDATA[overwatch]]></category>
+		<category><![CDATA[waffen]]></category>
+
+		<guid isPermaLink="false">/?p=1702</guid>
+		<description><![CDATA[Mal wieder ein weiteres Counter-Strike: Global Offensive (CS:GO) Update.  Es wurde an den Waffenverhalt von der  AUG und der SG553 gearbeitet, de_mirage wurde von Bugs befreit, Overwatch verbessert und am wichtigsten: das Kick Vote&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Mal wieder ein weiteres Counter-Strike: Global Offensive (CS:GO) Update.  Es wurde an den Waffenverhalt von der  AUG und der SG553 gearbeitet, de_mirage wurde von Bugs befreit, Overwatch verbessert und am wichtigsten: das Kick Vote im Matchmaking wurde entschärft und ist jetzt weniger anfällig für Missbrauch.</p>
+<h3>Hybrid-Waffen: AUG &amp; SG553</h3>
+<p>In der letzten Woche wurden diese Waffen wie erwähnt schon verbessert. Jetzt wurde wieder etwas verändert, leider wird in der Release Log nicht weiter drauf eingegangen.</p>
+<h3>Map Fixes</h3>
+<p>Auf der Map de_vertigo gab es das Problem, dass die Bombenplätze A und B. (Die Posis waren vertauscht).  Dieses wurde gefixt.</p>
+<h3>Kick Vote</h3>
+<p>Die Kick Vote Funktion wäre ja eigentlich eine tolle Sache, wenn sie nicht von so vielen Spielern missbraucht werden würde. Die Beschwerden über ungerechte und den Spielern schadende Kicks häuften sich in letzter Zeit, da mittlerweile auch temporäre Matchmaking Bans bei zu vielen Kicks verhängt werden. Deshalb war es für Valve Zeit zu reagieren.</p>
+<p>Bekommt ein Spieler einen Cooldown, weil er aus zu vielen Matches gekickt wurde, dann passt sich dieser nun dem aktuellen Straflevel des Spielers an. Die erste Stufe sind nur 30 Minuten, dann 2 Stunden, 24 Stunden und die höchste Stufe sind 7 Tage. Pro Woche ohne neues Vergehen, geht das Straflevel um eine Stufe zurück.</p>
+<p>Sehr erfreulich ist folgende Änderung: Begibt sich ein Spieler allein ins Matchmaking und wird dabei von einem Team aus vier zusammengehörigen Spielern gekickt, kann das nicht in einem Cooldown resultieren. In der Vergangenheit fanden es “besonders lustige Spieler” nämlich witzig, wenn sie kurz vor Ende des Matches das fünfte Teammitglied kicken und ihm damit schaden. Von solchen Aktionen tragen betroffene Spieler nun also keinen Schaden mehr in Form eines Matchmaking Bans davon.</p>
+<p>Bekommt man einen temporären Bann, weil man zu oft gekickt wurde, dann wird das jetzt sofort im Hauptmenü angezeigt und nicht mehr erst nach Ende des Matches.</p>
+<h3>Sonstiges</h3>
+<p>Overwatch macht weiter Fortschritte: Das System, das die Testfälle zum Überprüfen des Urteilvermögens der Spieler verteilt, wurde verbessert.</p>
+<p>Außerdem gibt es mit “sv_vote_issue_kick_allowed” und “sv_vote_kick_ban_duration” zwei neue Serverbefehle. Mit dem Konsolenbefehl “cl_interpolate” ist es von nun an möglich die Interpolation beim Anschauen von Demos oder auf Listen Servern auszuschalten. Unabhängig von dieser Einstellung ist die Interpolation auf Dedicated Servern immer aktiv. Und die <a title="CS:GO Grenade Trajectory" href="http://cs.ingame.de/tipps-tricks/csgo-grenade-trajectory/" target="_blank">Flugbahn von Granaten</a> kann man sich nun auch im Spectator Mode anzeigen lassen. Mit “sv_grenade_trajectory_time_spectator 1″ schaltet man sie für den Zuschauermodus an.</p>
+<p><a href="http://cs.ingame.de/files/2013/06/csgo-grenade-trajectory-04.jpg" rel="shadowbox[sbpost-25120];player=img;"><img alt="cs go grenade trajectory" src="http://cs.ingame.de/files/2013/06/csgo-grenade-trajectory-04-296x185.jpg" width="296" height="185" /></a></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-update-leichte-waffenanpassungen-overwatch-verbessert-und-matchmaking-optimiert/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Mini-Update: Mehr Prüfer für Overwatch und Crosshair Änderungen vorgenommen</title>
+		<link>/csgo-mini-update-mehr-prufer-fur-overwatch-und-crosshair-anderungen-vorgenommen/</link>
+		<comments>/csgo-mini-update-mehr-prufer-fur-overwatch-und-crosshair-anderungen-vorgenommen/#respond</comments>
+		<pubDate>Thu, 06 Jun 2013 18:34:16 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Overwatch]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[ausgeschlossen]]></category>
+		<category><![CDATA[classic]]></category>
+		<category><![CDATA[crosshair]]></category>
+		<category><![CDATA[crosshaur]]></category>
+		<category><![CDATA[gebannt]]></category>
+		<category><![CDATA[Investigators]]></category>
+		<category><![CDATA[klassisch]]></category>
+		<category><![CDATA[Match making]]></category>
+		<category><![CDATA[overwatch]]></category>
+		<category><![CDATA[prüfer]]></category>
+		<category><![CDATA[update]]></category>
+
+		<guid isPermaLink="false">/?p=1653</guid>
+		<description><![CDATA[Weitere Overwatch Prüfer&#8230; In der vergangenen Nacht wurde ein weiteres Update durch Valve veröffentlicht. Counter-Strike: Global-Offensive (CS:GO) und das damit verbundene Overwatch hat nun weitere Prüfer bekommen. Bist du vielleicht auch dabei?  Wenn du&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Weitere Overwatch Prüfer&#8230;</h3>
+<p>In der vergangenen Nacht wurde ein weiteres Update durch Valve veröffentlicht. Counter-Strike: Global-Offensive (CS:GO) und das damit verbundene Overwatch hat nun weitere Prüfer bekommen. Bist du vielleicht auch dabei?  Wenn du mehr als 100 gespielte Competitive Matches gespielt hast, ist die Wahrscheinlichkeit gar nicht mal so gering.</p>
+<h3>Crosshair Änderungen</h3>
+<p>Darüber hinaus wurden weitere Änderungen an dem klassischen Crosshair durchgeführt. Wer das alte (klassische) Crosshair verwendet (cl_crosshairstyle 4) wird nun beim Waffenwechsel nicht mehr die nervende in der Größe verändernde Lück finden. Das Crosshair mit seinem &#8222;Lücken&#8220; ist nun statisch beim Waffenwechsel.</p>
+<p>Sonst war nichts weiteres in dem knapp 9 MB großen Update implementiert.</p>
+<p>&nbsp;</p>
+<p>Hier noch die Changelog:</p>
+<p>[ OVERWATCH ]<br />
+&#8211; Added more investigators to the Overwatch Beta.</p>
+<p>[ MISC ]<br />
+&#8211; Added an explanation for no binary signature validation for clients running in -insecure mode.<br />
+&#8211; Fixed an exploit where clients could bypass network convar restrictions using setinfo.<br />
+&#8211; The crosshair gap size will no longer change when switching weapons while using “Classic Static” (cl_crosshairstyle 4) — other crosshair styles are unaffected.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-mini-update-mehr-prufer-fur-overwatch-und-crosshair-anderungen-vorgenommen/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS: GO Was ist Overwatch? Wie sieht es aus? Wie funktioniert es? [Video]</title>
+		<link>/cs-go-was-ist-overwatch-wie-sieht-es-aus-wie-funktioniert-es-video/</link>
+		<comments>/cs-go-was-ist-overwatch-wie-sieht-es-aus-wie-funktioniert-es-video/#respond</comments>
+		<pubDate>Sat, 01 Jun 2013 14:50:56 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Overwatch]]></category>
+		<category><![CDATA[beta]]></category>
+		<category><![CDATA[overwatch]]></category>
+		<category><![CDATA[prüfer]]></category>
+		<category><![CDATA[teilnehmen]]></category>
+
+		<guid isPermaLink="false">/?p=1612</guid>
+		<description><![CDATA[Beim Durchforschen der üblichen Counter-Strike: Global-Offensive (CS:GO) Webseiten und Youtube Videos, sind wir auf ein interessantes Video gestoßen. In diesem Video zeigt euch der User Spade, wie Overwatch aussieht und genutzt wird. Es ist&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Beim Durchforschen der üblichen Counter-Strike: Global-Offensive (CS:GO) Webseiten und Youtube Videos, sind wir auf ein interessantes Video gestoßen. In diesem Video zeigt euch der User Spade, wie Overwatch aussieht und genutzt wird. Es ist eigentlich ziemlich einfach und wir glauben wenn man selber das Glück hat, Overwatch Prüfer zu werden, macht es auch Spaß die 5-10 Minuten Zeit zu opfern um Cheater an die Wand zu stellen.</p>
+<p>Hier schaut es euch selber an:</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/cs-go-was-ist-overwatch-wie-sieht-es-aus-wie-funktioniert-es-video/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Kleines CS: GO Update &#8211; Overwatch und Netsettings zum Teil Ingame nicht mehr änderbar!</title>
+		<link>/kleines-cs-go-update-overwatch-und-netsettings-zum-teil-ingame-nicht-mehr-anderbar/</link>
+		<comments>/kleines-cs-go-update-overwatch-und-netsettings-zum-teil-ingame-nicht-mehr-anderbar/#respond</comments>
+		<pubDate>Thu, 30 May 2013 16:12:26 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Overwatch]]></category>
+		<category><![CDATA[.dll]]></category>
+		<category><![CDATA[Investigators]]></category>
+		<category><![CDATA[NIP]]></category>
+		<category><![CDATA[overwatch]]></category>
+		<category><![CDATA[prüfer]]></category>
+		<category><![CDATA[sv_kick_players_with_cooldown]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[vac]]></category>
+		<category><![CDATA[valve anti cheat]]></category>
+
+		<guid isPermaLink="false">/?p=1595</guid>
+		<description><![CDATA[Kleine Änderungen Heute Nacht wurde wie schon wie in den einschlägigen Foren bekannt gegeben, ein weiteres kleines Counter-Strike: Global-Offensive Update veröffentlicht. Im wesentlichen wurden nur kleinere Verbesserungen unter anderem an dem neuen Overwatch vorgenommen.&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Kleine Änderungen</h3>
+<p>Heute Nacht wurde wie schon wie in den einschlägigen Foren bekannt gegeben, ein weiteres kleines Counter-Strike: Global-Offensive Update veröffentlicht. Im wesentlichen wurden nur kleinere Verbesserungen unter anderem an dem neuen Overwatch vorgenommen. Overwatch ist laut den Update Notes in den letzten Zügen das es komplett aus der Beta Phase in die finale Phase springt. Darüber hinaus wurden einige Dinge wie Netsettings nun im Spiel fixiert. Dies bedeutet, dass während des Spielens die Netsettings nicht mehr änderbar sind. Die Befehle wie cl_updaterate und &amp; cl_cmdrate fallen mitunter in diese Änderungen.</p>
+<h3>Die Overwatch Änderungen:</h3>
+<ul>
+<li><span style="line-height: 13px">Die Overwatch Prüfer bekommen nun die Stats wie Kills, Assists und Deaths hervorgehoben angezeigt, der Name des Cheat-Verdächtigen ist nach wie vor nur &#8222;The Subject&#8220;</span></li>
+<li>Serverbetreiber haben die Möglichkeit mit dem Befehl sv_kick_players_with_cooldown die Möglichkeit, gebannte Spieler zu erlauben, auf den Server zu verbinden.</li>
+</ul>
+<h3>Wie sicher ist Overwatch?</h3>
+<p>Das hat Valve anhand von einigen Demos testweise ausgespielt, hier wurden Demos von Profispielern wie unter anderem NIP zur Prüfung freigegeben, und die Ergebnisse waren alle einstimmig: Kein Cheat Verdacht. Inwiefern das auch der Realität entspricht, bleibt weiter offen.</p>
+<p>Darüber hinaus werden Signaturen von DLL-Dateien des Spiels oder von Plugins nun zwangsweise überprüft. Startet man CS:GO mit veränderten DLL-Dateien wird man darüber informiert und man kann nicht mehr zu VAC-geschützten Servern verbinden, um zu verhindern, dass man einen Bann bekommt.</p>
+<h3>CS:GO Dll Fehler:</h3>
+<p>Sollten DLL Dateien bearbeitet oder nicht original sein, erhält der Spieler folgende Meldung: &#8222;Some of your game files have been detected to have no signatures or invalid signatures. You cannot play Classic Competitive mode, because you are not allow to join VAC secure Server.&#8220;</p>
+<p>Als schönes Fix ist auch zu nennen, dass nun der Fehler behoben wurde, dass wenn die Verbindung im Matchmaking unterbrochen wurde, man nicht in der selben Runde spawnen kann.  Absofort können also Spieler welche den Zwangsdisconnect oder einen csgo.exe Absturz hatten, problemlos wieder in die Runde joinen.</p>
+<p>Solltet ihr das Problem haben, erneuert eure Game files wie hier auf dem Screenshot zu sehen:</p>
+<div style="width: 627px" class="wp-caption alignnone"><img alt="" src="http://i.imgur.com/TQCQic6.png" width="617" height="400" /><p class="wp-caption-text">Some of your game files have been detected to have no signatures or invalid signatures. You cannot play Classic Competitive mode, because you are not allow to join VAC secure Server.</p></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/kleines-cs-go-update-overwatch-und-netsettings-zum-teil-ingame-nicht-mehr-anderbar/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Die ersten &#8222;Overwatch&#8220; Bans wurde erteilt.</title>
+		<link>/cs-go-die-ersten-overwatch-bans-wurde-erteilt/</link>
+		<comments>/cs-go-die-ersten-overwatch-bans-wurde-erteilt/#comments</comments>
+		<pubDate>Mon, 27 May 2013 21:47:35 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Overwatch]]></category>
+		<category><![CDATA[ausgeschlossen]]></category>
+		<category><![CDATA[banned]]></category>
+		<category><![CDATA[cheater]]></category>
+		<category><![CDATA[gebannt]]></category>
+		<category><![CDATA[overwatch]]></category>
+		<category><![CDATA[screenshot]]></category>
+		<category><![CDATA[Sperre]]></category>
+		<category><![CDATA[violation cooldown]]></category>
+
+		<guid isPermaLink="false">/?p=1578</guid>
+		<description><![CDATA[Vor wenigen Tagen haben wir erst über das neue Overwatch und die Beta Phase gesprochen. Wir haben einen Screenshot entdeckt welcher zeigt dass ein Spieler welcher aktiv am Matchmaking beteiligt war, durch viele Beschwerden&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Vor wenigen Tagen haben wir erst über das neue Overwatch und die Beta Phase gesprochen. Wir haben einen Screenshot entdeckt welcher zeigt dass ein Spieler welcher aktiv am Matchmaking beteiligt war, durch viele Beschwerden und letz endlich durch einen Prüfer gebannt wurde. Dieser Ban bedeutet nicht dass er von VAC Valve Anti Cheat detected wurde, sondern dass er für genau 1 Jahr vom Spiel ausgeschlossen wurde.</p>
+<p>Es wird es wird liebe Leute <img src="https://s.w.org/images/core/emoji/11/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Bleibt nur zu hoffen dass sich Overwatch weiterhin durchsetzt.</p>
+<p><a href="/wp-content/uploads/sites/2/2013/05/overwatch_bust.jpg"><img class="aligncenter size-full wp-image-1579" alt="overwatch cheater" src="/wp-content/uploads/sites/2/2013/05/overwatch_bust.jpg" width="1024" height="768" srcset="/wp-content/uploads/sites/2/2013/05/overwatch_bust.jpg 1024w, /wp-content/uploads/sites/2/2013/05/overwatch_bust-300x225.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<p>Wie wir gerade gelesen haben, gibt es wohl viele Beschwerden dass Spieler zu unrecht gebannt worden sind. Hier der Steam Diskussions Beitrag: <a href="http://steamcommunity.com/app/730/discussions/0">http://steamcommunity.com/app/730/discussions/0</a></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/cs-go-die-ersten-overwatch-bans-wurde-erteilt/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>CS: GO Neues Anticheat Tool Overwatch in Beta Phase! Fragen und Antworten! Teilnehmen!</title>
+		<link>/cs-go-neues-anticheat-tool-overwatch-in-beta-phase/</link>
+		<comments>/cs-go-neues-anticheat-tool-overwatch-in-beta-phase/#respond</comments>
+		<pubDate>Fri, 24 May 2013 23:17:50 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Overwatch]]></category>
+		<category><![CDATA[aimbit]]></category>
+		<category><![CDATA[Aimbot]]></category>
+		<category><![CDATA[anti cheat]]></category>
+		<category><![CDATA[beta]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[esp]]></category>
+		<category><![CDATA[faq]]></category>
+		<category><![CDATA[fragen]]></category>
+		<category><![CDATA[how to]]></category>
+		<category><![CDATA[Organner]]></category>
+		<category><![CDATA[orpfer]]></category>
+		<category><![CDATA[overwatch]]></category>
+		<category><![CDATA[phase]]></category>
+		<category><![CDATA[was ist overwatch]]></category>
+
+		<guid isPermaLink="false">/?p=1529</guid>
+		<description><![CDATA[Neues Anticheat? Vor wenigen Tagen wurde ein kleines Update zu Counter-Strike Global-Offensive herausgebracht. In diesem Update wurde in der Changelog unter anderem das sogenannte &#8222;Overwatch&#8220; angesprochen. Viele haben sich wohl gedacht dass es nicht&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p><img class="aligncenter" alt="" src="http://cf.shacknews.com/images/20110826/csgo_screenshot8_19183.nphd.jpg" width="620" height="332" /></p>
+<h3>Neues Anticheat?</h3>
+<p>Vor wenigen Tagen wurde ein kleines Update zu Counter-Strike Global-Offensive herausgebracht. In diesem Update wurde in der Changelog unter anderem das sogenannte &#8222;Overwatch&#8220; angesprochen. Viele haben sich wohl gedacht dass es nicht wichtiges sein wird oder haben es direkt überlesen.</p>
+<p>Aber dennoch, mit Overwatch hat Valve ein neues System eingeführt, das gegen betrügende und negativ auffallende Spieler helfen soll. Die Idee dahinter ist, dass die Community in die Rolle der Richter schlüpft und zukünftig den Hammer schwingt. Overwatch befindet sich vorerst in der Beta, wir haben aber alle Informationen dazu füreuch bereits zusammengetragen.</p>
+<h3>Wie funktioniert Overwatch?</h3>
+<p>Overwatch baut auf: &#8222;Spieler beurteilen Spieler&#8220;.  Sind Meldungen über einen Spieler vorhanden, die den Durchschnitt übertreffen, dann wird durch Overwatch automatisch ein Fall eröffnet der dann von einem gewählten Prüfer bearbeitet wird. Anhand von Replays wird der Fall entsprechend begutachtet. Kommt es zu einem eindeutigen Schuldspruch der teilnehmenden Prüfer, dann wird der beschuldigte Spieler mit einem temporären Bann bestraft.</p>
+<p>Wer jetzt denkt, dass dieses System einfach missbraucht werden kann, dem sei gesagt, dass das ganze natürlich durchdacht ist und noch mehr dahinter steckt. Die Prüfer werden unter bestimmten Voraussetzungen ausgesucht und nach ihrem Urteilsvermögen eingestuft. Wie genau das funktioniert, haben wir in einem ausführlichen Artikel für euch niedergeschrieben. Darauf solltet ihr auf jeden Fall einen Blick werfen, wenn ihr euch genauer über das neue Overwatch System informieren wollt.</p>
+<h3>Hier die FAQ zu Overwatch übersetzt von cs.ingame.de</h3>
+<h3><span style="font-size: 1em">Was ist Overwatch?</span></h3>
+<p>Overwatch lässt die CS:GO Community sich selbst regulieren, indem qualifizierten und erfahrenen Mitgliedern der Community (“Prüfer”) ermöglicht wird Meldungen von störendem Verhalten zu überprüfen, um zu entscheiden, ob diese Meldungen berechtigt sind und einen temporären Bann zu verhängen, falls es angemessen ist.</p>
+<h4>Wie funktioniert Overwatch?</h4>
+<p>Potentielle Overwatch Prüfer werden mit einem aktiven Overwatch Button im Hauptmenü ausgestattet, der anzeigt, dass es einen ausstehenden Fall zu bewerten gibt. Die Prüfer können sich dann dazu entscheiden teilzunehmen, indem sie ein Replay ansehen (acht Runden oder ungefähr zehn Minuten) und ein Urteil fällen.</p>
+<h4>Wie werden Prüfer ausgewählt?</h4>
+<p>Prüfer werden ausgewählt basierend auf ihrer Aktivität in CS:GO (Competitive Siege, Alter des Accounts, Spielstunden, Skill Group, niedrige Reportrate usw.) und falls zutreffend vorheriger Overwatch Teilnahme und Punktzahl (ein Resultat ihrer Genauigkeit als Prüfer). Community Mitglieder, die sowohl ein hohes Maß an Aktivität als auch eine hohe Overwatch Punktzahl aufweisen, erhalten mehr Fälle an denen sie teilnehmen können.</p>
+<h4>Welches Beweismaterial ist für Prüfer verfügbar?</h4>
+<p>Prüfer werden mit einem zufällig ausgewählten Acht-Runden-Segment vom Match eines beschuldigten Spielers ausgestattet und ihre Aufgabe ist es zu entscheiden, ob dieser Spieler während dem Replay ein Vergehen begangen hat oder nicht. Der Verdächtige wird als “The Suspect” gekennzeichnet und die Namen der anderen Spieler wurden ersetzt. Sämtlicher Text- und Voice-Chat wurde weggelassen. Vom Prüfer wird erwartet, dass er eine Entscheidung trifft, die einzig und allein auf den Aktionen des Verdächtigen beruht.</p>
+<h4>Wie kommt es dazu, dass ein Spieler von Overwatch geprüft wird?</h4>
+<p>Das System enthält Replays von Spielern, dessen Muster von Meldungen die von seinesgleichen übersteigt oder sich auf andere Art davon abhebt. Das kann eine plötzliche Spitze von Meldungen sein oder es können sich über eine längere Zeit viele Meldungen gesammelt haben. Zusätzlich kann ein Spieler in einem Testfall auftauchen, der zuvor als “Nicht schuldig” abgeschlossen wurde. Diese werden zufällig eingeschleust und nur dazu verwendet, um dem System zu helfen die Prüfer zu bewerten (das Urteil in Testfällen hat keine Auswirkung auf den Verdächtigen).</p>
+<h4>Was sind mögliche Urteile?</h4>
+<p>Die möglichen Urteile sind “Majorly Disruptive (cheating)” (Schweres Vergehen – Cheating), “Minorly Disruptive (griefing)” (Leichtes Vergehen – Spielbehinderung) und “Insufficent Evidence” (Ungenügende Beweise). Außerdem kann ein Prüfer ein Replay verschieben und es später neustarten ohne eine Entscheidung zu fällen.</p>
+<h4>Was passiert am Ende eines Falles?</h4>
+<p>Wenn das System feststellt, dass sich die gemeinsame Beurteilung der Prüfer einem überwiegenden Urteil nähert, dann wird der Fall geschlossen und alle Entscheidungen, die getroffen wurden, ergeben das finale Urteil. Wenn die Beurteilungen überwiegend “Ungenügende Beweise” ergeben oder ergebnislos sind, dann wird der Fall abgewiesen.</p>
+<h4>Kann ein Prüfer mit seiner Entscheidung mehr Gewicht haben als ein anderer?</h4>
+<p>Ja. Ein Urteil eines höher eingestuften Prüfers wird mehr Gewicht haben als das eines niedriger eingestuften Prüfers.</p>
+<h4>Wie werden Prüfer bewertet?</h4>
+<p>Die Overwatch Punktzahl spiegelt die Fähigkeit eines Prüfers wieder stetig und richtig die Fälle zu beurteilen die er überprüft, sowohl in echten als auch in Testfällen. Prüfer bekommen Punkte, wenn sie mit der Mehrheit der Urteile anderer Prüfer beim gleichen Replay übereinstimmen und verlieren Punkte, wenn sie zur Minderheit gehören. Die daraus resultierende Veränderung der Punktzahl ist größer, wenn die meisten Prüfer übereinstimmen und kleiner, wenn sie nicht übereinstimmen. Wegen den gelegentlich eingefügten Testfällen ist die einzige Möglichkeit seine Overwatch Punktzahl zu erhöhen, sich das komplette Review gründlich anzusehen und ein fundiertes und genaues Urteil über das vorliegende Beweismaterial zu treffen.</p>
+<h4>Was passiert während der Beta?</h4>
+<p>Während der Beta wird das System weniger Fälle herausgeben und die Ergebnisse werden überprüft und analysiert bevor irgendwelche Bans erteilt werden. Das System wird in Sachen Verlässlichkeit und Genauigkeit angepasst. Umso mehr das System eingestellt wird, desto mehr Fälle werden zum prüfen an immer mehr potentielle Prüfer verteilt und irgendwann wird das System von der Community betrieben.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/cs-go-neues-anticheat-tool-overwatch-in-beta-phase/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Kommentare zu: Workshop &#8211; Map ID finden</title>
+	<atom:link href="/workshop-map-id-finden/feed/" rel="self" type="application/rss+xml" />
+	<link>/workshop-map-id-finden/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 14 Nov 2017 21:13:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<item>
+		<title>Von: Duke2011</title>
+		<link>/workshop-map-id-finden/#comment-197</link>
+		<dc:creator><![CDATA[Duke2011]]></dc:creator>
+		<pubDate>Sun, 20 Jul 2014 09:04:22 +0000</pubDate>
+		<guid isPermaLink="false">/?p=742#comment-197</guid>
+		<description><![CDATA[viel zu umständlich fu is dat.]]></description>
+		<content:encoded><![CDATA[<p>viel zu umständlich fu is dat.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

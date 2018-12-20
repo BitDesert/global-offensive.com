@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>cs:go homepage &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/csgo-homepage/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>cs:go homepage &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Server Anleitung: Begrüßungsbildschirm / Message of the Day anpassen über motd.txt</title>
+		<link>/csgo-server-anleitung-begrusungsbildschirm-message-of-the-day-anpassen-uber-motd-txt/</link>
+		<comments>/csgo-server-anleitung-begrusungsbildschirm-message-of-the-day-anpassen-uber-motd-txt/#respond</comments>
+		<pubDate>Mon, 11 Feb 2013 20:54:03 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[Gamerserver]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Server Administration]]></category>
+		<category><![CDATA[Anleitung]]></category>
+		<category><![CDATA[bearbeiten]]></category>
+		<category><![CDATA[Begrüßungsbildschirm]]></category>
+		<category><![CDATA[cs:go homepage]]></category>
+		<category><![CDATA[cs:go landing page]]></category>
+		<category><![CDATA[Global Offensive Server Musik]]></category>
+		<category><![CDATA[html]]></category>
+		<category><![CDATA[motd.txt]]></category>
+		<category><![CDATA[Musik einfügen]]></category>
+		<category><![CDATA[programmieren]]></category>
+		<category><![CDATA[Server Startbildschirm]]></category>
+		<category><![CDATA[Startbildschirm]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[webseite]]></category>
+		<category><![CDATA[willkommensseite]]></category>
+
+		<guid isPermaLink="false">/?p=664</guid>
+		<description><![CDATA[Da wir im Teamspeak 3 danach gefragt wurden schreiben wir es hier nochmal kurz für euch auf. Jedes mal wenn Ihr auf einen Server verbindet werdet Ihr mit einem Willkommensbildschirm begrüßt. Üblicherweise findet man&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p><img class="size-medium wp-image-665 aligncenter" title="server" src="/wp-content/uploads/sites/2/2013/02/server-300x164.png" alt="" width="300" height="164" srcset="/wp-content/uploads/sites/2/2013/02/server-300x164.png 300w, /wp-content/uploads/sites/2/2013/02/server.png 667w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>Da wir im Teamspeak 3 danach gefragt wurden schreiben wir es hier nochmal kurz für euch auf.</p>
+<p>Jedes mal wenn Ihr auf einen Server verbindet werdet Ihr mit einem Willkommensbildschirm begrüßt. Üblicherweise findet man dort entweder die Homepage des Clans welcher der Server gehört oder aber den Sponsor bzw. Serveranbieter. Standardmäßig sind in diesem Bildschirm die letzten Updates durch Steam enthalten.</p>
+<p>Ihr habt natürlich die Möglichkeit eine komplett eigene Webseite in diesem Fenster anzeigen zu lassen.</p>
+<p>Die einfachste Möglichkeit wäre wenn ihr die motd.txt auf eurem CS:GO Server bearbeitet. Üblicherweise habt ihr Zugang zu einem FTP Server um auf Dateien des Gameserver zugreifen zu können. Viele verwenden den FTP auch um Maps oder ESL Server Settings hochzuladen. Manchmal ist der Upload bzw. das bearbeiten auch direkt über ein Webinterface möglich.</p>
+<p>Um jetzt einen Startwebseite oder einen Startscreen oder einfach eine Nachricht hier einzufügen öffnet also die motd.txt in einem beliebigen Editor (z.b. Windows editor) und fügt die entsprechende URL/Link zu der Webseite die angezeigt werden soll dort ein.</p>
+<p>Beispielinhalt motd.txt</p>
+<blockquote><p>Inhalt: &#8222;www.global-offensive.com&#8220;</p></blockquote>
+<p>Ihr könnt dort aber auch direkt HTML programmieren.</p>
+<p>&nbsp;</p>
+<p>Beispiel um Musik vorspielen zu lassen:<br />
+<code></code></p>
+<p>&nbsp;</p></blockquote>
+<p>Um aufwendigere Dinge zu programmieren müsstest ihr die Grundlagen in HTML lernen. Dazu einfach mal google fragen &#8222;HTML Tutorial&#8220; oder &#8222;HTML Einsteigerkurs&#8220;.</p>
+<p>&nbsp;</p>
+<p>Ich hoffe wir konnten euch damit weiterhelfen.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-server-anleitung-begrusungsbildschirm-message-of-the-day-anpassen-uber-motd-txt/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.URL-ZUM-WEBSPACE.de/sound.mp3" length="0" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>verbindet sich nicht mit server &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/verbindet-sich-nicht-mit-server/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>verbindet sich nicht mit server &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Fehler &#8222;Sie wurden vom Beitreten dieser Sitzung ausgeschlossen&#8220;</title>
+		<link>/csgo-fehler-sie-wurden-vom-beitreten-dieser-sitzung-ausgeschlossen/</link>
+		<comments>/csgo-fehler-sie-wurden-vom-beitreten-dieser-sitzung-ausgeschlossen/#respond</comments>
+		<pubDate>Wed, 21 Nov 2012 18:26:53 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[Bots]]></category>
+		<category><![CDATA[fehler]]></category>
+		<category><![CDATA[kann nicht mit server verbinden]]></category>
+		<category><![CDATA[server crash]]></category>
+		<category><![CDATA[sie wurden vom beitreten dieser sitzung ausgeschlossen]]></category>
+		<category><![CDATA[steam geht nichtt]]></category>
+		<category><![CDATA[verbindet sich nicht mit server]]></category>
+		<category><![CDATA[verbindungsprobleme]]></category>
+
+		<guid isPermaLink="false">/?p=968</guid>
+		<description><![CDATA[Dieser Fehler entsteht durch eine Fehlkonfiguration in einem der Plugins wie Sourcemod und Metamod. Wenn ein Bot hinzugefügt wird steigt der Server automatisch aus und startet neu. Eine andere Möglichkeit wäre dass Ihr unter&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Dieser Fehler entsteht durch eine Fehlkonfiguration in einem der Plugins wie Sourcemod und Metamod. Wenn ein Bot hinzugefügt wird steigt der Server automatisch aus und startet neu. Eine andere Möglichkeit wäre dass Ihr unter Umständen durch VAC (Valve Anticheat) von CS:GO ausgeschlossen seid.</p>
+<p>Wir konnten bisher nur herausfinden dass es mit einer Fehlkonfiguration der gamemodes.txt im Zusammenhang steht. Möglicherweise besteht dort ein Konflikt zwischen Einstellungen dieser und der Server.cfg bzw. des Startbefehls für den Gameserver auf dem VPS bzw. Root Server. Mehr konnten wir bis zu diesem Zeitpunkt nicht indentifizieren.</p>
+<p><strong>Wenn ihr die Lösung gefunden habt wäre es sehr schön wenn Ihr dies hier kommentieren könnt damit wir diese Seite updaten können. Wir zeigen uns dann auch erkenntlich <img src="https://s.w.org/images/core/emoji/11/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong></p>
+<p>Wir prüfen weiterhin die Problematik und halten euch mit der Lösung auf dem Laufenden.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-fehler-sie-wurden-vom-beitreten-dieser-sitzung-ausgeschlossen/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

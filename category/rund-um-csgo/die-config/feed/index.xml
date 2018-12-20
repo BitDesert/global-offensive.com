@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Die Config &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/category/rund-um-csgo/die-config/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>Die Config &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Autoexec.cfg Generator &#8211; So lässt sich die Autocfg einfach zusammen stellen [Tipps&#038;Tricks]</title>
+		<link>/csgo-autoexec-cfg-generator-so-laesst-sich-die-autocfg-einfach-zusammen-stellen-tippstricks/</link>
+		<comments>/csgo-autoexec-cfg-generator-so-laesst-sich-die-autocfg-einfach-zusammen-stellen-tippstricks/#comments</comments>
+		<pubDate>Sun, 18 May 2014 14:19:01 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Die Config]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[autoexec generator]]></category>
+		<category><![CDATA[config generator]]></category>
+
+		<guid isPermaLink="false">/?p=2591</guid>
+		<description><![CDATA[Autoexec.cfg Generator Der Reddit User bluekristoffer hat sich die Arbeit gemacht und einen simplen aber sehr nützlichen Autoexec.cfg Generator erstellt. Mit diesem Generator habt ihr die Möglichkeit die verschiedenen Einstellungen direkt auszuwählen bzw. einzustellen und&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Autoexec.cfg Generator</h3>
+<p>Der Reddit User bluekristoffer hat sich die Arbeit gemacht und einen simplen aber sehr nützlichen Autoexec.cfg Generator erstellt. Mit diesem Generator habt ihr die Möglichkeit die verschiedenen Einstellungen direkt auszuwählen bzw. einzustellen und dann als autoexec.cfg ausgeben zu lassen. Ihr habt dann die Möglichkeit die Datei in das CS:GO Verzeichnis zu verschieben. Das schöne daran ist dass die verschiedenen Einstellungen auch (auf Englisch) kommentiert sind und so man etwas besser weiß was man überhaupt verändert.</p>
+<p><a href="http://autoexec.global-offensive.com/"><span style="text-decoration: underline">Hier kommt ihr zum Autoexec Generator: Hier Klicken</span></a></p>
+<p><a href="/wp-content/uploads/sites/2/2014/05/autoexec_generator.png"><img class="aligncenter size-full wp-image-2592" src="/wp-content/uploads/sites/2/2014/05/autoexec_generator.png" alt="autoexec_generator" width="816" height="752" /></a></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-autoexec-cfg-generator-so-laesst-sich-die-autocfg-einfach-zusammen-stellen-tippstricks/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Walk Shoot Script &#8211; Walk and hit! + Video</title>
+		<link>/csgo-walk-shoot-script-walk-and-hit-video/</link>
+		<comments>/csgo-walk-shoot-script-walk-and-hit-video/#comments</comments>
+		<pubDate>Sun, 23 Feb 2014 10:11:00 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Die Config]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Scripts]]></category>
+		<category><![CDATA[Config.cfg]]></category>
+		<category><![CDATA[cs_militia]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[Script]]></category>
+		<category><![CDATA[walk shoot]]></category>
+
+		<guid isPermaLink="false">/?p=2095</guid>
+		<description><![CDATA[Wie treffe ich im laufen mit AWP, Deagle etc. Seit dem vorletzten Update wurde die Genauigkeit beim &#8222;gehen&#8220; in CS:GO &#8211; Counter-Strike: Global-Offensive wesentlich verbessert. Wir haben uns mal ran gesetzt und ein kleines&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3></h3>
+<h3>Wie treffe ich im laufen mit AWP, Deagle etc.</h3>
+<p>Seit dem vorletzten Update wurde die Genauigkeit beim &#8222;gehen&#8220; in CS:GO &#8211; Counter-Strike: Global-Offensive wesentlich verbessert. Wir haben uns mal ran gesetzt und ein kleines Script geschrieben um Anfänger im Matchmaking etwas auf die Sprünge zu helfen. Dieses Script ist absolut legal und wird natürlich nicht von VAC oder anderen Anti-Cheat Tools als Cheat erkannt, warum auch &#8211; es ist nur eine kleine Stütze für &#8222;Shift&#8220; Drück-Faule. Ihr müsst euch selber eine Meinung darüber bilden&#8230;</p>
+<p>[infobox color=&#8220;red&#8220;]Inzwischen wurde das Script durch Steam verboten und es kann nicht  mehr genutzt werden[/infobox]</p>
+<h3>Wie funktioniert das Walk Shoop Script für CS:GO?</h3>
+<p>In dem Moment wo ihr auf Mouse 1 einen Schuss absetzt, wechselt das Script automatisch auf den &#8222;walk&#8220; also &#8222;Geh-Modus&#8220;. Ihr verlangsamt euch also wie als ob ihr &#8222;Shift&#8220; drückt. In dem Moment wo ihr Mouse1 wieder loslasst lauft ihr wieder schnell. Mit einem Druck auf das Mausrad könnt ihr das Script aktivieren/deaktivieren.</p>
+<h3>Wie binde ich das Script ein?</h3>
+<p>Fügt folgenden Inhalt am Ende eurer Config.cfg in eurem Counter-Strike Ordner ein. (C:Program Files (x86)SteamSteamAppscommonCounter-Strike Global Offensivecsgocfgconfig.cfg)</p>
+<blockquote><p>alias +as &#8222;+attack; +speed&#8220;<br />
+alias -as &#8222;-attack; -speed&#8220;<br />
+bind mouse1 &#8222;+as&#8220;</p>
+<p>bind &#8222;mouse3&#8220; &#8222;togglewalkshoot&#8220;<br />
+alias &#8222;togglewalkshoot&#8220; &#8222;walkshoot&#8220;<br />
+alias &#8222;walkshoot&#8220; &#8222;bind mouse1 +as; alias togglewalkshoot normalshoot&#8220;<br />
+alias &#8222;normalshoot&#8220; &#8222;bind mouse1 +attack; alias togglewalkshoot walkshoot&#8220;</p></blockquote>
+<p>&nbsp;</p>
+<h3>Hier mal das Video wie es in der Realität aus sieht:</h3>
+<p>oder hier mit der AK</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-walk-shoot-script-walk-and-hit-video/feed/</wfw:commentRss>
+		<slash:comments>26</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Sinnvolle Config Bindings für direktes Legen von C4, Inventar dauerhaft sichtbar etc.</title>
+		<link>/csgo-sinnvolle-config-bindings-fur-direktes-legen-von-c4-inventar-dauerhaft-sichtbar-etc/</link>
+		<comments>/csgo-sinnvolle-config-bindings-fur-direktes-legen-von-c4-inventar-dauerhaft-sichtbar-etc/#comments</comments>
+		<pubDate>Thu, 01 Aug 2013 17:21:49 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Die Config]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Anleitung]]></category>
+		<category><![CDATA[binding]]></category>
+		<category><![CDATA[blendgranate]]></category>
+		<category><![CDATA[bomb]]></category>
+		<category><![CDATA[c4]]></category>
+		<category><![CDATA[Config]]></category>
+		<category><![CDATA[config csgo]]></category>
+		<category><![CDATA[Config.cfg]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[radar]]></category>
+		<category><![CDATA[Rauchgranate]]></category>
+		<category><![CDATA[sprengstoff direkt legen]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[wichtig]]></category>
+
+		<guid isPermaLink="false">/?p=1760</guid>
+		<description><![CDATA[Hier mal einige wirklich nützliche &#8222;Bindings&#8220;, also Shortcuts, um in Counter-Strike: Global-Offensive effektiver spielen zu können. Die (Maus)-Tasten könnt ihr natürlich frei wählen. Dafür einfach die Tasten mit bind &#8222;TASTE&#8220; &#8230;. ändern. Die Befehle&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Hier mal einige wirklich nützliche &#8222;Bindings&#8220;, also Shortcuts, um in Counter-Strike: Global-Offensive effektiver spielen zu können. Die (Maus)-Tasten könnt ihr natürlich frei wählen. Dafür einfach die Tasten mit bind &#8222;TASTE&#8220; &#8230;. ändern.</p>
+<p>Die Befehle einfach am Ende eurer config.cfg (CS:GO Verzeichnis -&gt; CFG Ordner) einfügen bzw. reinkopieren.</p>
+<h3>Einfach und effizient einkaufen und spielen:</h3>
+<p><strong>Um C4 direkt auszuwählen und zulegen:</strong><br />
+bind &#8222;mouse5&#8220; &#8222;use weapon_c4;drop&#8220;</p>
+<p><strong>Um schnell noch Granaten nachzukaufen, beispielsweise wenn die Buytime noch läuft:</strong><br />
+bind &#8222;mouse4&#8220; &#8222;buy hegrenade;buy smokegrenade;buy flashbang&#8220;</p>
+<p><strong>Um schnell zu der Blendgranate bzw. Rauchgranate zu wechseln:</strong><br />
+bind &#8222;f&#8220; &#8222;use weapon_flashbang&#8220;<br />
+bind &#8222;c&#8220; &#8222;use weapon_smokegrenade&#8220;</p>
+<p><strong>Um das komplette Team-Ingame Voice zu deaktivieren, wenn ihr nur noch alleine seid :</strong><br />
+bind &#8222;F1&#8220; &#8222;voice_enable 0;echo VOICE_MUTED&#8220;<br />
+bind &#8222;F2&#8220; &#8222;voice_enable 1;echo VOICE_ENABLED&#8220;</p>
+<p><strong>Um schnell das Spiel zu muten:</strong><br />
+bind F10 &#8222;volume 0;echo volume_off&#8220;<br />
+bind F11 &#8222;volume 1;echo volume_on&#8220;</p>
+<p><strong>Mit diesem Befehl seht ihr für 4 Sekunden wohin der Gegner nach eurem Tod läuft:</strong><br />
+cl_disablefreezecam 1</p>
+<p><strong>First Person Tracer deaktivieren:</strong><br />
+r_drawtracers_firstperson &#8222;0&#8220;</p>
+<p><strong>Permanent euer Inventar anzeigen lassen:</strong><br />
+cl_showloadout 1</p>
+<p><strong>Wechselt nicht automatisch auf stärkere Waffen bzw. wählt diese beim drüber laufen aus:</strong><br />
+cl_autoswepwitch 0</p>
+<p><strong>Bewegt das Radar näher Richtung Mitte des Bildschirms:</strong><br />
+safezonex 0.85</p>
+<p><strong>Kaufen von Waffen per Binding siehe diese Liste</strong>:  http://pastebin.com/S7b9nDD5</p>
+<p><strong>Der wohl wichtigste Befehl <img src="https://s.w.org/images/core/emoji/11/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong><br />
+bind &#8222;end&#8220; &#8222;kill&#8220;</p>
+<p>Weil Überleben mit nur Pistole gibt dem gegnerischen Team 1500$ bei einem 1vs5 <img src="https://s.w.org/images/core/emoji/11/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>&nbsp;</p>
+<h3>Hier ein eingesendetes Buyscript:</h3>
+<p>BIND &#8222;MOUSE3&#8220; &#8222;use weapon_smokegrenade;&#8220;</p>
+<p>BIND &#8222;MOUSE4&#8220; &#8222;slot2;&#8220;<br />
+BIND &#8222;MOUSE5&#8220; &#8222;use weapon_flashbang;&#8220;<br />
+BIND &#8222;MWHEELUP&#8220; &#8222;use weapon_hegrenade;&#8220;<br />
+BIND &#8222;MWHEELDOWN&#8220; &#8222;+jump&#8220;</p>
+<p>BIND &#8222;SPACE&#8220; &#8222;+voicerecord;&#8220;<br />
+BIND &#8222;F10&#8220; &#8222;toggleconsole;&#8220;</p>
+<p><strong>Für Training</strong></p>
+<p>bind &#8222;KP_SLASH&#8220; &#8222;&#8220;<br />
+bind &#8222;KP_MULTIPLY&#8220; &#8222;toggle sv_cheats&#8220;<br />
+bind &#8222;KP_MINUS&#8220; &#8222;noclip;sv_infinite_ammo 1&#8220; (durch die Map fliegen, nur bei sv_cheats 1)</p>
+<p><strong>Kaufscript</strong></p>
+<p>bind &#8222;KP_HOME&#8220; &#8222;buy vest;buy vesthelm;&#8220; bind &#8222;KP_UPARROW&#8220; &#8222;buy p250;&#8220; bind &#8222;KP_PGUP&#8220; &#8222;buy m4a1;buy ak47;&#8220;</p>
+<p>bind &#8222;KP_LEFTARROW&#8220; &#8222;buy hegrenade;&#8220;<br />
+bind &#8222;KP_5&#8220; &#8222;buy flashbang;&#8220;<br />
+bind &#8222;KP_RIGHTARROW&#8220; &#8222;buy defuser&#8220;</p>
+<p>bind &#8222;KP_END&#8220; &#8222;buy p90&#8220;<br />
+bind &#8222;KP_DOWNARROW&#8220; &#8222;buy smokegrenade;&#8220;<br />
+bind &#8222;KP_PGDN&#8220; &#8222;buy galilar; buy famas&#8220;</p>
+<p>bind &#8222;KP_INS&#8220; &#8222;buy molotov; buy incgrenade;&#8220;<br />
+bind &#8222;KP_DEL&#8220; &#8222;buy decoy;&#8220;<br />
+bind &#8222;KP_ENTER&#8220; &#8222;buy awp;&#8220;</p>
+<p>&nbsp;</p>
+<p>[toggle title=&#8220;Großes Buyscript&#8220;]</p>
+<ol>
+<li>
+<div>//////Buyscript Binds</div>
+</li>
+<li>
+<div></div>
+</li>
+<li>
+<div>bind &#8222;kp_end&#8220;                   &#8222;rifle1&#8220;                //1     buys ak74 $2700/m4a1 $3100</div>
+</li>
+<li>
+<div>bind &#8222;kp_downarrow&#8220;     &#8222;defuser&#8220;               //2     buys defuse kit $400</div>
+</li>
+<li>
+<div>bind &#8222;kp_pgdn&#8220;                  &#8222;rifle2&#8220;                //3     buys galil $2000/famas $2250</div>
+</li>
+<li>
+<div>bind &#8222;kp_leftarrow&#8220;     &#8222;hegrenade&#8220;             //4     buys grenade $300</div>
+</li>
+<li>
+<div>bind &#8222;kp_5&#8220;                     &#8222;flashbang&#8220;             //5     buys flashbang $200</div>
+</li>
+<li>
+<div>bind &#8222;kp_rightarrow&#8220;    &#8222;smokegrenade&#8220;  //6     buys smoke grenade $300</div>
+</li>
+<li>
+<div>bind &#8222;kp_home&#8220;                  &#8222;awp&#8220;                   //7     buys Awp sniper $4750</div>
+</li>
+<li>
+<div>bind &#8222;kp_uparrow&#8220;               &#8222;vesthelm&#8220;              //8     buys vest and helmet $1000</div>
+</li>
+<li>
+<div>bind &#8222;kp_pgup&#8220;                  &#8222;kevlar&#8220;                //9     buys armor $650</div>
+</li>
+<li>
+<div>bind &#8222;kp_ins&#8220;                   &#8222;p250&#8220;                  //0     buys p250 $300</div>
+</li>
+<li>
+<div>bind &#8222;kp_enter&#8220;                 &#8222;fiveseven&#8220;             //Enter buys fiveseven $500</div>
+</li>
+<li>
+<div>bind &#8222;kp_plus&#8220;                  &#8222;decoy&#8220;                 //-     buys decoy grenade $50</div>
+</li>
+<li>
+<div>bind &#8222;kp_minus&#8220;                 &#8222;firebomb&#8220;              //+     buys molotov</div>
+</li>
+<li>
+<div>bind &#8222;kp_multiply&#8220;              &#8222;p90&#8220;                   //*     buys p90</div>
+</li>
+<li>
+<div>bind &#8222;kp_slash&#8220;                 &#8222;mp7&#8243;                   //&#8220;/&#8220;   buys mp7 $1900</div>
+</li>
+<li>
+<div>//bind &#8222;kp_del&#8220;                 &#8222;Mark2&#8220;                 //.//Weapon pack alias</div>
+</li>
+<li>
+<div></div>
+</li>
+<li>
+<div>//alias &#8222;Mark1&#8220; &#8222;rifle1; deagle; defuser; grenades; vesthelm; taser&#8220;</div>
+</li>
+<li>
+<div>//alias &#8222;Mark2&#8220; &#8222;rifle2; deagle; defuser; grenades; vesthelm; taser&#8220;</div>
+</li>
+<li>
+<div>//alias &#8222;Mark3&#8220; &#8222;p90; deagle; defuser; grenades; vesthelm; taser&#8220;</div>
+</li>
+<li>
+<div>//alias &#8222;Mark4&#8220; &#8222;scout; deagle; defuser; grenades; vesthelm; taser&#8220;</div>
+</li>
+<li>
+<div>//alias &#8222;grenades&#8220; &#8222;firebomb; flashbang; hegrenade&#8220;</div>
+</li>
+<li>
+<div></div>
+</li>
+<li>
+<div>////Gun Alias</div>
+</li>
+<li>
+<div></div>
+</li>
+<li>
+<div>//Pistols</div>
+</li>
+<li>
+<div>alias glock     &#8222;buy glock&#8220;</div>
+</li>
+<li>
+<div>alias elite     &#8222;buy elite&#8220;</div>
+</li>
+<li>
+<div>alias fiveseven &#8222;buy fiveseven&#8220;</div>
+</li>
+<li>
+<div>alias deagle    &#8222;buy deagle&#8220;</div>
+</li>
+<li>
+<div>alias pistol1   &#8222;buy hkp2000; buy tec9&#8220;</div>
+</li>
+<li>
+<div>alias p250      &#8222;buy p250&#8220;</div>
+</li>
+<li>
+<div></div>
+</li>
+<li>
+<div>//Rifles</div>
+</li>
+<li>
+<div>alias rifle1 &#8222;buy ak47; buy m4a1&#8220;</div>
+</li>
+<li>
+<div>alias rifle2 &#8222;buy galilar; buy famas&#8220;</div>
+</li>
+<li>
+<div></div>
+</li>
+<li>
+<div>//SMG</div>
+</li>
+<li>
+<div>alias p90   &#8222;buy p90&#8220;</div>
+</li>
+<li>
+<div>alias mp7   &#8222;buy mp7&#8220;</div>
+</li>
+<li>
+<div>alias smg1  &#8222;buy mp9; buy mac10&#8220;</div>
+</li>
+<li>
+<div>alias bizon &#8222;buy bizon&#8220;</div>
+</li>
+<li>
+<div>alias ump   &#8222;buy ump45&#8220;</div>
+</li>
+<li>
+<div></div>
+</li>
+<li>
+<div>//Snipers</div>
+</li>
+<li>
+<div>alias awp        &#8222;buy awp&#8220;</div>
+</li>
+<li>
+<div>alias autosniper &#8222;buy g3sg1; buy scar20&#8220;</div>
+</li>
+<li>
+<div>alias scout      &#8222;buy ssg08&#8220;</div>
+</li>
+<li>
+<div>alias rifle-zoom &#8222;buy sg556; buy aug&#8220;</div>
+</li>
+<li>
+<div></div>
+</li>
+<li>
+<div>//Shotguns</div>
+</li>
+<li>
+<div>alias autoshotty &#8222;buy xm1014&#8220;</div>
+</li>
+<li>
+<div>alias shotgun1 &#8222;buy sawedoff; buy mag7&#8220;</div>
+</li>
+<li>
+<div>alias nova &#8222;buy nova&#8220;</div>
+</li>
+<li>
+<div></div>
+</li>
+<li>
+<div>//Machine guns</div>
+</li>
+<li>
+<div>alias negev &#8222;buy negev&#8220;</div>
+</li>
+<li>
+<div>alias m249 &#8222;buy m249&#8220;</div>
+</li>
+<li>
+<div></div>
+</li>
+<li>
+<div>//Grenades</div>
+</li>
+<li>
+<div>alias flashbang    &#8222;buy flashbang&#8220;</div>
+</li>
+<li>
+<div>alias smokegrenade &#8222;buy smokegrenade&#8220;</div>
+</li>
+<li>
+<div>alias hegrenade    &#8222;buy hegrenade&#8220;</div>
+</li>
+<li>
+<div>alias firebomb     &#8222;buy molotov; buy incgrenade&#8220;</div>
+</li>
+<li>
+<div>alias decoy        &#8222;buy decoy&#8220;</div>
+</li>
+<li>
+<div></div>
+</li>
+<li>
+<div>//Gear</div>
+</li>
+<li>
+<div>alias vesthelm &#8222;buy vesthelm&#8220;</div>
+</li>
+<li>
+<div>alias kevlar   &#8222;buy kevlar&#8220;</div>
+</li>
+<li>
+<div>alias defuser  &#8222;buy defuser&#8220;</div>
+</li>
+<li>
+<div>alias taser    &#8222;buy taser&#8220;</div>
+</li>
+</ol>
+<p>[/toggle]</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-sinnvolle-config-bindings-fur-direktes-legen-von-c4-inventar-dauerhaft-sichtbar-etc/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Radar anpassen &#8211; Anleitung / Guide &#8211; Alle Befehle</title>
+		<link>/csgo-radar-anpassen-anleitung-guide-alle-befehle/</link>
+		<comments>/csgo-radar-anpassen-anleitung-guide-alle-befehle/#respond</comments>
+		<pubDate>Mon, 08 Jul 2013 12:06:56 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Die Config]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[cl_radar_always_centered 1/0]]></category>
+		<category><![CDATA[cl_radar_icon_scale_min 1]]></category>
+		<category><![CDATA[cl_radar_rotate 1]]></category>
+		<category><![CDATA[cl_radar_scale 0.7]]></category>
+		<category><![CDATA[radar befehle]]></category>
+		<category><![CDATA[radar guide]]></category>
+
+		<guid isPermaLink="false">/?p=1722</guid>
+		<description><![CDATA[Das Radar von Counter-Strike: Global-Offensive (CS:GO) ist sicherlich eines der wichtigsten Elemente im Competitive Modus. Seit dem großen Operation Payback Update besteht nun auch die Möglichkeit dass Radar für sich persönlich anzupassen. Die Möglichkeiten&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Das Radar von Counter-Strike: Global-Offensive (CS:GO) ist sicherlich eines der wichtigsten Elemente im Competitive Modus. Seit dem großen Operation Payback Update besteht nun auch die Möglichkeit dass Radar für sich persönlich anzupassen. Die Möglichkeiten und Befehle findet ihr in dieser Anleitung:</p>
+<h3>Die Radar Befehle:</h3>
+<p><strong>cl_radar_always_centered 1/0<br />
+</strong>mit diesem Befehl habt ihr die Möglichkeit einzustellen, ob ihr selbst im Radar zentriert dargestellt werdet. Ist dieser Wert auf &#8222;0&#8220;, seht ihr insgesamt mehr vom Radar.</p>
+<p><strong>cl_radar_scale 0.7</strong><br />
+bietet euch die Möglichkeit rein bzw. rauszuzoomen und die Map größer darzustellen oder nur einen Teilbereich. Der Standardwert ist hier:  0.7 und das Spiel nimmt Werte von 0.25 und 1 an. Hier probiert ihr am besten aus was euch am besten passt.</p>
+<p><strong>cl_radar_rotate 1</strong><br />
+Soll das Radar mitdrehen oder nicht? Wir empfehlen: JA!</p>
+<p><strong>cl_radar_icon_scale_min 1</strong><br />
+Solltet ihr das Radar verkleinert haben, bleiben die Symbole trotzdem groß.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-radar-anpassen-anleitung-guide-alle-befehle/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>So geht&#8217;s: Die richtigen CS:GO Startparameter einstellen</title>
+		<link>/csgo-die-richtigen-start-optionen-einstellen-startparameter/</link>
+		<comments>/csgo-die-richtigen-start-optionen-einstellen-startparameter/#comments</comments>
+		<pubDate>Wed, 20 Mar 2013 15:57:59 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Die Config]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[-console -32bit -dxlevel90 -novid -refresh 120 -tickrate128 -noborder -heapsize]]></category>
+		<category><![CDATA[counter strike]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[Global Offensive]]></category>
+		<category><![CDATA[launchoptions]]></category>
+		<category><![CDATA[options]]></category>
+		<category><![CDATA[startparameter]]></category>
+
+		<guid isPermaLink="false">/?p=1201</guid>
+		<description><![CDATA[Die richtigen Startoptionen für CS:GO Counter-Strike: Global-Offensive Mit den Startparametern ist es möglich verschiedene (Grund-)Einstellungen von Counter-Strike Global Offensive (kurz CS:GO) festzulegen bzw. zu verändern. Die Startparameter ermöglichen es unter anderem einige FPS herauszukitzeln&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Die richtigen Startoptionen für CS:GO Counter-Strike: Global-Offensive</h3>
+<p>Mit den Startparametern ist es möglich verschiedene (Grund-)Einstellungen von Counter-Strike Global Offensive (kurz CS:GO) festzulegen bzw. zu verändern. Die Startparameter ermöglichen es unter anderem einige FPS herauszukitzeln und grundlegende Grafikeinstellungen zu bearbeiten. Auch der zugewiesene Arbeitsspeicher für das Spiel lässt sich so bestimmen.</p>
+<blockquote><p>Die Startparameter Einstellungen lassen sich über Steam -&gt; Bibliothek -&gt; Rechte Maustaste auf Counter-Strike Global-Offensive -&gt; Eigenschaften -&gt; Startparameter einfügen.</p></blockquote>
+<p><a href="/wp-content/uploads/sites/2/2013/03/csgo_startparameter.jpg"><img class="alignnone size-medium wp-image-1204" title="csgo_startparameter" src="/wp-content/uploads/sites/2/2013/03/csgo_startparameter-300x184.jpg" alt="" width="300" height="184" /></a></p>
+<p><strong>Folgende Startparameter sind ein MUST-HAVE:</strong></p>
+<blockquote>
+<pre>-console -32bit -dxlevel90 -novid -refresh 120 -tickrate128 -noborder -heapsize 1179648 1179648</pre>
+</blockquote>
+<h3>Und hier die Erläuterung der Befehle:</h3>
+<ul>
+<li>-console = Schaltet die Konsole an.</li>
+<li>-32bit = startet das Spiel im 32Bit-Modus</li>
+<li>-dxlevel 90 = startet das Spiel mit der DirectX-Version 9.0</li>
+<li>-nointro = Schaltet das Video am Start aus.</li>
+<li>-refresh 120 = erzwingt eine Monitorhertzzahl</li>
+<li>-fps_max 128 = Für ein besseres Spielgefühl sollte dieser Wert an die Tickrate von 128 angepasst werden. 128 Fps sind mehr als ausreichend, da CS: GO bereits ab niedrigeren Werten flüssig läuft.</li>
+<li>-noborder = Schaltet den Randschatten aus und erhöt das Vollbild.</li>
+<li>-threads= Startet das Spiel jenach Anzahl der CPU Kerne threads 2 (dualcore) threads 4 ( quad core) threads 6 (hex core)</li>
+</ul>
+<h3>Hier die optionalen Startparameter:</h3>
+<ul>
+<li>tickrate 128 = setzt die Tickrate auf 128 wenn ein LAN-Server gestartet wird</li>
+<li>noborder = Schaltet den Randschatten aus und erhöt das Vollbild.</li>
+<li>noforcemparms = Verwendet die selben Maustasten wie im Betriebssystem</li>
+<li>noforcemaccel = Stellt die Mausbeschleunigung aus.</li>
+<li>noforcemspd = Verwendet Zeigergeschwindigkeit wie im Betriebssystem.</li>
+<li>windowed = Startet im Fenstermodus.</li>
+<li>full / fullscreen = Vollbild</li>
+<li>noborder = Schaltet die Ränder von Fenstermodus aus.</li>
+<li>low = Schaltet die Game-Priorität auf niedrig.</li>
+<li>high = Schaltet die Game-Priorität auf hoch.</li>
+<li>language english = Sprache auf Englisch</li>
+<li>heapsize = Mit diesem Wert lässt sich CS:GO mehr Arbeitsspeicher zuweisen und erhöht die FPS, was in einem flüssigerem Bild resultiert. Hinter &#8222;-heapsize&#8220; müsst ihr die Bits angeben, welche wir hier entschlüsseln:</li>
+</ul>
+<blockquote><p>512MB = 524288<br />
+1GB = 1048576<br />
+1,5GB = 1572864<br />
+2GB = 2097152<br />
+4 GB = 4194304</p></blockquote>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-die-richtigen-start-optionen-einstellen-startparameter/feed/</wfw:commentRss>
+		<slash:comments>14</slash:comments>
+		</item>
+		<item>
+		<title>Was ist die richtige Viewmodel Position in CS:GO?</title>
+		<link>/was-ist-die-richtige-viewmodel-position-in-csgo/</link>
+		<comments>/was-ist-die-richtige-viewmodel-position-in-csgo/#respond</comments>
+		<pubDate>Tue, 05 Mar 2013 09:06:21 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Die Config]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[mit welcher viewmodel position spielt ihr]]></category>
+		<category><![CDATA[position]]></category>
+		<category><![CDATA[viewmodel]]></category>
+
+		<guid isPermaLink="false">/?p=1392</guid>
+		<description><![CDATA[Mit welcher Viewmodel Position spielt ihr in CS:GO? Diese Frage kann man nicht beantworten, da jeder so seine eigenen Settings und Vorlieben hat. Wir von der Redaktion sind uns jedoch einig, dass wir mit&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Mit welcher Viewmodel Position spielt ihr in CS:GO?</h3>
+<p>Diese Frage kann man nicht beantworten, da jeder so seine eigenen Settings und Vorlieben hat. Wir von der Redaktion sind uns jedoch einig, dass wir mit den CS 1.6 und CS:S Modelpositionen am liebsten spielen.</p>
+<p>&nbsp;</p>
+<p>Hier die Befehle für die config.cfg , um die Modelposition von CS1.6 bzw. CS:S zu erhalten:</p>
+<p>viewmodel_fov &#8222;62.5&#8220;<br />
+viewmodel_offset_x &#8222;2&#8220;<br />
+viewmodel_offset_y &#8222;2&#8220;<br />
+viewmodel_offset_z &#8222;-2&#8220;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/was-ist-die-richtige-viewmodel-position-in-csgo/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tastaturbelegung &#8211; Übersicht (Buyscript)</title>
+		<link>/tastaturbelegung-ubersicht-buyscript/</link>
+		<comments>/tastaturbelegung-ubersicht-buyscript/#comments</comments>
+		<pubDate>Mon, 11 Feb 2013 22:02:56 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Die Config]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[belegung]]></category>
+		<category><![CDATA[binden]]></category>
+		<category><![CDATA[bindung]]></category>
+		<category><![CDATA[Buyscript]]></category>
+		<category><![CDATA[cfg]]></category>
+		<category><![CDATA[Config]]></category>
+		<category><![CDATA[Counter]]></category>
+		<category><![CDATA[cs: go]]></category>
+		<category><![CDATA[Strike]]></category>
+		<category><![CDATA[tastatur]]></category>
+		<category><![CDATA[tastaturbelegung]]></category>
+		<category><![CDATA[übersicht]]></category>
+
+		<guid isPermaLink="false">/?p=847</guid>
+		<description><![CDATA[Hier eine kleine Übersicht, welche Tasten zum &#8222;Binden&#8220; verfügbar sind und wie sie in der Config heißen. Zum Buyscript Tutorial gehts Hier lang.]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Hier eine kleine Übersicht, welche Tasten zum &#8222;Binden&#8220; verfügbar sind und wie sie in der Config heißen.<span id="more-847"></span></p>
+<p><a href="/wp-content/uploads/sites/2/2013/02/cs-tastatur.jpg"><img alt="" src="/wp-content/uploads/sites/2/2013/02/cs-tastatur.jpg" /></a></p>
+<p>Zum Buyscript Tutorial gehts <a href="/csgo-buyscript-tutorial/">Hier </a> lang.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/tastaturbelegung-ubersicht-buyscript/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>CS: GO Config 2013 / 2014</title>
+		<link>/cs-go-config/</link>
+		<comments>/cs-go-config/#respond</comments>
+		<pubDate>Tue, 05 Feb 2013 13:42:24 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Die Config]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Anleitung]]></category>
+		<category><![CDATA[befehle]]></category>
+		<category><![CDATA[Config]]></category>
+		<category><![CDATA[CS: GO Config]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[efehle]]></category>
+		<category><![CDATA[erklärung]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Tricks]]></category>
+
+		<guid isPermaLink="false">/?p=1395</guid>
+		<description><![CDATA[FPS MAX Config &#8211; So bekommst du die letzten FPS aus deiner Config heraus! (Stand 10.12.2013) Hier werden die wichtigsten Befehle für die CS:GO Config erklärt, dabei wird auf die Punkte Netsettings und Grafiksettings&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>FPS MAX Config &#8211; So bekommst du die letzten FPS aus deiner Config heraus! (Stand 10.12.2013)</h3>
+<p>Hier werden die wichtigsten Befehle für die CS:GO Config erklärt, dabei wird auf die Punkte Netsettings und Grafiksettings ein besonderer Stellenwert gelegt, da diese beiden Punkte die essenziellen Bereiche für ein angenehmes Zocken mit maximalen FPS sind.</p>
+<p>Auch wir haben hier die Einstellungen aufgegriffen und es empfehlen sich folgende Videosettings (video.txt):</p>
+<p>&#8222;VideoConfig&#8220;<br />
+{<br />
+&#8222;setting.cpu_level&#8220; &#8222;0&#8220;<br />
+&#8222;setting.gpu_level&#8220; &#8222;0&#8220;<br />
+&#8222;setting.mat_antialias&#8220; &#8222;1&#8220;<br />
+&#8222;setting.mat_aaquality&#8220; &#8222;0&#8220;<br />
+&#8222;setting.mat_forceaniso&#8220; &#8222;0&#8220;<br />
+&#8222;setting.mat_vsync&#8220; &#8222;0&#8220;<br />
+&#8222;setting.mat_triplebuffered&#8220; &#8222;0&#8220;<br />
+&#8222;setting.mat_grain_scale_override&#8220; &#8222;1&#8220;<br />
+&#8222;setting.gpu_mem_level&#8220; &#8222;0&#8220;<br />
+&#8222;setting.mem_level&#8220; &#8222;2&#8220;<br />
+&#8222;setting.mat_queue_mode&#8220; &#8222;-1&#8220;<br />
+&#8222;setting.csm_quality_level&#8220; &#8222;0&#8220;<br />
+&#8222;setting.mat_software_aa_strength&#8220; &#8222;0&#8220;<br />
+&#8222;setting.mat_motion_blur_enabled&#8220; &#8222;0&#8220;<br />
+&#8222;setting.fullscreen&#8220; &#8222;1&#8220;<br />
+&#8222;setting.defaultres&#8220; &#8222;1680&#8220;<br />
+&#8222;setting.defaultresheight&#8220; &#8222;1050&#8220;<br />
+&#8222;setting.aspectratiomode&#8220; &#8222;2&#8220;<br />
+&#8222;setting.nowindowborder&#8220; &#8222;0&#8220;<br />
+}</p>
+<p>Dabei werden auf die höchstmögliche Performance und trotzdem guten Sichtbereich (1680×1050) Wert gelegt.</p>
+<p>Darüber die wichtigen Settings in der valve.rc</p>
+<p>// NETSETTINGS<br />
+rate &#8222;80000&#8220;<br />
+cl_cmdrate &#8222;128&#8220;<br />
+cl_updaterate &#8222;128&#8220;<br />
+cl_interp &#8222;0&#8220;<br />
+cl_interp_ratio &#8222;1&#8220;</p>
+<p>// MOUSE<br />
+m_customaccel &#8222;0&#8220;<br />
+m_customaccel_exponent &#8222;1.05&#8220;<br />
+m_customaccel_max &#8222;0&#8220;<br />
+m_customaccel_scale &#8222;0.04&#8220;<br />
+m_forward &#8222;1&#8220;<br />
+m_mouseaccel1 &#8222;0&#8220;<br />
+m_mouseaccel2 &#8222;0&#8220;<br />
+m_mousespeed &#8222;1&#8220;<br />
+m_pitch &#8222;0.022&#8220;<br />
+m_rawinput &#8222;0&#8220;<br />
+m_side &#8222;0.8&#8220;<br />
+m_yaw &#8222;0.022&#8220;<br />
+sensitivity &#8222;2.4&#8220;</p>
+<p>// CROSSHAIR<br />
+cl_crosshairalpha &#8222;255&#8220;<br />
+cl_crosshaircolor &#8222;1&#8220;<br />
+cl_crosshaircolor_b &#8222;50&#8220;<br />
+cl_crosshaircolor_g &#8222;250&#8220;<br />
+cl_crosshaircolor_r &#8222;50&#8220;<br />
+cl_crosshairdot &#8222;0&#8220;<br />
+cl_crosshairscale &#8222;0&#8220;<br />
+cl_crosshairsize &#8222;4&#8220;<br />
+cl_crosshairthickness &#8222;1&#8220;<br />
+cl_crosshairusealpha &#8222;1&#8220;<br />
+cl_dynamiccrosshair &#8222;0&#8220;<br />
+cl_fixedcrosshairgap &#8222;3&#8220;<br />
+cl_crosshairgap &#8222;-2&#8220;<br />
+cl_crosshairstyle &#8222;4&#8220;</p>
+<p>// VIEWMODEL<br />
+viewmodel_fov &#8222;65&#8220;<br />
+viewmodel_offset_x &#8222;2.5&#8220;<br />
+viewmodel_offset_y &#8222;2&#8220;<br />
+viewmodel_offset_z &#8222;-2&#8220;<br />
+cl_bob_lower_amt &#8222;5&#8220;<br />
+cl_bobamt_lat &#8222;0.1&#8220;<br />
+cl_bobamt_vert &#8222;0.1&#8220;<br />
+cl_bobcycle &#8222;0.98&#8220;<br />
+cl_viewmodel_shift_left_amt &#8222;0.5&#8220;<br />
+cl_viewmodel_shift_right_amt &#8222;0.25&#8220;</p>
+<p>// NETGRAPH<br />
+net_graph &#8222;0&#8220;<br />
+net_graphheight &#8222;64&#8220;<br />
+net_graphmsecs &#8222;400&#8220;<br />
+net_graphpos &#8222;2&#8220;<br />
+net_graphproportionalfont &#8222;0&#8220;<br />
+net_graphshowinterp &#8222;1&#8220;<br />
+net_graphshowlatency &#8222;1&#8220;<br />
+net_graphsolid &#8222;1&#8220;<br />
+net_graphtext &#8222;1&#8220;</p>
+<p>// SOUND<br />
+snd_mixahead &#8222;0.05&#8220;</p>
+<p>// OTHER<br />
+hud_scaling &#8222;0.95&#8220;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/cs-go-config/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Progamer Configs [Download]</title>
+		<link>/csgo-progamer-config-download/</link>
+		<comments>/csgo-progamer-config-download/#comments</comments>
+		<pubDate>Tue, 16 Oct 2012 12:09:25 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Configs]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Die Config]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[absolute legends]]></category>
+		<category><![CDATA[alternate]]></category>
+		<category><![CDATA[attax]]></category>
+		<category><![CDATA[Config.cfg]]></category>
+		<category><![CDATA[cplay]]></category>
+		<category><![CDATA[CS: GO Config. Counter Strike Global Offensive Config Hier mal eine Counter Strike Global Offensive Cfg]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[dotpixels]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[druckwelle]]></category>
+		<category><![CDATA[gamed.de]]></category>
+		<category><![CDATA[kennys]]></category>
+		<category><![CDATA[mousesports]]></category>
+		<category><![CDATA[mouzesports]]></category>
+		<category><![CDATA[mtw]]></category>
+		<category><![CDATA[n!faculty]]></category>
+		<category><![CDATA[progamer config]]></category>
+		<category><![CDATA[Progamer Config download]]></category>
+		<category><![CDATA[verygames]]></category>
+		<category><![CDATA[zneel]]></category>
+
+		<guid isPermaLink="false">/?p=531</guid>
+		<description><![CDATA[&#160; Hier findet ihr die Configs der wohl besten CS:GO Spieler. Diese Sektion wird nach und nach weiter mit Configs gefüllt. &#160; Alternate attaX (Stand 25.02.2013): Download Config von:  ALTERNATE attaX &#124; mnL CS:&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p><img class="wp-image-491 aligncenter" title="cs_go_config_title" alt="" src="/wp-content/uploads/sites/2/2012/10/cs_go_config_title.jpg" width="360" height="180" srcset="/wp-content/uploads/sites/2/2012/10/cs_go_config_title.jpg 600w, /wp-content/uploads/sites/2/2012/10/cs_go_config_title-300x150.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></p>
+<p>&nbsp;</p>
+<p>Hier findet ihr die Configs der wohl besten CS:GO Spieler. Diese Sektion wird nach und nach weiter mit Configs gefüllt.</p>
+<p>&nbsp;</p>
+<p><img class="alignnone" title="Alternate Attax" alt="" src="https://www.ckras.com/images/layout/partner_attax.jpg" width="128" height="117" /></p>
+<p><strong>Alternate attaX (Stand 25.02.2013):</strong></p>
+<p>Download Config von:  <a href="http://www.team-alternate.de/?s=downloads&amp;cmd=download&amp;id=896" rel="nofollow">ALTERNATE attaX | mnL CS: GO Config</a> (Stand: August 2012)</p>
+<p>Download Config von <a href="http://www.team-alternate.de/?s=downloads&amp;cmd=download&amp;id=897" rel="nofollow">ALTERNATE attaX | kRYSTAL CS: GO Config</a>  (Stand: August 2012)</p>
+<p>&nbsp;</p>
+<p><img class="alignnone" title="Ninja In Pyjamas" alt="" src="http://upload.wikimedia.org/wikipedia/en/b/be/Nip_logo.png" width="100" height="100" /></p>
+<p><strong>NiP &#8211; Ninja in Pyjamas (Stand 26.03.2013):</strong></p>
+<p>Download Config von: NiP &#8211; GeT_RiGhT CS:GO Config &#8211; <a href="http://www.downloadcsgo.com/wp-content/uploads/sites/2/2012/09/CSGO-Updated1345394917-2.rar" target="_blank" rel="nofollow">Download Link</a></p>
+<p>Download Config von: NiP -f0rest CS:GO Config – <a href="http://www.downloadcsgo.com/wp-content/uploads/sites/2/2012/09/file_184609935005793_2526_1.rar" target="_blank" rel="nofollow">Download Link</a></p>
+<p>Download Config von: NiP -friberg CS:GO Config – <a href="http://www.downloadcsgo.com/wp-content/uploads/sites/2/2012/09/file_184609935005793_2526_2.rar" target="_blank" rel="nofollow">Download Link</a></p>
+<p>Download Config von: NiP -Xizt CS:GO Config – <a href="http://www.downloadcsgo.com/wp-content/uploads/sites/2/2012/09/file_184609935005793_2526_3.rar" target="_blank" rel="nofollow">Download Link</a></p>
+<p>Download Config von: NiP &#8211; Fifflaren CS:GO Config – <a href="http://www.downloadcsgo.com/wp-content/uploads/sites/2/2012/09/file_184609935005793_2526_4.rar" target="_blank" rel="nofollow">Download Link</a></p>
+<p>&nbsp;</p>
+<p><img class="alignnone" title="Faculty" alt="" src="http://esport-wiki.ingame.de/images/thumb/a/a0/Esport_nfaculty.gif/150px-Esport_nfaculty.gif" width="150" height="153" /></p>
+<p><strong>n!faculty &#8211; (Stand 26.03.2013)</strong></p>
+<p>Download Config von n!faculty &#8211; d!sruptor CS:GO Config &#8211; <a href="http://faculty.de/dl.php?id=137&amp;mirror=0">Download Link</a></p>
+<p>&nbsp;</p>
+<p><img class="alignnone" alt="" src="http://media.steampowered.com/steamcommunity/public/images/avatars/08/0895dff802d4bd100d4665dfa81f6514b9bf6983_full.jpg" width="184" height="184" /></p>
+<p><strong>Verygames &#8211; (Stand 16.04.2013)</strong></p>
+<p>Download Config von: Verygames &#8211; KennyS CS:GO Config &#8211; <a href="http://www.2shared.com/file/uOy6QfaA/cfg.html">Download Link</a></p>
+<p>&nbsp;</p>
+<p><img class="alignnone" alt="" src="http://absolutelegends.cachefly.net/src/uploads/pw-upload/absolutelegends1_1338632870.png" width="225" height="225" /></p>
+<p><strong>Absolute Legends &#8211; (Stand 16.04.2013)</strong></p>
+<p>Download Config von AL &#8211; zneel CS:GO Config &#8211; <a href="http://www.speedyshare.com/xJbsF/zneelconfig.rar">Download Link</a></p>
+<p>&nbsp;</p>
+<p>Sichert bitte vorher eure alte Config bzw. benennt sie um in config.backup.cfg</p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-progamer-config-download/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Buyscript [Tutorial]</title>
+		<link>/csgo-buyscript-tutorial/</link>
+		<comments>/csgo-buyscript-tutorial/#comments</comments>
+		<pubDate>Mon, 15 Oct 2012 19:55:14 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Configs]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Die Config]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Scripts]]></category>
+		<category><![CDATA[Buyscript]]></category>
+		<category><![CDATA[buyscript anleitung]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[exec]]></category>
+		<category><![CDATA[selber schreiben]]></category>
+		<category><![CDATA[so gehts]]></category>
+		<category><![CDATA[tasten belegen]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[Waffennamen]]></category>
+
+		<guid isPermaLink="false">/?p=496</guid>
+		<description><![CDATA[Über die Jahre ist das Buyscript schreiben sehr einfach und elegant geworden. Dadurch, dass die Waffen eindeutige Namen besitzen (siehe unter Waffennamen), kannst du mit folgenden Befehlen per Tastendruck in der Buyzone ein Objekt&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p style="text-align: center"><a href="/wp-content/uploads/sites/2/2012/10/cs_go_buyscript_png.png"><img class=" wp-image-505 aligncenter" title="cs_go_buyscript_png" alt="" src="/wp-content/uploads/sites/2/2012/10/cs_go_buyscript_png.png" width="360" height="180" srcset="/wp-content/uploads/sites/2/2012/10/cs_go_buyscript_png.png 600w, /wp-content/uploads/sites/2/2012/10/cs_go_buyscript_png-300x150.png 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></p>
+<p>Über die Jahre ist das Buyscript schreiben sehr einfach und elegant geworden. Dadurch, dass die Waffen eindeutige Namen besitzen (siehe unter <a title="CS:GO Waffennamen" href="/die-neuen-waffennamen/">Waffennamen</a>), kannst du mit folgenden Befehlen per Tastendruck in der Buyzone ein Objekt oder sogar mehrere Objekte kaufen. Die unten stehenden Kommandos müssen in die config.cfg geschrieben werden oder alternativ dazu in eine &#8222;buyscript.cfg&#8220;, diese bitte im Editor neu erstellen. Nachdem ihr alle Befehle hinein geschrieben habt, speichert diese ab und fügt in die config.cfg an letzer Stelle ein &#8222;exec buyscript.cfg&#8220;. So wird die Buyscript.cfg automatisch geladen, wenn ihr das Spiel startet.</p>
+<p>Hier nun die Befehle:</p>
+<p><strong>bind &#8222;f&#8220; &#8222;buy deagle&#8220; </strong></p>
+<p><em>Hiermit kauft ihr eine Flashbang:</em></p>
+<p><strong>bind &#8222;f&#8220; &#8222;buy flashbang&#8220;</strong></p>
+<p><em>Um mehrere Sachen gleichzeitig zu kaufen:</em></p>
+<p><strong>bind &#8222;f&#8220; &#8222;buy famas; buy flashbang&#8220;</strong></p>
+<p>ebenfalls erweiterbar um z.B. ein Kevlar mit Helm</p>
+<p><strong>bind &#8222;f&#8220; &#8222;buy famas; buy flashbang; buy vesthelm&#8220;.</strong></p>
+<p>&nbsp;</p>
+<p>So kannst du ganz einfach dein eigenes Buyscript erstellen.  Hier nochmal die <a title="CS:GO Waffennamen" href="/die-neuen-waffennamen/">Waffennamen</a> und die <a href="/tastaturbelegung-ubersicht-buyscript/">Tastaturübersicht</a>.</p>
+<p>Viel Spaß dabei <img src="https://s.w.org/images/core/emoji/11/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-buyscript-tutorial/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

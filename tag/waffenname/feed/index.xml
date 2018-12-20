@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Waffenname &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/waffenname/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>Waffenname &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Die &#8222;neuen&#8220; Waffennamen</title>
+		<link>/die-neuen-waffennamen/</link>
+		<comments>/die-neuen-waffennamen/#comments</comments>
+		<pubDate>Sat, 13 Oct 2012 15:09:30 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Die Config]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[Buyscript]]></category>
+		<category><![CDATA[Config]]></category>
+		<category><![CDATA[Config.cfg]]></category>
+		<category><![CDATA[Granaten]]></category>
+		<category><![CDATA[Script]]></category>
+		<category><![CDATA[waffen]]></category>
+		<category><![CDATA[Waffenname]]></category>
+
+		<guid isPermaLink="false">/?p=234</guid>
+		<description><![CDATA[Hier eine Liste der &#8222;neuen&#8220; Waffennamen und deren Name in der Config. (Wichtig für das Buyscript) &#160; Pistolen: Name Name in der Config Glock-18 &#8222;glock&#8220; P2000 (CT) &#8222;hkp2000&#8220; Tec-9 (T) &#8222;tec9&#8220; P250 &#8222;p250&#8220; Desert&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Hier eine Liste der &#8222;neuen&#8220; Waffennamen und deren Name in der Config. (Wichtig für das Buyscript)<span id="more-234"></span></p>
+<p>&nbsp;</p>
+<p><span style="text-decoration: underline">Pistolen:</span></p>
+<table border="1">
+<tbody>
+<tr>
+<th>Name</th>
+<th>Name in der Config</th>
+</tr>
+<tr>
+<td width="200">Glock-18</td>
+<td>&#8222;glock&#8220;</td>
+</tr>
+<tr>
+<td>P2000 (CT)</td>
+<td>&#8222;hkp2000&#8220;</td>
+</tr>
+<tr>
+<td>Tec-9 (T)</td>
+<td>&#8222;tec9&#8220;</td>
+</tr>
+<tr>
+<td>P250</td>
+<td>&#8222;p250&#8220;</td>
+</tr>
+<tr>
+<td>Desert Eagle</td>
+<td>&#8222;deagle&#8220;</td>
+</tr>
+<tr>
+<td>Dual Berettas</td>
+<td>&#8222;elites&#8220;</td>
+</tr>
+<tr>
+<td>Five-Seven</td>
+<td>&#8222;fiveseven&#8220;</td>
+</tr>
+</tbody>
+</table>
+<p><span style="text-decoration: underline">Shotguns:</span></p>
+<table border="1">
+<tbody>
+<tr>
+<th>Name</th>
+<th>Name in der Config</th>
+</tr>
+<tr>
+<td width="200">Nova</td>
+<td>“nova”</td>
+</tr>
+<tr>
+<td>Abgesägte Schrotflinte (T)</td>
+<td>“sawedoff”</td>
+</tr>
+<tr>
+<td>MAG-7 (CT)</td>
+<td>“mag7″</td>
+</tr>
+<tr>
+<td>XM1014</td>
+<td>“xm1014″</td>
+</tr>
+</tbody>
+</table>
+<p><span style="text-decoration: underline">Sub Machine Guns:</span></p>
+<table border="1">
+<tbody>
+<tr>
+<th>Name</th>
+<th>Name in der Config</th>
+</tr>
+<tr>
+<td width="200">Mac-10 (T)</td>
+<td>“mac10″</td>
+</tr>
+<tr>
+<td>MP9 (CT)</td>
+<td>“mp9&#8243;</td>
+</tr>
+<tr>
+<td>MAG-7 (CT)</td>
+<td>“mag7″</td>
+</tr>
+<tr>
+<td>PP-Bizon</td>
+<td>“bizon”</td>
+</tr>
+<tr>
+<td>UMP-45</td>
+<td>&#8222;ump45&#8220;</td>
+</tr>
+<tr>
+<td>MP7</td>
+<td>&#8222;mp7&#8220;</td>
+</tr>
+<tr>
+<td>P90</td>
+<td>&#8222;p90&#8220;</td>
+</tr>
+</tbody>
+</table>
+<p><span style="text-decoration: underline">Rifles:</span></p>
+<table border="1">
+<tbody>
+<tr>
+<th>Name</th>
+<th>Name in der Config</th>
+</tr>
+<tr>
+<td width="200">Galil AR (T)</td>
+<td>“galilar”</td>
+</tr>
+<tr>
+<td>AK-47 (T)</td>
+<td>“ak47″</td>
+</tr>
+<tr>
+<td>FAMAS (CT)</td>
+<td>“famas”</td>
+</tr>
+<tr>
+<td>M4A1 (CT)</td>
+<td>“m4a1″</td>
+</tr>
+<tr>
+<td>AUG (CT)</td>
+<td>&#8222;aug”</td>
+</tr>
+<tr>
+<td>SG 556 (T)</td>
+<td>&#8222;sg556″</td>
+</tr>
+<tr>
+<td>SSG 08</td>
+<td>“ssg08″</td>
+</tr>
+<tr>
+<td>AWP</td>
+<td>&#8222;awp&#8220;</td>
+</tr>
+<tr>
+<td>G3SG1 (T)</td>
+<td>“g3sg1″</td>
+</tr>
+<tr>
+<td>SCAR-20 (CT)</td>
+<td>“scar20″</td>
+</tr>
+</tbody>
+</table>
+<p><span style="text-decoration: underline">Machine Guns:</span></p>
+<table border="1">
+<tbody>
+<tr>
+<th>Name</th>
+<th>Name in der Config</th>
+</tr>
+<tr>
+<td width="200">M249</td>
+<td>“m249″</td>
+</tr>
+<tr>
+<td>Negev</td>
+<td>“negev”</td>
+</tr>
+</tbody>
+</table>
+<p><span style="text-decoration: underline">Equipment:</span></p>
+<table border="1">
+<tbody>
+<tr>
+<th>Name</th>
+<th>Name in der Config</th>
+</tr>
+<tr>
+<td width="200">Kevlar-West</td>
+<td>“vest”</td>
+</tr>
+<tr>
+<td>Kevlar-West + Helm</td>
+<td>“vesthelm”</td>
+</tr>
+<tr>
+<td>Defuse-Kit</td>
+<td>“defuser”</td>
+</tr>
+<tr>
+<td>Zeus x27</td>
+<td>“taser”</td>
+</tr>
+</tbody>
+</table>
+<p><span style="text-decoration: underline">Granaten:</span></p>
+<table border="1">
+<tbody>
+<tr>
+<th>Name</th>
+<th>Name in der Config</th>
+</tr>
+<tr>
+<td width="200">Flashbang</td>
+<td>“flashbang”</td>
+</tr>
+<tr>
+<td>High Explosive Grenade</td>
+<td>“hegrenade”</td>
+</tr>
+<tr>
+<td>Smoke Grenade</td>
+<td>“smokegrenade”</td>
+</tr>
+<tr>
+<td>Decoy Grenade</td>
+<td>“decoy”</td>
+</tr>
+<tr>
+<td>Molotov</td>
+<td>“molotov”</td>
+</tr>
+<tr>
+<td>Fire Grenade</td>
+<td>“incgrenade”</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/die-neuen-waffennamen/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

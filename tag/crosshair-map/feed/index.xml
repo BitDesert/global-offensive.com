@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>crosshair map &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/crosshair-map/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>crosshair map &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Crosshair Generator Map &#8211; Richtiges Crosshair verwenden &#8211; Genial! (Video)</title>
+		<link>/csgo-crosshair-generator-map-richtiges-crosshair-verwenden-genial-video/</link>
+		<comments>/csgo-crosshair-generator-map-richtiges-crosshair-verwenden-genial-video/#respond</comments>
+		<pubDate>Mon, 01 Sep 2014 15:50:13 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[crosshair map]]></category>
+		<category><![CDATA[Generator]]></category>
+		<category><![CDATA[Guide]]></category>
+
+		<guid isPermaLink="false">/?p=2802</guid>
+		<description><![CDATA[Neue sehr umfangreiche Crosshair Generator Map Sicherlich kennen die meisten von euch schon den Crosshair Generator ( Hier klicken ), jetzt hat sich aber das  Steam Community Mitglied &#8222;crashz&#8220; die Arbeit gemacht, eine wirklich sinnvolle&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Neue sehr umfangreiche Crosshair Generator Map</h3>
+<p>Sicherlich kennen die meisten von euch schon den Crosshair Generator (<a href="http://crosshair.global-offensive.com/" target="_blank"> Hier klicken </a>), jetzt hat sich aber das  Steam Community Mitglied &#8222;crashz&#8220; die Arbeit gemacht, eine wirklich sinnvolle und umfangreiche Mini-Map zu erstellen, in der Ihr euch mit eurem zu erstellenden Crosshair richtig austoben könnt.</p>
+<p>In der Map habt ihr die Möglichkeit per einfachen &#8222;Schuss&#8220; auf verschiedene Knöpfe sofort das Crosshair abzuändern, ihr könnt die Styles, Farben, Hintergründe etc. sehr einfach ändern ohne große in der Config bzw. im Einstellungsmenü rum zu tüfteln.</p>
+<p>In diesem Video wird euch die Funktionalität und die Anwendung kurz gezeigt.</p>
+<p><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=308490450" target="_blank">Hier gehts zum Download / Abonnieren der Map.</a></p>
+<p><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=308490450" target="_blank">Download der Map im Steam Community Bereich.</a></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-crosshair-generator-map-richtiges-crosshair-verwenden-genial-video/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

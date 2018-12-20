@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>expert &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/expert/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>expert &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Update: Operation Hydra &#8211; Weapons Expert nun spielbar außerdem neuer Scoreboard Bug!</title>
+		<link>/csgo-update-operation-hydra-weapons-expert-nun-spielbar-ausserdem-neuer-scoreboard-bug/</link>
+		<comments>/csgo-update-operation-hydra-weapons-expert-nun-spielbar-ausserdem-neuer-scoreboard-bug/#respond</comments>
+		<pubDate>Thu, 08 Jun 2017 13:33:42 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[expert]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[weapons]]></category>
+
+		<guid isPermaLink="false">/?p=3715</guid>
+		<description><![CDATA[Weapons Expert nun spielbar Inzwischen geht Operation Hydra in die dritte Woche . Wie ihr wisst, bedeutet das nun dass der nächste Modi spielbar ist. Weapons Expert sorgt auf 30 Runden dafür dass ich&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Weapons Expert nun spielbar</h3>
+<p>Inzwischen geht Operation Hydra in die dritte Woche . Wie ihr wisst, bedeutet das nun dass der nächste Modi spielbar ist. Weapons Expert sorgt auf 30 Runden dafür dass ich im Wettkampfmodus nur jede Waffe genau einmal kaufen könnt. Ihr müsst somit genau überlegen wann ihr welche Waffen kauft. So wäre es natürlich suboptimal in in den letzten Runden lediglich die Pistolen spielbar zu haben, die Gegner werden vermutlich die Rifles bis zum Schluss aufbewahren. Spielt Ihr Weapons Expert so erhaltet ihr auch einen extra Rang hierfür.</p>
+<h3>Bugs, Bugs und noch mehr Bugs..</h3>
+<p>Wie es scheint, prüft Valve vor Veröffentlichung der Updates nicht immer ganz genau die Auswirkungen. So berichten Spieler über Bugs während des Spiels! Zum einen berichten Spieler über Schüsse welche auf den Gegner gerichtet werden jedoch nicht dort einschlagen sondern direkt in den Boden unterhalb der Spielfigur vom Gegner. Dieses ist zwar nur Client-Seitig, sprich die &#8222;hits&#8220; treffen schon den Spieler (auf dem Server), jedoch wird dieses euch anders angezeigt und kann unter Umständen sehr störend sein.</p>
+<p>Darüber hinaus gibt es derzeit ein Problem mit dem Scoreboard, üblicherweise werden nur die Ranks der Mitspieler angezeigt, nun sieht man auch ab und zu die Ranks der Gegner. Jedoch auch hier ist es so, man sieht nur die eigenen Ranks welche auf den Gegner gespiegelt werden.</p>
+<h3>Und hier gibt es die Update log:</h3>
+<blockquote>
+<h6>[ TWITCH INTEGRATION ]<br />
+* Added listing of some gamemodes in Twitch.tv CS:GO header in addition to maps.</h6>
+<h6>[ OPERATION HYDRA ]<br />
+* Fixed various bugs<br />
+* Added Hydra competitive rank display to lobbies &amp; nearby lobby display for Hydra modes.<br />
+* Flying Scoutsman: Increase sv_airaccelerate from 477 to 20000<br />
+* Stab Stab Zap: Replaced dust2 with shorttrain</h6>
+<h6>[ MAPS ]<br />
+* Fixed fade-to-black bug in Deathmatch on cs_insertion<br />
+* Updated de_shipped to latest version from mapmakers<br />
+* Fixed a regression in lighting for old community maps that interacted badly with new lighting features. Newer maps with lighting problems can be fixed by recompiling them in Hammer.<br />
+* Added player clipping above boxes at CT spawn in de_shortdust to prevent visibility in unintended areas</h6>
+<h6>[ MISC ]<br />
+* Added more back-end UI work in preparation for Panorama switch. Please report any new UI bugs to csgoteamfeedback@valvesoftware.com<br />
+* Fixed tickrate-dependence in spray patterns for fast-firing weapons. Thanks SlothSquadron &amp; friends!<br />
+* Fixed incorrect skin tones on some player gloves<br />
+* Fixeded a bug where 2v2 scoreboard would show round win icons for the first half on the wrong side after halftime<br />
+* Updated Operation Hydra gamemode names used in Rich Presence</h6>
+</blockquote>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-update-operation-hydra-weapons-expert-nun-spielbar-ausserdem-neuer-scoreboard-bug/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

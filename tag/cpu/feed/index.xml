@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>cpu &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/cpu/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>cpu &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Systemanforderungen CS:GO Counter-Strike Global Offensive / System requirements</title>
+		<link>/systemanforderungen-csgo-counter-strike-global-offensive/</link>
+		<comments>/systemanforderungen-csgo-counter-strike-global-offensive/#respond</comments>
+		<pubDate>Wed, 14 Nov 2012 15:55:19 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[arbeitsspeicher]]></category>
+		<category><![CDATA[betriebssystem]]></category>
+		<category><![CDATA[cpu]]></category>
+		<category><![CDATA[festplatte]]></category>
+		<category><![CDATA[GB]]></category>
+		<category><![CDATA[grafikanforderungen]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[minimale anforderungen]]></category>
+		<category><![CDATA[prozessor]]></category>
+		<category><![CDATA[Ram]]></category>
+		<category><![CDATA[system requirement]]></category>
+		<category><![CDATA[systemanforderungen]]></category>
+
+		<guid isPermaLink="false">/?p=1093</guid>
+		<description><![CDATA[Hier kurz die Systemanforderungen welche für CS:GO gelten: Systemvoraussetzungen (Windows) Betriebssystem: Windows® 7/Vista/XP und auch Windows 8 Prozessor: Intel® Core™ 2 Duo E6600 oder AMD Phenom™ X3 8750 Prozessor oder besser Speicher: 1 GB XP / 2&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Hier kurz die Systemanforderungen welche für CS:GO gelten:</p>
+<h2>Systemvoraussetzungen (Windows)</h2>
+<div id="game_area_sys_req_full">
+<ul>
+<ul>
+<li><strong>Betriebssystem:</strong> Windows® 7/Vista/XP und auch Windows 8</li>
+<li><strong>Prozessor:</strong> Intel® Core<img src="https://s.w.org/images/core/emoji/11/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 2 Duo E6600 oder AMD Phenom<img src="https://s.w.org/images/core/emoji/11/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> X3 8750 Prozessor oder besser</li>
+<li><strong>Speicher:</strong> 1 GB XP / 2 GB Vista</li>
+<li><strong>Festplatte:</strong> Mind. 7,6 GB frei</li>
+<li><strong>Grafikkarte:</strong>256 MB oder mehr, DirectX 9-kompatibel mit Unterstützung für Pixel Shader 3.0</li>
+</ul>
+</ul>
+</div>
+<div></div>
+<div id="game_area_sys_req">
+<h2>Systemvoraussetzungen (Mac)</h2>
+<div id="game_area_sys_req_full">
+<ul>
+<ul>
+<li><strong>Betriebssystem:</strong> MacOS X 10.6.6 oder höher</li>
+<li><strong>Prozessor:</strong> Intel Core Duo Prozessor (2 GHz oder besser)</li>
+<li><strong>Speicher:</strong> 2 GB RAM</li>
+<li><strong>Festplatte:</strong> Mind. 7,6 GB frei</li>
+<li><strong>Grafikkarte:</strong> ATI Radeon HD 2400 oder besser / NVidia 8600M oder besser</li>
+</ul>
+</ul>
+</div>
+<div></div>
+</div>
+<div>
+<div>
+<h4>Empfohlen</h4>
+</div>
+</div>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/systemanforderungen-csgo-counter-strike-global-offensive/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

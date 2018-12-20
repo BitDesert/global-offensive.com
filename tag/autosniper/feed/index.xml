@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>autosniper &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/autosniper/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>autosniper &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO DreamHack Summer 2013 &#8211; Highlights</title>
+		<link>/csgo-dreamhack-summer-2013-highlights/</link>
+		<comments>/csgo-dreamhack-summer-2013-highlights/#comments</comments>
+		<pubDate>Tue, 09 Jul 2013 15:14:52 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[2013]]></category>
+		<category><![CDATA[ace]]></category>
+		<category><![CDATA[autosniper]]></category>
+		<category><![CDATA[awp]]></category>
+		<category><![CDATA[dreamhack]]></category>
+		<category><![CDATA[epsilon]]></category>
+		<category><![CDATA[esc]]></category>
+		<category><![CDATA[frag]]></category>
+		<category><![CDATA[frags]]></category>
+		<category><![CDATA[highlights]]></category>
+		<category><![CDATA[Movie]]></category>
+		<category><![CDATA[NIP]]></category>
+		<category><![CDATA[summer]]></category>
+		<category><![CDATA[virtus.pro]]></category>
+
+		<guid isPermaLink="false">/?p=1730</guid>
+		<description><![CDATA[Hier ein kleines Fragmovie von der DreamHack Summer 2013. Wie ich finde ein sehr netter Zusammenschnitt &#8211; schöne aces &#8211; nette Autosniper shoots &#8211; seht selbst! Plazierung: 1. NiP Gaming &#8212; 70,000 SEK (~$10,800)&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Hier ein kleines Fragmovie von der DreamHack Summer 2013.<br />
+Wie ich finde ein sehr netter Zusammenschnitt &#8211; schöne aces &#8211; nette Autosniper shoots &#8211; seht selbst!</p>
+<p><b>Plazierung:</b></p>
+<p>1. NiP Gaming &#8212; 70,000 SEK (~$10,800)<br />
+2. Epsilon &#8212; 40,000 SEK (~$6,200)<br />
+3-4. Virtus.pro &#8212; 25,000 SEK (~$3,900)<br />
+3-4. LDLC.com &#8212; 25,000 SEK (~$3,900)<br />
+5-8. Copenhagen Wolves &#8212; 10,000 SEK (~$1,500)<br />
+5-8. Western Wolves &#8212; 10,000 SEK (~$1,500)<br />
+5-8. Lemondogs &#8212; 10,000 SEK (~$1,500)<br />
+5-8. ESC Gaming &#8212; 10,000 SEK (~$1,500)</p>
+<p></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-dreamhack-summer-2013-highlights/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

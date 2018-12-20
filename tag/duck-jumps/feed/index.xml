@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>duck jumps &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/duck-jumps/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>duck jumps &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Special Spots &#038; Boost-Jumps mit Mitspieler auf de_inferno [Tipps &#038; Tricks Video]</title>
+		<link>/csgo-special-spots-boost-jumps-mit-mitspieler-auf-de_inferno-tipps-tricks-video/</link>
+		<comments>/csgo-special-spots-boost-jumps-mit-mitspieler-auf-de_inferno-tipps-tricks-video/#respond</comments>
+		<pubDate>Tue, 23 Jul 2013 10:10:56 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[de_inferno_se]]></category>
+		<category><![CDATA[Granaten]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Taktik]]></category>
+		<category><![CDATA[Video Guides]]></category>
+		<category><![CDATA[Anleitung]]></category>
+		<category><![CDATA[boost]]></category>
+		<category><![CDATA[de_inferno]]></category>
+		<category><![CDATA[duck jumps]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Tricks]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[video]]></category>
+
+		<guid isPermaLink="false">/?p=1755</guid>
+		<description><![CDATA[Wir sind aus dem Urlaub wieder zurück und das gleich mit einem tollen Video. Hier mal ein wirklich gelungenes Video vom Youtuber TrilluX wo er zeigt, welche Spots ( Bereiche ) man auf Counter-Strike:&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Wir sind aus dem Urlaub wieder zurück und das gleich mit einem tollen Video.</p>
+<p>Hier mal ein wirklich gelungenes Video vom Youtuber TrilluX wo er zeigt, welche Spots ( Bereiche ) man auf Counter-Strike: Global-Offensive Map de_inferno mit einem Teamkameraden alle erreichen kann. Einige Spots kannten selbst wir nicht und aus diesem Grund möchten wir dieses Video euch nicht vorenthalten.</p>
+<p>Es lohnt sich auf jeden Fall dieses Video anzuschauen um sich taktische Vorteile gegenüber dem gegnerischen Team zu erhaschen.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-special-spots-boost-jumps-mit-mitspieler-auf-de_inferno-tipps-tricks-video/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

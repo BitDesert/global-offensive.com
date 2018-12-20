@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deagle &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/deagle/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>Deagle &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS: GO Update &#8211; Deagle genauer, Mag-7 teurer, UMP günstiger, Mac-10 schneller, nun auch 4 Granaten</title>
+		<link>/cs-go-update-deagle-genauer-mag-7-teurer-ump-gunstiger-mac-10-schneller-nun-auch-4-granaten/</link>
+		<comments>/cs-go-update-deagle-genauer-mag-7-teurer-ump-gunstiger-mac-10-schneller-nun-auch-4-granaten/#respond</comments>
+		<pubDate>Thu, 02 May 2013 14:27:18 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[cs: go]]></category>
+		<category><![CDATA[Deagle]]></category>
+		<category><![CDATA[genauer]]></category>
+		<category><![CDATA[mac]]></category>
+		<category><![CDATA[ump]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[Was ist neu?]]></category>
+
+		<guid isPermaLink="false">/?p=1447</guid>
+		<description><![CDATA[Waffenupdate für CS: GO was wurde verändert? Wie wir gerade festgestellt haben, wurde erneut ein CS:GO Update mit interessanten Änderungen released. Neben eher unwesentlich beeinträchtigten Änderungen an Maps wie Bugfixes und einigen Soundbugs wurde&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3><a href="/wp-content/uploads/sites/2/2013/05/cs_go_update_waffen.png"><img class="aligncenter size-full wp-image-1449" title="cs_go_update_waffen" src="/wp-content/uploads/sites/2/2013/05/cs_go_update_waffen.png" alt="" width="280" height="120" /></a></h3>
+<h3>Waffenupdate für CS: GO was wurde verändert?</h3>
+<p>Wie wir gerade festgestellt haben, wurde erneut ein CS:GO Update mit interessanten Änderungen released. Neben eher unwesentlich beeinträchtigten Änderungen an Maps wie Bugfixes und einigen Soundbugs wurde allerdings auch die Waffen in CS: GO getweaked.</p>
+<p>Es wurden nun Bodygroups erstellt was den Vorteil hat dass nun Schüsse die durch den Arm des Models dahinter in den Kopf einschlagen, dementsprechend auch ein Headshot vorliegt. Vorher wurde nur Schaden für den Treffer im Arm gezählt. Für uns ganz klar eines der wichtigsten Änderungen in diesem Patch.</p>
+<p>Zitat aus Release Note:</p>
+<p>&#8222;<strong>Implemented bodygroups penetration for maximum damage, now shooting through arms at the enemies head will apply headshot damage, or shooting through arms at the stomach will apply stomach damage multiplier.&#8220;</strong></p>
+<h3>Waffenänderungen konkret:</h3>
+<p><strong>Granaten:</strong><br />
+Können nun auch im Competitve Modus insgesamt 4 Granaten getragen werden. So ist es möglich auch 2 Flashbangs zu tragen +Molotov + Rauchgranate.</p>
+<p><strong>Deagle:<br />
+</strong>Wurde genauer gemacht.<br />
+&#8222;<strong>Reduced inaccuracy.&#8220;</strong></p>
+<p><strong>Mag-7:</strong><br />
+Wurde &#8222;schneller&#8220; gemacht, sprich es werden nun mehr Schüsse in 1 Sekunde abgegeben. Darüber hinaus wurde die Mag7 auch teurer.<br />
+&#8222;<strong>Increased cycletime. Increased cost.&#8220;</strong></p>
+<p><strong>XM-1014:</strong><br />
+Mehr schaden durch die Rüstung und ebenfalls wie die Mag-7 schneller.<br />
+&#8222;<strong>Increased ArmorRatio. Increased cycletime.&#8220;</strong></p>
+<p><strong>UMP-45:</strong><br />
+Günstiger geworden und weniger Recoil.<br />
+&#8222;<strong>Reduced price. Reduced recoil angle variance.&#8220;</strong></p>
+<p><strong>Mac-10: </strong><br />
+Ebenfalls schneller und günstiger geworden.<br />
+&#8222;<strong>Increased maxspeed. Reduced price.&#8220;</strong></p>
+<p>Darüber hinaus wurde wie schon erwähnt kleinere Änderungen durchgeführt auf die wir aber nicht weiter eingehen.</p>
+<p><strong>Hier die Release Note:</strong></p>
+<p><strong>-Tweaked weapons</strong><br />
+<strong>   DEAGLE: Reduced inaccuracy.</strong><br />
+<strong>   Mag-7: Increased cycletime. Increased cost.</strong><br />
+<strong>   XM-1014: Increased ArmorRatio. Increased cycletime.</strong><br />
+<strong>   UMP-45: Reduced price. Reduced recoil angle variance.</strong><br />
+<strong>   Mac-10: Increased maxspeed. Reduced price.</strong><br />
+<strong>-Classic Competitive now allows 2 flashbangs and 4 grenades total.</strong><br />
+<strong>-Implemented bodygroups penetration for maximum damage, now shooting through arms at the enemies head will apply headshot damage, or shooting through arms at the stomach will apply stomach damage multiplier.</strong><br />
+<strong>-Removed aimpunch resulting from getting shot in the arms or legs.</strong><br />
+<strong>-Auto switch when dropping a weapon (or after throwing a grenade) avoids weapons with 0 bullets in the clip.</strong><br />
+<strong>-Reduced environment fog when scoped with a weapon.</strong></p>
+<p>[ MAPS ]<br />
+-CS_Militia: Fixed collision in CT spawn, added radar names<br />
+-CS_Assault: Added radar names<br />
+-CS_Museum: Fixed and updated radar and overview scales.<br />
+-DE_Library: Fixed bug where some clients would crash on bomb explosion.<br />
+-DE_Favela: Fixed bug were a prop was causing server lag, other gameplay tweaks<br />
+-DE_Seaside: Fixed bug were players would get stuck near Terrorist spawn.</p>
+<p>[ MISC ]<br />
+-Weapon inventory HUD now displays the number of grenades held of a single type.<br />
+-Fixed a sound bug that resulted in ghost footsteps when taking over bots.<br />
+-Fixed player money getting set to the wrong value if the player took over a bot in competitive and survived to the end of the round.<br />
+-Added a server convar &#8222;sv_maxusrcmdprocessticks&#8220; to limit maximum number of user commands backlog, defaulting at 3; observed player speed by others will now always be within max movement speed even when user is cheating, experiencing high packet loss or exteremely low fps.<br />
+-Vote kick will record user&#8217;s SteamID in the banlist and remove user from ongoing competitive match even if the user disconnected from game server before required number of votes have been collected.<br />
+-Spectating Operation Payback games via GOTV is now allowed without Operation Payback pass.<br />
+-Fixed crash on exit.</p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/cs-go-update-deagle-genauer-mag-7-teurer-ump-gunstiger-mac-10-schneller-nun-auch-4-granaten/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Update 21.02.2013 &#8211; Glock geschwächt, Deagle genauer</title>
+		<link>/update-21-02-2013-glock-geschwacht-deagle-genauer/</link>
+		<comments>/update-21-02-2013-glock-geschwacht-deagle-genauer/#respond</comments>
+		<pubDate>Thu, 21 Feb 2013 16:25:36 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[21.02.2013. pistolen]]></category>
+		<category><![CDATA[belancing]]></category>
+		<category><![CDATA[Bug]]></category>
+		<category><![CDATA[Deagle]]></category>
+		<category><![CDATA[dessert eagle]]></category>
+		<category><![CDATA[fiveseven]]></category>
+		<category><![CDATA[fixes]]></category>
+		<category><![CDATA[glock]]></category>
+		<category><![CDATA[GOTV]]></category>
+		<category><![CDATA[gun]]></category>
+		<category><![CDATA[hauptmenü]]></category>
+		<category><![CDATA[nerv]]></category>
+		<category><![CDATA[pistol]]></category>
+		<category><![CDATA[probleme]]></category>
+		<category><![CDATA[tec 9]]></category>
+		<category><![CDATA[tv_enable 1. tv_relay]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[Workshop]]></category>
+
+		<guid isPermaLink="false">/?p=937</guid>
+		<description><![CDATA[&#160; Heute hat Valve mal wieder ein neuen Update herausgebracht.&#8220;Was ist neu?&#8220; Diesmal wurde mal wieder an den Pistolen gewerkelt. Anscheinend stimmte das Balancing immer noch nicht. Dazu gibt es noch einige Verbesserungen für&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>&nbsp;</p>
+<p>Heute hat Valve mal wieder ein neuen Update herausgebracht.&#8220;Was ist neu?&#8220;</p>
+<p>Diesmal wurde mal wieder an den Pistolen gewerkelt. Anscheinend stimmte das Balancing immer noch nicht. Dazu gibt es noch einige Verbesserungen für GOTV und den Maps Workshop.</p>
+<p>&nbsp;</p>
+<p><strong>Pistolen:</strong></p>
+<p>Die Glock war in letzter Zeit eine der besten Pistolen, weswegen ihr Schaden nun etwas reduziert wurde. Die Desert Eagle, welche erst kürzlich geschwächt worden ist, und dadurch eher unrentabel wurde, hat nun an Genauigkeit dazugewonnen. Bei der Fiveseven und der Tec9 wurden die Preise nach unten korrigiert, um sie wieder etwas attraktiver für Spieler zu machen.</p>
+<p>&nbsp;</p>
+<p><strong>Maps Workshop und GOTV</strong></p>
+<p>Das Update hat ein paar Probleme mit dem Maps Workshop behoben. Man bekommt nun im Hauptmenü angezeigt, ob gerade Maps heruntergeladen werde. Bei GOTV wurde das Zusammenspiel mit den Custom Maps aus dem Workshop verbessert. Interessant ist auch, dass nun &#8222;+tv_enable 1&#8220; und &#8222;tv_relay ip:port&#8220; in der Kommandozeile eines GOTV Relays angegeben werden können.<br />
+<strong>Release Notes for 2/20/2013:</strong></p>
+<blockquote><p>[ MISC ]</p>
+<p>&#8211; Reduced Glock damage.<br />
+&#8211; Reduced Deagle inaccuracy.<br />
+&#8211; Reduced Fiveseven and Tec9 prices.</p>
+<p>&#8211; Added checks to prevent clients from executing workshop concommands.<br />
+&#8211; GameModes.txt and individual map kv files now get updated and loaded everytime a new map is loaded.<br />
+&#8211; Newly subscribed maps in workshop map selector are sorted to the start of the list.<br />
+&#8211; Fixed some cases where workshop maps failed to download.<br />
+&#8211; Added status indicator to main menu that shows if maps are currently downloading.<br />
+&#8211; Added convar sv_rcon_whitelist_address, rcon clients failing to auth from the specified IP address will never get banned.<br />
+&#8211; Fixed Windows GOTV relays crashing when running without Steam client.<br />
+&#8211; Improved handling of workshop maps on GOTV relays.<br />
+&#8211; Added support for specifying +tv_enable 1 +tv_relay ip:port on GOTV relay commandline.</p></blockquote>
+<p>Quelle: <a href="http://store.steampowered.com/news/9996/" target="_blank">Steam News</a></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/update-21-02-2013-glock-geschwacht-deagle-genauer/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Neues CS:GO Update/Patch &#8211; neues Waffenverhalten uvm.</title>
+		<link>/neues-csgo-update-neues-waffenverhalten-uvm/</link>
+		<comments>/neues-csgo-update-neues-waffenverhalten-uvm/#respond</comments>
+		<pubDate>Mon, 04 Feb 2013 15:03:21 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[Änderungen]]></category>
+		<category><![CDATA[Beta Keys]]></category>
+		<category><![CDATA[cs.gov]]></category>
+		<category><![CDATA[CSTV]]></category>
+		<category><![CDATA[Deagle]]></category>
+		<category><![CDATA[Feedbacks]]></category>
+		<category><![CDATA[genauigkeit]]></category>
+		<category><![CDATA[GOTV]]></category>
+		<category><![CDATA[Map editor]]></category>
+		<category><![CDATA[Maps]]></category>
+		<category><![CDATA[Pro Series]]></category>
+		<category><![CDATA[Recoil]]></category>
+		<category><![CDATA[updates]]></category>
+		<category><![CDATA[waffenverhalten]]></category>
+
+		<guid isPermaLink="false">/?p=652</guid>
+		<description><![CDATA[Alleine in diesem Monat (Januar 2013) hat Valve wieder große Änderungen an CS:GO (Counterstrike Global Offensive) vorgenommen. Wie immer gab es eine Reihe von Feedbacks aus dem Profibereich (Pro Series Teams). Diese Feedbacks hat&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p><a href="/wp-content/uploads/sites/2/2012/10/sonstiges-vorschau.jpg"><img class="alignnone size-full wp-image-512" title="sonstiges-vorschau" src="/wp-content/uploads/sites/2/2012/10/sonstiges-vorschau.jpg" alt="" width="280" height="120" /></a></p>
+<p>Alleine in diesem Monat (Januar 2013) hat Valve wieder große Änderungen an CS:GO (Counterstrike Global Offensive) vorgenommen. Wie immer gab es eine Reihe von Feedbacks aus dem Profibereich (Pro Series Teams). Diese Feedbacks hat sich Valve zu Herzen genommen und erneut spürbare Änderungen am Gameplay von CS:GO vorgenommen. </p>
+<p>Neben den üblichen Bugfixes welche den meißten Spielern eh verborgen bleiben wurde aber auch offensichtliche Veränderungen vorgenommen. </p>
+<p>Seit dem letzten Update ist nun folgendes in CS:GO zu finden:</p>
+<ul>
+<li>Ein neuer Gamemode (Deathmatch) erlaubt es nun laut &#8222;Valve&#8220; den Spielern noch einfacher ihre Skills (Übung) zu erhöhen. Dadurch dass die Spieler nun direkt in das Spiel einsteigen und eine zufällige Waffe bekommen, trainiert dieses &#8222;enorm&#8220; die flexibilität eines einzelnen Spielers auch mit unbeliebteren Waffen.</li>
+<li>Wesentliche Änderungen im Waffenverhalten der automatischen und Handfeuerwaffen wurden vorgenommen. P90, Duals, und Deagle und vor allem spürbar das Treffverhalten der Glock wurde optimiert und realistischer gestaltet. Die Duals sind nun nicht mehr die &#8222;Wunderwaffe&#8220; und die Deagle wie auch die P90 haben nun wesentlich mehr durchsatz und Treffgenauigkeit.</li>
+<li>Private Betakeys für den Mapshop wurden eingeführt so das die Entwicklung von Maps noch einfacher durch den internen Map editor verfolgen kann.</li>
+<li>GOTV erlaubt es nun über das &#8222;freunde&#8220; Menü anderen Freunden beim Spielen zuzuschauen. Dieses muss aber vorher durch den &#8222;zuschauenden&#8220; bestätigt werden.</li>
+<li>Glock nur noch für Terroristen und Five-Seven nur noch für Counter Terroristen </li>
+<li>Molotov Brandgranate nur noch 500$</li>
+</ul>
+<div> </div>
+<p>&nbsp;</p>
+<p>Das sind die wesentlichen Änderungen. Hier nun noch mal die originale Ausgabe von Valve zum Update:</p>
+<p>Release Notes for 1/30/2013</p>
+<p>[ NOTABLE ]<br />&#8211; Nerfed the Deagle.<br />&#8211; Added a feature to spectate friends games via GOTV.<br />  -In &#8218;Play With Friends,&#8216; if a friend is on an official matchmaking server the WATCH option will appear next to their name.<br />&#8211; DM immunity changes:<br />  -Default immunity was raised to 10s.<br />  -Moving cancels immunity.</p>
+<p>[ MISC ]<br />&#8211; Fixed dedicated server memory leak.<br />&#8211; Reserved server with connected GOTV spectators will hold reservation after all players disconnected for at least TV delay time to allow spectators to watch the match to the end.<br />&#8211; Added convar sv_hibernate_punt_tv_clients to also punt lingering TV spectators after all players disconnected and at least TV delay time elapsed.<br />tv_snapshotrate will now correctly adjust client-side rates automatically for smooth spectating experience.<br />&#8211; Added convar tv_relayradio, 0 = off, 1 = relay team radio commands to GOTV (default value = 0).<br />&#8211; Added convar tv_relaytextchat, 0 = off, 1 = relay &#8222;say&#8220; chat only, 2 = relay &#8222;say&#8220; and &#8222;say_team&#8220; chat to GOTV (default value = 1).<br />&#8211; Team kills and team damage is now preserved for players in competitive games across disconnects and reconnects.<br />&#8211; Fixed a regression in naming of tv_autorecord demo files.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/neues-csgo-update-neues-waffenverhalten-uvm/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

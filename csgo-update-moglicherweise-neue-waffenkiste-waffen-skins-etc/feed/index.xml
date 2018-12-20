@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Kommentare zu: CS:GO Update: Schalldämpfer (Silencer), Waffenkiste, Waffen, Skins etc. [News]</title>
+	<atom:link href="/csgo-update-moglicherweise-neue-waffenkiste-waffen-skins-etc/feed/" rel="self" type="application/rss+xml" />
+	<link>/csgo-update-moglicherweise-neue-waffenkiste-waffen-skins-etc/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 14 Nov 2017 21:13:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<item>
+		<title>Von: Joe</title>
+		<link>/csgo-update-moglicherweise-neue-waffenkiste-waffen-skins-etc/#comment-279</link>
+		<dc:creator><![CDATA[Joe]]></dc:creator>
+		<pubDate>Fri, 16 Aug 2013 19:50:29 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1781#comment-279</guid>
+		<description><![CDATA[Lokaler Server heißt selbst gehostet? Also sprich auf deinem eigenen PC? Da kannst du über sv_cheats 1 und give_weapon &quot;Waffenname&quot; dir die waffe droppen. Warum Sie nicht kaufbar ist, ist interessant. Ist der lokale Server denn update 2 date. Sprich das neueste Update drauf?]]></description>
+		<content:encoded><![CDATA[<p>Lokaler Server heißt selbst gehostet? Also sprich auf deinem eigenen PC? Da kannst du über sv_cheats 1 und give_weapon &#8222;Waffenname&#8220; dir die waffe droppen. Warum Sie nicht kaufbar ist, ist interessant. Ist der lokale Server denn update 2 date. Sprich das neueste Update drauf?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: Chefbrownie</title>
+		<link>/csgo-update-moglicherweise-neue-waffenkiste-waffen-skins-etc/#comment-278</link>
+		<dc:creator><![CDATA[Chefbrownie]]></dc:creator>
+		<pubDate>Fri, 16 Aug 2013 13:57:09 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1781#comment-278</guid>
+		<description><![CDATA[Das Update ist ja raus. Doch ich hab zwar in meinem Profil im Inventar umgestellt auf die Schallgedämpften Waffen doch irgendwie gehen die nicht auf unserem Lokalen Server. Auf allen anderen Servern im Internet geht es. Muss man noch irgendetwas dafür konfigurieren oder irgendetwas anhaken?]]></description>
+		<content:encoded><![CDATA[<p>Das Update ist ja raus. Doch ich hab zwar in meinem Profil im Inventar umgestellt auf die Schallgedämpften Waffen doch irgendwie gehen die nicht auf unserem Lokalen Server. Auf allen anderen Servern im Internet geht es. Muss man noch irgendetwas dafür konfigurieren oder irgendetwas anhaken?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

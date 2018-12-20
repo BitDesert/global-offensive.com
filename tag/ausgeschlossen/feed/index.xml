@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ausgeschlossen &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/ausgeschlossen/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>ausgeschlossen &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Mini-Update: Mehr Prüfer für Overwatch und Crosshair Änderungen vorgenommen</title>
+		<link>/csgo-mini-update-mehr-prufer-fur-overwatch-und-crosshair-anderungen-vorgenommen/</link>
+		<comments>/csgo-mini-update-mehr-prufer-fur-overwatch-und-crosshair-anderungen-vorgenommen/#respond</comments>
+		<pubDate>Thu, 06 Jun 2013 18:34:16 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Overwatch]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[ausgeschlossen]]></category>
+		<category><![CDATA[classic]]></category>
+		<category><![CDATA[crosshair]]></category>
+		<category><![CDATA[crosshaur]]></category>
+		<category><![CDATA[gebannt]]></category>
+		<category><![CDATA[Investigators]]></category>
+		<category><![CDATA[klassisch]]></category>
+		<category><![CDATA[Match making]]></category>
+		<category><![CDATA[overwatch]]></category>
+		<category><![CDATA[prüfer]]></category>
+		<category><![CDATA[update]]></category>
+
+		<guid isPermaLink="false">/?p=1653</guid>
+		<description><![CDATA[Weitere Overwatch Prüfer&#8230; In der vergangenen Nacht wurde ein weiteres Update durch Valve veröffentlicht. Counter-Strike: Global-Offensive (CS:GO) und das damit verbundene Overwatch hat nun weitere Prüfer bekommen. Bist du vielleicht auch dabei?  Wenn du&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Weitere Overwatch Prüfer&#8230;</h3>
+<p>In der vergangenen Nacht wurde ein weiteres Update durch Valve veröffentlicht. Counter-Strike: Global-Offensive (CS:GO) und das damit verbundene Overwatch hat nun weitere Prüfer bekommen. Bist du vielleicht auch dabei?  Wenn du mehr als 100 gespielte Competitive Matches gespielt hast, ist die Wahrscheinlichkeit gar nicht mal so gering.</p>
+<h3>Crosshair Änderungen</h3>
+<p>Darüber hinaus wurden weitere Änderungen an dem klassischen Crosshair durchgeführt. Wer das alte (klassische) Crosshair verwendet (cl_crosshairstyle 4) wird nun beim Waffenwechsel nicht mehr die nervende in der Größe verändernde Lück finden. Das Crosshair mit seinem &#8222;Lücken&#8220; ist nun statisch beim Waffenwechsel.</p>
+<p>Sonst war nichts weiteres in dem knapp 9 MB großen Update implementiert.</p>
+<p>&nbsp;</p>
+<p>Hier noch die Changelog:</p>
+<p>[ OVERWATCH ]<br />
+&#8211; Added more investigators to the Overwatch Beta.</p>
+<p>[ MISC ]<br />
+&#8211; Added an explanation for no binary signature validation for clients running in -insecure mode.<br />
+&#8211; Fixed an exploit where clients could bypass network convar restrictions using setinfo.<br />
+&#8211; The crosshair gap size will no longer change when switching weapons while using “Classic Static” (cl_crosshairstyle 4) — other crosshair styles are unaffected.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-mini-update-mehr-prufer-fur-overwatch-und-crosshair-anderungen-vorgenommen/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Die ersten &#8222;Overwatch&#8220; Bans wurde erteilt.</title>
+		<link>/cs-go-die-ersten-overwatch-bans-wurde-erteilt/</link>
+		<comments>/cs-go-die-ersten-overwatch-bans-wurde-erteilt/#comments</comments>
+		<pubDate>Mon, 27 May 2013 21:47:35 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Overwatch]]></category>
+		<category><![CDATA[ausgeschlossen]]></category>
+		<category><![CDATA[banned]]></category>
+		<category><![CDATA[cheater]]></category>
+		<category><![CDATA[gebannt]]></category>
+		<category><![CDATA[overwatch]]></category>
+		<category><![CDATA[screenshot]]></category>
+		<category><![CDATA[Sperre]]></category>
+		<category><![CDATA[violation cooldown]]></category>
+
+		<guid isPermaLink="false">/?p=1578</guid>
+		<description><![CDATA[Vor wenigen Tagen haben wir erst über das neue Overwatch und die Beta Phase gesprochen. Wir haben einen Screenshot entdeckt welcher zeigt dass ein Spieler welcher aktiv am Matchmaking beteiligt war, durch viele Beschwerden&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Vor wenigen Tagen haben wir erst über das neue Overwatch und die Beta Phase gesprochen. Wir haben einen Screenshot entdeckt welcher zeigt dass ein Spieler welcher aktiv am Matchmaking beteiligt war, durch viele Beschwerden und letz endlich durch einen Prüfer gebannt wurde. Dieser Ban bedeutet nicht dass er von VAC Valve Anti Cheat detected wurde, sondern dass er für genau 1 Jahr vom Spiel ausgeschlossen wurde.</p>
+<p>Es wird es wird liebe Leute <img src="https://s.w.org/images/core/emoji/11/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Bleibt nur zu hoffen dass sich Overwatch weiterhin durchsetzt.</p>
+<p><a href="/wp-content/uploads/sites/2/2013/05/overwatch_bust.jpg"><img class="aligncenter size-full wp-image-1579" alt="overwatch cheater" src="/wp-content/uploads/sites/2/2013/05/overwatch_bust.jpg" width="1024" height="768" srcset="/wp-content/uploads/sites/2/2013/05/overwatch_bust.jpg 1024w, /wp-content/uploads/sites/2/2013/05/overwatch_bust-300x225.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<p>Wie wir gerade gelesen haben, gibt es wohl viele Beschwerden dass Spieler zu unrecht gebannt worden sind. Hier der Steam Diskussions Beitrag: <a href="http://steamcommunity.com/app/730/discussions/0">http://steamcommunity.com/app/730/discussions/0</a></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/cs-go-die-ersten-overwatch-bans-wurde-erteilt/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+	</channel>
+</rss>

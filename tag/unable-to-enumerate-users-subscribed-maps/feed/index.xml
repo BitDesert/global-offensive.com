@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Unable to enumerate user&#8217;s subscribed maps! &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/unable-to-enumerate-users-subscribed-maps/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>Unable to enumerate user&#8217;s subscribed maps! &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Fehler: &#8222;app already running&#8220; und  &#8220; This game requires steam&#8220;</title>
+		<link>/csgo-fehler-app-already-running-und-this-game-requires-steam/</link>
+		<comments>/csgo-fehler-app-already-running-und-this-game-requires-steam/#comments</comments>
+		<pubDate>Tue, 05 Feb 2013 13:10:37 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[app already running]]></category>
+		<category><![CDATA[aufgehangen]]></category>
+		<category><![CDATA[CSGO.exe]]></category>
+		<category><![CDATA[error]]></category>
+		<category><![CDATA[failure]]></category>
+		<category><![CDATA[fehler]]></category>
+		<category><![CDATA[Ihr client benötigt ein Update]]></category>
+		<category><![CDATA[starten sie bitte das Spiel neu]]></category>
+		<category><![CDATA[Steam]]></category>
+		<category><![CDATA[taskmanager]]></category>
+		<category><![CDATA[This game requires steam]]></category>
+		<category><![CDATA[Um das Update zu errhalten]]></category>
+		<category><![CDATA[Unable to enumerate user's subscribed maps!]]></category>
+
+		<guid isPermaLink="false">/?p=979</guid>
+		<description><![CDATA[Aufgrund mehrfacher Nachfrage per Email. Diese Meldung erscheint wenn ihr ein Game wie Counter-Strike Global-Offensive.com starten wollt obwohl das Spiel bzw. eine Ausführung der Datei schon geöffnet ist. Die Meldung erscheint außerdem wenn ihr&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Aufgrund mehrfacher Nachfrage per Email. Diese Meldung erscheint wenn ihr ein Game wie Counter-Strike Global-Offensive.com starten wollt obwohl das Spiel bzw. eine Ausführung der Datei schon geöffnet ist. Die Meldung erscheint außerdem wenn ihr das Spiel offensichtlich nicht auf habt es aber noch im &#8222;Task Manager&#8220; von Windows (STR+ALT+ENTF) -&gt; Startmanager starten noch unter Prozesse aufgelistet ist.</p>
+<p>Um das Spiel starten zu können müsst ihr vorher den aktiven Prozess (csgo.exe) im Taskmanager mit einem klick auf &#8222;beenden&#8220; beenden. Nun könnt ihr wieder wie gewohnt das Spiel starten.</p>
+<p>Eine weitere Fehlermeldung ist:<br /> <strong>&#8222;This game requires steam&#8220;</strong>, diese Meldung erscheint öfter mal wenn Ihr auf die CS:GO Verknüpfung z.B. auf dem Desktop oder in der Taskleiste klickt. Die Meldung sagt eigentlich alles aus. Das Spiel kann nur gestartet sein wenn ihr Steam gestartet habt und ihr natürlich eingeloggt seid.</p>
+<p><strong> Unable to enumerate user&#8217;s subscribed maps!</strong> Dies ist ein Problem welches auf fehlende Maps zurück zuführen ist.</p>
+<p>&nbsp;</p>
+<p><strong>&#8222;Ihr client benötigt ein Update. Um das Update zu errhalten, starten sie bitte das Spiel neu.&#8220;</strong> Wie diese Fehlermeldung schon beschreibt, wurde durch Steam ein neues Update released. Wichtig ist dass ihr nun Steam komplett schließt und anschließend CS:GO startet. Das Update sollte sich nun automatisch installieren. Sollte das nicht der Fall sein bleibt vorerst nur die Lösung dass Global Offensive komplett neuinstalliert werden muss. Hierzu bitte in der Bibliothek mit Rechter Maustaste auf CS:GO klicken und &#8222;Aus Spielesammlung entfernen&#8220; anklicken. Im Anschluss CSGO neu laden. Nun seid ihr auf dem aktuellen Stand.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-fehler-app-already-running-und-this-game-requires-steam/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ump &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/ump/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>ump &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS: GO Update &#8211; Deagle genauer, Mag-7 teurer, UMP günstiger, Mac-10 schneller, nun auch 4 Granaten</title>
+		<link>/cs-go-update-deagle-genauer-mag-7-teurer-ump-gunstiger-mac-10-schneller-nun-auch-4-granaten/</link>
+		<comments>/cs-go-update-deagle-genauer-mag-7-teurer-ump-gunstiger-mac-10-schneller-nun-auch-4-granaten/#respond</comments>
+		<pubDate>Thu, 02 May 2013 14:27:18 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[cs: go]]></category>
+		<category><![CDATA[Deagle]]></category>
+		<category><![CDATA[genauer]]></category>
+		<category><![CDATA[mac]]></category>
+		<category><![CDATA[ump]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[Was ist neu?]]></category>
+
+		<guid isPermaLink="false">/?p=1447</guid>
+		<description><![CDATA[Waffenupdate für CS: GO was wurde verändert? Wie wir gerade festgestellt haben, wurde erneut ein CS:GO Update mit interessanten Änderungen released. Neben eher unwesentlich beeinträchtigten Änderungen an Maps wie Bugfixes und einigen Soundbugs wurde&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3><a href="/wp-content/uploads/sites/2/2013/05/cs_go_update_waffen.png"><img class="aligncenter size-full wp-image-1449" title="cs_go_update_waffen" src="/wp-content/uploads/sites/2/2013/05/cs_go_update_waffen.png" alt="" width="280" height="120" /></a></h3>
+<h3>Waffenupdate für CS: GO was wurde verändert?</h3>
+<p>Wie wir gerade festgestellt haben, wurde erneut ein CS:GO Update mit interessanten Änderungen released. Neben eher unwesentlich beeinträchtigten Änderungen an Maps wie Bugfixes und einigen Soundbugs wurde allerdings auch die Waffen in CS: GO getweaked.</p>
+<p>Es wurden nun Bodygroups erstellt was den Vorteil hat dass nun Schüsse die durch den Arm des Models dahinter in den Kopf einschlagen, dementsprechend auch ein Headshot vorliegt. Vorher wurde nur Schaden für den Treffer im Arm gezählt. Für uns ganz klar eines der wichtigsten Änderungen in diesem Patch.</p>
+<p>Zitat aus Release Note:</p>
+<p>&#8222;<strong>Implemented bodygroups penetration for maximum damage, now shooting through arms at the enemies head will apply headshot damage, or shooting through arms at the stomach will apply stomach damage multiplier.&#8220;</strong></p>
+<h3>Waffenänderungen konkret:</h3>
+<p><strong>Granaten:</strong><br />
+Können nun auch im Competitve Modus insgesamt 4 Granaten getragen werden. So ist es möglich auch 2 Flashbangs zu tragen +Molotov + Rauchgranate.</p>
+<p><strong>Deagle:<br />
+</strong>Wurde genauer gemacht.<br />
+&#8222;<strong>Reduced inaccuracy.&#8220;</strong></p>
+<p><strong>Mag-7:</strong><br />
+Wurde &#8222;schneller&#8220; gemacht, sprich es werden nun mehr Schüsse in 1 Sekunde abgegeben. Darüber hinaus wurde die Mag7 auch teurer.<br />
+&#8222;<strong>Increased cycletime. Increased cost.&#8220;</strong></p>
+<p><strong>XM-1014:</strong><br />
+Mehr schaden durch die Rüstung und ebenfalls wie die Mag-7 schneller.<br />
+&#8222;<strong>Increased ArmorRatio. Increased cycletime.&#8220;</strong></p>
+<p><strong>UMP-45:</strong><br />
+Günstiger geworden und weniger Recoil.<br />
+&#8222;<strong>Reduced price. Reduced recoil angle variance.&#8220;</strong></p>
+<p><strong>Mac-10: </strong><br />
+Ebenfalls schneller und günstiger geworden.<br />
+&#8222;<strong>Increased maxspeed. Reduced price.&#8220;</strong></p>
+<p>Darüber hinaus wurde wie schon erwähnt kleinere Änderungen durchgeführt auf die wir aber nicht weiter eingehen.</p>
+<p><strong>Hier die Release Note:</strong></p>
+<p><strong>-Tweaked weapons</strong><br />
+<strong>   DEAGLE: Reduced inaccuracy.</strong><br />
+<strong>   Mag-7: Increased cycletime. Increased cost.</strong><br />
+<strong>   XM-1014: Increased ArmorRatio. Increased cycletime.</strong><br />
+<strong>   UMP-45: Reduced price. Reduced recoil angle variance.</strong><br />
+<strong>   Mac-10: Increased maxspeed. Reduced price.</strong><br />
+<strong>-Classic Competitive now allows 2 flashbangs and 4 grenades total.</strong><br />
+<strong>-Implemented bodygroups penetration for maximum damage, now shooting through arms at the enemies head will apply headshot damage, or shooting through arms at the stomach will apply stomach damage multiplier.</strong><br />
+<strong>-Removed aimpunch resulting from getting shot in the arms or legs.</strong><br />
+<strong>-Auto switch when dropping a weapon (or after throwing a grenade) avoids weapons with 0 bullets in the clip.</strong><br />
+<strong>-Reduced environment fog when scoped with a weapon.</strong></p>
+<p>[ MAPS ]<br />
+-CS_Militia: Fixed collision in CT spawn, added radar names<br />
+-CS_Assault: Added radar names<br />
+-CS_Museum: Fixed and updated radar and overview scales.<br />
+-DE_Library: Fixed bug where some clients would crash on bomb explosion.<br />
+-DE_Favela: Fixed bug were a prop was causing server lag, other gameplay tweaks<br />
+-DE_Seaside: Fixed bug were players would get stuck near Terrorist spawn.</p>
+<p>[ MISC ]<br />
+-Weapon inventory HUD now displays the number of grenades held of a single type.<br />
+-Fixed a sound bug that resulted in ghost footsteps when taking over bots.<br />
+-Fixed player money getting set to the wrong value if the player took over a bot in competitive and survived to the end of the round.<br />
+-Added a server convar &#8222;sv_maxusrcmdprocessticks&#8220; to limit maximum number of user commands backlog, defaulting at 3; observed player speed by others will now always be within max movement speed even when user is cheating, experiencing high packet loss or exteremely low fps.<br />
+-Vote kick will record user&#8217;s SteamID in the banlist and remove user from ongoing competitive match even if the user disconnected from game server before required number of votes have been collected.<br />
+-Spectating Operation Payback games via GOTV is now allowed without Operation Payback pass.<br />
+-Fixed crash on exit.</p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/cs-go-update-deagle-genauer-mag-7-teurer-ump-gunstiger-mac-10-schneller-nun-auch-4-granaten/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

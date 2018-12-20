@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>csgo news &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/csgo-news/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>csgo news &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Update &#8222;Reanimated&#8220; 15.09.2015 &#8211; Waffenpreise gesunken, Hitboxfehler gefixt, neue Animation und kleinere Map fixes</title>
+		<link>/counter-strike-global-offensive-update-vom-15-09-2015/</link>
+		<comments>/counter-strike-global-offensive-update-vom-15-09-2015/#respond</comments>
+		<pubDate>Wed, 16 Sep 2015 21:49:38 +0000</pubDate>
+		<dc:creator><![CDATA[pascal]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[animationen]]></category>
+		<category><![CDATA[csgo news]]></category>
+		<category><![CDATA[csgo update]]></category>
+		<category><![CDATA[video]]></category>
+		<category><![CDATA[waffenpreise]]></category>
+
+		<guid isPermaLink="false">/?p=3470</guid>
+		<description><![CDATA[&#160; Huiiiiii &#8211; Valve hat auf eine Vielzahl an Beschwerden reagiert um nun endlich das große Hitbox Problem zu lösen. Wie oft haben die Spieler sich beschwert dass Sie &#8222;Auf dem Kopf&#8220; waren und&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>&nbsp;</p>
+<p>Huiiiiii &#8211; Valve hat auf eine Vielzahl an Beschwerden reagiert um nun endlich das große Hitbox Problem zu lösen. Wie oft haben die Spieler sich beschwert dass Sie &#8222;Auf dem Kopf&#8220; waren und trotzdem keine Hits verursachst haben. Gerade auf Leitern und Boxen / Kisten war das ein großes Thema. In diesem Zuge hat Valve außerdem großzügig verschiedene Animationen verändert bzw. angepasst. Das defusen einer Bombe hat nun eine Animation, man muss dazu sagen dass dieses erstmalig seit dem Jahre 1999 ist &#8211; bisher wurde immer &#8222;freihändig&#8220; defused.  Aber das ist noch nicht alles, denn Valve hat auch etwas an der Waffenbalance geschraubt und die M4A1-S abgeschwächt.</p>
+<p>Hier sieht man z.B. die neue Animation des &#8222;strafens&#8220;: <a href="http://gfycat.com/SharpUltimateIguanodon" target="_blank">Video hier</a></p>
+<h2>Preise von Waffen</h2>
+<p>Zum Einen wurde der Zeus und die  M4A1-S im Preis reduziert (Zeus um 300$ und M4A1-S um 100$). Bei der M4A1-S wurde die Feuerrate als auch die Durchschlagskraft etwas verringert. Eine große Veränderung wurde an der M4A1-S durchgeführt &#8211; es ist der Rückstoß, da dieser nun mit den ersten 20 Kugeln der M4A4 fasst identisch ist. Die Dual Berettas wurden ebenfalls leicht verändert und erhielten eine höhere Durchschlagskraft, doch dafür wurde der &#8222;Schaden auf eine erhöhte Distanz&#8220; verringert.</p>
+<h2>Hitboxes</h2>
+<p>Eine der zwei großen Änderungen in diesem Update sind die Hitboxen. Diese wurden stark bearbeitet und zurechtgerückt. Außerdem kann man sich in der eigenen Spielsitzung durch einen Befehl in der Konsole (sv_showbullethits 1) visuell anzeigen lassen, ob man getroffen hat oder nicht. Außerdem wurde wurde der Fehler behoben, dass Waffenläufe durch einige Objekte oder Wände zusehen sind. Im Ansatz wurde das bereits gut gefixed &#8211; leider sieht man gelegentlich dennoch Waffen durch Objekte / Türen.<br />
+<img src="http://i.imgur.com/BbQkkwo.png"><img src="http://i.imgur.com/GFVS51V.png"></p>
+<p>&nbsp;</p>
+<h3>Animationen</h3>
+<p>Die Andere große Änderung sind die zahlreichen neuen Animationen, wie zum Beispiel das Waffen hervor nehmen und wegstecken, das Leiter rauf- und runterklettern, und die drei Arten der Bewegung (laufen, schleichen und der geduckte Lauf) und das Defusen der Bombe.  Alles Wirkt nun viel Detaillierter. Darunter hat allerdings die FPS-Anzahl(Bilder pro Sekunde) zu leiden.</p>
+<h2>Video aller Neuerungen:</h2>
+<p><iframe src="https://www.youtube.com/embed/2fXFYgC99uM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<h2>Update Log:</h2>
+<p>[ ANIMATION / GAMEPLAY ]<br />
+– Replaced all player body animations (Existing character models retained for demo compatibility)<br />
+– Replaced all world model weapon animation<br />
+– Updated shared player skeleton<br />
+– Re-rigged all player model geometry and player scaffold animation<br />
+– Updated animation networking to continually synchronize animation state instead of periodically latching<br />
+– Player animation sequence selection is now server-initiated<br />
+– Added new player states including bomb defusal and ladder climb poses<br />
+– Added thirdperson weapon deploy animations to more accurately represent viewmodel deploy state<br />
+– Extended all vertical aim matrix ranges to encompass the majority of vertical aim pitch so weapons line up precisely to firing angle<br />
+– Added reverse-bone-merge animation support so weapon models can store and play independent animation on the player holding them<br />
+– Added support for arbitrary numbers of articulated mechanical parts on world weapon models<br />
+– Updated weapon world model articulation points, bodygroup presets, holster positions and reverse-bone-merge skeletons<br />
+– Added physics motion to holstered attachment weapon locations<br />
+– Added support for non-polygonal capsule-shaped hit volumes, defined by a line segment and radius<br />
+– Replaced shared hitboxes with new capsule-based set<br />
+– Rebuilt player ragdoll angular constraints, physics hulls, and interaction pairs<br />
+– Ragdolls now assume more exact pose of their parent player on physics init<br />
+– Re-built animation statemachine to support blending locomotion over any weapon aim or action poses<br />
+– Enabled support for dynamic player animation layer re-ordering<br />
+– Sequence blendlayers now correctly contribute to computed cyclerate<br />
+– Added defuser cables and multimeter model<br />
+– Added hlmv support for capsule rendering, submodel attachment previewing, ragdoll constraint limit and bone name rendering, plus numerous small fixes<br />
+– Added model format support for named bodygroups, combined physics hulls, activity modifiers and animation system specific metadata</p>
+<p>[ UI ]<br />
+– Fixed a bug where the mini-scoreboard armor/helmet information was not displaying for coaches<br />
+– Added sv_show_voip_indicator_for_enemies server convar. If set, it will make it so the ‘voice chat’ icon shows over enemy players as well as allies when they are using their microphone.<br />
+– Added sv_showbullethits feature to visualize server-confirmed hits and near-misses on listen servers</p>
+<p>[ RENDERING ]<br />
+– Fixed improper stencil state in glow pass rendering</p>
+<p>[ GAMEPLAY ]<br />
+– Added dynamic player culling to prevent players and weapons poking through thin walls and revealing their position<br />
+– M4A1-S:<br />
+— Reduced price<br />
+— Reduced armor penetration<br />
+— Reduced ROF<br />
+— Increased base spread</p>
+<p>– Zeus x27<br />
+— Reduced price to $100</p>
+<p>– Dual Berettas<br />
+— Increased armor penetration<br />
+— Increased range modifier</p>
+<p>[ GOTV ]<br />
+– Added viewmodel position lerp to gotv camera transitions</p>
+<p>[ OVERWATCH ]<br />
+– Players can now report enemies for anti-competitive griefing (i.e. deliberately losing).</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/counter-strike-global-offensive-update-vom-15-09-2015/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

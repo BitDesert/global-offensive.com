@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>befehle &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/befehle/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>befehle &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>GOTV Befehle für CS:GO Console</title>
+		<link>/gotv-befehle-fur-csgo-console/</link>
+		<comments>/gotv-befehle-fur-csgo-console/#respond</comments>
+		<pubDate>Sun, 24 Feb 2013 12:44:41 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Server Administration]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[Anleitung]]></category>
+		<category><![CDATA[befehle]]></category>
+		<category><![CDATA[Counterstrike]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[demopflicht]]></category>
+		<category><![CDATA[ESL]]></category>
+		<category><![CDATA[GOTV]]></category>
+		<category><![CDATA[gotv bedienung]]></category>
+		<category><![CDATA[screenshots]]></category>
+		<category><![CDATA[snapshots]]></category>
+		<category><![CDATA[tv_enable 1]]></category>
+		<category><![CDATA[Verzeichnis]]></category>
+		<category><![CDATA[Wie spiele ich eine demo ab]]></category>
+		<category><![CDATA[Wo liegt die csgo demo]]></category>
+
+		<guid isPermaLink="false">/?p=1026</guid>
+		<description><![CDATA[Durch die letzten Updates ist es nun möglich GOTV auf Servern zu nutzen. Rund um das Thema GOTV gibt es viele Befehle bzw. Commands die über die Counter Strike Global Offensive Console ausgeführt werden&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Durch die letzten Updates ist es nun möglich GOTV auf Servern zu nutzen. Rund um das Thema GOTV gibt es viele Befehle bzw. Commands die über die Counter Strike Global Offensive Console ausgeführt werden können. Der wohl wichtigste Befehl ist sicherlich der welcher das Abspielen bzw. Starten der Demo ermöglicht.</p>
+<p>Möchte man sich eine Aufnahme (“Demo”) ansehen, muss man wissen wie die gewünschte Datei (Endung: *.dem) heißt. CS:GO-Demos befinden sich im Ordner<em>Steamsteamappscommoncounter-strike global offensivecsgo</em>. Dann öffnet man die Konsole und gibt <strong>playdemo demoname.dem</strong> ein.</p>
+<h4>GOTV Konsolenbefehle</h4>
+<p>Nutzt man GOTV, kann man in CS:GO mit folgenden Konsolenbefehlen weitere Einstellungen vornehmen:</p>
+<p><strong>tv_allow_camera_man &lt;0|1&gt;</strong> – Auto director allows spectators to become camera man<br />
+<strong>tv_allow_static_shots &lt;0|1&gt;</strong> – Auto director uses fixed level cameras for shots<br />
+<strong>tv_autorecord &lt;0|1&gt;</strong> – Automatically records all games as GOTV demos. Automatically records every game, demo file name format is auto-YYYYMMDD-hhmm-map.dem<br />
+<strong>tv_autoretry &lt;0|1&gt;</strong> – Relay proxies retry connection after network timeout<br />
+<strong>tv_chatgroupsize &lt;n&gt;</strong> – Set the default chat group size. Set chat group size to n spectators. Only spectators in the same chat group can speak to each other. Chat groups are turned off with “tv_chatgroupsize 0″ and everybody can speak to everybody. Setting chat groups helps reducing chatter noise and saves some bandwidth.<br />
+<strong>tv_chattimelimit &lt;seconds&gt;</strong> – Limits spectators to chat only every n seconds<br />
+<strong>tv_clients</strong> – Shows list of connected GOTV clients.<br />
+<strong>tv_debug &lt;0|1&gt;</strong> – GOTV debug info.<br />
+<strong>tv_delay &lt;seconds&gt;</strong> – GOTV broadcast delay in seconds<br />
+<strong>tv_delaymapchange &lt;0|1&gt;</strong> – Delays map change until broadcast is complete<br />
+<strong>tv_deltacache &lt;0|1&gt;</strong> – Enable delta entity bit stream cache. If enabled on relay proxies it reduces CPU load by caching outgoing entity data.<br />
+<strong>tv_dispatchmode &lt;0|1|2&gt;</strong> – Dispatch clients to relay proxies: 0=never, 1=if appropriate, 2=always<br />
+<strong>tv_enable &lt;0|1&gt;</strong> – Activates GOTV on server.<br />
+<strong>tv_maxclients &lt;n&gt;</strong> – Maximum client number on GOTV server.<br />
+<strong>tv_maxrate &lt;n&gt;</strong> – Max GOTV spectator bandwidth rate allowed, 0 == unlimited<br />
+<strong>tv_msg &lt;text&gt;</strong> – Send a screen message to all clients.<br />
+<strong>tv_name &lt;name&gt;</strong> – GOTV host name. Sets GOTV name as it appears in server browser and scoreboard.<br />
+<strong>tv_nochat &lt;0|1&gt;</strong> – Don’t receive chat messages from other GOTV spectators<br />
+<strong>tv_overridemaster &lt;0|1&gt;</strong> – Overrides the GOTV master root address. Overrides the master IP broadcast to spectators with a local IP.<br />
+<strong>tv_password &lt;password&gt;</strong> – GOTV password for all clients<br />
+<strong>tv_port &lt;port&gt;</strong> – Host GOTV port. Set the GOTV host port (default 27020). Must be set as srcds start parameter.<br />
+<strong>tv_record &lt;filename&gt;</strong> – Starts GOTV demo recording.<br />
+<strong>tv_relay &lt;IP&gt;</strong> – Connect to GOTV server and relay broadcast.<br />
+<strong>tv_relaypassword &lt;password&gt;</strong> – GOTV password for relay proxies<br />
+<strong>tv_relayvoice &lt;0|1&gt;</strong> – Relay voice data: 0=off, 1=on. If enabled, allow player voice chat if broadcasted.<br />
+<strong>tv_retry</strong> – Reconnects the GOTV relay proxy.<br />
+<strong>tv_snapshotrate &lt;n&gt;</strong> – Snapshots broadcasted per second<br />
+<strong>tv_status</strong> – Show GOTV server status.<br />
+<strong>tv_stop</strong> – Stops the GOTV broadcast.<br />
+<strong>tv_stoprecord</strong> – Stops GOTV demo recording.<br />
+<strong>tv_timeout &lt;seconds&gt;</strong> – GOTV connection timeout in seconds. If a connection times out, the relay proxy tries to reconnect automatically.<br />
+<strong>tv_title &lt;text&gt;</strong> – Set title for GOTV spectator UI<br />
+<strong>tv_transmitall &lt;0|1&gt;</strong> – Transmit all entities (not only director view). By default entities and events outside of the auto-director view are removed from SourceTV broadcasts to save bandwidth. If tv_transmitall is enabled, the whole game is transmitted and spectators can switch their view to any player they want. This option increases bandwidth requirement per spectator client by factor 2 to 3.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/gotv-befehle-fur-csgo-console/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO ESL Server Plugin Download und Befehle</title>
+		<link>/csgo-neues-esl-server-plugin-download/</link>
+		<comments>/csgo-neues-esl-server-plugin-download/#respond</comments>
+		<pubDate>Mon, 11 Feb 2013 23:51:26 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[ESL]]></category>
+		<category><![CDATA[Gamerserver]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Server Administration]]></category>
+		<category><![CDATA[autorecord]]></category>
+		<category><![CDATA[befehle]]></category>
+		<category><![CDATA[bugfix]]></category>
+		<category><![CDATA[command]]></category>
+		<category><![CDATA[demo]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[esl config]]></category>
+		<category><![CDATA[esl plugin]]></category>
+		<category><![CDATA[fehler]]></category>
+		<category><![CDATA[Global Offensive]]></category>
+		<category><![CDATA[kommandos]]></category>
+		<category><![CDATA[Pro Series]]></category>
+		<category><![CDATA[server config]]></category>
+		<category><![CDATA[status]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[wie funktioniert]]></category>
+
+		<guid isPermaLink="false">/?p=675</guid>
+		<description><![CDATA[Lange war es still um das ESL Plugin, aber heute gibt es endlich das nötige Update. Bereits seit geraumer Zeit war dieses Update geplant, aber leider gab es einige Probleme und Fehler mit dem&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><div align="justify"><a href="/wp-content/uploads/sites/2/2012/10/esl-pro.jpg"><img class="size-full wp-image-566 aligncenter" title="esl-pro" src="/wp-content/uploads/sites/2/2012/10/esl-pro.jpg" alt="" width="150" height="195" /></a></div>
+<div align="justify">Lange war es still um das ESL Plugin, aber heute gibt es endlich das nötige Update.</div>
+<div align="justify">Bereits seit geraumer Zeit war dieses Update geplant, aber leider gab es einige Probleme und Fehler mit dem Plugin,<strong>welche sehr kompliziert zu lösen waren</strong>.Vor zwei Wochen befand sich dann eine funktionierende Version in der Testphase, aber durch das letzt CS:GO Update wurde das Plugin erneut inkompatibel noch bevor wir es fertigstellen konnten.Leider sind noch nicht alle Funktionen im Bezug auf CS:GO getestet, sodass das Plugin weiterhin in <strong>CS:GO freiwillig</strong> zu benutzen ist. Das gestrige Update von CS:S hat ein Release aber notwendig gemacht, auch wenn nicht alles getestet ist.Sollten Fehler auftreten, bitten wir diese im <strong>Forum oder hier in den Kommentaren</strong>zu melden, sodass wir schnell reagieren können.</div>
+<div align="justify">
+<p>Das aktuelle CS:Source Update hat leider auch den Autoupdater des Plugins deaktiviert, sodass die Provider zunächst wohl nicht automatisch an eine funktionierende Version des Plugins kommen.</p>
+<p>Für <strong>CS:Source gilt aber weiterhin die Pflicht des Plugins</strong>, sodass ihr bis euer Provider ein Update bereitstellt das Update manuell installieren müsst und somit <strong>kein Protected Modus</strong> funktioniert.</p>
+</div>
+<div align="justify"></div>
+<div style="text-align: center" align="justify"><em><strong><a title="http://www.esl.eu/de/csgo/download/26337194/" href="http://www.esl.eu/de/csgo/download/26337194/">Download hier</a></strong></em></div>
+<div style="text-align: center" align="justify"></div>
+<div style="text-align: center" align="justify"></div>
+<div style="text-align: center" align="justify"></div>
+<div align="justify"></div>
+<div align="justify"><strong>Die Counter-Strike Global Offensive ESL Plugin Befehle sind folgende:</strong></div>
+<div align="justify"><strong>rcon status</strong><br />
+Zeigt alle normalen rcon status Informationen an und gibt zusätzlich Informationen über die Version des Plugins und geladene Serverplugins an.</div>
+<div align="justify"><strong>rcon eslplugin_version</strong><br />
+Zeigt die aktuelle Version des Plugins an (Read only)</div>
+<div align="justify"><strong>rcon esl_update</strong><br />
+Manuell nach Updates suchen</div>
+<div align="justify"><strong>rcon esl_autorecord</strong> [0 / 1] (default: 0)<br />
+(Im Moment gibt es noch keinen SourceTV. Entsprechend ist diese Variable noch ohne Funktion)</div>
+<div align="justify"><strong>rcon esl_autoarmor</strong> [0 / 1] (default: 0)<br />
+Gibt allen Spielern am Anfang der Runde 100 Armor. Diese Setting ist für Knife Ladders gedacht.</div>
+<div align="justify"><strong>rcon 5on5</strong><br />
+Führt die ESL Server Config aus.</div>
+<div align="justify">User Console:<strong> eslstatus</strong><br />
+Zeigt alle normalen status Informationen an und gibt zusätzlich Informationen über die Version des Plugins und geladene Serverplugins an.</div>
+<div align="justify"><strong>rcon esl_webstart / esl_webstop</strong><br />
+Startet/Stoppt den internen Webserver</div>
+<div align="justify"><strong>rcon esl_webip</strong><br />
+Ändert die IP auf den der Webserver hört.</div>
+<div align="justify"><strong>rcon esl_webport</strong><br />
+Ändert den Port auf den der Webserver hört. Da es noch kein SourceTV gibt, sollte man den Port des Webservers manuell setzen. (zB auf 27020)</div>
+<div align="justify"><strong>rcon esl_start</strong><br />
+Alias für mp_restartgame 3</div>
+<div align="justify"><strong>rcon esl_gasearch</strong> [ 0 / 1 / 2] (default: 1)<br />
+Spieler die beim Cheaten erwischt werden, werden automatisch im ESL Plugin geblacklistet. Mit dieser Einstellung könnt ihr entscheiden, ob ihr diese Funktion deaktivieren, nur warnen oder betroffene Spieler umgehend kicken wollt.</div>
+<div align="justify"><strong>rcon esl_cashback</strong> [ 0 / 1 ] (default: 1)<br />
+Sobald ein Spieler vom Server dropped, wird sein aktueller Kontostand gespeichert und beim re-join auf den Server wiederhergestellt.</div>
+<div align="justify"></div>
+<div align="justify"></div>
+<div align="justify">Quelle: ESL.eu //</div>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-neues-esl-server-plugin-download/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS: GO Config 2013 / 2014</title>
+		<link>/cs-go-config/</link>
+		<comments>/cs-go-config/#respond</comments>
+		<pubDate>Tue, 05 Feb 2013 13:42:24 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Die Config]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Anleitung]]></category>
+		<category><![CDATA[befehle]]></category>
+		<category><![CDATA[Config]]></category>
+		<category><![CDATA[CS: GO Config]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[efehle]]></category>
+		<category><![CDATA[erklärung]]></category>
+		<category><![CDATA[Tipps]]></category>
+		<category><![CDATA[Tricks]]></category>
+
+		<guid isPermaLink="false">/?p=1395</guid>
+		<description><![CDATA[FPS MAX Config &#8211; So bekommst du die letzten FPS aus deiner Config heraus! (Stand 10.12.2013) Hier werden die wichtigsten Befehle für die CS:GO Config erklärt, dabei wird auf die Punkte Netsettings und Grafiksettings&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>FPS MAX Config &#8211; So bekommst du die letzten FPS aus deiner Config heraus! (Stand 10.12.2013)</h3>
+<p>Hier werden die wichtigsten Befehle für die CS:GO Config erklärt, dabei wird auf die Punkte Netsettings und Grafiksettings ein besonderer Stellenwert gelegt, da diese beiden Punkte die essenziellen Bereiche für ein angenehmes Zocken mit maximalen FPS sind.</p>
+<p>Auch wir haben hier die Einstellungen aufgegriffen und es empfehlen sich folgende Videosettings (video.txt):</p>
+<p>&#8222;VideoConfig&#8220;<br />
+{<br />
+&#8222;setting.cpu_level&#8220; &#8222;0&#8220;<br />
+&#8222;setting.gpu_level&#8220; &#8222;0&#8220;<br />
+&#8222;setting.mat_antialias&#8220; &#8222;1&#8220;<br />
+&#8222;setting.mat_aaquality&#8220; &#8222;0&#8220;<br />
+&#8222;setting.mat_forceaniso&#8220; &#8222;0&#8220;<br />
+&#8222;setting.mat_vsync&#8220; &#8222;0&#8220;<br />
+&#8222;setting.mat_triplebuffered&#8220; &#8222;0&#8220;<br />
+&#8222;setting.mat_grain_scale_override&#8220; &#8222;1&#8220;<br />
+&#8222;setting.gpu_mem_level&#8220; &#8222;0&#8220;<br />
+&#8222;setting.mem_level&#8220; &#8222;2&#8220;<br />
+&#8222;setting.mat_queue_mode&#8220; &#8222;-1&#8220;<br />
+&#8222;setting.csm_quality_level&#8220; &#8222;0&#8220;<br />
+&#8222;setting.mat_software_aa_strength&#8220; &#8222;0&#8220;<br />
+&#8222;setting.mat_motion_blur_enabled&#8220; &#8222;0&#8220;<br />
+&#8222;setting.fullscreen&#8220; &#8222;1&#8220;<br />
+&#8222;setting.defaultres&#8220; &#8222;1680&#8220;<br />
+&#8222;setting.defaultresheight&#8220; &#8222;1050&#8220;<br />
+&#8222;setting.aspectratiomode&#8220; &#8222;2&#8220;<br />
+&#8222;setting.nowindowborder&#8220; &#8222;0&#8220;<br />
+}</p>
+<p>Dabei werden auf die höchstmögliche Performance und trotzdem guten Sichtbereich (1680×1050) Wert gelegt.</p>
+<p>Darüber die wichtigen Settings in der valve.rc</p>
+<p>// NETSETTINGS<br />
+rate &#8222;80000&#8220;<br />
+cl_cmdrate &#8222;128&#8220;<br />
+cl_updaterate &#8222;128&#8220;<br />
+cl_interp &#8222;0&#8220;<br />
+cl_interp_ratio &#8222;1&#8220;</p>
+<p>// MOUSE<br />
+m_customaccel &#8222;0&#8220;<br />
+m_customaccel_exponent &#8222;1.05&#8220;<br />
+m_customaccel_max &#8222;0&#8220;<br />
+m_customaccel_scale &#8222;0.04&#8220;<br />
+m_forward &#8222;1&#8220;<br />
+m_mouseaccel1 &#8222;0&#8220;<br />
+m_mouseaccel2 &#8222;0&#8220;<br />
+m_mousespeed &#8222;1&#8220;<br />
+m_pitch &#8222;0.022&#8220;<br />
+m_rawinput &#8222;0&#8220;<br />
+m_side &#8222;0.8&#8220;<br />
+m_yaw &#8222;0.022&#8220;<br />
+sensitivity &#8222;2.4&#8220;</p>
+<p>// CROSSHAIR<br />
+cl_crosshairalpha &#8222;255&#8220;<br />
+cl_crosshaircolor &#8222;1&#8220;<br />
+cl_crosshaircolor_b &#8222;50&#8220;<br />
+cl_crosshaircolor_g &#8222;250&#8220;<br />
+cl_crosshaircolor_r &#8222;50&#8220;<br />
+cl_crosshairdot &#8222;0&#8220;<br />
+cl_crosshairscale &#8222;0&#8220;<br />
+cl_crosshairsize &#8222;4&#8220;<br />
+cl_crosshairthickness &#8222;1&#8220;<br />
+cl_crosshairusealpha &#8222;1&#8220;<br />
+cl_dynamiccrosshair &#8222;0&#8220;<br />
+cl_fixedcrosshairgap &#8222;3&#8220;<br />
+cl_crosshairgap &#8222;-2&#8220;<br />
+cl_crosshairstyle &#8222;4&#8220;</p>
+<p>// VIEWMODEL<br />
+viewmodel_fov &#8222;65&#8220;<br />
+viewmodel_offset_x &#8222;2.5&#8220;<br />
+viewmodel_offset_y &#8222;2&#8220;<br />
+viewmodel_offset_z &#8222;-2&#8220;<br />
+cl_bob_lower_amt &#8222;5&#8220;<br />
+cl_bobamt_lat &#8222;0.1&#8220;<br />
+cl_bobamt_vert &#8222;0.1&#8220;<br />
+cl_bobcycle &#8222;0.98&#8220;<br />
+cl_viewmodel_shift_left_amt &#8222;0.5&#8220;<br />
+cl_viewmodel_shift_right_amt &#8222;0.25&#8220;</p>
+<p>// NETGRAPH<br />
+net_graph &#8222;0&#8220;<br />
+net_graphheight &#8222;64&#8220;<br />
+net_graphmsecs &#8222;400&#8220;<br />
+net_graphpos &#8222;2&#8220;<br />
+net_graphproportionalfont &#8222;0&#8220;<br />
+net_graphshowinterp &#8222;1&#8220;<br />
+net_graphshowlatency &#8222;1&#8220;<br />
+net_graphsolid &#8222;1&#8220;<br />
+net_graphtext &#8222;1&#8220;</p>
+<p>// SOUND<br />
+snd_mixahead &#8222;0.05&#8220;</p>
+<p>// OTHER<br />
+hud_scaling &#8222;0.95&#8220;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/cs-go-config/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bot Rcon Befehle</title>
+		<link>/rcon-befehle-auf-bots-bezogen/</link>
+		<comments>/rcon-befehle-auf-bots-bezogen/#respond</comments>
+		<pubDate>Sat, 13 Oct 2012 11:56:58 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Server Administration]]></category>
+		<category><![CDATA[administrieren]]></category>
+		<category><![CDATA[bannen]]></category>
+		<category><![CDATA[befehle]]></category>
+		<category><![CDATA[Bot in bestimmtes Team einfügen]]></category>
+		<category><![CDATA[Bots]]></category>
+		<category><![CDATA[deaktivieren]]></category>
+		<category><![CDATA[erstellen]]></category>
+		<category><![CDATA[festlegen]]></category>
+		<category><![CDATA[kicken]]></category>
+		<category><![CDATA[rcon]]></category>
+		<category><![CDATA[teamwechsel]]></category>
+		<category><![CDATA[waffen]]></category>
+
+		<guid isPermaLink="false">/?p=190</guid>
+		<description><![CDATA[Hier eine kleine Liste der Rcon-Befehle die verwendet werden können um die Bots auf dem Server zu &#8222;administrieren&#8220;. Befehl Beschreibung bot_add Fügt ein Bot hinzu. bot_add_ct Fügt ein Bot zu den Counterterroristen hinzu. bot_add_t&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Hier eine kleine Liste der Rcon-Befehle die verwendet werden können um die Bots auf dem Server zu &#8222;administrieren&#8220;.<span id="more-190"></span></p>
+<table border="1">
+<tbody>
+<tr>
+<th>Befehl</th>
+<th>Beschreibung</th>
+</tr>
+<tr>
+<td>bot_add</td>
+<td>Fügt ein Bot hinzu.</td>
+</tr>
+<tr>
+<td>bot_add_ct</td>
+<td>Fügt ein Bot zu den Counterterroristen hinzu.</td>
+</tr>
+<tr>
+<td>bot_add_t</td>
+<td>Fügt ein Bot zu den Terroristen hinzu.</td>
+</tr>
+<tr>
+<td>bot_all_weapons</td>
+<td>Erlaubt den Bots alle Waffen zu benutzen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_allow_grenades</td>
+<td>Erlaubt den Bots Granaten zu benutzen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_allow_machine_guns</td>
+<td>Erlaubt den Bots Maschinenpistolen zu benutzen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_allow_pistols</td>
+<td>Erlaubt den Bots Pistolen zu benutzen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_allow_rifles</td>
+<td>Erlaubt den Bots Gewehre zu nutzen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_allow_rogues</td>
+<td>Erlaubt den Bots MP´s zu nutzen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_allow_shotguns</td>
+<td>Erlaubt den Bots Schrotgewehre zu nutzen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_allow_snipers</td>
+<td>Erlaubt den Bots Scharfschützengewehre zu nutzen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_allow_sub_machine_guns</td>
+<td>Erlaubt den Bots SMG´s zu nutzen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_kick</td>
+<td>Kickt alle Bots.</td>
+</tr>
+<tr>
+<td>bot_kill</td>
+<td>Lässt alle Bots sterben.</td>
+</tr>
+<tr>
+<td>bot_snipers_only</td>
+<td>Bots benutzen nur noch Scharfschützengewehre. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_pistols_only</td>
+<td>Bots benutzen nur noch Pistolen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_knives_only</td>
+<td>Bots benutzen nur noch Messer. 0=nein; 1=ja</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/rcon-befehle-auf-bots-bezogen/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

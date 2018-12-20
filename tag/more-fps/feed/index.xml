@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>more fps &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/more-fps/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>more fps &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO FPS Boost Config &#8211; So gehts</title>
+		<link>/csgo-fps-boost-config-so-gehts/</link>
+		<comments>/csgo-fps-boost-config-so-gehts/#comments</comments>
+		<pubDate>Sat, 13 Oct 2012 15:24:09 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Die Config]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[boost config]]></category>
+		<category><![CDATA[Config]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[fps config]]></category>
+		<category><![CDATA[max fps]]></category>
+		<category><![CDATA[maximum fps]]></category>
+		<category><![CDATA[mehr fps]]></category>
+		<category><![CDATA[more fps]]></category>
+		<category><![CDATA[zu wenig fps]]></category>
+
+		<guid isPermaLink="false">/?p=299</guid>
+		<description><![CDATA[Seit Jahren wird immer wieder nach FPS MAX Boost Config / einer FPS Tuning Config oder einer High FPS Config gesucht. Wir sind auf den ESL Beitrag von CyberHuepfer gestoßen, der wirklich eine sehr&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p><a href="/wp-content/uploads/sites/2/2012/10/cs_go_config_title2.jpg"><img class="alignnone size-medium wp-image-310" title="cs_go_config_title" alt="" src="/wp-content/uploads/sites/2/2012/10/cs_go_config_title2-300x150.jpg" width="300" height="150" srcset="/wp-content/uploads/sites/2/2012/10/cs_go_config_title2-300x150.jpg 300w, /wp-content/uploads/sites/2/2012/10/cs_go_config_title2.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>Seit Jahren wird immer wieder nach FPS MAX Boost Config / einer FPS Tuning Config oder einer High FPS Config gesucht.<br />
+Wir sind auf den ESL Beitrag von CyberHuepfer gestoßen, der wirklich eine sehr gute Anleitung inkl. Befehle ins Netz gestellt hat.</p>
+<p>&nbsp;</p>
+<p style="text-align: center"><a title="High fps Config" href="http://configs.eu/_csgo/FPS.cfg">DOWNLOAD HIGH FPS CONFIG FÜR CS:GO</a></p>
+<h3>1. Startoption</h3>
+<p>Egal wie eure Startoption aussieht, diese 3 Befehle sind ein zusätzliches &#8222;MUSS&#8220;.</p>
+<p><strong>-fps_max 128 -tickrate 128 +mat_vignette_enable 0</strong></p>
+<p>-fps_max 128 Für ein besseres Spielgefühl sollte dieser wert an die Tickrate von 128 angepasst werden. 128 Fps sind mehr als ausreichend, da das Spiel bereits ab niedrigeren Werten flüssig läuft.</p>
+<p>-tickrate 128 Überwiegend wird auf Servern mit 128 Tick gespielt, darum ist dieser Wert selbsterklärend.</p>
+<p>+mat_vignette_enable 0 Enfternt den Vignette-Effekt, der sich In-Game mit einer Trübung am Bildschirmrand bemerkbar macht.<br />
+(You can SEE&#8230;)</p>
+<h3>2. Die Video.txt</h3>
+<p>Hier könnt ihr die Video.txt finden: C:Program Files (x86)SteamsteamappscommonCounter-Strike Global Offensivecsgocfg</p>
+<p>Die eingestellten Werte in dieser Datei entscheiden hauptsächlich über HIGH oder LOW Fps. Meine Video.txt, die unten aufgeführt ist, ist für HIGH Fps.</p>
+<p>Begriffserklärung:</p>
+<p>&#8222;setting.aspectratiomode&#8220; &#8222;1&#8220; // Seitenverhältnis 0 = 4:3 / 1 = 16:9 / 2 = 16:10<br />
+&#8222;setting.cpu_level&#8220; &#8222;0&#8220; // Effekte; 0 = LOW / 1 = MEDIUM / 2 = HIGH<br />
+&#8222;setting.csm_quality_level&#8220; &#8222;0&#8220; // Schattendetails 0 = LOW / 1 = MEDIUM / 2 = HIGH<br />
+&#8222;setting.defaultres&#8220; &#8222;1440&#8220; // Auflösung der x-Achse des Bildschirms<br />
+&#8222;setting.defaultresheight&#8220; &#8222;900&#8220; // Auflösung der y-Achse des Bildschirms<br />
+&#8222;setting.fullscreen&#8220; &#8222;1&#8220; // Vollbild AN = 1 / AUS = 0<br />
+&#8222;setting.gpu_level&#8220; &#8222;0&#8220; // Shaderdetails 0 = LOW / 1 = MEDIUM / 2 = HIGH / 3 = VERY HIGH<br />
+&#8222;setting.gpu_mem_level&#8220; &#8222;0&#8220; // Model- / Texturdetails 0 = LOW / 1 = MEDIUM / 2 = HIGH<br />
+&#8222;setting.mat_aaquality&#8220; &#8222;0&#8220; // Anti-Aliasing Qualität 0, 1, 2, 4<br />
+&#8222;setting.mat_antialias&#8220; &#8222;0&#8220; // Anti-Aliasing Kantenglättungs-Faktor 0, 1, 2, 4, 8, 16<br />
+&#8222;setting.mat_forceaniso&#8220; &#8222;0&#8220; // Anisotropischer Filter 0,2,4,8,16<br />
+&#8222;setting.mat_grain_scale_override&#8220; &#8222;0&#8220; // I Dont know&#8230; sry<br />
+&#8222;setting.mat_monitorgamma&#8220; &#8222;1.6&#8220; // Bildschirmhelligkeit In-Game<br />
+&#8222;setting.mat_motion_blur_enabled&#8220; &#8222;0&#8220; // Bewegungsschärfe 0, 1<br />
+&#8222;setting.mat_queue_mode&#8220; &#8222;2&#8220; // Multicore Rendering -1, 0, 1, 2<br />
+&#8222;setting.mat_software_aa_strength&#8220; &#8222;0&#8220; // Kantenglättungs-Faktor Softwareseitig 0, 1, 2, 4, 8, 16<br />
+&#8222;setting.mat_triplebuffered&#8220; &#8222;0&#8220; // 3-Fach Buffering AN = 1 / AUS = 0<br />
+&#8222;setting.mat_vsync&#8220; &#8222;0&#8220; // Vertikale Syncronisation AN = 1 / AUS = 0<br />
+&#8222;setting.mem_level&#8220; &#8222;2&#8220; // Ausgelagerter Zusatzspeicher<br />
+&#8222;setting.nowindowborder&#8220; &#8222;0&#8220; // Keine Windowsbegrenzung im Fenstermodus AN = 1 / AUS = 0</p>
+<h3>3. Netsettings</h3>
+<p>Die Netsettings sollten am besten in der valve.rc gespeichert werden, die ebenfalls im CFG-Ordner zu finden ist. WICHTIG hier ist, dass der letzte Befehl in der valve.rc &#8222;stuffcmds&#8220; ist!!!</p>
+<p>Bei 128 Tick Servern<br />
+cl_cmdrate &#8222;128&#8220;<br />
+cl_updaterate &#8222;128&#8220;<br />
+cl_interp &#8222;0.0078125&#8220;<br />
+cl_interp_ratio &#8222;1&#8220;<br />
+fps_max &#8222;128&#8220;</p>
+<p>Bei 64 Tick Servern<br />
+cl_cmdrate &#8222;64&#8220;<br />
+cl_updaterate &#8222;64&#8220;<br />
+cl_interp &#8222;0.015625&#8220;<br />
+cl_interp_ratio &#8222;1&#8220;<br />
+fps_max &#8222;128&#8220;</p>
+<p>Bei 128 Tick Servern ist der Lerp-Wert dann ungefähr bei 7.8 und auf 64 Tick Servern bei 15.6. Der cl_interp Wert ist dabei entscheidend! Angenommen wir gehen jetzt von einem 128 Tick Server auf einen 64 Tick Server (oder andersrum) muss der cl_interp bugbedingt bei manchen manuell per Hand in die Console eingegeben werden. Update und cmd Rates werden automatisch gefixt beim ­joinen.</p>
+<h3>Nachtrag:</h3>
+<p>Der Wert cl_interp kann manuell nicht mehr gesetzt werden! Dieser wird aus den Werten cl_updaterate und cl_interp_ratio errechnet.<br />
+Ein Beispiel anhand der Einstellung bei 128er Tickrate:</p>
+<p>cl_interp_ratio / cl_updaterate = cl_interp<br />
+1 / 128 = 0.0078125</p>
+<p>Meine Erfahrung für schwächere Rechner ist, dass der Wert cl_interp_ratio auf &#8222;2&#8220; gesetzt bleiben sollte. Dies vermeidet Lag&#8217;s. Denn der Lerp gibt an, um wieviel ms (Millisekunden) das Spiel auf deinem eigenen Rechner verzögert zum Server abläuft. Durch viele komplizierte mathematische Prozesse vom Server wird das aber kompensiert. Dies erfordert einen höheren Datenaustausch zwischen Spieler und Server. Mit einem höheren Lerp haben die beiden Systeme mehr Zeit für die Berechnungen und somit kommt es zu keinem Datenstau und somit nicht zum Lag.</p>
+<h3>4. Viewmodel Tweaks</h3>
+<p>Um das Spielgefühl optisch wieder ein bisschen an CS:S anzulehnen, gibt es folgende Befehle, die dafür sorgen, dass die Weapon-Models verkleinert werden:</p>
+<p>viewmodel_fov &#8222;65&#8220;<br />
+Viewmodel_offset_ x &#8222;2&#8220;<br />
+viewmodel_offset_y &#8222;2&#8220;<br />
+viewmodel_offset_z &#8222;-2&#8220;<br />
+cl_bobcycle “2″<br />
+cl_bob_lower_amt “0″<br />
+cl_bobamt_lat “0″<br />
+cl_bobamt_vert “0″<br />
+cl_viewmodel_shift_left_amt “0″<br />
+cl_viewmodel_shift_right_amt “0″</p>
+<h3>5. Windows Tweaks</h3>
+<p>1. Das jeweilige Antiviren-Programm ausschalten oder den Prozess csgo.exe zu den Ausnahmeregelungen des Echtzeitschutzes hinzufügen.</p>
+<p>2. Prozess-Priorität im Taskmanager oder über die Startoption mit -high erhöhen.</p>
+<p>3. Temp-Ordner leeren und Internet-Fix mit folgendem Programm (gamefix.bat)<br />
+Der Inhalt der selbst geschriebenen Batch-Datei, kann jederzeit auch manuell über CMD eingegeben werden, was aber umständlich ist:</p>
+<p>&#8222;cd C:WindowsSystem32<br />
+netsh int tcp set global autotuninglevel=disabled<br />
+netsh int tcp set global congestionprovider=ctcp<br />
+netsh int tcp set global rss=enabled<br />
+netsh int tcp set global dca=enabled<br />
+netsh int tcp set global netdma=enabled<br />
+netsh int tcp set global chimney=enabled<br />
+attrib -r -s -h &#8222;%WinDir%Temp*.*&#8220; /s /d<br />
+DEL &#8222;%WinDir%Temp*.*&#8220; /s /q /f<br />
+ATTRIB -r -s -h &#8222;%USERPROFILE%Lokale EinstellungenTemporary Internet Files*.*&#8220; /s /d<br />
+DEL &#8222;%UserProfile%Lokale EinstellungenTemporary Internet Files*.*&#8220; /s /q /f<br />
+ATTRIB -r -s -h &#8222;%USERPROFILE%Lokale EinstellungenVerlauf*.*&#8220; /s /d<br />
+DEL &#8222;%UserProfile%Lokale EinstellungenVerlauf*.*&#8220; /s /q /f<br />
+ATTRIB -r -s -h &#8222;%USERPROFILE%Lokale EinstellungenTemp*.*&#8220; /s /d<br />
+DEL &#8222;%UserProfile%Lokale EinstellungenTemp*.*&#8220; /s /q /f<br />
+RD G:temp /s /q<br />
+start cleanmgr<br />
+pause&#8220;</p>
+<p>&nbsp;</p>
+<p>Quelle: <a href="http://www.esl.eu/de/csgo/forum/2736/26028/1061004/?page=1" target="_blank">ESL Beitrag</a></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-fps-boost-config-so-gehts/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>teamwechsel &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/teamwechsel/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>teamwechsel &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Bot Rcon Befehle</title>
+		<link>/rcon-befehle-auf-bots-bezogen/</link>
+		<comments>/rcon-befehle-auf-bots-bezogen/#respond</comments>
+		<pubDate>Sat, 13 Oct 2012 11:56:58 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Server Administration]]></category>
+		<category><![CDATA[administrieren]]></category>
+		<category><![CDATA[bannen]]></category>
+		<category><![CDATA[befehle]]></category>
+		<category><![CDATA[Bot in bestimmtes Team einfügen]]></category>
+		<category><![CDATA[Bots]]></category>
+		<category><![CDATA[deaktivieren]]></category>
+		<category><![CDATA[erstellen]]></category>
+		<category><![CDATA[festlegen]]></category>
+		<category><![CDATA[kicken]]></category>
+		<category><![CDATA[rcon]]></category>
+		<category><![CDATA[teamwechsel]]></category>
+		<category><![CDATA[waffen]]></category>
+
+		<guid isPermaLink="false">/?p=190</guid>
+		<description><![CDATA[Hier eine kleine Liste der Rcon-Befehle die verwendet werden können um die Bots auf dem Server zu &#8222;administrieren&#8220;. Befehl Beschreibung bot_add Fügt ein Bot hinzu. bot_add_ct Fügt ein Bot zu den Counterterroristen hinzu. bot_add_t&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Hier eine kleine Liste der Rcon-Befehle die verwendet werden können um die Bots auf dem Server zu &#8222;administrieren&#8220;.<span id="more-190"></span></p>
+<table border="1">
+<tbody>
+<tr>
+<th>Befehl</th>
+<th>Beschreibung</th>
+</tr>
+<tr>
+<td>bot_add</td>
+<td>Fügt ein Bot hinzu.</td>
+</tr>
+<tr>
+<td>bot_add_ct</td>
+<td>Fügt ein Bot zu den Counterterroristen hinzu.</td>
+</tr>
+<tr>
+<td>bot_add_t</td>
+<td>Fügt ein Bot zu den Terroristen hinzu.</td>
+</tr>
+<tr>
+<td>bot_all_weapons</td>
+<td>Erlaubt den Bots alle Waffen zu benutzen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_allow_grenades</td>
+<td>Erlaubt den Bots Granaten zu benutzen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_allow_machine_guns</td>
+<td>Erlaubt den Bots Maschinenpistolen zu benutzen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_allow_pistols</td>
+<td>Erlaubt den Bots Pistolen zu benutzen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_allow_rifles</td>
+<td>Erlaubt den Bots Gewehre zu nutzen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_allow_rogues</td>
+<td>Erlaubt den Bots MP´s zu nutzen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_allow_shotguns</td>
+<td>Erlaubt den Bots Schrotgewehre zu nutzen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_allow_snipers</td>
+<td>Erlaubt den Bots Scharfschützengewehre zu nutzen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_allow_sub_machine_guns</td>
+<td>Erlaubt den Bots SMG´s zu nutzen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_kick</td>
+<td>Kickt alle Bots.</td>
+</tr>
+<tr>
+<td>bot_kill</td>
+<td>Lässt alle Bots sterben.</td>
+</tr>
+<tr>
+<td>bot_snipers_only</td>
+<td>Bots benutzen nur noch Scharfschützengewehre. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_pistols_only</td>
+<td>Bots benutzen nur noch Pistolen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_knives_only</td>
+<td>Bots benutzen nur noch Messer. 0=nein; 1=ja</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/rcon-befehle-auf-bots-bezogen/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>autoexec generator &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/autoexec-generator/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>autoexec generator &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Autoexec.cfg Generator &#8211; So lässt sich die Autocfg einfach zusammen stellen [Tipps&#038;Tricks]</title>
+		<link>/csgo-autoexec-cfg-generator-so-laesst-sich-die-autocfg-einfach-zusammen-stellen-tippstricks/</link>
+		<comments>/csgo-autoexec-cfg-generator-so-laesst-sich-die-autocfg-einfach-zusammen-stellen-tippstricks/#comments</comments>
+		<pubDate>Sun, 18 May 2014 14:19:01 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Die Config]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[autoexec generator]]></category>
+		<category><![CDATA[config generator]]></category>
+
+		<guid isPermaLink="false">/?p=2591</guid>
+		<description><![CDATA[Autoexec.cfg Generator Der Reddit User bluekristoffer hat sich die Arbeit gemacht und einen simplen aber sehr nützlichen Autoexec.cfg Generator erstellt. Mit diesem Generator habt ihr die Möglichkeit die verschiedenen Einstellungen direkt auszuwählen bzw. einzustellen und&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Autoexec.cfg Generator</h3>
+<p>Der Reddit User bluekristoffer hat sich die Arbeit gemacht und einen simplen aber sehr nützlichen Autoexec.cfg Generator erstellt. Mit diesem Generator habt ihr die Möglichkeit die verschiedenen Einstellungen direkt auszuwählen bzw. einzustellen und dann als autoexec.cfg ausgeben zu lassen. Ihr habt dann die Möglichkeit die Datei in das CS:GO Verzeichnis zu verschieben. Das schöne daran ist dass die verschiedenen Einstellungen auch (auf Englisch) kommentiert sind und so man etwas besser weiß was man überhaupt verändert.</p>
+<p><a href="http://autoexec.global-offensive.com/"><span style="text-decoration: underline">Hier kommt ihr zum Autoexec Generator: Hier Klicken</span></a></p>
+<p><a href="/wp-content/uploads/sites/2/2014/05/autoexec_generator.png"><img class="aligncenter size-full wp-image-2592" src="/wp-content/uploads/sites/2/2014/05/autoexec_generator.png" alt="autoexec_generator" width="816" height="752" /></a></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-autoexec-cfg-generator-so-laesst-sich-die-autocfg-einfach-zusammen-stellen-tippstricks/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

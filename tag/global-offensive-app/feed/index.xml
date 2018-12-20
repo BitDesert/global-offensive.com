@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>global offensive app &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/global-offensive-app/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>global offensive app &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Global-Offensive.com &#8211; ANDROID CS:GO APP im Google Play Store</title>
+		<link>/global-offensive-com-android-app-als-beta-im-google-play-store/</link>
+		<comments>/global-offensive-com-android-app-als-beta-im-google-play-store/#respond</comments>
+		<pubDate>Sun, 13 Jul 2014 12:53:07 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[App]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[android]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[esports news]]></category>
+		<category><![CDATA[global offensive app]]></category>
+		<category><![CDATA[goslider]]></category>
+
+		<guid isPermaLink="false">/?p=2687</guid>
+		<description><![CDATA[Hurra! Hurra! Die Global-Offensive App ist da! In den letzten Wochen war es von uns aus etwas ruhiger, das lag zum Einen daran dass die Developers von Valve stark an der Operation Breakout gearbeitet&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Hurra! Hurra! Die Global-Offensive App ist da!</h3>
+<p>In den letzten Wochen war es von uns aus etwas ruhiger, das lag zum Einen daran dass die Developers von Valve stark an der Operation Breakout gearbeitet haben und es keine wichtigen News gab und zum Anderen daran dass das Team parallel an einer App für Global-Offensive.com gearbeitet hat und weiterhin arbeitet.  Die &#8222;Global-Offensive.com&#8220; fasst das  Wichtigste an Informationen und News zusammen. Die App befindet sich im Beta Stadium und wir sind um jede Hilfe bzgl. Fehlermeldung und anregungen erfreut.</p>
+<p>Die derzeitige Funktionalität der App ist noch recht einfach gehalten, die aktuellsten News können easy per WIFI oder Mobile Daten abgerufen werden. In den nächsten Schritten werden die Filter nach Kategorien und Suchen eingebaut. Darüber hinaus habt ihr immer die Möglichkeit aus der App direkt den Original Beitrag auf unserer Webseite aufzurufen.</p>
+<p>Hier könnt ihr euch die App direkt aus dem Google Play Store laden: <a title="Global-Offensive APP Download" href="https://play.google.com/store/apps/details?id=com.globaloffensive">HIER KLICKEN</a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.globaloffensive"><img class="aligncenter size-full wp-image-2693" src="/wp-content/uploads/sites/2/2014/07/global-offensive-android-app.png" alt="global-offensive-android-app" width="581" height="599" /></a></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/global-offensive-com-android-app-als-beta-im-google-play-store/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

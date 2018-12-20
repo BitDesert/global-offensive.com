@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Maps &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/maps/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>Maps &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Update Operation Breakout</title>
+		<link>/csgo-update-operation-breakout/</link>
+		<comments>/csgo-update-operation-breakout/#respond</comments>
+		<pubDate>Sun, 06 Jul 2014 20:09:59 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[cobblestorm]]></category>
+		<category><![CDATA[cs: go]]></category>
+		<category><![CDATA[Maps]]></category>
+		<category><![CDATA[operation breakout]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[waffen]]></category>
+
+		<guid isPermaLink="false">/?p=2598</guid>
+		<description><![CDATA[Jaaa es ist endlich da, das große Update für Counter-Strike: Global Offensive (CS:GO). Die neue Operation Breakout beinhaltet insgesamt sechs neue Maps. Aber nicht nur an den Maps wurde getüftelt, neue Balance von hauptsächlich&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p style="color: #101c2a">Jaaa es ist endlich da, das große Update für Counter-Strike: Global Offensive (CS:GO). Die neue Operation Breakout beinhaltet insgesamt sechs neue Maps. Aber nicht nur an den Maps wurde getüftelt, neue Balance von hauptsächlich Pistolen wurde bearbeitet und in diesem Zuge auch die sogenannten Wallbangs also das schießen durch Wände nun mehr Schaden verursacht.</p>
+<h3 style="color: #405e80">Operation Breakout</h3>
+<p>Operation Breakout enthält die Maps Castle, Overgrown, Black Gold, Mist, Rush und Insertion. Die gute Nachricht: Die in Operation Breakout enthaltenen Maps können von allen Spielern im Competitive Matchmaking gespielt werden, ohne dass man einen Pass dafür benötigt. Man kann sich aber einen sogenannten “All Access Pass” kaufen, der einem verschiedene Boni bringt. Man bekommt wieder eine Challenge Coin, die aufgewertet werden kann. Außerdem gibt es Mission Drops, dabei kann man Skins für das Erfüllen kleiner Missionen, wie z.B. das Gewinnen eines Matches auf Cache, bekommen. Insgesamt 45 neue Waffen Skins warten als Belohnung. Und man hat natürlich die Chance auf eine Operation Breakout Case, die 14 Skins aus der Community und das neue Butterfly Knife enthalten kann. Neu ist außerdem das Journal, das zwei verschiedene Scorecards mit Statistiken enthält sowie eine Rangliste bietet, durch die man sich mit seinen Freunden vergleichen kann.</p>
+<h3 style="color: #405e80">Waffen Balance</h3>
+<p style="color: #101c2a"><span style="text-decoration: underline">Folgende Waffen wurden treffsicherer gemacht:</span></p>
+<ul>
+<li>Desert Eagle</li>
+<li>Tec 9</li>
+<li>Scout</li>
+<li>Sawed-Off</li>
+<li>Mag-7</li>
+</ul>
+<p><span style="text-decoration: underline">Folgende Waffen wurden abgeschwächt:</span></p>
+<ul>
+<li>CZ75</li>
+</ul>
+<p>Alle Shotguns bis auf die Nova können nun durch Wände schießen</p>
+<h3>Baggage Collection</h3>
+
+<h3>Cobblestorm Collection</h3>
+
+<h3 style="color: #405e80">Overpass Selection</h3>
+<p>&nbsp;</p>
+
+<h3 style="color: #405e80">Operation Breakout Case</h3>
+
+<h3 style="color: #405e80">Wallbanging</h3>
+<p style="color: #101c2a">Das Wallbanging-System wurde überarbeitet, so dass es nun konsequenter funktioniert, als das bisher der Fall war. Kugeln, die durch eine Oberfläche hindurchgehen, hinterlassen nun außerdem eine ganz leichte Spur in der Luft. Mit dem neuen Konsolenbefehl sv_showimpacts_penetration kann man sich Informationen anzeigen lassen, wie gut Kugeln durch eine Oberfläche gehen.</p>
+<h3 style="color: #405e80">Die neuen Maps</h3>
+
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-update-operation-breakout/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>[CS:GO] Größeres Update &#8211; Serveranpassungen, Bombe, Interface, Maps, Voicechat&#8230;</title>
+		<link>/csgo-update-serveranpassungen-bombe-interface-maps-voicechat/</link>
+		<comments>/csgo-update-serveranpassungen-bombe-interface-maps-voicechat/#respond</comments>
+		<pubDate>Fri, 24 Jan 2014 08:37:24 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[bombe]]></category>
+		<category><![CDATA[cbblestorm]]></category>
+		<category><![CDATA[Interface]]></category>
+		<category><![CDATA[Maps]]></category>
+		<category><![CDATA[overpass]]></category>
+		<category><![CDATA[Serveranpassungen]]></category>
+		<category><![CDATA[Voicechat.]]></category>
+
+		<guid isPermaLink="false">/?p=1890</guid>
+		<description><![CDATA[Update! Serveranpassungen, Bombentimer, Interface, Maps, nerviger Voicechat&#8230;. Nachdem es seit einem guten Monat sehr ruhig geworden ist, schiebt Valve wieder mal ein CS:GO Update rüber. Hier findet ihr in Bildern die Änderungen vor. Bei&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Update! Serveranpassungen, Bombentimer, Interface, Maps, nerviger Voicechat&#8230;.</h3>
+<p>Nachdem es seit einem guten Monat sehr ruhig geworden ist, schiebt Valve wieder mal ein CS:GO Update rüber. Hier findet ihr in Bildern die Änderungen vor. Bei den Mapänderungen handelt es sich um vorher nachher Bilder.</p>
+<p><strong>Hier noch kurz die Verbesserung die wesentlich sind:</strong></p>
+<ul>
+<li>Entscheidungsrunde kann keiner mehr gekickt werden (Kick-Vote).</li>
+<li>Hinweis dass die Bombe gelegt wurde mit Timer.</li>
+<li>In der Lobby wird endlich das Mikrofon auf Standard -&gt; Deaktiviert gestellt, CS:GO merkt sich absofort die letzte Mikrofoneinstellung.</li>
+<li>Die Freundesliste ist darüber hinaus jetzt in zwei Spalten aufgeteilt und bietet mehr Platz. Darüber hinaus kann auch die Maus verwendet werden um in dem Bereich zu scrollen.</li>
+</ul>
+<h3>Und hier gehts zu den Bildern:</h3>
+<h3>Map Updates</h3>
+<h4>Overpass</h4>
+<p>Bilder vorher / nachher</p>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4527-csgo_overpass_0000_layer-34.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4527-csgo_overpass_0000_layer-34.png" /></a></figure>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4528-csgo_overpass_0001_layer-22.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4528-csgo_overpass_0001_layer-22.png" /></a></figure>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4529-csgo_overpass_0002_layer-33.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4529-csgo_overpass_0002_layer-33.png" /></a></figure>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4530-csgo_overpass_0003_layer-21.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4530-csgo_overpass_0003_layer-21.png" /></a></figure>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4531-csgo_overpass_0004_layer-31.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4531-csgo_overpass_0004_layer-31.png" /></a></figure>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4532-csgo_overpass_0005_layer-20.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4532-csgo_overpass_0005_layer-20.png" /></a></figure>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4533-csgo_overpass_0006_layer-30.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4533-csgo_overpass_0006_layer-30.png" /></a></figure>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4534-csgo_overpass_0007_layer-19.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4534-csgo_overpass_0007_layer-19.png" /></a></figure>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4535-csgo_overpass_0008_layer-29.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4535-csgo_overpass_0008_layer-29.png" /></a></figure>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4536-csgo_overpass_0009_layer-18.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4536-csgo_overpass_0009_layer-18.png" /></a></figure>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4537-csgo_overpass_0010_layer-28.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4537-csgo_overpass_0010_layer-28.png" /></a></figure>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4538-csgo_overpass_0011_layer-16.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4538-csgo_overpass_0011_layer-16.png" /></a></figure>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4539-csgo_overpass_0012_layer-27.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4539-csgo_overpass_0012_layer-27.png" /></a></figure>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4540-csgo_overpass_0013_layer-15.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4540-csgo_overpass_0013_layer-15.png" /></a></figure>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4541-csgo_overpass_0014_layer-26.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4541-csgo_overpass_0014_layer-26.png" /></a></figure>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4542-csgo_overpass_0015_layer-14.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4542-csgo_overpass_0015_layer-14.png" /></a></figure>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4543-csgo_overpass_0016_layer-25.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4543-csgo_overpass_0016_layer-25.png" /></a></figure>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4544-csgo_overpass_0017_layer-13.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4544-csgo_overpass_0017_layer-13.png" /></a></figure>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4545-csgo_overpass_0018_layer-24.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4545-csgo_overpass_0018_layer-24.png" /></a></figure>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4546-csgo_overpass_0019_layer-12.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4546-csgo_overpass_0019_layer-12.png" /></a></figure>
+<p>Das Radar bild links oben in der Ecke wurde ebenfalls geändert.</p>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4570-csgo_overpass_radar.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4570-csgo_overpass_radar.png" /></a></figure>
+<h4>Cobblestone</h4>
+<p>Vorher / Nachher</p>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4547-csgo_cbble_0000_layer-13.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4547-csgo_cbble_0000_layer-13.png" /></a></figure>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4548-csgo_cbble_0001_layer-11.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4548-csgo_cbble_0001_layer-11.png" /></a></figure>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4549-csgo_cbble_0002_layer-10.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4549-csgo_cbble_0002_layer-10.png" /></a></figure>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4550-csgo_cbble_0003_layer-5.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4550-csgo_cbble_0003_layer-5.png" /></a></figure>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4551-csgo_cbble_0004_layer-9.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4551-csgo_cbble_0004_layer-9.png" /></a></figure>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4552-csgo_cbble_0005_layer-4.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4552-csgo_cbble_0005_layer-4.png" /></a></figure>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4553-csgo_cbble_0006_layer-8.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4553-csgo_cbble_0006_layer-8.png" /></a></figure>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4554-csgo_cbble_0007_layer-3.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4554-csgo_cbble_0007_layer-3.png" /></a></figure>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4555-csgo_cbble_0008_layer-7.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4555-csgo_cbble_0008_layer-7.png" /></a></figure>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4556-csgo_cbble_0009_layer-2.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4556-csgo_cbble_0009_layer-2.png" /></a></figure>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4557-csgo_cbble_0010_layer-6.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4557-csgo_cbble_0010_layer-6.png" /></a></figure>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4558-csgo_cbble_0011_layer-1.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4558-csgo_cbble_0011_layer-1.png" /></a></figure>
+<h3>UI Updates</h3>
+<ul>
+<li>Freunde werden nun in 2 Spalten angezeigt.</li>
+</ul>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4559-csgo_ui_friends.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4559-csgo_ui_friends.png" /></a></figure>
+<ul>
+<li>Es kann nun endlich auch nach &#8222;Name&#8220; gefiltert werden.</li>
+</ul>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4560-csgo_ui_filtername.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4560-csgo_ui_filtername.png" /></a></figure>
+<ul>
+<li>Möglichkeit eingefügt die Gegenstände durch Markieren im Inventar zu sortieren.</li>
+</ul>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4561-csgo_ui_sorttool.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4561-csgo_ui_sorttool.png" /></a></figure>
+<ul>
+<li>Bombe wurde gelegt Info mit dem Timer in Sekunden.</li>
+</ul>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4562-csgo_ui_bombtimer.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4562-csgo_ui_bombtimer.png" /></a></figure>
+<ul>
+<li>Der nervige Voicechat ist nun auf &#8222;auto_disable&#8220; gestellt. Er muss nun extra aktiviert werden. Ein großer Schritt von Valve <img src="https://s.w.org/images/core/emoji/11/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+</ul>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4564-csgo_ui_mute.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4564-csgo_ui_mute.png" /></a></figure>
+<ul>
+<li>Contex-Menü wurde nun in Kategorien eingeteilt.</li>
+</ul>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4565-csgo_ui_context.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4565-csgo_ui_context.png" /></a></figure>
+<ul>
+<li>Inventar Vorschau-Bilder zeigen nun die Sticker links unten im Bild.</li>
+</ul>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4566-csgo_ui_sticker.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4566-csgo_ui_sticker.png" /></a></figure>
+<p>Die Gift&#8217;s / Steam Geschenke Aktionen werden nun bald auslaufen.</p>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4567-csgo_ui_giftexpire.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4567-csgo_ui_giftexpire.png" /></a></figure>
+<p>F10 ist jetzt nicht mehr EXIT ohne Vorwarnung (war eher das Problem bei den Public-Spielern)</p>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4575-csgo_ui_exit.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4575-csgo_ui_exit.png" /></a></figure>
+<p>Die Operation Maps können nun gewählt werden, welche schaffen es in das nächste Paket?</p>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4568-csgo_ui_operationvote01.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4568-csgo_ui_operationvote01.png" /></a></figure>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4569-csgo_ui_operationvote02.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4569-csgo_ui_operationvote02.png" /></a></figure>
+<blockquote><p><span style="font-size: 1.17em;line-height: 1.5em">Map Updates</span></p></blockquote>
+<p>Das Textur Bild wurde etwas geändert, es faded nun nach außen aus</p>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4574-csgo_cbblepictures.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4574-csgo_cbblepictures.png" /></a></figure>
+<h3>Default Inventory Items</h3>
+<p>Die Terrors haben nun auch eine eigene Sektion für Standard-Items wie dem Messer.</p>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4571-csgo_tknife01.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4571-csgo_tknife01.png" /></a></figure>
+<p>Model viewer shot.</p>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4572-csgo_tknife02.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4572-csgo_tknife02.png" /></a></figure>
+<p>Re-Render Erinnerung für das Entwicklerteam von CS: GO team wurde links auf den Invetarbildern hinterlassen.</p>
+<figure><a href="http://static.ongamers.com/uploads/original/0/22/4573-csgo_renderme.png"><img alt="" src="http://static.ongamers.com/uploads/scale_super/0/22/4573-csgo_renderme.png" /></a>7</figure>
+<figure>
+<h3>Und zum Schluss wie immer das Update Log 23.01.2013:</h3>
+</figure>
+<figure>
+<h3></h3>
+<blockquote><p>&#8211; Significant improvement to server infrastructure to support growing CS:GO community.</p>
+<p>[ UI ]<br />
+&#8211; Fixed an alt-tab related memory leak<br />
+&#8211; Added ability for Friends Lister to display two columns of friends.<br />
+&#8211; Added ability for mouse wheel to scroll Friends Lister.<br />
+&#8211; Added filtering by item name. Players can enter any part of an item name in the text field to filter their inventory.<br />
+&#8211; Added ability to sort items when selecting items that will work with a tool.<br />
+&#8211; Players can no longer initiate a vote kick on the final round or match point.<br />
+&#8211; The ‘bomb has been planted alert’ now also states the number of seconds that mp_c4timer is set to.<br />
+&#8211; The voice chat button in the lobby (microphone) now stores it’s state from session to session.<br />
+&#8211; Fixed remaining cases where Blog would take mouse input when if was obscured.<br />
+&#8211; Fixed Main Menu bar buttons getting stuck in highlighted state.<br />
+&#8211; Context menu entries are now divided into categories.<br />
+&#8211; Open Case UI will auto-select a key in cases where players do not need to choose between different types of keys.<br />
+&#8211; Fixed cases where players could not rename items in Lobby and Pause menu inventories.<br />
+&#8211; Inventory images will show the thumbnail for a weapon’s sticker.<br />
+&#8211; Buying helmet when you already have kevlar will now update the health/armor HUD icon element immediately on purchase.<br />
+&#8211; Fixed the freeze cam panel not always having the killer’s weapon item data during demo playback.<br />
+&#8211; Grenades now show player ownership in their name.<br />
+&#8211; Fixed some vote panel text getting truncated.<br />
+&#8211; Fixed the health, armor and ammo HUD elements not showing up sometimes when spectating some players.<br />
+&#8211; Fixed some alignment issues on the spectator follow panel<br />
+&#8211; Fixed the weapon image in the spectator panel not having a background.<br />
+&#8211; Realigned the spectator follow panel a bit.<br />
+&#8211; The gift drop alert panel has been de-holiday-ified.<br />
+&#8211; Removed the snow from the main menu background.<br />
+&#8211; Turned off rope and freeze cam holiday effects.<br />
+&#8211; Fixed missing Cyrillic characters in chat.<br />
+&#8211; Fixed HUD disappearing when alt-tabbing or starting another app (like hlmv).</p>
+<p>[ MAPS ]</p>
+<p>OVERPASS<br />
+&#8211; [Bombsite A]<br />
+– Moved CT van to give more effective cover<br />
+– Made CT van climbable<br />
+– Moved fences to give more space<br />
+– Removed red car<br />
+– Widened door into back of A<br />
+– Blocked visibility from bridge to canal<br />
+– Tweaked position/rotation of truck<br />
+– Made corridors and stairs under A wider</p>
+<p>&#8211; [Bombsite B]<br />
+– Moved Bombsite B to CT side of pillar, extended area with a platform to give more space and cover<br />
+– Made players in sniping room easier to silhouette against the background<br />
+– Made cement sacks climbable<br />
+– Opened up wall on CT side<br />
+– Made bridge wider</p>
+<p>&#8211; [General]<br />
+– Moved up CT spawns and pushed T spawns further back<br />
+– Increased C4 radius to 500 from 400<br />
+– Railings in sniper room no longer blocks bullets or grenades<br />
+– Added light to sniper room balcony<br />
+– Made upper door in park connector wider<br />
+– Made park connector easier to navigate<br />
+– Made corridor near T spawn wider<br />
+– Brighter ambient lights in canal pipes<br />
+– Made climbing thing in playground more solid<br />
+– Made bathroom corridor wider<br />
+– Made windows in bathrooms breakable<br />
+– Added spectator fixed camera positions<br />
+– Tweaked soundscape settings<br />
+– Fixed various minor bugs</p>
+<p>COBBLESTONE<br />
+&#8211; Added collision to top of trees<br />
+&#8211; Added more accurate model collision<br />
+&#8211; Removed particle effects that could be mistaken for grenades<br />
+&#8211; Blocked a sightline in battlements near A<br />
+&#8211; Blocked a hiding hole in underpass near A<br />
+&#8211; Removed light models near statue at B that could be mistaken for player heads<br />
+&#8211; Removed a portapotty at back of B<br />
+&#8211; Raised height of center fence near B<br />
+&#8211; Fixed various minor bugs</p></blockquote>
+</figure>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-update-serveranpassungen-bombe-interface-maps-voicechat/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Neues CS:GO Update/Patch &#8211; neues Waffenverhalten uvm.</title>
+		<link>/neues-csgo-update-neues-waffenverhalten-uvm/</link>
+		<comments>/neues-csgo-update-neues-waffenverhalten-uvm/#respond</comments>
+		<pubDate>Mon, 04 Feb 2013 15:03:21 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[Änderungen]]></category>
+		<category><![CDATA[Beta Keys]]></category>
+		<category><![CDATA[cs.gov]]></category>
+		<category><![CDATA[CSTV]]></category>
+		<category><![CDATA[Deagle]]></category>
+		<category><![CDATA[Feedbacks]]></category>
+		<category><![CDATA[genauigkeit]]></category>
+		<category><![CDATA[GOTV]]></category>
+		<category><![CDATA[Map editor]]></category>
+		<category><![CDATA[Maps]]></category>
+		<category><![CDATA[Pro Series]]></category>
+		<category><![CDATA[Recoil]]></category>
+		<category><![CDATA[updates]]></category>
+		<category><![CDATA[waffenverhalten]]></category>
+
+		<guid isPermaLink="false">/?p=652</guid>
+		<description><![CDATA[Alleine in diesem Monat (Januar 2013) hat Valve wieder große Änderungen an CS:GO (Counterstrike Global Offensive) vorgenommen. Wie immer gab es eine Reihe von Feedbacks aus dem Profibereich (Pro Series Teams). Diese Feedbacks hat&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p><a href="/wp-content/uploads/sites/2/2012/10/sonstiges-vorschau.jpg"><img class="alignnone size-full wp-image-512" title="sonstiges-vorschau" src="/wp-content/uploads/sites/2/2012/10/sonstiges-vorschau.jpg" alt="" width="280" height="120" /></a></p>
+<p>Alleine in diesem Monat (Januar 2013) hat Valve wieder große Änderungen an CS:GO (Counterstrike Global Offensive) vorgenommen. Wie immer gab es eine Reihe von Feedbacks aus dem Profibereich (Pro Series Teams). Diese Feedbacks hat sich Valve zu Herzen genommen und erneut spürbare Änderungen am Gameplay von CS:GO vorgenommen. </p>
+<p>Neben den üblichen Bugfixes welche den meißten Spielern eh verborgen bleiben wurde aber auch offensichtliche Veränderungen vorgenommen. </p>
+<p>Seit dem letzten Update ist nun folgendes in CS:GO zu finden:</p>
+<ul>
+<li>Ein neuer Gamemode (Deathmatch) erlaubt es nun laut &#8222;Valve&#8220; den Spielern noch einfacher ihre Skills (Übung) zu erhöhen. Dadurch dass die Spieler nun direkt in das Spiel einsteigen und eine zufällige Waffe bekommen, trainiert dieses &#8222;enorm&#8220; die flexibilität eines einzelnen Spielers auch mit unbeliebteren Waffen.</li>
+<li>Wesentliche Änderungen im Waffenverhalten der automatischen und Handfeuerwaffen wurden vorgenommen. P90, Duals, und Deagle und vor allem spürbar das Treffverhalten der Glock wurde optimiert und realistischer gestaltet. Die Duals sind nun nicht mehr die &#8222;Wunderwaffe&#8220; und die Deagle wie auch die P90 haben nun wesentlich mehr durchsatz und Treffgenauigkeit.</li>
+<li>Private Betakeys für den Mapshop wurden eingeführt so das die Entwicklung von Maps noch einfacher durch den internen Map editor verfolgen kann.</li>
+<li>GOTV erlaubt es nun über das &#8222;freunde&#8220; Menü anderen Freunden beim Spielen zuzuschauen. Dieses muss aber vorher durch den &#8222;zuschauenden&#8220; bestätigt werden.</li>
+<li>Glock nur noch für Terroristen und Five-Seven nur noch für Counter Terroristen </li>
+<li>Molotov Brandgranate nur noch 500$</li>
+</ul>
+<div> </div>
+<p>&nbsp;</p>
+<p>Das sind die wesentlichen Änderungen. Hier nun noch mal die originale Ausgabe von Valve zum Update:</p>
+<p>Release Notes for 1/30/2013</p>
+<p>[ NOTABLE ]<br />&#8211; Nerfed the Deagle.<br />&#8211; Added a feature to spectate friends games via GOTV.<br />  -In &#8218;Play With Friends,&#8216; if a friend is on an official matchmaking server the WATCH option will appear next to their name.<br />&#8211; DM immunity changes:<br />  -Default immunity was raised to 10s.<br />  -Moving cancels immunity.</p>
+<p>[ MISC ]<br />&#8211; Fixed dedicated server memory leak.<br />&#8211; Reserved server with connected GOTV spectators will hold reservation after all players disconnected for at least TV delay time to allow spectators to watch the match to the end.<br />&#8211; Added convar sv_hibernate_punt_tv_clients to also punt lingering TV spectators after all players disconnected and at least TV delay time elapsed.<br />tv_snapshotrate will now correctly adjust client-side rates automatically for smooth spectating experience.<br />&#8211; Added convar tv_relayradio, 0 = off, 1 = relay team radio commands to GOTV (default value = 0).<br />&#8211; Added convar tv_relaytextchat, 0 = off, 1 = relay &#8222;say&#8220; chat only, 2 = relay &#8222;say&#8220; and &#8222;say_team&#8220; chat to GOTV (default value = 1).<br />&#8211; Team kills and team damage is now preserved for players in competitive games across disconnects and reconnects.<br />&#8211; Fixed a regression in naming of tv_autorecord demo files.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/neues-csgo-update-neues-waffenverhalten-uvm/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>de_mirage_csgo &#8211; [Download]</title>
+		<link>/de_mirage_csgo-download/</link>
+		<comments>/de_mirage_csgo-download/#respond</comments>
+		<pubDate>Sun, 14 Oct 2012 10:05:10 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[Maps]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[ESL]]></category>
+		<category><![CDATA[global]]></category>
+		<category><![CDATA[Map]]></category>
+		<category><![CDATA[mirage]]></category>
+		<category><![CDATA[Offensive]]></category>
+
+		<guid isPermaLink="false">/?p=382</guid>
+		<description><![CDATA[Hallo zusammen, den Link für de_mirage_csgo findet ihr hier! Sobald ihr die Datei geladen und entpackt habt, geht ihr in folgende Ordnerstruktur: SteamSteamAppscommonCounter-Strike Global Offensivecsgomaps Dort kopiert ihr beide Dateien rein, dann sollte alles&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Hallo zusammen,</p>
+<p>den Link für <a title="de_mirage_csgo" href="http://www.global-offensive.com/wp-content/themes/Monaco/downloads/de_mirage_csgo.zip" target="_blank">de_mirage_csgo</a> findet ihr <a title="de_mirage_csgo" href="http://www.global-offensive.com/wp-content/themes/Monaco/downloads/de_mirage_csgo.zip" target="_blank">hier</a>! Sobald ihr die Datei geladen und entpackt habt, geht ihr in folgende Ordnerstruktur:</p>
+<p>SteamSteamAppscommonCounter-Strike Global Offensivecsgomaps</p>
+<p>Dort kopiert ihr beide Dateien rein, dann sollte alles funktionieren.</p>
+<p>Diese Map wird offiziell in der ESL gespielt.</p>
+<p><img class="aligncenter  wp-image-396" title="Screenshot de_mirage_csgo" src="/wp-content/uploads/sites/2/2012/10/screenshot_de_mirage_csgo_txt.jpg" alt="" width="720" height="503" srcset="/wp-content/uploads/sites/2/2012/10/screenshot_de_mirage_csgo_txt.jpg 806w, /wp-content/uploads/sites/2/2012/10/screenshot_de_mirage_csgo_txt-300x210.jpg 300w" sizes="(max-width: 720px) 100vw, 720px" /></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/de_mirage_csgo-download/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>de_nuke_ve &#8211; [Download]</title>
+		<link>/de_nuke_ve-download/</link>
+		<comments>/de_nuke_ve-download/#respond</comments>
+		<pubDate>Sat, 13 Oct 2012 21:48:55 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[Maps]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[de_nuke_ve]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[ESL]]></category>
+		<category><![CDATA[global offensive download]]></category>
+		<category><![CDATA[Map]]></category>
+		<category><![CDATA[map download]]></category>
+		<category><![CDATA[Nuke]]></category>
+
+		<guid isPermaLink="false">/?p=347</guid>
+		<description><![CDATA[Hallo zusammen, den Link für de_nuke_ve findet ihr hier! Sobald ihr die Datei geladen und entpackt habt, geht ihr in folgende Ordnerstruktur: SteamSteamAppscommonCounter-Strike Global Offensivecsgomaps Dort kopiert ihr beide Dateien rein, dann sollte alles&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Hallo zusammen,</p>
+<p>den Link für <a title="de_nuke_ve" href="http://www.global-offensive.com/wp-content/themes/Monaco/downloads/de_nuke_ve.zip" target="_blank">de_nuke_ve</a> findet ihr <a title="de_nuke_ve" href="http://www.global-offensive.com/wp-content/themes/Monaco/downloads/de_nuke_ve.zip" target="_blank">hier</a>! Sobald ihr die Datei geladen und entpackt habt, geht ihr in folgende Ordnerstruktur:</p>
+<p>SteamSteamAppscommonCounter-Strike Global Offensivecsgomaps</p>
+<p>Dort kopiert ihr beide Dateien rein, dann sollte alles funktionieren.</p>
+<p>Diese Map wird offiziell in der ESL gespielt.</p>
+<p><img class="aligncenter  wp-image-474" title="Screenshot de_nuke_ve" src="/wp-content/uploads/sites/2/2012/10/screenshot_de_nuke_ve_txt.jpg" alt="" width="709" height="496" srcset="/wp-content/uploads/sites/2/2012/10/screenshot_de_nuke_ve_txt.jpg 806w, /wp-content/uploads/sites/2/2012/10/screenshot_de_nuke_ve_txt-300x210.jpg 300w" sizes="(max-width: 709px) 100vw, 709px" /></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/de_nuke_ve-download/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

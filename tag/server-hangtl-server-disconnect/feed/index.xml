@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Server hängtl Server disconnect &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/server-hangtl-server-disconnect/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>Server hängtl Server disconnect &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Serverbug &#8211; Passwort</title>
+		<link>/csgo-serverbug-das-passwort/</link>
+		<comments>/csgo-serverbug-das-passwort/#respond</comments>
+		<pubDate>Sat, 13 Oct 2012 14:19:06 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Server Administration]]></category>
+		<category><![CDATA[Bug]]></category>
+		<category><![CDATA[Disconnect]]></category>
+		<category><![CDATA[Server hängtl Server disconnect]]></category>
+		<category><![CDATA[Serverbug]]></category>
+		<category><![CDATA[Serverprobleme]]></category>
+
+		<guid isPermaLink="false">/?p=237</guid>
+		<description><![CDATA[Schneller Release hin oder her. Die kleinen Bugs fangen langsam an zu nerven. Ihr versucht einen Clanwar zu machen und bekommt kein Passwort auf den Server? Jedes mal wenn ein Spieler connected, verschwindet das&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p style="text-align: justify">Schneller Release hin oder her. Die kleinen Bugs fangen langsam an zu nerven. Ihr versucht einen Clanwar zu machen und bekommt kein Passwort auf den Server? Jedes mal wenn ein Spieler connected, verschwindet das Passwort wieder.</p>
+<p style="text-align: justify">Hier die Lösung:</p>
+<ul>
+<li>Stellt die Verbindung mit eurem FTP Server her, wechen Ihr  von eurem Anbieter eures Vertrauens erhalten haben solltet.</li>
+<li>Geht nun auf dem FTP-Server in den Ordner /csgo/cfg</li>
+<li>Zieht euch die &#8222;Server.cfg&#8220;</li>
+<li>Nun legt ihr euer Rcon Passwort via <strong>rcon_password &#8222;Passwort_rcon&#8220;</strong> fest. Ihr könnt das PW natürlich frei wählen</li>
+<li>Nutzt ebenfalls <strong>sv_steamgroup_exclusive &#8222;0&#8220;</strong></li>
+<li>Der nächste Befehl sollte nun das PW enthalten <strong>sv_password &#8222;Passwort&#8220;</strong></li>
+<li>Speichert die Datei  und ladet sie auf den Server</li>
+</ul>
+<p>Jetzt den Server via Konsole mit &#8222;Quit&#8220; neustarten. Nun sollte das Passwort immer drauf sein. Wenn ihr den Server in Game Neustarten wollt, nutzt &#8222;rcon quit&#8220; (vorausgesetzt, das ihr euch mit  rcon_password &#8222;euerPW&#8220; angemeldet habt)</p>
+<p><img class="aligncenter size-full wp-image-419" title="Password Falsch" src="/wp-content/uploads/sites/2/2012/10/pw.jpg" alt="" width="445" height="233" srcset="/wp-content/uploads/sites/2/2012/10/pw.jpg 445w, /wp-content/uploads/sites/2/2012/10/pw-300x157.jpg 300w" sizes="(max-width: 445px) 100vw, 445px" /></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-serverbug-das-passwort/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

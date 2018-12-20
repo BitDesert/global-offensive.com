@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Improve &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/improve/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>Improve &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Die richtigen Startparameter!</title>
+		<link>/die-richtigen-startparameter/</link>
+		<comments>/die-richtigen-startparameter/#respond</comments>
+		<pubDate>Fri, 12 Oct 2012 20:28:41 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[128]]></category>
+		<category><![CDATA[Abschalten]]></category>
+		<category><![CDATA[Config]]></category>
+		<category><![CDATA[DirecX]]></category>
+		<category><![CDATA[Improve]]></category>
+		<category><![CDATA[Intro]]></category>
+		<category><![CDATA[Intro deaktivieren]]></category>
+		<category><![CDATA[konsole aktivieren]]></category>
+		<category><![CDATA[Performance]]></category>
+		<category><![CDATA[Refresh]]></category>
+		<category><![CDATA[Server]]></category>
+		<category><![CDATA[tickrate]]></category>
+		<category><![CDATA[verbessern]]></category>
+
+		<guid isPermaLink="false">/?p=86</guid>
+		<description><![CDATA[Um GO so schnell wie möglich genießen zu können, empfiehlt es sich folgende Startparameter festzulegen: -refresh 120 -tickrate 128 -console -novid – 32bit -dxlevel 90 außerdem: -console (aktiviert die Konsole wie gewohnt) -novid (deaktiviert das&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Um GO so schnell wie möglich genießen zu können, empfiehlt es sich folgende Startparameter festzulegen:<br />
+-refresh 120 -tickrate 128 -console -novid – 32bit -dxlevel 90</p>
+<p>außerdem:</p>
+<p>-console (aktiviert die Konsole wie gewohnt)<br />
+-novid (deaktiviert das Intro welches nach einigen Spielvorgängen wirklich nervt)<br />
+-32bit (startet das Spiel im 32Bit-Modus, erzeugt mehr FPS)<br />
+-dxlevel 90 (startet das Spiel mit der DirectX-Version 9.0, mehr Performance)<br />
+-refresh 120 (erzwingt eine Monitorhertzzahl sofern nicht auf Laptop gespielt wird)<br />
+-tickrate 128 (setzt die Tickrate auf 128 welches auf 128 Tickrate-Servern einen &#8222;Da geht mehr rein&#8220;-Effekt erzeugt)</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/die-richtigen-startparameter/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

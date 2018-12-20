@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>emilio &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/emilio/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>emilio &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Profi Spieler Emilio vom Schwedischen Profi Team soeben VAC BANNED!</title>
+		<link>/csgo-profi-spieler-emilio-vom-schwedischen-profi-team-soeben-vac-banned/</link>
+		<comments>/csgo-profi-spieler-emilio-vom-schwedischen-profi-team-soeben-vac-banned/#respond</comments>
+		<pubDate>Thu, 09 Oct 2014 21:28:07 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[App]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[ban]]></category>
+		<category><![CDATA[emilio]]></category>
+		<category><![CDATA[vac]]></category>
+
+		<guid isPermaLink="false">/?p=2882</guid>
+		<description><![CDATA[Weitere VAC Ban Welle Vor wenigen Minuten erreichte uns die Info dass eine weitere VAC Ban Welle angerollt ist. Zwei sehr große Hack-Anbieter und daneben viele weitere kleine Anbieter wurden nun gebustet. Das alleine&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h2><img class="alignnone" src="http://i.imgur.com/mmfdsP2.png" alt="" width="1891" height="925" />Weitere VAC Ban Welle</h2>
+<p>Vor wenigen Minuten erreichte uns die Info dass eine weitere VAC Ban Welle angerollt ist. Zwei sehr große Hack-Anbieter und daneben viele weitere kleine Anbieter wurden nun gebustet.<br />
+Das alleine ist schon ein erfreuliches Ereignis, der Hammer ist jedoch das der Schwedische Profi Spieler Emilio vom Team Property während des FragBite Master Cups im Spiel gegen Hellraiser von Vac LIVE gebanned wurde. Er selber beteuert dass er unschuldig ist, nichts desto trotz wurde sein 11 Jähriger Account nun im Spiel Counter-Strike: Global-Offensvie gebannt.</p>
+<p>Wir berichten in den nächsten Stunden weiter über neue VAC Bans.</p>
+<p>Das Video wollen wir euch nicht vorenthalten, den deutschen Twitch.TV Link findet ihr hier: <a href="http://www.twitch.tv/doom1412/b/576402041?t=2h58m">http://www.twitch.tv/doom1412/b/576402041?t=2h58m</a></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-profi-spieler-emilio-vom-schwedischen-profi-team-soeben-vac-banned/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

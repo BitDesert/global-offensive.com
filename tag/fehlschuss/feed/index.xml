@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>fehlschuss &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/fehlschuss/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>fehlschuss &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hitboxvergleich zu CS:Source</title>
+		<link>/hitboxvergleich-zu-cssource/</link>
+		<comments>/hitboxvergleich-zu-cssource/#respond</comments>
+		<pubDate>Fri, 19 Oct 2012 12:57:49 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Counter]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[css]]></category>
+		<category><![CDATA[fehlschuss]]></category>
+		<category><![CDATA[Global Offensive]]></category>
+		<category><![CDATA[Hitbox]]></category>
+		<category><![CDATA[model]]></category>
+		<category><![CDATA[source]]></category>
+		<category><![CDATA[Strike]]></category>
+		<category><![CDATA[treffer]]></category>
+		<category><![CDATA[Trefferbox]]></category>
+		<category><![CDATA[vergleich]]></category>
+
+		<guid isPermaLink="false">/?p=610</guid>
+		<description><![CDATA[Im offiziellen Counter-Strike Blog erklären die Entwickler die Änderungen an der Trefferbox (Hitbox) in Counter-Strike: Global Offensive im Vergleich zu den Vorgänger Counter-Strike: Source. In CS:Source sind die Hitboxen geringfügig größer als das Spielermodell,&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Im offiziellen Counter-Strike Blog erklären die Entwickler die Änderungen an der Trefferbox (Hitbox) in Counter-Strike: Global Offensive im Vergleich zu den Vorgänger Counter-Strike: Source.</p>
+<p>In CS:Source sind die Hitboxen geringfügig größer als das Spielermodell, in CS:GO ist dies nicht mehr der Fall und die Hitboxen kommen der Größe des Modells gleich. So ist ein knapper Fehlschuss auch wirklich ein Fehlschuss. Im Blog heißt es: <em>&#8222;A near miss? Is a miss.&#8220;</em></p>
+<hr />
+<p>Hier noch 2 Grafiken:</p>
+<p><strong>Counter-Strike: Global-Offensive:</strong><br />
+<img src="/wp-content/uploads/sites/2/2012/10/csgo-hitbox.jpg" alt="" /></p>
+<p><strong>Counter-Strike: Source:</strong><br />
+<img src="/wp-content/uploads/sites/2/2012/10/css-hitbox.jpg" alt="" /></p>
+<p>Quelle: <a href="http://blog.counter-strike.net/index.php/2012/03/1838/" target="_blank">Offizieller Counter-Strike Blog</a></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/hitboxvergleich-zu-cssource/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

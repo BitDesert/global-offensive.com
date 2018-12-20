@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>server.cfg download &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/server-cfg-download/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>server.cfg download &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Server Config Maker [Software]</title>
+		<link>/csgo-server-config-maker-software/</link>
+		<comments>/csgo-server-config-maker-software/#respond</comments>
+		<pubDate>Tue, 16 Oct 2012 11:52:57 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Server Administration]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[server config maker]]></category>
+		<category><![CDATA[server.cfg]]></category>
+		<category><![CDATA[server.cfg download]]></category>
+		<category><![CDATA[server.cfg gestalten]]></category>
+		<category><![CDATA[software]]></category>
+
+		<guid isPermaLink="false">/?p=527</guid>
+		<description><![CDATA[Mit diesem Tool ist es möglich auch nicht erfahrenden Server Administratoren eine Möglichkeit zu bieten, ihre Server.cfg nach ihren Belieben zu gestalten und zu ändern. Dieses Programm ist wirklich sehr einfach aufgebaut und kann&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p><img class="wp-image-310 aligncenter" title="CS:GO config title" src="/wp-content/uploads/sites/2/2012/10/cs_go_config_title2.jpg" alt="" width="360" height="180" srcset="/wp-content/uploads/sites/2/2012/10/cs_go_config_title2.jpg 600w, /wp-content/uploads/sites/2/2012/10/cs_go_config_title2-300x150.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></p>
+<p>Mit diesem Tool ist es möglich auch nicht erfahrenden Server Administratoren eine Möglichkeit zu bieten, ihre Server.cfg nach ihren Belieben zu gestalten und zu ändern. Dieses Programm ist wirklich sehr einfach aufgebaut und kann innerhalb weniger Minuten eine passende Server.cfg erstellen.</p>
+<p>Beim erstellen bitte darauf achten welche Liga Settings verwendet werden sollen. ESL Settings sind hier sicherlich eher sinnvoll.</p>
+<p>Hier der <a href="http://forum.gamerzhost.de/index.php?form=DatabaseDownload&amp;itemID=1&amp;s=69f5523ab876db8977b9985be98bd0d9ca2dd5dd" target="_blank">Downloadlink</a></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-server-config-maker-software/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

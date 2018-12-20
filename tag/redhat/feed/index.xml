@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>redhat &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/redhat/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>redhat &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Wie update ich meinen CS:GO Server auf Linux? (Anleitung)</title>
+		<link>/wie-update-ich-meinen-csgo-server-auf-linux/</link>
+		<comments>/wie-update-ich-meinen-csgo-server-auf-linux/#comments</comments>
+		<pubDate>Thu, 21 Feb 2013 16:13:37 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Server Administration]]></category>
+		<category><![CDATA[Anleitung]]></category>
+		<category><![CDATA[app_update 740 validate]]></category>
+		<category><![CDATA[force_install_dir]]></category>
+		<category><![CDATA[Global Offensive]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[redhat]]></category>
+		<category><![CDATA[Server Updaten]]></category>
+		<category><![CDATA[STEAMEXE=steamcmd ./steam.sh]]></category>
+		<category><![CDATA[suse]]></category>
+		<category><![CDATA[ubuntu]]></category>
+		<category><![CDATA[update]]></category>
+
+		<guid isPermaLink="false">/?p=936</guid>
+		<description><![CDATA[Heute ist wieder einmal ein Update von CS:GO erschienen. Es ist ja wirklich schön dass zur Zeit regelmäßig Updates durch Steam gefahren werden um CS Global Offensive weiter zu improven. Leider bedeutet jedes Update&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Heute ist wieder einmal ein Update von CS:GO erschienen. Es ist ja wirklich schön dass zur Zeit regelmäßig Updates durch Steam gefahren werden um CS Global Offensive weiter zu improven.</p>
+<p>Leider bedeutet jedes Update von Steam auch dass ein Update auf dem Server durchgeführt werden muss. Nur die wenigsten haben die Möglichkeit den Server automatisch updaten zu lassen da dies erheblichen Programmieraufwand benötigt.</p>
+<p>Um also euren Server nun updaten zu können müsst ihr euch per SSH auf euren Root bzw. Virtuellen Server einloggen. (Ich gehe einfach mal davon aus das Linux Grundlagen vorhanden sind und Putty ein Begriff ist).</p>
+<p>Navigiert mit dem befehl &#8222;cd&#8220; in das Verzeichnis wo euer CS:GO Server liegt:</p>
+<p><strong>Bei unseren Servern zum Beispiel: </strong></p>
+<pre>cd /home/gserver/csgo/</pre>
+<p><strong>Nun führt die Steam mit folgenden Befehl aus:</strong></p>
+<pre>STEAMEXE=steamcmd ./steam.sh</pre>
+<p><strong> Es öffnet sich die Steam Eingabemaske. Dort müsst Ihr euch mit euren Steamdaten einloggen, dies könnt ihr mit:</strong></p>
+<pre>login STEAMUSERNAME EUERSTEAMPASSWORT</pre>
+<p><strong>Um nun Steam zu sagen in welchen Ordner Steam das Update fahren soll müsst Ihr mit folgendem Befehl dieses für Steam festlegen:</strong></p>
+<pre>force_install_dir /home/gserver/csgo/csgo27015</pre>
+<p>In diesem Fall liegt der bei uns der Gameserver mit dem Port 27015 in dem Ordner csgo27015.</p>
+<p>Nun Startet ihr den Update Prozess:</p>
+<pre>app_update 740 validate</pre>
+<p>Nachdem 100% des Updates erfolgreich durchgeführt worden sind könnt ihr nun den Server wieder wie gewohnt starten. Wie man einen Server startet seht ihr sonst auch am Ende dieses Artikels:<a title="Wie installiere ich einen CSGO Server auf Linux" href="/wie-installiere-ich-einen-csgo-server-auf-linux/" target="_blank"> /wie-installiere-ich-einen-csgo-server-auf-linux/</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/wie-update-ich-meinen-csgo-server-auf-linux/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+	</channel>
+</rss>

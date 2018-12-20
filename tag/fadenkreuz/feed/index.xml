@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Fadenkreuz &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/fadenkreuz/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>Fadenkreuz &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Fadenkreuz Generator &#8211; Crosshair Generator</title>
+		<link>/csgo-fadenkreuz-generator-crosshair/</link>
+		<comments>/csgo-fadenkreuz-generator-crosshair/#respond</comments>
+		<pubDate>Wed, 20 Feb 2013 01:26:48 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[crosshair]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[Fadenkreuz]]></category>
+		<category><![CDATA[Fadenkreuz ändern]]></category>
+		<category><![CDATA[Generator]]></category>
+		<category><![CDATA[Umstellen]]></category>
+
+		<guid isPermaLink="false">/?p=863</guid>
+		<description><![CDATA[Wie man das Crosshair in CS:GO Counter-Strike: Global-Offensive.com bearbeitet haben wir ja schon in einem Beitrag geschrieben. Es ist zwar simpel aber benötigt etwas Zeit und vorallem muss immer wieder &#8222;Ingame&#8220; geschaut werden ob die&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Wie man das Crosshair in CS:GO Counter-Strike: Global-Offensive.com bearbeitet haben wir ja schon in einem Beitrag geschrieben. Es ist zwar simpel aber benötigt etwas Zeit und vorallem muss immer wieder &#8222;Ingame&#8220; geschaut werden ob die Änderung einen zufrieden stellt.</p>
+<p>Hier hat sich Kris Skarbo etwas Schönes überlegt um einem das Erstellen des persönlichen Fadenkreuzes so komfortabel wie nur möglich zu gestalten.</p>
+<p>Mit dem CS:GO Fadenkreuz Generator habt ihr die Möglichkeit alles frei für euch zu gestalten. Sinnhafter weise werden die entsprechenden Befehle welche in die Config.cfg eingefügt bzw. geändert werden müssen in einem Fenster ausgegeben.</p>
+<p>Aber seht selbst, hier gehts zum CS:GO Fadenkreuz Generator.<a href="http://skarbo.koding.com/"><br />
+</a></p>
+<p>[button color=&#8220;blue&#8220; link=&#8220;http://crosshair.global-offensive.com/&#8220; target=&#8220;&#8220;]CS:GO Crosshair Generator[/button]</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-fadenkreuz-generator-crosshair/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

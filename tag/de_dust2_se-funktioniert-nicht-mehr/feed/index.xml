@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>de_dust2_se funktioniert nicht mehr &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/de_dust2_se-funktioniert-nicht-mehr/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>de_dust2_se funktioniert nicht mehr &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Neuer Patch mit Crash-Fix</title>
+		<link>/csgo-neuer-patch-mit-crash-fix/</link>
+		<comments>/csgo-neuer-patch-mit-crash-fix/#respond</comments>
+		<pubDate>Mon, 11 Feb 2013 20:20:17 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[crashd]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[de_dust2_se]]></category>
+		<category><![CDATA[de_dust2_se funktioniert nicht mehr]]></category>
+		<category><![CDATA[fehler]]></category>
+		<category><![CDATA[fix]]></category>
+		<category><![CDATA[Global Offensive]]></category>
+		<category><![CDATA[Konnte nicht geladen werden]]></category>
+		<category><![CDATA[probleme]]></category>
+		<category><![CDATA[Workshop]]></category>
+
+		<guid isPermaLink="false">/?p=658</guid>
+		<description><![CDATA[Ab sofort steht ein neuer Patch für den Multiplayer-Shooter Counter-Strike: Global Offensive via Steam zum Download bereit Nachdem es seit dem letzten Counter-Strike Global Offensive Update enorme Probleme mit der Map de_dust2_se gab wurde&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p><a href="/wp-content/uploads/sites/2/2012/10/offensive23.jpg"><img class="size-medium wp-image-312 aligncenter" title="offensive23" src="/wp-content/uploads/sites/2/2012/10/offensive23-300x168.jpg" alt="" width="300" height="168" /></a></p>
+<p>Ab sofort steht ein neuer Patch für den Multiplayer-Shooter Counter-Strike: Global Offensive via Steam zum Download bereit</p>
+<p>Nachdem es seit dem letzten Counter-Strike Global Offensive Update enorme Probleme mit der Map de_dust2_se gab wurde nun ein Crash-Fix released. Problem war dass die Map nicht mehr auf dem Server gespielt werden konnte dar sie ein Teil des integrierten Map Workshops ist. Versuchten also Spieler auf dem Server diese Map zu spielen kam beim Clienten ein Fehler in Verbindung mit der Map de_dust2_se. Dieser Fehler wurde nun unter anderem gefixt. Offiziell sagt Steam: &#8222;Das Update behebt unter anderem einen Crash-Bug, der beim Dedicated Server auftreten konnte.&#8220;</p>
+<p>Des Weiteren hat das Team auf der Map »cs_assault« neue Spawn-Punkte eingeführt und weitere kleinere Fehler beseitigt. Das Update steht ab sofort via Steam zum Download bereit.</p>
+<p>&nbsp;</p>
+<p>Folgende Patch Notes durch Steam wurden veröffentlicht:</p>
+<h4>Patch-Notes für Counter-Strike: Global Offensive</h4>
+<ul type="circle">
+<li>Added &#8218;workshop_start_map&#8216; command line param to specify which map in a workshop collection for the server to start on. Takes the desired map&#8217;s file id.</li>
+<li>Password-protected community servers are no longer available for community matchmaking.</li>
+<li>Map name is now correctly reported to master server.</li>
+<li>Added spawn points in cs_assault.</li>
+<li>Convars now get reset to defaults before server.cfg is executed.</li>
+<li>Fixed a dedicated server crash after player disconnection.</li>
+<li>Fixed respawn pop-up showing when you could not respawn in some cases.</li>
+<li>Fixed bug in respawning if team spawn point counts were asymmetrical.</li>
+<li>Fixed prop_dynamic_glow&#8217;s not getting a final network update.</li>
+<li>Fixed webapi authkey behavior on Linux dedicated servers.</li>
+<li>Fixed layout of player details screen.</li>
+</ul>
+<p>&nbsp;</p>
+<p>Im Zuge dieses Updates wurden alle _se Maps, welche wir für Wettkämpfe nutzen von der Serverstandardinstallation entfernt und in einen Workshop geschoben.<br /> Dieses wird zwangsläufig zu Problemen führen. Wenn ihr eine _se Map nutzen wollt, benutzt folgenden Befehl als Server Administrator:</p>
+<p><strong>&#8222;rcon host_workshop_map WorkshopID&#8220;</strong></p>
+<p><strong>Alle derzeit verfügbaren _se-Maps des Mappools:</strong><br /> • &#8222;rcon host_workshop_map 125488374&#8220; &#8211; zum Laden von dust2_se<br /> • &#8222;rcon host_workshop_map 125499116&#8220; &#8211; zum Laden von inferno_se<br /> • &#8222;rcon host_workshop_map 125498231&#8220; &#8211; zum Laden von train_se<br /> • &#8222;rcon host_workshop_map 125498553&#8220; &#8211; zum Laden von nuke_se<br /> • &#8222;rcon host_workshop_map 125498851&#8220; &#8211; zum Laden von dust_se<br /> • &#8222;rcon host_workshop_map 125498692&#8220; &#8211; zum Laden von aztec_se</p>
+<p>Nach Ausführung des Befehl 3-5 Minuten warten und dann auf die Map wechseln.</p>
+<p><strong>Hinweis für Serverbesitzer:</strong> Wenn ihr in eurer Mapgroup als Startmap eine _se Map eingetragen habt, wird der Server nicht starten!</p>
+<p>Wir gehen davon aus, dass die Möglichkeit Maps aus dem Workshop zu laden bald einfacher sein wird. Bis dahin bieten wir aber auch die Möglichkeit an, die standard Maps (ohne _se) zu spielen.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-neuer-patch-mit-crash-fix/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

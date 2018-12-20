@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>map download &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/map-download/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>map download &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>de_nuke_ve &#8211; [Download]</title>
+		<link>/de_nuke_ve-download/</link>
+		<comments>/de_nuke_ve-download/#respond</comments>
+		<pubDate>Sat, 13 Oct 2012 21:48:55 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[Maps]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[de_nuke_ve]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[ESL]]></category>
+		<category><![CDATA[global offensive download]]></category>
+		<category><![CDATA[Map]]></category>
+		<category><![CDATA[map download]]></category>
+		<category><![CDATA[Nuke]]></category>
+
+		<guid isPermaLink="false">/?p=347</guid>
+		<description><![CDATA[Hallo zusammen, den Link für de_nuke_ve findet ihr hier! Sobald ihr die Datei geladen und entpackt habt, geht ihr in folgende Ordnerstruktur: SteamSteamAppscommonCounter-Strike Global Offensivecsgomaps Dort kopiert ihr beide Dateien rein, dann sollte alles&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Hallo zusammen,</p>
+<p>den Link für <a title="de_nuke_ve" href="http://www.global-offensive.com/wp-content/themes/Monaco/downloads/de_nuke_ve.zip" target="_blank">de_nuke_ve</a> findet ihr <a title="de_nuke_ve" href="http://www.global-offensive.com/wp-content/themes/Monaco/downloads/de_nuke_ve.zip" target="_blank">hier</a>! Sobald ihr die Datei geladen und entpackt habt, geht ihr in folgende Ordnerstruktur:</p>
+<p>SteamSteamAppscommonCounter-Strike Global Offensivecsgomaps</p>
+<p>Dort kopiert ihr beide Dateien rein, dann sollte alles funktionieren.</p>
+<p>Diese Map wird offiziell in der ESL gespielt.</p>
+<p><img class="aligncenter  wp-image-474" title="Screenshot de_nuke_ve" src="/wp-content/uploads/sites/2/2012/10/screenshot_de_nuke_ve_txt.jpg" alt="" width="709" height="496" srcset="/wp-content/uploads/sites/2/2012/10/screenshot_de_nuke_ve_txt.jpg 806w, /wp-content/uploads/sites/2/2012/10/screenshot_de_nuke_ve_txt-300x210.jpg 300w" sizes="(max-width: 709px) 100vw, 709px" /></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/de_nuke_ve-download/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

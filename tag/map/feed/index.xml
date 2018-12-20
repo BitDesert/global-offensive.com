@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Map &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/map/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>Map &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Mapwechsel von Workshop Maps &#8211; Neuer Befehl: changelevel2 [Server]</title>
+		<link>/csgo-mapwechsel-von-workshop-maps-neuer-befehl-changelevel2-server/</link>
+		<comments>/csgo-mapwechsel-von-workshop-maps-neuer-befehl-changelevel2-server/#comments</comments>
+		<pubDate>Mon, 02 Sep 2013 10:51:34 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Plugins]]></category>
+		<category><![CDATA[Server Administration]]></category>
+		<category><![CDATA[_se maps]]></category>
+		<category><![CDATA[administration]]></category>
+		<category><![CDATA[changelevel2]]></category>
+		<category><![CDATA[Map]]></category>
+		<category><![CDATA[map wechseln]]></category>
+		<category><![CDATA[rcon]]></category>
+		<category><![CDATA[Workshop]]></category>
+
+		<guid isPermaLink="false">/?p=1802</guid>
+		<description><![CDATA[Workshop maps auf dem CS:GO Server laden Seit dem letzten Update verzeichnen wir hohen Traffic auf die Suchbegriffe &#8222;Workshop Maps wechseln&#8220;. In der Tat wurde in dem Arms Update von Counter-Strike: Global-Offensive etwas geändert&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Workshop maps auf dem CS:GO Server laden</h3>
+<p>Seit dem letzten Update verzeichnen wir hohen Traffic auf die Suchbegriffe &#8222;Workshop Maps wechseln&#8220;. In der Tat wurde in dem Arms Update von Counter-Strike: Global-Offensive etwas geändert was nun das wechseln der _se maps über den alten Befehl &#8222;host_workshop_map ID&#8220; nicht mehr möglich macht. Der Befehl dient lediglich dazu die _se maps auf den Server zu laden, sprich der CS:GO Server läd sich die Datei aus dem Workshop. Man kann jetzt jedoch vergeblich darauf warten dass diese Map auch geladen wird.</p>
+<p>Absofort müsst ihr den etwas komplizierteren Weg mit changelevel2 gehen.</p>
+<h3>Wir haben euch die Befehle für die aktuellen Workshop-Maps mal als Alias hinterlegt, diese einfach in eure Config.cfg im CS:GO cfg Verzeichnis am Ende einfügen:</h3>
+<p>alias &#8222;dust&#8220; &#8222;rcon changelevel2 workshop125498851de_dust_se&#8220;</p>
+<p>alias &#8222;dust2&#8220; &#8222;rcon changelevel2 workshop125488374de_dust2_se&#8220;<br />
+alias &#8222;inferno&#8220; &#8222;rcon changelevel2 workshop125499116de_inferno_se&#8220;<br />
+alias &#8222;nuke&#8220; &#8222;rcon changelevel2 workshop125498553de_nuke_se&#8220;<br />
+alias &#8222;train&#8220; &#8222;rcon changelevel2 workshop125498231de_train_se&#8220;<br />
+alias &#8222;mirage&#8220; &#8222;rcon changelevel2 workshop123769103de_mirage_ce&#8220;<br />
+alias &#8222;mill&#8220; &#8222;rcon changelevel2 workshop125620805de_mill_&#8220;<br />
+alias &#8222;cache&#8220; &#8222;rcon changelevel2 workshop125670041de_cache&#8220;</p>
+<p>Nun müsst ihr euch nur noch am server mit rcon_password DEM_RCON_PASSWORT anmelden und anschließend für die map de_dust2_se, &#8222;dust2&#8220; in die console eingeben. Die Map wird nun gewechselt.</p>
+<p>Sollte der Server melden dass die Map nicht auf dem Server vorhanden ist, müsst ihr vorher diese mit dem Befehle (hier als Beispiel für de_dust2_se) &#8222;host_workshop_map 1254988651&#8220; eingeben. Der Server gibt dann eine Nachricht aus dass die Map von Steam heruntergeladen wird.</p>
+<p><strong>Oder alternativ direkt über die Console mit: </strong></p>
+<p>rcon changelevel2 workshop125488374de_dust2_se</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-mapwechsel-von-workshop-maps-neuer-befehl-changelevel2-server/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Erste Blicke auf die Map de_prodigy_csgo [Walkthrough]</title>
+		<link>/erste-blicke-auf-de_prodigy_csgo-walkthrough/</link>
+		<comments>/erste-blicke-auf-de_prodigy_csgo-walkthrough/#comments</comments>
+		<pubDate>Mon, 15 Apr 2013 21:12:25 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[Maps]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[de_prodigy]]></category>
+		<category><![CDATA[de_prodigy_csgo]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[Global Offensive]]></category>
+		<category><![CDATA[Map]]></category>
+		<category><![CDATA[Workshop]]></category>
+		<category><![CDATA[workshop id]]></category>
+
+		<guid isPermaLink="false">/?p=1366</guid>
+		<description><![CDATA[Für Counter-Strike Global Offensive jetzt auch die Map de_prodigy_csgo Ganz frisch hat unser Youtube-Broadcaster Sonnyaner für uns ein kurzes walkthrough der neuen de_prodigy_csgo erstellt. Diese Map ist uns sicherlich noch aus 1.6 Zeiten bekannt&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Für Counter-Strike Global Offensive jetzt auch die Map de_prodigy_csgo</h3>
+<p>Ganz frisch hat unser Youtube-Broadcaster Sonnyaner für uns ein kurzes walkthrough der neuen de_prodigy_csgo erstellt.<br />
+Diese Map ist uns sicherlich noch aus 1.6 Zeiten bekannt und für mich persönlich (Joe) immer einer der &#8222;besonderen&#8220; Maps gewesen, umso mehr freue ich mich dass Sie nun auch in Global-Offensive spielbar ist. Seit Ende Februar habt ihr die Möglichkeit die Map über den Workshop zu erhalten.</p>
+<p>Die Map könnt Ihr mit der Workshop ID: 125658089 laden. Der Rcon Befehl ist: rcon host_workshop_map 125658089</p>
+<p>Download unter: <a href="http://steamcommunity.com/sharedfiles/filedetails/?id=125667308">http://steamcommunity.com/sharedfiles/filedetails/?id=125667308</a></p>
+<p><strong>Hier ein Screenshot:</strong></p>
+<p><img class="alignnone" src="http://cloud.steampowered.com/ugc/1117160762437226032/AB4BE38BCC89FC318B65F398CE5968E4BFE1822C/637x358.resizedimage" alt="" width="637" height="358" /></p>
+<p>&nbsp;</p>
+<p>Sonny zeigt in diesem Video einen schnellen Einstieg als &#8222;walkthrough&#8220;:</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/erste-blicke-auf-de_prodigy_csgo-walkthrough/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Workshop &#8211; Map ID finden</title>
+		<link>/workshop-map-id-finden/</link>
+		<comments>/workshop-map-id-finden/#comments</comments>
+		<pubDate>Sun, 17 Feb 2013 21:57:25 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[Gamerserver]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Server Administration]]></category>
+		<category><![CDATA[aim_ak-cold]]></category>
+		<category><![CDATA[befehl]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[finden]]></category>
+		<category><![CDATA[Global Offensive]]></category>
+		<category><![CDATA[heraussuchen]]></category>
+		<category><![CDATA[host_workshop]]></category>
+		<category><![CDATA[id]]></category>
+		<category><![CDATA[Map]]></category>
+		<category><![CDATA[map id]]></category>
+		<category><![CDATA[passende id]]></category>
+		<category><![CDATA[Steam]]></category>
+		<category><![CDATA[steamcommunity]]></category>
+		<category><![CDATA[suchen]]></category>
+		<category><![CDATA[was ist die map id]]></category>
+		<category><![CDATA[wo ist die map id]]></category>
+		<category><![CDATA[Workshop]]></category>
+
+		<guid isPermaLink="false">/?p=742</guid>
+		<description><![CDATA[Um die passende ID zur Map zu finden geht ihr einfach auf &#8222;steamcommunity.com&#8220;, dort navigiert Ihr auf den Menü Punkt &#8222;Workshop&#8220;, dann weiter auf &#8222;CSGO&#8220;. Im Suchfeld könnt ihr eine Map heraussuchen. Hier als&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Um die passende ID zur Map zu finden geht ihr einfach auf <a href="http://steamcommunity.com/">&#8222;steamcommunity.com&#8220;</a>, dort navigiert Ihr auf den Menü Punkt &#8222;Workshop&#8220;, dann weiter auf &#8222;CSGO&#8220;. Im Suchfeld könnt ihr eine Map heraussuchen.</p>
+<p>Hier als Beispiel &#8222;aim_ak-colt&#8220;.</p>
+<p>In der Browser Adresszeile findet ihr nun die Map ID. Im Beispiel: &#8222;126666806&#8220;</p>
+<p><img src="/wp-content/uploads/sites/2/2013/02/map_id.jpg" alt="" /></p>
+<p>Somit könnt ihr ganz einfach auf die Map &#8222;aim_ak-cold&#8220; mit den Befehl &#8222;rcon host_workshop_map 126666806” wechseln.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/workshop-map-id-finden/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Anleitung CS:GO Workshop se_maps, so funktionierts auf dem Server</title>
+		<link>/anleitung-csgo-workshop-se_maps-so-funktionierts/</link>
+		<comments>/anleitung-csgo-workshop-se_maps-so-funktionierts/#comments</comments>
+		<pubDate>Sun, 17 Feb 2013 17:53:20 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[Gamerserver]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Server Administration]]></category>
+		<category><![CDATA[aim_map]]></category>
+		<category><![CDATA[anleitung workshop]]></category>
+		<category><![CDATA[api key]]></category>
+		<category><![CDATA[changelevel]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[de_dust2_se]]></category>
+		<category><![CDATA[de_inferno_se]]></category>
+		<category><![CDATA[de_nuke_se]]></category>
+		<category><![CDATA[de_train_se]]></category>
+		<category><![CDATA[ESL]]></category>
+		<category><![CDATA[Global Offensive]]></category>
+		<category><![CDATA[Map]]></category>
+		<category><![CDATA[mapchange]]></category>
+		<category><![CDATA[rcon]]></category>
+		<category><![CDATA[Server]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[wie funktioniert der csgo workshop]]></category>
+		<category><![CDATA[Workshop]]></category>
+
+		<guid isPermaLink="false">/?p=695</guid>
+		<description><![CDATA[&#160; &#8222;Wie funktioniert der CS:GO Workshop?&#8220; oder &#8222;Wie lade ich se maps?&#8220; Sind Fragen die uns in letzter Zeit öfter per Mail gestellt worden sind. Zugegeben wir haben anfangs auch vor dem Problem gestanden&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p><a href="/wp-content/uploads/sites/2/2013/02/workshop.jpg"><img class="size-medium wp-image-702 aligncenter" title="workshop" alt="" src="/wp-content/uploads/sites/2/2013/02/workshop-300x155.jpg" width="300" height="155" srcset="/wp-content/uploads/sites/2/2013/02/workshop-300x155.jpg 300w, /wp-content/uploads/sites/2/2013/02/workshop.jpg 580w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>&nbsp;</p>
+<p>&#8222;Wie funktioniert der CS:GO Workshop?&#8220; oder &#8222;Wie lade ich se maps?&#8220; Sind Fragen die uns in letzter Zeit öfter per Mail gestellt worden sind. Zugegeben wir haben anfangs auch vor dem Problem gestanden Maps wie de_dust2_se zu laden. Der Server oder der Client hat immer Fehler versucht was das Spielen von se Maps nicht möglich macht.</p>
+<p>Aus diesem Grund schreiben wir hier die einfache Anleitung wie ihr wieder die se maps laden könnt.</p>
+<p>Hintergrund ist dass Maps wie <strong>de_dust2_se</strong>, <strong>de_inferno_se</strong>, <strong>de_train_se</strong> oder <strong>de_nuke_se </strong>absofort nur noch über den Counter-Strike Global Offensive internen Workshop angeboten werden. Das heißt es nicht nicht mehr möglich über &#8222;rcon map de_dust2_se&#8220; entsprechende Maps zu laden. Diese Maps sind weiterhin natürlich in der ESL offiziell erlaubt.</p>
+<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;</p>
+<p><strong>Hier nun die Schritt für Schritt Anleitung:</strong></p>
+<p><strong>1. </strong>Erstmal braucht ihr einen API Schlüssel um Steam (also den Workshop zu erlauben auf euren Server zu fungieren). Hierfür klickt ihr  Auf diesen <a href="https://steamcommunity.com/login/home/?goto=%2Fdev%2Fapikey">LINK </a>und registriert euren Schlüssel. Wichtig hierbei ist dass die Adresse welche in dem Registrierungsprozess abgefragt wird, eure IP Adresse ist, also die des Servers.</p>
+<p><strong>2. </strong>Am Ende des Registrierungsprozess solltet ihr einen Schlüssel ausgestellt bekommen der ungefähr so aussieht: &#8222;18472E3D39B65D592FD1C69XXXXXXXXX&#8220;</p>
+<p><strong>3.</strong> Im nächsten Schritt müsst ihr dem CSGO Server diesen API Key zuweisen. Dies funktioniert ganz einfach über eine Textdatei mit dem Namen &#8222;webapi_authkey.txt&#8220; welche ihr erstellt und in das /csgo/ verzeichnis kopiert.</p>
+<p><strong>4.</strong> Nun müsst ihr eine workshop Map oder eine collection einfügen unzwar in eure autoexec.cfg wenn ihr noch keine habt erstellt einfach eine autoexec.cfg (diese liegt auch im /csgo/cfg/ Ordner.</p>
+<ol>
+<li><strong>Kopiert nun folgende Befehle in die autoexec.cfg:</strong></li>
+</ol>
+<blockquote><p>game_type 0<br />
+game_mode 1<br />
+host_workshop_collection 125951285<br />
+log on<br />
+map de_inferno</p></blockquote>
+<p>Startet euren Counter-Strike Global Offensive Gameserver neu und nach einigen Minuten sollten alle &#8222;se maps&#8220;  auf dem Server automatisch heruntergeladen worden sein. Die Maps liegen im /csgo/maps/workshop/ Ordner. Sind die Maps dort enthalten, habt ihr alles korrekt ausgeführt.</p>
+<p>Nun könnt ihr über folgende Befehle die Ihr über RCON ausführt die Maps laden.</p>
+<p><strong>Beispiel für folgende maps:</strong></p>
+<p>dust2: &#8222;<strong>rcon host_workshop_map 125488374</strong>&#8220;<br />
+inferno: &#8222;<strong>rcon host_workshop_map 125499116</strong>&#8220;<br />
+train &#8222;<strong>rcon host_workshop_map 125498231</strong>&#8220;<br />
+nuke &#8222;<strong>rcon host_workshop_map 125498553</strong>&#8220;<br />
+dust &#8222;<strong>rcon host_workshop_map 125498851</strong>&#8220;<br />
+aztec &#8222;<strong>rcon host_workshop_map 125498692</strong>&#8220;<br />
+mirage &#8222;<strong>rcon host_workshop_map 123769103</strong>&#8220;<br />
+mill &#8222;<strong>rcon host_workshop_map 125620805</strong>&#8220;<br />
+cache &#8222;<strong>rcon host_workshop_map 125670041</strong>&#8220;</p>
+<p>&nbsp;</p>
+<p>Um jetzt nicht immer rcon host_workshop_map ID eingeben zu müssen könnt ihr ganz einfach ein Alias schreiben welches ihr am Ende der server.cfg folgendes einfügt:</p>
+<p>alias dust2 &#8222;host_workshop_map 125488374&#8220;<br />
+alias inferno &#8222;host_workshop_map 125499116&#8220;<br />
+alias train &#8222;host_workshop_map 125498231&#8220;<br />
+alias nuke &#8222;host_workshop_map 125498553&#8220;<br />
+alias dust &#8222;host_workshop_map 125498851&#8220;<br />
+alias aztec &#8222;host_workshop_map 125498692&#8220;<br />
+alias mirage &#8222;host_workshop_map 123769103&#8220;<br />
+alias mill &#8222;host_workshop_map 125620805&#8220;<br />
+alias cache &#8222;host_workshop_map 125670041&#8220;</p>
+<p>Nun könnt ihr ganz einfach über &#8222;rcon dust2&#8220; die de_dust2_se map laden <img src="https://s.w.org/images/core/emoji/11/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><strong>Das war es auch schon, wir wünschen euch viel Spaß beim Spielen der de_maps</strong></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/anleitung-csgo-workshop-se_maps-so-funktionierts/feed/</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+		</item>
+		<item>
+		<title>de_mirage_csgo &#8211; [Download]</title>
+		<link>/de_mirage_csgo-download/</link>
+		<comments>/de_mirage_csgo-download/#respond</comments>
+		<pubDate>Sun, 14 Oct 2012 10:05:10 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[Maps]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[ESL]]></category>
+		<category><![CDATA[global]]></category>
+		<category><![CDATA[Map]]></category>
+		<category><![CDATA[mirage]]></category>
+		<category><![CDATA[Offensive]]></category>
+
+		<guid isPermaLink="false">/?p=382</guid>
+		<description><![CDATA[Hallo zusammen, den Link für de_mirage_csgo findet ihr hier! Sobald ihr die Datei geladen und entpackt habt, geht ihr in folgende Ordnerstruktur: SteamSteamAppscommonCounter-Strike Global Offensivecsgomaps Dort kopiert ihr beide Dateien rein, dann sollte alles&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Hallo zusammen,</p>
+<p>den Link für <a title="de_mirage_csgo" href="http://www.global-offensive.com/wp-content/themes/Monaco/downloads/de_mirage_csgo.zip" target="_blank">de_mirage_csgo</a> findet ihr <a title="de_mirage_csgo" href="http://www.global-offensive.com/wp-content/themes/Monaco/downloads/de_mirage_csgo.zip" target="_blank">hier</a>! Sobald ihr die Datei geladen und entpackt habt, geht ihr in folgende Ordnerstruktur:</p>
+<p>SteamSteamAppscommonCounter-Strike Global Offensivecsgomaps</p>
+<p>Dort kopiert ihr beide Dateien rein, dann sollte alles funktionieren.</p>
+<p>Diese Map wird offiziell in der ESL gespielt.</p>
+<p><img class="aligncenter  wp-image-396" title="Screenshot de_mirage_csgo" src="/wp-content/uploads/sites/2/2012/10/screenshot_de_mirage_csgo_txt.jpg" alt="" width="720" height="503" srcset="/wp-content/uploads/sites/2/2012/10/screenshot_de_mirage_csgo_txt.jpg 806w, /wp-content/uploads/sites/2/2012/10/screenshot_de_mirage_csgo_txt-300x210.jpg 300w" sizes="(max-width: 720px) 100vw, 720px" /></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/de_mirage_csgo-download/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>de_nuke_ve &#8211; [Download]</title>
+		<link>/de_nuke_ve-download/</link>
+		<comments>/de_nuke_ve-download/#respond</comments>
+		<pubDate>Sat, 13 Oct 2012 21:48:55 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[Maps]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[de_nuke_ve]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[ESL]]></category>
+		<category><![CDATA[global offensive download]]></category>
+		<category><![CDATA[Map]]></category>
+		<category><![CDATA[map download]]></category>
+		<category><![CDATA[Nuke]]></category>
+
+		<guid isPermaLink="false">/?p=347</guid>
+		<description><![CDATA[Hallo zusammen, den Link für de_nuke_ve findet ihr hier! Sobald ihr die Datei geladen und entpackt habt, geht ihr in folgende Ordnerstruktur: SteamSteamAppscommonCounter-Strike Global Offensivecsgomaps Dort kopiert ihr beide Dateien rein, dann sollte alles&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Hallo zusammen,</p>
+<p>den Link für <a title="de_nuke_ve" href="http://www.global-offensive.com/wp-content/themes/Monaco/downloads/de_nuke_ve.zip" target="_blank">de_nuke_ve</a> findet ihr <a title="de_nuke_ve" href="http://www.global-offensive.com/wp-content/themes/Monaco/downloads/de_nuke_ve.zip" target="_blank">hier</a>! Sobald ihr die Datei geladen und entpackt habt, geht ihr in folgende Ordnerstruktur:</p>
+<p>SteamSteamAppscommonCounter-Strike Global Offensivecsgomaps</p>
+<p>Dort kopiert ihr beide Dateien rein, dann sollte alles funktionieren.</p>
+<p>Diese Map wird offiziell in der ESL gespielt.</p>
+<p><img class="aligncenter  wp-image-474" title="Screenshot de_nuke_ve" src="/wp-content/uploads/sites/2/2012/10/screenshot_de_nuke_ve_txt.jpg" alt="" width="709" height="496" srcset="/wp-content/uploads/sites/2/2012/10/screenshot_de_nuke_ve_txt.jpg 806w, /wp-content/uploads/sites/2/2012/10/screenshot_de_nuke_ve_txt-300x210.jpg 300w" sizes="(max-width: 709px) 100vw, 709px" /></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/de_nuke_ve-download/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>programm &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/programm/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>programm &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Demo Browser Download [Software/Tool]</title>
+		<link>/csgo-demo-browser-version-3-softwaretool/</link>
+		<comments>/csgo-demo-browser-version-3-softwaretool/#respond</comments>
+		<pubDate>Sat, 10 Aug 2013 13:08:09 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Demos]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Software]]></category>
+		<category><![CDATA[application]]></category>
+		<category><![CDATA[demo]]></category>
+		<category><![CDATA[demo browser]]></category>
+		<category><![CDATA[demoui]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[freeware]]></category>
+		<category><![CDATA[programm]]></category>
+		<category><![CDATA[software]]></category>
+
+		<guid isPermaLink="false">/?p=1771</guid>
+		<description><![CDATA[CS:GO Demo Browser? Wir haben für euch ein schönes Programm gefunden um übersichtlich und komfortabel eure aufgenommen Demos zu starten. Der CS:GO Demo Browser in der Version 3 von eNzyy aus dem reddit Community&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p><strong>CS:GO Demo Browser?</strong></p>
+<p>Wir haben für euch ein schönes Programm gefunden um übersichtlich und komfortabel eure aufgenommen Demos zu starten. Der CS:GO Demo Browser in der Version 3 von eNzyy aus dem reddit Community hat sich die Arbeit gemacht um das Wirr Warr im CS:GO Ordner bezogen auf die Demos etwas schöner zu gestalten.</p>
+<p>Der CS:GO Demo Browser v3 erlaubt es euch alle Demo Dateien direkt über das Programm zu starten. Es ist also nicht mehr nötig in den CS:GO Ordner zu navigieren und die entspreche Demo zu starten bzw. einen Consolen Befehl zu nutzen um die Demo abzuspielen.</p>
+<p>Alle Eingaben wie Auflösung, Vollbild und demoui werdn automatisch gespeichert.</p>
+<p><strong>Wie funktioniert?</strong></p>
+<p>1. Als erstes müsst ihr den Steam Ordner Pfad auswählen<br />
+2. Doppelklick auf die entsprechende Demo und los gehts.</p>
+<p><strong>Zusätzliche Funktionen:</strong></p>
+<p>Der Browser bietet euch die Möglichkeit alle Demos automatisch nach bestimmten Kriterien umzunennen. Standardmäßig wird die Demo nach GOTV_Map_Time_Ticks gespeichert. Als Beispiel: GOTV-de_dust2_se-46mins-128tick.dem.</p>
+<p style="text-align: center"><a href="http://www.mediafire.com/download/g3477zdeiwcd2lg/eNzys+Demo+Browser+v3.0.zip">Download des CS:GO Demo Browsers</a></p>
+<p><strong>Screenshot:</strong></p>
+<p><img class="alignnone" alt="" src="http://gyazo.com/8ccaf22b269269d77dc675cead00d2da.png" width="1098" height="355" /></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-demo-browser-version-3-softwaretool/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

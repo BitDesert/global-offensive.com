@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Kommentare zu: CS:GO Update: Individuelle Server Grafik und CPU Überwachung eingefügt (Update)</title>
+	<atom:link href="/csgo-update-individuelle-server-grafik-und-cpu-ueberwachung-eingefuegt-update/feed/" rel="self" type="application/rss+xml" />
+	<link>/csgo-update-individuelle-server-grafik-und-cpu-ueberwachung-eingefuegt-update/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 14 Nov 2017 21:13:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<item>
+		<title>Von: Joe</title>
+		<link>/csgo-update-individuelle-server-grafik-und-cpu-ueberwachung-eingefuegt-update/#comment-352</link>
+		<dc:creator><![CDATA[Joe]]></dc:creator>
+		<pubDate>Tue, 05 Aug 2014 08:48:04 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2744#comment-352</guid>
+		<description><![CDATA[Hallo Kampfschwein, herzlichen Dank für die Info. Hattest du Probleme damit wenn die Grafik zu groß / klein ist?
+
+Gruß]]></description>
+		<content:encoded><![CDATA[<p>Hallo Kampfschwein, herzlichen Dank für die Info. Hattest du Probleme damit wenn die Grafik zu groß / klein ist?</p>
+<p>Gruß</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: Kampfschwein</title>
+		<link>/csgo-update-individuelle-server-grafik-und-cpu-ueberwachung-eingefuegt-update/#comment-351</link>
+		<dc:creator><![CDATA[Kampfschwein]]></dc:creator>
+		<pubDate>Tue, 05 Aug 2014 06:06:54 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2744#comment-351</guid>
+		<description><![CDATA[Nochmal eine kleine Info zu der Grafik: Die Grafik ist auf 360×60 Pixel beschränkt.]]></description>
+		<content:encoded><![CDATA[<p>Nochmal eine kleine Info zu der Grafik: Die Grafik ist auf 360×60 Pixel beschränkt.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

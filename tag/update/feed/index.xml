@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>update &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/update/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>update &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Update: Operation Hydra &#8211; Weapons Expert nun spielbar außerdem neuer Scoreboard Bug!</title>
+		<link>/csgo-update-operation-hydra-weapons-expert-nun-spielbar-ausserdem-neuer-scoreboard-bug/</link>
+		<comments>/csgo-update-operation-hydra-weapons-expert-nun-spielbar-ausserdem-neuer-scoreboard-bug/#respond</comments>
+		<pubDate>Thu, 08 Jun 2017 13:33:42 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[expert]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[weapons]]></category>
+
+		<guid isPermaLink="false">/?p=3715</guid>
+		<description><![CDATA[Weapons Expert nun spielbar Inzwischen geht Operation Hydra in die dritte Woche . Wie ihr wisst, bedeutet das nun dass der nächste Modi spielbar ist. Weapons Expert sorgt auf 30 Runden dafür dass ich&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Weapons Expert nun spielbar</h3>
+<p>Inzwischen geht Operation Hydra in die dritte Woche . Wie ihr wisst, bedeutet das nun dass der nächste Modi spielbar ist. Weapons Expert sorgt auf 30 Runden dafür dass ich im Wettkampfmodus nur jede Waffe genau einmal kaufen könnt. Ihr müsst somit genau überlegen wann ihr welche Waffen kauft. So wäre es natürlich suboptimal in in den letzten Runden lediglich die Pistolen spielbar zu haben, die Gegner werden vermutlich die Rifles bis zum Schluss aufbewahren. Spielt Ihr Weapons Expert so erhaltet ihr auch einen extra Rang hierfür.</p>
+<h3>Bugs, Bugs und noch mehr Bugs..</h3>
+<p>Wie es scheint, prüft Valve vor Veröffentlichung der Updates nicht immer ganz genau die Auswirkungen. So berichten Spieler über Bugs während des Spiels! Zum einen berichten Spieler über Schüsse welche auf den Gegner gerichtet werden jedoch nicht dort einschlagen sondern direkt in den Boden unterhalb der Spielfigur vom Gegner. Dieses ist zwar nur Client-Seitig, sprich die &#8222;hits&#8220; treffen schon den Spieler (auf dem Server), jedoch wird dieses euch anders angezeigt und kann unter Umständen sehr störend sein.</p>
+<p>Darüber hinaus gibt es derzeit ein Problem mit dem Scoreboard, üblicherweise werden nur die Ranks der Mitspieler angezeigt, nun sieht man auch ab und zu die Ranks der Gegner. Jedoch auch hier ist es so, man sieht nur die eigenen Ranks welche auf den Gegner gespiegelt werden.</p>
+<h3>Und hier gibt es die Update log:</h3>
+<blockquote>
+<h6>[ TWITCH INTEGRATION ]<br />
+* Added listing of some gamemodes in Twitch.tv CS:GO header in addition to maps.</h6>
+<h6>[ OPERATION HYDRA ]<br />
+* Fixed various bugs<br />
+* Added Hydra competitive rank display to lobbies &amp; nearby lobby display for Hydra modes.<br />
+* Flying Scoutsman: Increase sv_airaccelerate from 477 to 20000<br />
+* Stab Stab Zap: Replaced dust2 with shorttrain</h6>
+<h6>[ MAPS ]<br />
+* Fixed fade-to-black bug in Deathmatch on cs_insertion<br />
+* Updated de_shipped to latest version from mapmakers<br />
+* Fixed a regression in lighting for old community maps that interacted badly with new lighting features. Newer maps with lighting problems can be fixed by recompiling them in Hammer.<br />
+* Added player clipping above boxes at CT spawn in de_shortdust to prevent visibility in unintended areas</h6>
+<h6>[ MISC ]<br />
+* Added more back-end UI work in preparation for Panorama switch. Please report any new UI bugs to csgoteamfeedback@valvesoftware.com<br />
+* Fixed tickrate-dependence in spray patterns for fast-firing weapons. Thanks SlothSquadron &amp; friends!<br />
+* Fixed incorrect skin tones on some player gloves<br />
+* Fixeded a bug where 2v2 scoreboard would show round win icons for the first half on the wrong side after halftime<br />
+* Updated Operation Hydra gamemode names used in Rich Presence</h6>
+</blockquote>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-update-operation-hydra-weapons-expert-nun-spielbar-ausserdem-neuer-scoreboard-bug/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Das Ende von Operation Bloodhound</title>
+		<link>/das-ende-von-operation-bloodhound/</link>
+		<comments>/das-ende-von-operation-bloodhound/#respond</comments>
+		<pubDate>Fri, 02 Oct 2015 18:08:09 +0000</pubDate>
+		<dc:creator><![CDATA[pascal]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[App]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[bloodhound]]></category>
+		<category><![CDATA[Musikkits]]></category>
+		<category><![CDATA[update]]></category>
+
+		<guid isPermaLink="false">/?p=3581</guid>
+		<description><![CDATA[Gestern Nacht ist die Operation Bloodhound zu Ende gegangen, dass heißt es ist nun nicht mehr möglich die Maps der Operation zu spielen oder die Operations Münze aufzuwerten. Was ist neu? Die Falchion Case&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Gestern Nacht ist die Operation Bloodhound zu Ende gegangen,</h3>
+<p>dass heißt es ist nun nicht mehr möglich die Maps der Operation zu spielen oder die Operations Münze aufzuwerten.</p>
+<h3>Was ist neu?</h3>
+<p>Die Falchion Case kann nun an alle Spieler gedroppt werden.</p>
+<p>Außerdem wurde der Preis des Zeus auf 200$ erhöht.</p>
+<p>Zu dem wurde noch der Kill-Award des Zeus auf 0$ und die Laufgeschwindigkeit auf 220 reduziert.</p>
+<p>Eine kleine Änderung mit wohl möglich einer großen Wirkung wird sein, dass im Matchmaking man nun nur noch mit dem Team per Mikrofon kommunizieren kann.</p>
+<p>Das gilt für die Warmup Phase und die Halbzeit.</p>
+<p>Zuletzt wurden noch 14 neue Musik Kits hinzugefügt. Die Preise verlaufen sich hierbei von 4,45€ bis 6,99€.</p>
+<h3>Hier habt ihr drei Beispiele der neuen Sounds:</h3>
+<p>http://redbullrecords.com/csgo/awolnation/</p>
+<p><img class="alignnone size-medium wp-image-3582" src="/wp-content/uploads/sites/2/2015/10/awol-musickitcover-300x144.png" alt="awol-musickitcover" width="300" height="144" srcset="/wp-content/uploads/sites/2/2015/10/awol-musickitcover-300x144.png 300w, /wp-content/uploads/sites/2/2015/10/awol-musickitcover.png 500w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>http://redbullrecords.com/csgo/newbeatfund/</p>
+<p><a href="/wp-content/uploads/sites/2/2015/10/nbf-musickitcover.png"><img class="alignnone size-medium wp-image-3584" src="/wp-content/uploads/sites/2/2015/10/nbf-musickitcover-300x144.png" alt="nbf-musickitcover" width="300" height="144" srcset="/wp-content/uploads/sites/2/2015/10/nbf-musickitcover-300x144.png 300w, /wp-content/uploads/sites/2/2015/10/nbf-musickitcover.png 500w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>http://redbullrecords.com/csgo/beartooth/</p>
+<p><img class="alignnone size-medium wp-image-3583" src="/wp-content/uploads/sites/2/2015/10/bt-musickitcover-300x144.png" alt="bt-musickitcover" width="300" height="144" srcset="/wp-content/uploads/sites/2/2015/10/bt-musickitcover-300x144.png 300w, /wp-content/uploads/sites/2/2015/10/bt-musickitcover.png 500w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>Alle neuen Musik Kits könnt ihr hier einsehen:</p>
+<p>http://blog.counter-strike.net/index.php/2015/09/12580/</p>
+<h3>Update Log:</h3>
+<p>[OPERATION BLOODHOUND]<br />
+– Operation Bloodhound has come to a close.<br />
+– The Falchion Case will be available as a drop for all players.</p>
+<p>[GAMEPLAY]<br />
+– Zeus:<br />
+— Increased price to $200<br />
+— Reduced kill award to $0<br />
+— Reduced max player speed to 220</p>
+<p>[UI]<br />
+– New Music Kits will be available for purchase directly in the main menu for a limited time.</p>
+<p>[MISC]<br />
+– In official competitive matches, voice communications are now team-only in warmup and half-time, allowing players to discuss player roles and strategies.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/das-ende-von-operation-bloodhound/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Update 18.09.2015 &#8211; Neues Shadow Case &#8211; Neue Messer &#8211; Neue Skins &#8211; Fixes &#8211;</title>
+		<link>/csgo-update-18-09-2015-neues-shadow-case-neue-messer-neue-skins-fixes/</link>
+		<comments>/csgo-update-18-09-2015-neues-shadow-case-neue-messer-neue-skins-fixes/#comments</comments>
+		<pubDate>Fri, 18 Sep 2015 12:47:58 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Hilfe]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Szene]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[Global Offensive]]></category>
+		<category><![CDATA[shadow case]]></category>
+		<category><![CDATA[update]]></category>
+
+		<guid isPermaLink="false">/?p=3496</guid>
+		<description><![CDATA[&#160; Hoppala, das ging aber schnell. Ein weiteres Update für Counter-Strike: Global-Offensive, kurz CS:GO ist erschienen. Neue Cases / Kisten: Ein neues Case mit dem Namen Shadow Case ist nun erhältlich. Mit Ihr insgesamt&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>&nbsp;</p>
+<p>Hoppala, das ging aber schnell. Ein weiteres Update für Counter-Strike: Global-Offensive, kurz CS:GO ist erschienen.</p>
+<h3>Neue Cases / Kisten:</h3>
+<p>Ein neues Case mit dem Namen Shadow Case ist nun erhältlich. Mit Ihr insgesamt 16 neue Community Skins. Das wohl coolste in der Kiste ist die Chance auf eines der vielen neuen Shadow Daggers, doppel Messer im Ninja Style. Hier seht ihr ein Bild eines der Knifes:</p>
+<p><a href="/wp-content/uploads/sites/2/2015/09/shadow-dagger-1.png"><img class="alignnone size-medium wp-image-3498" src="/wp-content/uploads/sites/2/2015/09/shadow-dagger-1-300x156.png" alt="S" width="300" height="156" srcset="/wp-content/uploads/sites/2/2015/09/shadow-dagger-1-300x156.png 300w, /wp-content/uploads/sites/2/2015/09/shadow-dagger-1.png 845w" sizes="(max-width: 300px) 100vw, 300px" /></a> <a href="/wp-content/uploads/sites/2/2015/09/shadow-dagger-2.png"><img class="alignnone size-medium wp-image-3499" src="/wp-content/uploads/sites/2/2015/09/shadow-dagger-2-300x168.png" alt="shadow dagger 2" width="300" height="168" srcset="/wp-content/uploads/sites/2/2015/09/shadow-dagger-2-300x168.png 300w, /wp-content/uploads/sites/2/2015/09/shadow-dagger-2.png 786w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>Und hier die Animation des zustechens:<br />
+<iframe src="https://www.youtube.com/embed/BD7H0m7vaAs?list=PLiFZevigR_39OPCWmDNPy5tjFSkwfGn4s" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<h3>Die neuen Waffen Skins (Community Skins)</h3>
+<p><a href="/wp-content/uploads/sites/2/2015/09/shadow-case-skins-csgo.png"><img class="alignnone size-full wp-image-3522" src="/wp-content/uploads/sites/2/2015/09/shadow-case-skins-csgo.png" alt="shadow-case-skins-csgo" width="733" height="1005" srcset="/wp-content/uploads/sites/2/2015/09/shadow-case-skins-csgo.png 733w, /wp-content/uploads/sites/2/2015/09/shadow-case-skins-csgo-219x300.png 219w" sizes="(max-width: 733px) 100vw, 733px" /></a></p>
+<h3>Neue Animation / Fixes:</h3>
+<p>Darüber hinaus wurden einige Animation Probleme des letzten Updates weiter gefixed und verbessert. Des weiteren wurde das Kabel der Bombe beim entschärfen realitätsnaher. Siehe hier:</p>
+<p><a href="/wp-content/uploads/sites/2/2015/09/GiALtCB1.jpg"><img class="alignnone size-medium wp-image-3497" src="/wp-content/uploads/sites/2/2015/09/GiALtCB1-300x169.jpg" alt="CS:GO Shadow Dagger Knife" width="300" height="169" srcset="/wp-content/uploads/sites/2/2015/09/GiALtCB1-300x169.jpg 300w, /wp-content/uploads/sites/2/2015/09/GiALtCB1-1024x576.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>Weitere Animationen wie die des Moloto, falsche Fuß Positionen der Models in manchen Situationen, Ghost Steps, Dicke des Bomben Entschärfungskabels, Duckanimationen wurden ebenfalls optimiert. Zum Schluss wurde die Map de_cache in der neuesten Version nun in das Matchmaking integriert.</p>
+<p><strong>Counter-Strike.net Changelog:</strong></p>
+<h1>CSGO</h1>
+<ul>
+<li>Added the Shadow Case, featuring 16 community designs, with a chance to contain the all-new Shadow Daggers.</li>
+</ul>
+<h1>GAMEPLAY</h1>
+<ul>
+<li>Zeus can only be purchased once per round and cannot be dropped.</li>
+<li>Players can now only purchase five of any weapon per round (controlled with mp_weapons_allow_typecount).</li>
+</ul>
+<h1>ANIMATION</h1>
+<ul>
+<li>Improved animation performance for certain configurations.</li>
+<li>Fixed Molotov holding pose.</li>
+<li>Fixed incorrect foot position for pistol deploys.</li>
+<li>Reduced cycle rates for ladder animations at top speed.</li>
+<li>Small increase to crouchwalk cycle rates, footfall fixes.</li>
+<li>Adjusted blend on C4 plant animation.</li>
+<li>Adjusted defuser cable thickness.</li>
+<li>Fixed defuser cables not disconnecting from the defusing CT player.</li>
+<li>Adjusted crouch animation rise and fall speed.</li>
+</ul>
+<h1>MISC</h1>
+<ul>
+<li>Fixed some improper inventory icon camera positions.</li>
+<li>Fixed flickering shadows associated with dynamic player culling.</li>
+<li>Fixed cases where culling plane intersected or completely covered players.</li>
+</ul>
+<h1>MAPS</h1>
+<ul>
+<li>Updated Cache to the latest version.</li>
+</ul>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-update-18-09-2015-neues-shadow-case-neue-messer-neue-skins-fixes/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Counter-Strike: Global-Offensive Update vom 5.12.2014</title>
+		<link>/counter-strike-global-offensive-update-vom-5-12-2014/</link>
+		<comments>/counter-strike-global-offensive-update-vom-5-12-2014/#respond</comments>
+		<pubDate>Fri, 05 Dec 2014 08:58:31 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[boost]]></category>
+		<category><![CDATA[fixed]]></category>
+		<category><![CDATA[update]]></category>
+
+		<guid isPermaLink="false">/?p=3262</guid>
+		<description><![CDATA[Inhalt des neuen 10MB Updates für CS:GO Zum einen wurden natürlich die spektakulären Boosts, welche wir bei der DreamHack Open: Winter 2014 z.B. von Fnatic gesehen haben, entfernt. Valve überarbeitete auch de_nuke und behob&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Inhalt des neuen 10MB Updates für CS:GO</h3>
+<p>Zum einen wurden natürlich die spektakulären Boosts, welche wir bei der <strong>DreamHack Open: Winter 2014</strong> z.B. von <strong>Fnatic</strong> gesehen haben, entfernt. Valve überarbeitete auch de_nuke und behob kleinere Fehler auf der Map. Ebenfalls entfernte man die Sticker der DreamHack aus dem Turnier-Tab entfernt und die <strong>Pick&#8217;Em Challenge</strong> Trophäe wurde hinzugefügt.  Auf<strong> de_overpass</strong> überarbeitete <strong>Valve</strong> sogar den gesamten A-Bombspot. Man entfernte eine Treppe auf dem A-Spot und ersetzte diese durch eine Kabeltrommel und einen Strom Generator. Viele Spieler wurden enttäuscht, da die gewünschte Änderung an der <strong>CZ-75</strong> nicht vorgenommen wurde. Somit wird auch in Zukunft immer wieder die <strong>CZ </strong>sehen, da sie es auch mit SMGs und Rifles aufnehmen kann. Als weiteres Feature fügte <strong>Valve</strong> eine Anzeige auf der Bombe hinzu, diese zeigt dem Spieler nun beim Entschärfen der Bombe wie viel Zeit er noch bis zur Detonation gehabt hätte.</p>
+<h3>DREAMHACK</h3>
+<ul>
+<li>Added Pick’Em Challenge trophies.</li>
+<li>Added Tournament winners trophies (Congratulations LDLC!)</li>
+<li>Made WATCH tab default to Live Games.</li>
+<li>Removed sticker store from Tournament tab.</li>
+</ul>
+<h3>MAPS</h3>
+<p><strong>Overpass</strong></p>
+<ul>
+<li>A Bombenspot Bereich wurde erweitert</li>
+<li>Added visual hints to the usable bombplant zones</li>
+<li>A Pit Treppen wurde durch eine Box ersetzt</li>
+<li>Die Boosts (Pixelboosts) wurden entfernt.</li>
+</ul>
+<p><strong>Nuke</strong></p>
+<ul>
+<li>Changed floor material in ramp room and Bombsite B.</li>
+<li>Fixed a sound bug where only footsteps could be heard through the wall between A site and ramp room.</li>
+</ul>
+<p><strong>Operation Vanguard</strong></p>
+<ul>
+<li>Season, Facade and Backalley updated with bugfixes.</li>
+</ul>
+<h3>MISC</h3>
+<ul>
+<li>Marked mat_texture_list as a cheat convar.</li>
+<li>The extendfreeze command is no longer allowed in competitive mode.</li>
+<li>sv_kick_players_with_cooldown 2 on community servers no longer affects new players during Skill Group calibration phase.</li>
+<li>Added a fun-fact for last second bomb defusals.</li>
+</ul>
+<h3>Das Update in Bildern:</h3>
+<p><img id="__wp-temp-img-id" src="http://i.imgur.com/4AqWVjP.jpg" alt="" width="1280" height="720" /></p>
+<p><img id="__wp-temp-img-id" src="http://i.imgur.com/MY1oajI.jpg" alt="" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/counter-strike-global-offensive-update-vom-5-12-2014/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Update &#8211; Neue Accounts nun nicht im Matchmaking spielbar</title>
+		<link>/csgo-update-neue-accounts-nun-nicht-im-matchmaking-spielbar/</link>
+		<comments>/csgo-update-neue-accounts-nun-nicht-im-matchmaking-spielbar/#respond</comments>
+		<pubDate>Fri, 21 Nov 2014 18:29:50 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[accounts]]></category>
+		<category><![CDATA[boost]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[smurf]]></category>
+		<category><![CDATA[update]]></category>
+
+		<guid isPermaLink="false">/?p=3148</guid>
+		<description><![CDATA[Heute ist ein weiteres Counter-Strike: Global-Offensive (CS:GO) Update erschienen welches viele Spieler nun etwas mehr hoffen lässt, nicht gegen auf so genante Smurf bzw. Cheat Accounts im Matchmaking zu treffen. Neue Spieler bzw. neue&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Heute ist ein weiteres Counter-Strike: Global-Offensive (CS:GO) Update erschienen welches viele Spieler nun etwas mehr hoffen lässt, nicht gegen auf so genante Smurf bzw. Cheat Accounts im Matchmaking zu treffen. Neue Spieler bzw. neue Accounts haben nun nicht mehr die Möglichkeit sofort im Matchmaking Modus von CS:GO mitzuspielen. Solange die Spieler mit einem neuen Account noch keinen Rang besitzen, können diese nicht mit anderen Spieler welche sehr hohe Rankings besitzen spielen. Darüber hinaus kann ein Account ohne Rang nicht mehr als zwei Matchmaking Siege pro Tag erlangen. Sobald jedoch ein Skilllevel erreicht ist, sprich es wurden 10 Matches gewonnen, fallen die meißten Regelungen wieder weg und man kann wie bisher spielen.</p>
+<p>Allerdings ist zu beachten dass sehr niedrige Ränge nicht mit sehr hohen spielen können. So ist es als Silver Spieler z.B. nicht möglich mit einem Global Elite o.ä. zu spielen.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-update-neue-accounts-nun-nicht-im-matchmaking-spielbar/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Update: Halloween Special &#8211; Spieler mit Masken, Höllen Hühner und weiteres..</title>
+		<link>/csgo-update-halloween-special-spieler-mit-masken-hoellen-huehner-und-weiteres/</link>
+		<comments>/csgo-update-halloween-special-spieler-mit-masken-hoellen-huehner-und-weiteres/#comments</comments>
+		<pubDate>Thu, 23 Oct 2014 11:10:48 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[halloween]]></category>
+		<category><![CDATA[update]]></category>
+
+		<guid isPermaLink="false">/?p=2961</guid>
+		<description><![CDATA[Halloween Update! Es wird Halloween gefeiert. Alle Spieler haben nun Ingame eine Spuk-Maste auf. Es war kein Platz mehr in der Hühner Hölle. Alle Hühner die man nun töten möchte, erwachen wieder zum leben,&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Halloween Update!</h3>
+<p>Es wird Halloween gefeiert. Alle Spieler haben nun Ingame eine Spuk-Maste auf.<br />
+Es war kein Platz mehr in der Hühner Hölle. Alle Hühner die man nun töten möchte, erwachen wieder zum leben, in einer ganz besonderen Art und Weise.<br />
+Um die Halloweenmasken und Hühner zu deaktivieren, kann über den convar sv_holiday_mode 0 dieses deaktiviert werden&#8230;.</p>
+<h3>MISC</h3>
+<ul>
+<li>Fixed radius damage from exploding HE grenade to not get applied to last bot&#8217;s location where bot had been taken over by a human.</li>
+<li>Bots can no longer be controlled by humans during warmup.</li>
+<li>Updated inventory inspect animation to reveal both sides of knife blades.</li>
+<li>Added six new offers community stickers.</li>
+</ul>
+<h3>MAPS</h3>
+<h2>Mirage:</h2>
+<ul>
+<li>Fixed wallbang inconsistency through closed window in apartments near Bombsite B</li>
+<li>Optimized placement of blue potted plant T side of mid</li>
+<li>Made balcony at Bombsite B slightly larger</li>
+<li>Opened up skybox from CT spawn to Bombsite B</li>
+</ul>
+<h2>Inferno:</h2>
+<ul>
+<li>Added relaxing windchimes to CT spawn</li>
+<li>Fixed bugs where players could get stuck on roof overhangs</li>
+<li>Fixed some textures with wrong surface properties</li>
+<li>Removed some wacky boost spots</li>
+<li>Updated collision model on pillars in Ruins</li>
+</ul>
+<p>&nbsp;</p>
+<h3>Hier ein paar Halloween CS:GO &#8211; Impressionen</h3>
+<p><img class="alignnone" src="http://cloud-4.steampowered.com/ugc/40856788887253188/5FA5C3F44FBFEBB8D0A909B6E06A342F972E5D2E/1024x576.resizedimage" alt="" width="1024" height="576" /></p>
+<p><img class="alignnone" src="http://i.imgur.com/Vv6nw7p.jpg" alt="" width="1920" height="1080" /></p>
+<p><img class="alignnone" src="http://i.imgur.com/1fnjuxO.jpg" alt="" width="1920" height="1080" /></p>
+<p><img class="alignnone" src="http://cloud-2.steampowered.com/ugc/531749148265447045/8840F3309A5C9DC876412A645011596906FA4D74/" alt="" width="1024" height="768" /><img class="alignnone" src="http://cloud-4.steampowered.com/ugc/34101389444019231/B5C444903380C76C15013C13C46EF2DE7A649941/" alt="" width="1920" height="1080" /><img class="alignnone" src="http://cloud-4.steampowered.com/ugc/34101389444018045/D9F79EFBE661A45C456DAEC03D60BF56BC44B8FB/" alt="" width="1920" height="1080" /><img class="alignnone" src="http://cloud-4.steampowered.com/ugc/34101389444016736/26D6BA2120B46DABD794EF47897C4AC9E3E7408E/" alt="" width="1920" height="1080" /></p>
+<p>An dieser News wird gerade geschrieben, aktualisiere alle 10 Minuten du und erhälst weitere Informationen.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-update-halloween-special-spieler-mit-masken-hoellen-huehner-und-weiteres/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Mini-Update &#8211; Linux &#8211; Achievement Icons und Music Kit Optimierung 16.10.2014</title>
+		<link>/csgo-mini-update-linux-achievement-icons-und-music-kit-optimierung-16-10-2014/</link>
+		<comments>/csgo-mini-update-linux-achievement-icons-und-music-kit-optimierung-16-10-2014/#respond</comments>
+		<pubDate>Thu, 16 Oct 2014 16:48:16 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[16.10.2014]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[update]]></category>
+
+		<guid isPermaLink="false">/?p=2918</guid>
+		<description><![CDATA[CS:GO Mini Update Heute Nacht ist ein kleines 15 MB Update erschienen. Nichts besonderes, aus diesem Grund wie immer bei Mini-Updates eine Strich-Punkt Auflistung: Verschiedenes [checklist] Die Achievement Icons werden nun lokal auf der&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p><strong>CS:GO Mini Update</strong></p>
+<p>Heute Nacht ist ein kleines 15 MB Update erschienen. Nichts besonderes, aus diesem Grund wie immer bei Mini-Updates eine Strich-Punkt Auflistung:</p>
+<h3>Verschiedenes</h3>
+<p>[checklist]</p>
+<ul>
+<li>Die Achievement Icons werden nun lokal auf der Festplatte gespeichert, dieses soll etwas Performance steigern. Rundenenden Musik wird nun nicht mehr mit Fehlern und Abstürzen abgespielt.</li>
+</ul>
+<p>[/checklist]</p>
+<h3>Linux</h3>
+<p>[checklist]</p>
+<ul>
+<li>Fixed bug where many items would be rendered with incorrect lighting causing them to appear very dark or black.</li>
+<li>Fixed a bug with entity lookup from player userid that was causing incorrect position/facing/team info for players in game events</li>
+</ul>
+<p>[/checklist]</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-mini-update-linux-achievement-icons-und-music-kit-optimierung-16-10-2014/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Update: Operation Breakout vorbei &#8211; Matchmaking verbessert &#8211; Bewegungen verändert</title>
+		<link>/csgo-update-operation-breakout-vorbei-matchmaking-verbessert-bewegungen-veraendert/</link>
+		<comments>/csgo-update-operation-breakout-vorbei-matchmaking-verbessert-bewegungen-veraendert/#comments</comments>
+		<pubDate>Mon, 06 Oct 2014 20:29:11 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[update]]></category>
+
+		<guid isPermaLink="false">/?p=2863</guid>
+		<description><![CDATA[Vor kurzem ist ein neues Counter Strike Global Offensive Update erschienen, welches sich neben ein paar Menü-Veränderungen hauptsächlich auf das Matchmaking und das Gameplay bezieht. Des Weiteren wurde Die Operation Breakout beendet und es&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Vor kurzem ist ein neues Counter Strike Global Offensive Update erschienen,</h3>
+<p>welches sich neben ein paar Menü-Veränderungen hauptsächlich auf das Matchmaking und das Gameplay bezieht.<br />
+Des Weiteren wurde Die Operation Breakout beendet und es ist nicht weiter möglich im Spiel Missionen für Belohnungen zu meistern.</p>
+<p>Hier der aktuelle Changelog:</p>
+<p>[ OPERATION BREAKOUT ]</p>
+<ul>
+<li>Operation Breakout wurde beendet und alle Missionen sind abgelaufen.</li>
+</ul>
+<p>[ MATCHMAKING ]</p>
+<ul>
+<li>Spieler im selben LAN-Netzwerk und Community Server, können sich jetzt direkt über die LAN-Interne IP Addresse darauf verbinden.</li>
+<li>Übertragungsfehler bei der Spielerverbindung in den GOTV wurden behoben.</li>
+<li>Wenn der erste Spieler einem laufenden Community Server beitritt, wird das Spiel neu gestartet..</li>
+<li>Probleme von Netzwerk und StatTrack Countern auf Linux basierenden Dedicated-Servern wurden gefixt..</li>
+<li>Freunde die versuchen einer vollen offiziellen nicht Competitiven Lobby beizutreten, erhalten nun die entsprechende Nachricht im Hauptmenü..</li>
+<li>Ein Problem bei dem man CS:GO match sharing Links noch nach Spielbeginn anklicken konnte wurde behoben.</li>
+<li>Freunde die auf offiziellen Community Server spielen werden jetzt mit dem korrekten Status für Freunde im Hauptmenü angezeigt..</li>
+<li>Die Funktionalität von verschiedenen Menüpunkten im Pause-Menü wurde wiederhergestellt..</li>
+</ul>
+<p>[ UI ]</p>
+<ul>
+<li>Das &#8222;Land&#8220; Feld im Kaufmenü zeigt nun Länderflaggen.</li>
+<li>BEWEGUNG wurde im Kaufmenü zu MOBILITÄT geändert.</li>
+<li>Der mögliche Bewegungswert mit einer Waffe wurde im Kaufmenü hinzugefügt.</li>
+</ul>
+<p>Im Gameplay wurden darüber hinaus einige wenige Änderungen durchgeführt welcher aber nicht weiter erwähnenswert sind.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-update-operation-breakout-vorbei-matchmaking-verbessert-bewegungen-veraendert/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Update: Tec-9 noch stärker &#8211; Map-Änderungen &#8211; Große Bugfixes &#8211; Weitere Sticker</title>
+		<link>/csgo-update-tec-9-noch-staerker-map-aenderungen-grosse-bugfixes/</link>
+		<comments>/csgo-update-tec-9-noch-staerker-map-aenderungen-grosse-bugfixes/#respond</comments>
+		<pubDate>Wed, 01 Oct 2014 07:45:51 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[App]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[1.10.2014]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[tec 9]]></category>
+		<category><![CDATA[update]]></category>
+
+		<guid isPermaLink="false">/?p=2854</guid>
+		<description><![CDATA[Counter-Strike: Global-Offensive Update vom 01.10.2014 Heute Nacht ist ein weiteres CS:GO Update erschienen wo sowohl Gameplay, Maps als auch das Matchmaking verbessert wurden. Im Matchmaking wurden viele Verbindungsprobleme behoben welche das wiederverbinden von gedroppten&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h2 style="text-align: center"><img class="aligncenter size-medium wp-image-2859" src="/wp-content/uploads/sites/2/2014/10/csgo-update-300x168.jpg" alt="csgo-update" width="300" height="168" /></h2>
+<h2>Counter-Strike: Global-Offensive Update vom 01.10.2014</h2>
+<p>Heute Nacht ist ein weiteres CS:GO Update erschienen wo sowohl Gameplay, Maps als auch das Matchmaking verbessert wurden. Im Matchmaking wurden viele Verbindungsprobleme behoben welche das wiederverbinden von gedroppten Spielern unmöglich machte. Es sollten also Verbindungsspezifische Probleme im Matchmaking wesentlich weniger erscheinen.</p>
+<p>Insgesamt wurden mehrere kleinere Änderungen durchgeführt welche wir euch in der Short-Auflistung zeigen:</p>
+<h3>Gameplay:</h3>
+<ul>
+<li>Tec-9: Genauigkeit wurden weiter verbessert und recoil reduziert</li>
+</ul>
+<h3>Maps:</h3>
+<ul>
+<li>Overpass: Bug behoben welcher ermöglichste dass man vom Balkon auf B die Bombe auf A defusen konnte. <a href="https://www.youtube.com/watch?v=Gg5taerG0IM&amp;hd=1" target="_blank">(Youtube  Video)</a></li>
+<li>Eine &#8222;collision&#8220; wurde im Park bei den Säulen hinzugefügt.</li>
+<li>Ein Boiler wurde hinzugefügt (mal wieder). Position: Raum direkt beim A-Pit</li>
+</ul>
+<h3>Matchmaking:</h3>
+<ul>
+<li>Das Session System wurde &#8222;signifikant&#8220; verbessert.</li>
+<li>Das Matchmaking Backend wurde verbessert</li>
+<li>Verbindung zu Game Servern können nun jederzeit wieder aufgenommen auch wenn im Hintergrund Spiele- Updates laufen</li>
+<li>Matchmaking Spiele können wieder beigetreten werden wenn Spieler die Verbindung (Steam Logout) erhalten haben.</li>
+<li>Wenn ein CS:GO Update erscheint, werden Spieler im Spiel nicht darüber informiert dass ein Update vorliegt.</li>
+<li><em><strong>Offizielle Competitive Matches werden nun abgebrochen, sobald ein Spieler noch während der Aufwärmphase ein Cool-Down bekommt bzw. nicht weiter spielen kann. Z.B. Verbindungsprobleme. (Sehr cool!!)</strong></em></li>
+</ul>
+<h3>Linux:  (Interessiert die wenigsten daher in Englisch)</h3>
+<ul>
+<li>Made it possible to connect to community servers</li>
+<li>Made it possible to download custom content from servers</li>
+<li>Fixed a variety of bugs when using non-English locales</li>
+<li>Added icon in the store page</li>
+<li>Improved client stability</li>
+</ul>
+<h3>MAC CLIENT</h3>
+<ul>
+<li>Fixed a bug causing a line in the shadows to follow the player around</li>
+<li>Improved client stability</li>
+</ul>
+<h3>Sonstiges:</h3>
+<ul>
+<li>Hauptmenü wurde überarbeitet</li>
+<li>Es können nun auch individuelle Items im Market angeboten werden</li>
+<li>Ein neues Set von Community Stickern</li>
+<li>Ein weiterer Filter Link für den Inhalt von Cases</li>
+<li>Preview Funktion für Community Sticker (<a href="http://csgostash.com/stickers.php?capsule=Community+Stickers+Series+2" target="_blank">Neue Sticker hier</a>)</li>
+</ul>
+<p>&nbsp;</p>
+<p>Für eine übersichtliche Darstellung bitte die Seite aufrufen. (Weltkugel oben rechts)</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-update-tec-9-noch-staerker-map-aenderungen-grosse-bugfixes/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Update: Tec-9 ist nun genauer &#8211; weniger Recoil &#8211; Inferno kleine Änderungen</title>
+		<link>/csgo-update-tec-9-ist-nun-genauer-weniger-recoil-inferno-kleine-aenderungen/</link>
+		<comments>/csgo-update-tec-9-ist-nun-genauer-weniger-recoil-inferno-kleine-aenderungen/#respond</comments>
+		<pubDate>Thu, 18 Sep 2014 14:08:21 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[boiler]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[update]]></category>
+
+		<guid isPermaLink="false">/?p=2814</guid>
+		<description><![CDATA[Mini-Update: Heute Nacht ist ein kleines Update von CS:GO erschienen, im wesentlichen sagt die Überschrift schon fast alles aus. Neben der höheren Treffgenauigkeit ist noch auf de_inferno der Boiler versetzt worden. Darüber hinaus wurden für&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Mini-Update:</h3>
+<p>Heute Nacht ist ein kleines Update von CS:GO erschienen, im wesentlichen sagt die Überschrift schon fast alles aus. Neben der höheren Treffgenauigkeit ist noch auf de_inferno der Boiler versetzt worden. Darüber hinaus wurden für die OSX also Apple Nutzer einige Fehler beseitigt. Sie können zum Beispiel nun auch Multicore-Rendering nutzen. Alle anderen Spieler haben ggf. nun noch eine etwas verbesserte Performance.</p>
+<p>Es bleibt abzuwarten ob die Tec-9 nun wieder mehr im Spiel zusehen ist.</p>
+<p>Hier der versetzte Boiler auf dem Bombenplatz B:</p>
+<p><img class="alignnone" src="http://i.imgur.com/cGMqCWt.jpg" alt="" width="1920" height="1080" /></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-update-tec-9-ist-nun-genauer-weniger-recoil-inferno-kleine-aenderungen/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

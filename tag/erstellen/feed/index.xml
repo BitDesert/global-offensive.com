@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>erstellen &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/erstellen/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>erstellen &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Server auf Windows installieren und im Internet erreichbar machen [Server Guide]</title>
+		<link>/csgo-server-auf-windows-installieren-server-guide/</link>
+		<comments>/csgo-server-auf-windows-installieren-server-guide/#respond</comments>
+		<pubDate>Thu, 25 Apr 2013 13:39:45 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Server Administration]]></category>
+		<category><![CDATA[counter strike]]></category>
+		<category><![CDATA[erstellen]]></category>
+		<category><![CDATA[Global Offensive]]></category>
+		<category><![CDATA[Installieren]]></category>
+		<category><![CDATA[windows]]></category>
+
+		<guid isPermaLink="false">/?p=1428</guid>
+		<description><![CDATA[Wie erstelle ich einen CS:GO Gameserver auf Windows? Die vergangen Versionen von Counter-Strike machten es immer zu einem kleinen Abenteuer einen Counter-Strike Server auf einem Windowsrechner zu erstellen. Ganz anders ist es bei Counter-Strike&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h1>Wie erstelle ich einen CS:GO Gameserver auf Windows?</h1>
+<div>
+<p><a href="/wp-content/uploads/sites/2/2013/04/cs_go_windows_server.jpg"><img class="aligncenter size-full wp-image-1431" title="cs_go_windows_server" src="/wp-content/uploads/sites/2/2013/04/cs_go_windows_server.jpg" alt="" width="280" height="120" /></a></p>
+<p>Die vergangen Versionen von Counter-Strike machten es immer zu einem kleinen Abenteuer einen Counter-Strike Server auf einem Windowsrechner zu erstellen. Ganz anders ist es bei Counter-Strike Global &#8211; Offensive. Durch das SteamCMD (Updatetool) ist es möglich binnen weniger Minuten einen eigenen Server aufzusetzen.</p>
+<h3><strong>Schritt 1:</strong></h3>
+<p>Downloadet und Entpacken euch das SteamCMD-Tool zum Beispiel von der aktuellen offiziellen Counter-Strike Seite:</p>
+<table border="0">
+<tbody>
+<tr>
+<td><a title="http://blog.counter-strike.net/wp-content/uploads//2012/04/steamcmd.zip" href="http://blog.counter-strike.net/wp-content/uploads//2012/04/steamcmd.zip" target="_blank">http://blog.counter-strike.net/wp-content/uploads//2012/04/steamcmd.zip</a></td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Schritt 2:</strong></h3>
+<p>Startet nun SteamCMD mit einem Doppelklick.<br />
+Alternativ könnt ihr auch mit der Windows Kommando Zeile (Start -&gt; Ausführen -&gt; &#8222;cmd&#8220; eintippen) mit cd /das/verzeichnis/wo/euer/SteamCMD/liegt/ navigieren und dann nur noch &#8222;steamcmd&#8220; eintippen.</p>
+<p>Solltet ihr mit &#8222;cmd&#8220; im richtigen Ordner gelandet sein, erscheint in der Eingabeaufforderung nun &#8222;Steam&gt;&#8220;. Ihr seid nun also in der direkten Server Commandozeile.</p>
+<h3><strong>Schritt 3 &#8211; das Einloggen in Steam:</strong></h3>
+<p>Tippt nun das folgende ein. Username und Password stehen hier natürlich für eure Steam Zugangsdaten.</p>
+<table border="0">
+<tbody>
+<tr>
+<td>login username password</td>
+</tr>
+</tbody>
+</table>
+<p>Solltet ihr den SteamGuard aktiv haben, bekommt ihr beim ersten Login eine Fehlermeldung in der Console sowie eine Mail von Valve die an die in Steam hinterlegte Emailadresse geht. In dieser Mail findet ihr den Guard-Auth-Code.</p>
+<p>Diesen gebt ihr bitte wie folgt an:</p>
+<table border="0">
+<tbody>
+<tr>
+<td>set_steam_guard_code CODE-AUS-DER-MAIL</td>
+</tr>
+</tbody>
+</table>
+<p>Es erscheint keine Bestätigung, ihr müsst nun erneut Schritt 3 erledigen.</p>
+<h3><strong><br />
+Schritt 4 &#8211; Gameserver Dateien laden:</strong></h3>
+<p><strong></strong>Nachdem ihr euch nun erfolgreich eingeloggt habt, könnt ihr den Gameserver runterladen.</p>
+<p>Dazu legen wir erst das Verzeichnis fest, in dem der Gameserver geladen werden soll.<br />
+Das geht mit folgenden Command:</p>
+<table border="0">
+<tbody>
+<tr>
+<td>force_install_dir c:csgo-server</td>
+</tr>
+</tbody>
+</table>
+<p>Hier wird der Server als Beispiel im Ordner csgo-server auf der Festplatte C: installiert. Wichtig ist dass der Ordner bereits von euch erstellt wurde.</p>
+<p>Nun startet ihr den Downloadprozess mit folgendem Befehl:</p>
+<table border="0">
+<tbody>
+<tr>
+<td>app_update 740 validate</td>
+</tr>
+</tbody>
+</table>
+<p>Wenn der Download bei 100% ist, ist der Server fertig runtergeladen und man kann diesen nun starten.</p>
+<h3><strong>Schritt 5 &#8211; Starten des Gameservers:</strong></h3>
+<p>Den Gameserver starten (Nicht aus dem SteamCMD raus. Per normaler Console oder Verknüpfung!). Dies bedeutet dass ihr vorher eine Verknüpfung der srcds.exe erstellt. Dann mit rechter Maustaste auf Eigenschaften klickt und im Feld &#8222;Ziel:&#8220; folgendes am ende von srcds.exe einfügt.</p>
+<p>-game csgo -console +game_type 0 +game_mode 0 +mapgroup mg_bomb +map de_dust</p>
+<p>Hier ein Screen welcher zeigt was genau gemeint ist:</p>
+<p><a href="/wp-content/uploads/sites/2/2013/04/csgo_windows_server.png"><img class="aligncenter size-medium wp-image-1430" title="csgo_windows_server" src="/wp-content/uploads/sites/2/2013/04/csgo_windows_server-212x300.png" alt="" width="212" height="300" srcset="/wp-content/uploads/sites/2/2013/04/csgo_windows_server-212x300.png 212w, /wp-content/uploads/sites/2/2013/04/csgo_windows_server.png 377w" sizes="(max-width: 212px) 100vw, 212px" /></a></p>
+<p>Jetzt nur noch die Verknüpfung speichern und AUSFÜHREN. Der Server sollte nun starten. Nach einigen Sekunden steht am Ende der Commandozeile dann &#8222;Valve Anti Cheat is on&#8230;&#8220;.</p>
+<h3><strong>Schritt 6 &#8211; Server im Internet sichtbar machen:</strong></h3>
+<p>Erstmal müsst ihr darauf achten dass in der Server.cfg der Befehle &#8222;sv_lan&#8220; auf &#8222;0&#8220; steht.</p>
+<p>Um den Server auch im Internet zu veröffentlichen müsst ihr eine Portweiterleitung innerhalb eures Routers aktivieren. Standardmäßig ist der Port 27015 innerhalb der Router nicht freigegeben.</p>
+<p>Freigeben bei der Fritzbox: Geht über die Netzwerkoptionen, klickt dafür in der Navigation auf:</p>
+<p><strong>Internet -&gt; Freigaben -&gt; Neue Portfreigabe und stellt folgendes ein:</strong></p>
+<p><a href="/wp-content/uploads/sites/2/2013/04/Fritzbox_csgo_server.jpg"><img class="aligncenter size-medium wp-image-1434" title="Fritzbox_csgo_server" src="/wp-content/uploads/sites/2/2013/04/Fritzbox_csgo_server-300x98.jpg" alt="" width="300" height="98" /></a></p>
+<p>Voila, speichern und Daddeln!</p>
+<p>&nbsp;</p>
+</div>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-server-auf-windows-installieren-server-guide/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bot Rcon Befehle</title>
+		<link>/rcon-befehle-auf-bots-bezogen/</link>
+		<comments>/rcon-befehle-auf-bots-bezogen/#respond</comments>
+		<pubDate>Sat, 13 Oct 2012 11:56:58 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Server Administration]]></category>
+		<category><![CDATA[administrieren]]></category>
+		<category><![CDATA[bannen]]></category>
+		<category><![CDATA[befehle]]></category>
+		<category><![CDATA[Bot in bestimmtes Team einfügen]]></category>
+		<category><![CDATA[Bots]]></category>
+		<category><![CDATA[deaktivieren]]></category>
+		<category><![CDATA[erstellen]]></category>
+		<category><![CDATA[festlegen]]></category>
+		<category><![CDATA[kicken]]></category>
+		<category><![CDATA[rcon]]></category>
+		<category><![CDATA[teamwechsel]]></category>
+		<category><![CDATA[waffen]]></category>
+
+		<guid isPermaLink="false">/?p=190</guid>
+		<description><![CDATA[Hier eine kleine Liste der Rcon-Befehle die verwendet werden können um die Bots auf dem Server zu &#8222;administrieren&#8220;. Befehl Beschreibung bot_add Fügt ein Bot hinzu. bot_add_ct Fügt ein Bot zu den Counterterroristen hinzu. bot_add_t&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Hier eine kleine Liste der Rcon-Befehle die verwendet werden können um die Bots auf dem Server zu &#8222;administrieren&#8220;.<span id="more-190"></span></p>
+<table border="1">
+<tbody>
+<tr>
+<th>Befehl</th>
+<th>Beschreibung</th>
+</tr>
+<tr>
+<td>bot_add</td>
+<td>Fügt ein Bot hinzu.</td>
+</tr>
+<tr>
+<td>bot_add_ct</td>
+<td>Fügt ein Bot zu den Counterterroristen hinzu.</td>
+</tr>
+<tr>
+<td>bot_add_t</td>
+<td>Fügt ein Bot zu den Terroristen hinzu.</td>
+</tr>
+<tr>
+<td>bot_all_weapons</td>
+<td>Erlaubt den Bots alle Waffen zu benutzen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_allow_grenades</td>
+<td>Erlaubt den Bots Granaten zu benutzen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_allow_machine_guns</td>
+<td>Erlaubt den Bots Maschinenpistolen zu benutzen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_allow_pistols</td>
+<td>Erlaubt den Bots Pistolen zu benutzen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_allow_rifles</td>
+<td>Erlaubt den Bots Gewehre zu nutzen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_allow_rogues</td>
+<td>Erlaubt den Bots MP´s zu nutzen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_allow_shotguns</td>
+<td>Erlaubt den Bots Schrotgewehre zu nutzen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_allow_snipers</td>
+<td>Erlaubt den Bots Scharfschützengewehre zu nutzen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_allow_sub_machine_guns</td>
+<td>Erlaubt den Bots SMG´s zu nutzen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_kick</td>
+<td>Kickt alle Bots.</td>
+</tr>
+<tr>
+<td>bot_kill</td>
+<td>Lässt alle Bots sterben.</td>
+</tr>
+<tr>
+<td>bot_snipers_only</td>
+<td>Bots benutzen nur noch Scharfschützengewehre. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_pistols_only</td>
+<td>Bots benutzen nur noch Pistolen. 0=nein; 1=ja</td>
+</tr>
+<tr>
+<td>bot_knives_only</td>
+<td>Bots benutzen nur noch Messer. 0=nein; 1=ja</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/rcon-befehle-auf-bots-bezogen/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

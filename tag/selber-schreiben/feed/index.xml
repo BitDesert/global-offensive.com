@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>selber schreiben &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/selber-schreiben/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>selber schreiben &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Buyscript [Tutorial]</title>
+		<link>/csgo-buyscript-tutorial/</link>
+		<comments>/csgo-buyscript-tutorial/#comments</comments>
+		<pubDate>Mon, 15 Oct 2012 19:55:14 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Configs]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Die Config]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Scripts]]></category>
+		<category><![CDATA[Buyscript]]></category>
+		<category><![CDATA[buyscript anleitung]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[exec]]></category>
+		<category><![CDATA[selber schreiben]]></category>
+		<category><![CDATA[so gehts]]></category>
+		<category><![CDATA[tasten belegen]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[Waffennamen]]></category>
+
+		<guid isPermaLink="false">/?p=496</guid>
+		<description><![CDATA[Über die Jahre ist das Buyscript schreiben sehr einfach und elegant geworden. Dadurch, dass die Waffen eindeutige Namen besitzen (siehe unter Waffennamen), kannst du mit folgenden Befehlen per Tastendruck in der Buyzone ein Objekt&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p style="text-align: center"><a href="/wp-content/uploads/sites/2/2012/10/cs_go_buyscript_png.png"><img class=" wp-image-505 aligncenter" title="cs_go_buyscript_png" alt="" src="/wp-content/uploads/sites/2/2012/10/cs_go_buyscript_png.png" width="360" height="180" srcset="/wp-content/uploads/sites/2/2012/10/cs_go_buyscript_png.png 600w, /wp-content/uploads/sites/2/2012/10/cs_go_buyscript_png-300x150.png 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></p>
+<p>Über die Jahre ist das Buyscript schreiben sehr einfach und elegant geworden. Dadurch, dass die Waffen eindeutige Namen besitzen (siehe unter <a title="CS:GO Waffennamen" href="/die-neuen-waffennamen/">Waffennamen</a>), kannst du mit folgenden Befehlen per Tastendruck in der Buyzone ein Objekt oder sogar mehrere Objekte kaufen. Die unten stehenden Kommandos müssen in die config.cfg geschrieben werden oder alternativ dazu in eine &#8222;buyscript.cfg&#8220;, diese bitte im Editor neu erstellen. Nachdem ihr alle Befehle hinein geschrieben habt, speichert diese ab und fügt in die config.cfg an letzer Stelle ein &#8222;exec buyscript.cfg&#8220;. So wird die Buyscript.cfg automatisch geladen, wenn ihr das Spiel startet.</p>
+<p>Hier nun die Befehle:</p>
+<p><strong>bind &#8222;f&#8220; &#8222;buy deagle&#8220; </strong></p>
+<p><em>Hiermit kauft ihr eine Flashbang:</em></p>
+<p><strong>bind &#8222;f&#8220; &#8222;buy flashbang&#8220;</strong></p>
+<p><em>Um mehrere Sachen gleichzeitig zu kaufen:</em></p>
+<p><strong>bind &#8222;f&#8220; &#8222;buy famas; buy flashbang&#8220;</strong></p>
+<p>ebenfalls erweiterbar um z.B. ein Kevlar mit Helm</p>
+<p><strong>bind &#8222;f&#8220; &#8222;buy famas; buy flashbang; buy vesthelm&#8220;.</strong></p>
+<p>&nbsp;</p>
+<p>So kannst du ganz einfach dein eigenes Buyscript erstellen.  Hier nochmal die <a title="CS:GO Waffennamen" href="/die-neuen-waffennamen/">Waffennamen</a> und die <a href="/tastaturbelegung-ubersicht-buyscript/">Tastaturübersicht</a>.</p>
+<p>Viel Spaß dabei <img src="https://s.w.org/images/core/emoji/11/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-buyscript-tutorial/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

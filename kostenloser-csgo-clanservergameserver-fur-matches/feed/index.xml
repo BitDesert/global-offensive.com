@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Kommentare zu: Kostenlos einen CS:GO Clanserver leihen! Mit voller Admin Kontrolle! 128 Tickrate</title>
+	<atom:link href="/kostenloser-csgo-clanservergameserver-fur-matches/feed/" rel="self" type="application/rss+xml" />
+	<link>/kostenloser-csgo-clanservergameserver-fur-matches/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 14 Nov 2017 21:13:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<item>
+		<title>Von: Joe</title>
+		<link>/kostenloser-csgo-clanservergameserver-fur-matches/#comment-288</link>
+		<dc:creator><![CDATA[Joe]]></dc:creator>
+		<pubDate>Fri, 18 Apr 2014 13:56:59 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1133#comment-288</guid>
+		<description><![CDATA[Hallo,
+
+derzeit ist es nicht möglich die Server zu leihen da der verantwortliche IT Admin aus krankheitsgründen nicht zur Verfügung steht. Nach der Genesung geht es hier weiter.]]></description>
+		<content:encoded><![CDATA[<p>Hallo,</p>
+<p>derzeit ist es nicht möglich die Server zu leihen da der verantwortliche IT Admin aus krankheitsgründen nicht zur Verfügung steht. Nach der Genesung geht es hier weiter.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: 3psilon</title>
+		<link>/kostenloser-csgo-clanservergameserver-fur-matches/#comment-287</link>
+		<dc:creator><![CDATA[3psilon]]></dc:creator>
+		<pubDate>Thu, 17 Apr 2014 20:21:25 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1133#comment-287</guid>
+		<description><![CDATA[Hi kann einer Helfen sobald ich cs server ausleihen drücke kommt not found help!!!!]]></description>
+		<content:encoded><![CDATA[<p>Hi kann einer Helfen sobald ich cs server ausleihen drücke kommt not found help!!!!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: Joe</title>
+		<link>/kostenloser-csgo-clanservergameserver-fur-matches/#comment-286</link>
+		<dc:creator><![CDATA[Joe]]></dc:creator>
+		<pubDate>Thu, 20 Mar 2014 21:14:02 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1133#comment-286</guid>
+		<description><![CDATA[Hallo Itaka, vielen Dank für deinen Hinweis. Wir haben es überprüft. Das anmelden als Admin ist kein Problem und funktioniert über HLSW problemlos. Auch Mapwechsel sind möglich allerdings ist uns aufgefallen dass die aktuellen Workshop Maps nicht auf dem Server vorhanden sind.
+
+Wir empfehlen solange die Maps über
+
+rcon map MAPNAME als Beispiel:
+
+rcon map de_dust2 
+
+zu verwenden. Das klappt. LG Joe]]></description>
+		<content:encoded><![CDATA[<p>Hallo Itaka, vielen Dank für deinen Hinweis. Wir haben es überprüft. Das anmelden als Admin ist kein Problem und funktioniert über HLSW problemlos. Auch Mapwechsel sind möglich allerdings ist uns aufgefallen dass die aktuellen Workshop Maps nicht auf dem Server vorhanden sind.</p>
+<p>Wir empfehlen solange die Maps über</p>
+<p>rcon map MAPNAME als Beispiel:</p>
+<p>rcon map de_dust2 </p>
+<p>zu verwenden. Das klappt. LG Joe</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: Rump3l</title>
+		<link>/kostenloser-csgo-clanservergameserver-fur-matches/#comment-285</link>
+		<dc:creator><![CDATA[Rump3l]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2014 16:51:33 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1133#comment-285</guid>
+		<description><![CDATA[Bitte mit Screenshoots belegen. Damit wir schnellstmöglich den Fehler beheben können.
+
+Gruß Rump3l]]></description>
+		<content:encoded><![CDATA[<p>Bitte mit Screenshoots belegen. Damit wir schnellstmöglich den Fehler beheben können.</p>
+<p>Gruß Rump3l</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: Itaka</title>
+		<link>/kostenloser-csgo-clanservergameserver-fur-matches/#comment-284</link>
+		<dc:creator><![CDATA[Itaka]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2014 14:38:02 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1133#comment-284</guid>
+		<description><![CDATA[iwie kann ich mich nicht als admin reinloggen. Also wenn ich versuche rcon_password &quot;passwort&quot; erscheint einfach nichts in der console und wenn ich die map wechseln will mit den im beitrag angegebenen befehlen sagt er mir map nicht bekannt]]></description>
+		<content:encoded><![CDATA[<p>iwie kann ich mich nicht als admin reinloggen. Also wenn ich versuche rcon_password &#8222;passwort&#8220; erscheint einfach nichts in der console und wenn ich die map wechseln will mit den im beitrag angegebenen befehlen sagt er mir map nicht bekannt</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

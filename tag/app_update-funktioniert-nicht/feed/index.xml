@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>app_update funktioniert nicht &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/app_update-funktioniert-nicht/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>app_update funktioniert nicht &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CSGO Server update funktioniert nicht. Fehler: app_update 740 Assertion Failed &#8230;</title>
+		<link>/cs-go-server-updaten-funktioniert-nicht-app_update-740-assertion-failed-to-write-app-state-file/</link>
+		<comments>/cs-go-server-updaten-funktioniert-nicht-app_update-740-assertion-failed-to-write-app-state-file/#respond</comments>
+		<pubDate>Mon, 18 Mar 2013 14:58:53 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Server Administration]]></category>
+		<category><![CDATA[Anleitung]]></category>
+		<category><![CDATA[antwort]]></category>
+		<category><![CDATA[app_update 740 validate funktioniert nicht]]></category>
+		<category><![CDATA[app_update funktioniert nicht]]></category>
+		<category><![CDATA[appmanifest_740.acf]]></category>
+		<category><![CDATA[Assertion Failed: Failed to write app state file]]></category>
+		<category><![CDATA[Error! App '740' state is 0x1 after update job.]]></category>
+		<category><![CDATA[fehlerbehebung]]></category>
+		<category><![CDATA[fehlermeldung]]></category>
+		<category><![CDATA[lösung]]></category>
+		<category><![CDATA[Server]]></category>
+		<category><![CDATA[serverupdate]]></category>
+		<category><![CDATA[updaten geht nicht]]></category>
+
+		<guid isPermaLink="false">/?p=1180</guid>
+		<description><![CDATA[Wir kennen es selber, mal wieder ein Update erschienen und man möchte gerade noch mal so spät am Abend den letzten &#8222;War&#8220; spielen. Doch dann verbindet man sich auf den Server und wird direkt&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p><img class="size-full wp-image-1191 aligncenter" title="csgo_server_fehlerbehebung" src="/wp-content/uploads/sites/2/2013/03/csgo_server_fehlerbehebung.jpg" alt="" width="280" height="120" /></p>
+<p>Wir kennen es selber, mal wieder ein Update erschienen und man möchte gerade noch mal so spät am Abend den letzten &#8222;War&#8220; spielen. Doch dann verbindet man sich auf den Server und wird direkt wieder in das Hauptmenü geschmissen. Spätestens dann weiß man, dass wieder ein Update erschienen ist und man natürlich jetzt noch &#8222;mal eben&#8220; den Server updaten muss. Wie das funktioniert haben wir hier schon beschrieben: <a href="/wie-update-ich-meinen-csgo-server-auf-linux/">Wie update ich meinen CSGO Server auf Linux </a></p>
+<p>Nur mit dem &#8222;mal eben&#8220; war es dann wohl doch nichts, denn Steam spuckt uns folgende Fehlermeldung nach dem eintippen von app_update 740 validate aus:</p>
+<p>Initial App state (0x2) update required<br /> <strong>applicationmanager.cpp (736) : Assertion Failed: Failed to write app state file /PFAD/appmanifest_740.acf</strong><br /> <strong>applicationmanager.cpp (736) : Assertion Failed: Failed to write app state file /PFAD/appmanifest_740.acf</strong><br /> App state (0x10102) reconfiguring, progress: nan (0 / 0)<br /> Error! App &#8218;740&#8216; state is 0x1 after update job.</p>
+<p><strong>Kurz und knapp: Dieser Fehler tritt auf wenn es Steam nicht möglich ist die entsprechenden Dateien zu schreiben. Wir persönlich haben uns auch schon die Zähne daran ausgebissen da die Fehlermeldung nichts weiteres ausgibt. Gerade für Linux Anfänger ist das natürlich zum Haare raufen!</strong></p>
+<p><strong></strong><strong> </strong>Wir haben hier mehrere Lösungsvorschläge:</p>
+<ul>
+<li>Seid ihr über den Linux User eingeloggt welche auch die Rechte besitzt Dateien in dem Steamordner auszuführen und zu erstellen? Wenn das nicht der Fall ist oder ihr es nicht wisst, vergebt über den &#8222;chown&#8220; Befehl die entsprechenden Rechte. (csgo ist in dem folgenden Beispiel der User welcher den Server startet)</li>
+</ul>
+<div>Chown -R csgo:csgo /pfad/zum/steam/verzeichnis/</div>
+<div> </div>
+<div>
+<ul>
+<li>Besitzt ihr genug Speicherplatz auf eurem Server (Vserver oder Root Server) um die Installationsdateien zu laden? Wir hatten schon das Problem dass die Dateien nicht heruntergeladen werden konnten weil unsere Festplatte durch ein falsch konfiguriertes automatisches Backup und den ganzen Space entzogen hat.</li>
+</ul>
+</div>
+<div> Einer der beiden Fehler (eher der erste Punkt) wird sehr wahrscheinlich für die Fehlermeldung verantwortlich sein.</div>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/cs-go-server-updaten-funktioniert-nicht-app_update-740-assertion-failed-to-write-app-state-file/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

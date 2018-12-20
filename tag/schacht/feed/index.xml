@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>schacht &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/schacht/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>schacht &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS: GO Update: Granaten fliegen wieder durch Scheiben und Schächte!</title>
+		<link>/cs-go-update-granaten-fliegen-wieder-durch-scheiben-und-schachte/</link>
+		<comments>/cs-go-update-granaten-fliegen-wieder-durch-scheiben-und-schachte/#respond</comments>
+		<pubDate>Fri, 10 May 2013 19:44:03 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[fenster]]></category>
+		<category><![CDATA[Granaten]]></category>
+		<category><![CDATA[hotfix]]></category>
+		<category><![CDATA[schacht]]></category>
+		<category><![CDATA[smoke]]></category>
+
+		<guid isPermaLink="false">/?p=1468</guid>
+		<description><![CDATA[Vor wenigen Minuten wurde ein kleines aber wichtiges Hotfix herausgebracht. Seit dem letzten Update war es nicht mehr möglich mit Granaten die zerstörbaren Scheiben und Schächte einzuwerfen stattdessen prallten diese am Fenster ab. Darüber&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Vor wenigen Minuten wurde ein kleines aber wichtiges Hotfix herausgebracht. Seit dem letzten Update war es nicht mehr möglich mit Granaten die zerstörbaren Scheiben und Schächte einzuwerfen stattdessen prallten diese am Fenster ab. Darüber hinaus wurde der Exploit behoben, dass die CTs nicht mehr die Möglichkeit haben die  Geiseln durch dünne Böden hindurch aufzunehmen.</p>
+<blockquote>
+<p>Release Notes for 5/10/2013</p>
+<p>[ MISC ]</p>
+<p>&#8211; Fixed an exploit of CTs boosting and picking up hostages through thin floors.<br />&#8211; Restored proper grenade interaction with breakable surfaces.</p>
+</blockquote>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/cs-go-update-granaten-fliegen-wieder-durch-scheiben-und-schachte/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

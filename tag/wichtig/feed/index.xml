@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>wichtig &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/wichtig/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>wichtig &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Sinnvolle Config Bindings für direktes Legen von C4, Inventar dauerhaft sichtbar etc.</title>
+		<link>/csgo-sinnvolle-config-bindings-fur-direktes-legen-von-c4-inventar-dauerhaft-sichtbar-etc/</link>
+		<comments>/csgo-sinnvolle-config-bindings-fur-direktes-legen-von-c4-inventar-dauerhaft-sichtbar-etc/#comments</comments>
+		<pubDate>Thu, 01 Aug 2013 17:21:49 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Die Config]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Anleitung]]></category>
+		<category><![CDATA[binding]]></category>
+		<category><![CDATA[blendgranate]]></category>
+		<category><![CDATA[bomb]]></category>
+		<category><![CDATA[c4]]></category>
+		<category><![CDATA[Config]]></category>
+		<category><![CDATA[config csgo]]></category>
+		<category><![CDATA[Config.cfg]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[radar]]></category>
+		<category><![CDATA[Rauchgranate]]></category>
+		<category><![CDATA[sprengstoff direkt legen]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[wichtig]]></category>
+
+		<guid isPermaLink="false">/?p=1760</guid>
+		<description><![CDATA[Hier mal einige wirklich nützliche &#8222;Bindings&#8220;, also Shortcuts, um in Counter-Strike: Global-Offensive effektiver spielen zu können. Die (Maus)-Tasten könnt ihr natürlich frei wählen. Dafür einfach die Tasten mit bind &#8222;TASTE&#8220; &#8230;. ändern. Die Befehle&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Hier mal einige wirklich nützliche &#8222;Bindings&#8220;, also Shortcuts, um in Counter-Strike: Global-Offensive effektiver spielen zu können. Die (Maus)-Tasten könnt ihr natürlich frei wählen. Dafür einfach die Tasten mit bind &#8222;TASTE&#8220; &#8230;. ändern.</p>
+<p>Die Befehle einfach am Ende eurer config.cfg (CS:GO Verzeichnis -&gt; CFG Ordner) einfügen bzw. reinkopieren.</p>
+<h3>Einfach und effizient einkaufen und spielen:</h3>
+<p><strong>Um C4 direkt auszuwählen und zulegen:</strong><br />
+bind &#8222;mouse5&#8220; &#8222;use weapon_c4;drop&#8220;</p>
+<p><strong>Um schnell noch Granaten nachzukaufen, beispielsweise wenn die Buytime noch läuft:</strong><br />
+bind &#8222;mouse4&#8220; &#8222;buy hegrenade;buy smokegrenade;buy flashbang&#8220;</p>
+<p><strong>Um schnell zu der Blendgranate bzw. Rauchgranate zu wechseln:</strong><br />
+bind &#8222;f&#8220; &#8222;use weapon_flashbang&#8220;<br />
+bind &#8222;c&#8220; &#8222;use weapon_smokegrenade&#8220;</p>
+<p><strong>Um das komplette Team-Ingame Voice zu deaktivieren, wenn ihr nur noch alleine seid :</strong><br />
+bind &#8222;F1&#8220; &#8222;voice_enable 0;echo VOICE_MUTED&#8220;<br />
+bind &#8222;F2&#8220; &#8222;voice_enable 1;echo VOICE_ENABLED&#8220;</p>
+<p><strong>Um schnell das Spiel zu muten:</strong><br />
+bind F10 &#8222;volume 0;echo volume_off&#8220;<br />
+bind F11 &#8222;volume 1;echo volume_on&#8220;</p>
+<p><strong>Mit diesem Befehl seht ihr für 4 Sekunden wohin der Gegner nach eurem Tod läuft:</strong><br />
+cl_disablefreezecam 1</p>
+<p><strong>First Person Tracer deaktivieren:</strong><br />
+r_drawtracers_firstperson &#8222;0&#8220;</p>
+<p><strong>Permanent euer Inventar anzeigen lassen:</strong><br />
+cl_showloadout 1</p>
+<p><strong>Wechselt nicht automatisch auf stärkere Waffen bzw. wählt diese beim drüber laufen aus:</strong><br />
+cl_autoswepwitch 0</p>
+<p><strong>Bewegt das Radar näher Richtung Mitte des Bildschirms:</strong><br />
+safezonex 0.85</p>
+<p><strong>Kaufen von Waffen per Binding siehe diese Liste</strong>:  http://pastebin.com/S7b9nDD5</p>
+<p><strong>Der wohl wichtigste Befehl <img src="https://s.w.org/images/core/emoji/11/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong><br />
+bind &#8222;end&#8220; &#8222;kill&#8220;</p>
+<p>Weil Überleben mit nur Pistole gibt dem gegnerischen Team 1500$ bei einem 1vs5 <img src="https://s.w.org/images/core/emoji/11/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>&nbsp;</p>
+<h3>Hier ein eingesendetes Buyscript:</h3>
+<p>BIND &#8222;MOUSE3&#8220; &#8222;use weapon_smokegrenade;&#8220;</p>
+<p>BIND &#8222;MOUSE4&#8220; &#8222;slot2;&#8220;<br />
+BIND &#8222;MOUSE5&#8220; &#8222;use weapon_flashbang;&#8220;<br />
+BIND &#8222;MWHEELUP&#8220; &#8222;use weapon_hegrenade;&#8220;<br />
+BIND &#8222;MWHEELDOWN&#8220; &#8222;+jump&#8220;</p>
+<p>BIND &#8222;SPACE&#8220; &#8222;+voicerecord;&#8220;<br />
+BIND &#8222;F10&#8220; &#8222;toggleconsole;&#8220;</p>
+<p><strong>Für Training</strong></p>
+<p>bind &#8222;KP_SLASH&#8220; &#8222;&#8220;<br />
+bind &#8222;KP_MULTIPLY&#8220; &#8222;toggle sv_cheats&#8220;<br />
+bind &#8222;KP_MINUS&#8220; &#8222;noclip;sv_infinite_ammo 1&#8220; (durch die Map fliegen, nur bei sv_cheats 1)</p>
+<p><strong>Kaufscript</strong></p>
+<p>bind &#8222;KP_HOME&#8220; &#8222;buy vest;buy vesthelm;&#8220; bind &#8222;KP_UPARROW&#8220; &#8222;buy p250;&#8220; bind &#8222;KP_PGUP&#8220; &#8222;buy m4a1;buy ak47;&#8220;</p>
+<p>bind &#8222;KP_LEFTARROW&#8220; &#8222;buy hegrenade;&#8220;<br />
+bind &#8222;KP_5&#8220; &#8222;buy flashbang;&#8220;<br />
+bind &#8222;KP_RIGHTARROW&#8220; &#8222;buy defuser&#8220;</p>
+<p>bind &#8222;KP_END&#8220; &#8222;buy p90&#8220;<br />
+bind &#8222;KP_DOWNARROW&#8220; &#8222;buy smokegrenade;&#8220;<br />
+bind &#8222;KP_PGDN&#8220; &#8222;buy galilar; buy famas&#8220;</p>
+<p>bind &#8222;KP_INS&#8220; &#8222;buy molotov; buy incgrenade;&#8220;<br />
+bind &#8222;KP_DEL&#8220; &#8222;buy decoy;&#8220;<br />
+bind &#8222;KP_ENTER&#8220; &#8222;buy awp;&#8220;</p>
+<p>&nbsp;</p>
+<p>[toggle title=&#8220;Großes Buyscript&#8220;]</p>
+<ol>
+<li>
+<div>//////Buyscript Binds</div>
+</li>
+<li>
+<div></div>
+</li>
+<li>
+<div>bind &#8222;kp_end&#8220;                   &#8222;rifle1&#8220;                //1     buys ak74 $2700/m4a1 $3100</div>
+</li>
+<li>
+<div>bind &#8222;kp_downarrow&#8220;     &#8222;defuser&#8220;               //2     buys defuse kit $400</div>
+</li>
+<li>
+<div>bind &#8222;kp_pgdn&#8220;                  &#8222;rifle2&#8220;                //3     buys galil $2000/famas $2250</div>
+</li>
+<li>
+<div>bind &#8222;kp_leftarrow&#8220;     &#8222;hegrenade&#8220;             //4     buys grenade $300</div>
+</li>
+<li>
+<div>bind &#8222;kp_5&#8220;                     &#8222;flashbang&#8220;             //5     buys flashbang $200</div>
+</li>
+<li>
+<div>bind &#8222;kp_rightarrow&#8220;    &#8222;smokegrenade&#8220;  //6     buys smoke grenade $300</div>
+</li>
+<li>
+<div>bind &#8222;kp_home&#8220;                  &#8222;awp&#8220;                   //7     buys Awp sniper $4750</div>
+</li>
+<li>
+<div>bind &#8222;kp_uparrow&#8220;               &#8222;vesthelm&#8220;              //8     buys vest and helmet $1000</div>
+</li>
+<li>
+<div>bind &#8222;kp_pgup&#8220;                  &#8222;kevlar&#8220;                //9     buys armor $650</div>
+</li>
+<li>
+<div>bind &#8222;kp_ins&#8220;                   &#8222;p250&#8220;                  //0     buys p250 $300</div>
+</li>
+<li>
+<div>bind &#8222;kp_enter&#8220;                 &#8222;fiveseven&#8220;             //Enter buys fiveseven $500</div>
+</li>
+<li>
+<div>bind &#8222;kp_plus&#8220;                  &#8222;decoy&#8220;                 //-     buys decoy grenade $50</div>
+</li>
+<li>
+<div>bind &#8222;kp_minus&#8220;                 &#8222;firebomb&#8220;              //+     buys molotov</div>
+</li>
+<li>
+<div>bind &#8222;kp_multiply&#8220;              &#8222;p90&#8220;                   //*     buys p90</div>
+</li>
+<li>
+<div>bind &#8222;kp_slash&#8220;                 &#8222;mp7&#8243;                   //&#8220;/&#8220;   buys mp7 $1900</div>
+</li>
+<li>
+<div>//bind &#8222;kp_del&#8220;                 &#8222;Mark2&#8220;                 //.//Weapon pack alias</div>
+</li>
+<li>
+<div></div>
+</li>
+<li>
+<div>//alias &#8222;Mark1&#8220; &#8222;rifle1; deagle; defuser; grenades; vesthelm; taser&#8220;</div>
+</li>
+<li>
+<div>//alias &#8222;Mark2&#8220; &#8222;rifle2; deagle; defuser; grenades; vesthelm; taser&#8220;</div>
+</li>
+<li>
+<div>//alias &#8222;Mark3&#8220; &#8222;p90; deagle; defuser; grenades; vesthelm; taser&#8220;</div>
+</li>
+<li>
+<div>//alias &#8222;Mark4&#8220; &#8222;scout; deagle; defuser; grenades; vesthelm; taser&#8220;</div>
+</li>
+<li>
+<div>//alias &#8222;grenades&#8220; &#8222;firebomb; flashbang; hegrenade&#8220;</div>
+</li>
+<li>
+<div></div>
+</li>
+<li>
+<div>////Gun Alias</div>
+</li>
+<li>
+<div></div>
+</li>
+<li>
+<div>//Pistols</div>
+</li>
+<li>
+<div>alias glock     &#8222;buy glock&#8220;</div>
+</li>
+<li>
+<div>alias elite     &#8222;buy elite&#8220;</div>
+</li>
+<li>
+<div>alias fiveseven &#8222;buy fiveseven&#8220;</div>
+</li>
+<li>
+<div>alias deagle    &#8222;buy deagle&#8220;</div>
+</li>
+<li>
+<div>alias pistol1   &#8222;buy hkp2000; buy tec9&#8220;</div>
+</li>
+<li>
+<div>alias p250      &#8222;buy p250&#8220;</div>
+</li>
+<li>
+<div></div>
+</li>
+<li>
+<div>//Rifles</div>
+</li>
+<li>
+<div>alias rifle1 &#8222;buy ak47; buy m4a1&#8220;</div>
+</li>
+<li>
+<div>alias rifle2 &#8222;buy galilar; buy famas&#8220;</div>
+</li>
+<li>
+<div></div>
+</li>
+<li>
+<div>//SMG</div>
+</li>
+<li>
+<div>alias p90   &#8222;buy p90&#8220;</div>
+</li>
+<li>
+<div>alias mp7   &#8222;buy mp7&#8220;</div>
+</li>
+<li>
+<div>alias smg1  &#8222;buy mp9; buy mac10&#8220;</div>
+</li>
+<li>
+<div>alias bizon &#8222;buy bizon&#8220;</div>
+</li>
+<li>
+<div>alias ump   &#8222;buy ump45&#8220;</div>
+</li>
+<li>
+<div></div>
+</li>
+<li>
+<div>//Snipers</div>
+</li>
+<li>
+<div>alias awp        &#8222;buy awp&#8220;</div>
+</li>
+<li>
+<div>alias autosniper &#8222;buy g3sg1; buy scar20&#8220;</div>
+</li>
+<li>
+<div>alias scout      &#8222;buy ssg08&#8220;</div>
+</li>
+<li>
+<div>alias rifle-zoom &#8222;buy sg556; buy aug&#8220;</div>
+</li>
+<li>
+<div></div>
+</li>
+<li>
+<div>//Shotguns</div>
+</li>
+<li>
+<div>alias autoshotty &#8222;buy xm1014&#8220;</div>
+</li>
+<li>
+<div>alias shotgun1 &#8222;buy sawedoff; buy mag7&#8220;</div>
+</li>
+<li>
+<div>alias nova &#8222;buy nova&#8220;</div>
+</li>
+<li>
+<div></div>
+</li>
+<li>
+<div>//Machine guns</div>
+</li>
+<li>
+<div>alias negev &#8222;buy negev&#8220;</div>
+</li>
+<li>
+<div>alias m249 &#8222;buy m249&#8220;</div>
+</li>
+<li>
+<div></div>
+</li>
+<li>
+<div>//Grenades</div>
+</li>
+<li>
+<div>alias flashbang    &#8222;buy flashbang&#8220;</div>
+</li>
+<li>
+<div>alias smokegrenade &#8222;buy smokegrenade&#8220;</div>
+</li>
+<li>
+<div>alias hegrenade    &#8222;buy hegrenade&#8220;</div>
+</li>
+<li>
+<div>alias firebomb     &#8222;buy molotov; buy incgrenade&#8220;</div>
+</li>
+<li>
+<div>alias decoy        &#8222;buy decoy&#8220;</div>
+</li>
+<li>
+<div></div>
+</li>
+<li>
+<div>//Gear</div>
+</li>
+<li>
+<div>alias vesthelm &#8222;buy vesthelm&#8220;</div>
+</li>
+<li>
+<div>alias kevlar   &#8222;buy kevlar&#8220;</div>
+</li>
+<li>
+<div>alias defuser  &#8222;buy defuser&#8220;</div>
+</li>
+<li>
+<div>alias taser    &#8222;buy taser&#8220;</div>
+</li>
+</ol>
+<p>[/toggle]</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-sinnvolle-config-bindings-fur-direktes-legen-von-c4-inventar-dauerhaft-sichtbar-etc/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		</item>
+	</channel>
+</rss>

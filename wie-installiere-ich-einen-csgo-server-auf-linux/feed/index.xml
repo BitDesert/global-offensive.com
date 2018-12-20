@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Kommentare zu: Wie installiere ich einen CS:GO Server auf Linux?</title>
+	<atom:link href="/wie-installiere-ich-einen-csgo-server-auf-linux/feed/" rel="self" type="application/rss+xml" />
+	<link>/wie-installiere-ich-einen-csgo-server-auf-linux/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 14 Nov 2017 21:13:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<item>
+		<title>Von: FaserF</title>
+		<link>/wie-installiere-ich-einen-csgo-server-auf-linux/#comment-408</link>
+		<dc:creator><![CDATA[FaserF]]></dc:creator>
+		<pubDate>Wed, 11 Nov 2015 14:22:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=823#comment-408</guid>
+		<description><![CDATA[Same Problem.... exactly the same :(]]></description>
+		<content:encoded><![CDATA[<p>Same Problem&#8230;. exactly the same 🙁</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: B0esesToast</title>
+		<link>/wie-installiere-ich-einen-csgo-server-auf-linux/#comment-407</link>
+		<dc:creator><![CDATA[B0esesToast]]></dc:creator>
+		<pubDate>Sat, 07 Nov 2015 11:34:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=823#comment-407</guid>
+		<description><![CDATA[Steam&#062;./srcds -game csgo -console -usercon +game_type 0 +game_mode 0 +mapgroup mg_allclassic +map de_dust2
+
+&#062;&#062;&#062; command not found: ./srcds
+
+:(
+pls help]]></description>
+		<content:encoded><![CDATA[<p>Steam&gt;./srcds -game csgo -console -usercon +game_type 0 +game_mode 0 +mapgroup mg_allclassic +map de_dust2</p>
+<p>&gt;&gt;&gt; command not found: ./srcds</p>
+<p>🙁<br />
+pls help</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: Wie update ich meinen CS:GO Server auf Linux? (Anleitung) &#124; GLOBAL-OFFENSIVE.COM</title>
+		<link>/wie-installiere-ich-einen-csgo-server-auf-linux/#comment-206</link>
+		<dc:creator><![CDATA[Wie update ich meinen CS:GO Server auf Linux? (Anleitung) &#124; GLOBAL-OFFENSIVE.COM]]></dc:creator>
+		<pubDate>Thu, 09 Oct 2014 09:28:44 +0000</pubDate>
+		<guid isPermaLink="false">/?p=823#comment-206</guid>
+		<description><![CDATA[[&#8230;] Nachdem 100% des Updates erfolgreich durchgeführt worden sind könnt ihr nun den Server wieder wie gewohnt starten. Wie man einen Server startet seht ihr sonst auch am Ende dieses Artikels: /wie-installiere-ich-einen-csgo-server-auf-linux/ [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Nachdem 100% des Updates erfolgreich durchgeführt worden sind könnt ihr nun den Server wieder wie gewohnt starten. Wie man einen Server startet seht ihr sonst auch am Ende dieses Artikels: /wie-installiere-ich-einen-csgo-server-auf-linux/ [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: Joe</title>
+		<link>/wie-installiere-ich-einen-csgo-server-auf-linux/#comment-205</link>
+		<dc:creator><![CDATA[Joe]]></dc:creator>
+		<pubDate>Thu, 11 Jul 2013 17:17:16 +0000</pubDate>
+		<guid isPermaLink="false">/?p=823#comment-205</guid>
+		<description><![CDATA[Hallo,
+
+vielen Dank für deinen Tipp! Wie du dem Startbefehl STEAMEXE=steamcmd ./steam.sh entnehmen kannst, erwartet STEAMEEXE den ordner &quot;steamcmd&quot; in dem die Datei ./steam.sh liegt.]]></description>
+		<content:encoded><![CDATA[<p>Hallo,</p>
+<p>vielen Dank für deinen Tipp! Wie du dem Startbefehl STEAMEXE=steamcmd ./steam.sh entnehmen kannst, erwartet STEAMEEXE den ordner &#8222;steamcmd&#8220; in dem die Datei ./steam.sh liegt.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: Tipp</title>
+		<link>/wie-installiere-ich-einen-csgo-server-auf-linux/#comment-204</link>
+		<dc:creator><![CDATA[Tipp]]></dc:creator>
+		<pubDate>Thu, 11 Jul 2013 12:56:45 +0000</pubDate>
+		<guid isPermaLink="false">/?p=823#comment-204</guid>
+		<description><![CDATA[Bei mir hat das installieren von Steam mit STEAMEXE=steamcmd ./steam.sh zuerst nicht funktioniert. (libsteam.so konnte nicht gefunden werden) Hab dann herausgefunden, dass man einen neuen ordner dafür erstellen muss. Also zb: home/csgo/steamcmd/steam.sh
+statt home/csgo/steam.sh!]]></description>
+		<content:encoded><![CDATA[<p>Bei mir hat das installieren von Steam mit STEAMEXE=steamcmd ./steam.sh zuerst nicht funktioniert. (libsteam.so konnte nicht gefunden werden) Hab dann herausgefunden, dass man einen neuen ordner dafür erstellen muss. Also zb: home/csgo/steamcmd/steam.sh<br />
+statt home/csgo/steam.sh!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: Chris</title>
+		<link>/wie-installiere-ich-einen-csgo-server-auf-linux/#comment-203</link>
+		<dc:creator><![CDATA[Chris]]></dc:creator>
+		<pubDate>Wed, 26 Jun 2013 16:24:29 +0000</pubDate>
+		<guid isPermaLink="false">/?p=823#comment-203</guid>
+		<description><![CDATA[Vielen Dank, klingt gut! Viel mehr Probleme habe ich allerdings mit den Einstellen des Servers und die Maps. Ich würde gerne einen Gungame Pooparty Server erstellen. Und einen normalen Poolparty. ICh bekomme die Maps aber nie geladen, weil ich die ja in einer Art Gruppe in die Configs schreiben muss?]]></description>
+		<content:encoded><![CDATA[<p>Vielen Dank, klingt gut! Viel mehr Probleme habe ich allerdings mit den Einstellen des Servers und die Maps. Ich würde gerne einen Gungame Pooparty Server erstellen. Und einen normalen Poolparty. ICh bekomme die Maps aber nie geladen, weil ich die ja in einer Art Gruppe in die Configs schreiben muss?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: Joe</title>
+		<link>/wie-installiere-ich-einen-csgo-server-auf-linux/#comment-202</link>
+		<dc:creator><![CDATA[Joe]]></dc:creator>
+		<pubDate>Sun, 16 Jun 2013 19:26:41 +0000</pubDate>
+		<guid isPermaLink="false">/?p=823#comment-202</guid>
+		<description><![CDATA[Hallo Berserker,
+
+vielen Dank für das positive Feedback!]]></description>
+		<content:encoded><![CDATA[<p>Hallo Berserker,</p>
+<p>vielen Dank für das positive Feedback!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: Joe</title>
+		<link>/wie-installiere-ich-einen-csgo-server-auf-linux/#comment-201</link>
+		<dc:creator><![CDATA[Joe]]></dc:creator>
+		<pubDate>Sun, 16 Jun 2013 19:25:32 +0000</pubDate>
+		<guid isPermaLink="false">/?p=823#comment-201</guid>
+		<description><![CDATA[Hi DrKratzig,
+machen wir ja auch mit dem Befehl: &quot;screen -A -m -d -S csgo ./srcds -game csgo -console -usercon +game_type 0 +game_mode 1 +mapgroup mg_allclassic +map de_dust2&quot;]]></description>
+		<content:encoded><![CDATA[<p>Hi DrKratzig,<br />
+machen wir ja auch mit dem Befehl: &#8222;screen -A -m -d -S csgo ./srcds -game csgo -console -usercon +game_type 0 +game_mode 1 +mapgroup mg_allclassic +map de_dust2&#8220;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: DrKratzig</title>
+		<link>/wie-installiere-ich-einen-csgo-server-auf-linux/#comment-200</link>
+		<dc:creator><![CDATA[DrKratzig]]></dc:creator>
+		<pubDate>Sun, 16 Jun 2013 16:17:26 +0000</pubDate>
+		<guid isPermaLink="false">/?p=823#comment-200</guid>
+		<description><![CDATA[Habe gerade auch ein Server aufgesetzt mit einem anderen Tutorial. Ich habe um den Server dauerhaft in einer Session zu halten einfach screen benutzt.]]></description>
+		<content:encoded><![CDATA[<p>Habe gerade auch ein Server aufgesetzt mit einem anderen Tutorial. Ich habe um den Server dauerhaft in einer Session zu halten einfach screen benutzt.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: Berserker</title>
+		<link>/wie-installiere-ich-einen-csgo-server-auf-linux/#comment-199</link>
+		<dc:creator><![CDATA[Berserker]]></dc:creator>
+		<pubDate>Thu, 14 Mar 2013 12:12:17 +0000</pubDate>
+		<guid isPermaLink="false">/?p=823#comment-199</guid>
+		<description><![CDATA[Tolle Anleitung. Endlich mal vernünftig und auf Deutsch geschrieben. Bin komplett neu in der Server Linux Szene und habe mit dieser Anleitung ohne Probleme einen CS:GO Server mit Linux (Debian) aufgesetzt.]]></description>
+		<content:encoded><![CDATA[<p>Tolle Anleitung. Endlich mal vernünftig und auf Deutsch geschrieben. Bin komplett neu in der Server Linux Szene und habe mit dieser Anleitung ohne Probleme einen CS:GO Server mit Linux (Debian) aufgesetzt.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

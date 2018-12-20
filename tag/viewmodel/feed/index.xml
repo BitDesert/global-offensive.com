@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>viewmodel &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/viewmodel/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>viewmodel &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Was ist die richtige Viewmodel Position in CS:GO?</title>
+		<link>/was-ist-die-richtige-viewmodel-position-in-csgo/</link>
+		<comments>/was-ist-die-richtige-viewmodel-position-in-csgo/#respond</comments>
+		<pubDate>Tue, 05 Mar 2013 09:06:21 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Die Config]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[mit welcher viewmodel position spielt ihr]]></category>
+		<category><![CDATA[position]]></category>
+		<category><![CDATA[viewmodel]]></category>
+
+		<guid isPermaLink="false">/?p=1392</guid>
+		<description><![CDATA[Mit welcher Viewmodel Position spielt ihr in CS:GO? Diese Frage kann man nicht beantworten, da jeder so seine eigenen Settings und Vorlieben hat. Wir von der Redaktion sind uns jedoch einig, dass wir mit&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Mit welcher Viewmodel Position spielt ihr in CS:GO?</h3>
+<p>Diese Frage kann man nicht beantworten, da jeder so seine eigenen Settings und Vorlieben hat. Wir von der Redaktion sind uns jedoch einig, dass wir mit den CS 1.6 und CS:S Modelpositionen am liebsten spielen.</p>
+<p>&nbsp;</p>
+<p>Hier die Befehle für die config.cfg , um die Modelposition von CS1.6 bzw. CS:S zu erhalten:</p>
+<p>viewmodel_fov &#8222;62.5&#8220;<br />
+viewmodel_offset_x &#8222;2&#8220;<br />
+viewmodel_offset_y &#8222;2&#8220;<br />
+viewmodel_offset_z &#8222;-2&#8220;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/was-ist-die-richtige-viewmodel-position-in-csgo/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

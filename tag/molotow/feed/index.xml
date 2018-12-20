@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Molotow &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/molotow/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>Molotow &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Brandgranaten und Molotows</title>
+		<link>/brandgranaten-und-mollotows/</link>
+		<comments>/brandgranaten-und-mollotows/#respond</comments>
+		<pubDate>Fri, 12 Oct 2012 21:30:57 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Brandgranaten]]></category>
+		<category><![CDATA[Counter Terroristen]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[Geschwindigkeit]]></category>
+		<category><![CDATA[Molotow]]></category>
+		<category><![CDATA[Taktik]]></category>
+		<category><![CDATA[Terroristen]]></category>
+		<category><![CDATA[Was ist neu?]]></category>
+
+		<guid isPermaLink="false">/?p=96</guid>
+		<description><![CDATA[Die neuen Brandgranaten oder auch bei den Terrors die Molotow-Coktailes sind bei CS:GO neu! Sie sind aber in vielen Taktiken einfach unabdingbar. Der große Vorteil der Brandgranten/Molotows ist natürlich zum einen dass Sie durch&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Die neuen Brandgranaten oder auch bei den Terrors die Molotow-Coktailes sind bei CS:GO neu! Sie sind aber in vielen Taktiken einfach unabdingbar. Der große Vorteil der Brandgranten/Molotows ist natürlich zum einen dass Sie durch das Flammenfeuer den Gegner sofort den Wind aus den Segeln nehmen und sollte sich ein Gegner bereits im Feuer befinden wir ihm jede halbe Sekunde 5 HP abgezogen und hinzu kommt der enorme Geschwindigkeitsverlust. Schon oft wurden ganze Team mit einer Brandgranate ausgelöscht.</p>
+<p style="text-align: left">ALSO: Platziert ihr rechtzeitig eine Flammenwand an einer Passstelle, muss das feindliche Team zwangsläufig einige Zeit abwarten, bis sie weiter vordringen können &#8211; Zeit, die über Sieg oder Niederlage entscheiden kann!</p>
+<p style="text-align: center"><img class="aligncenter size-full wp-image-186" title="molligranate" src="/wp-content/uploads/sites/2/2012/10/molligranate.jpg" alt="" width="465" height="257" srcset="/wp-content/uploads/sites/2/2012/10/molligranate.jpg 465w, /wp-content/uploads/sites/2/2012/10/molligranate-300x166.jpg 300w" sizes="(max-width: 465px) 100vw, 465px" /></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/brandgranaten-und-mollotows/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

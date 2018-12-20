@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>treiber &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/treiber/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>treiber &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Mehr FPS in CS:GO für NVidia Geforce Grafikkarten Nutzer &#8211; Treiber *HOT*</title>
+		<link>/csgo-mehr-fps-in-csgo-fuer-nvidia-geforce-grafikkarten-nutzer-hot/</link>
+		<comments>/csgo-mehr-fps-in-csgo-fuer-nvidia-geforce-grafikkarten-nutzer-hot/#respond</comments>
+		<pubDate>Tue, 08 Apr 2014 19:40:44 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[mehr fps]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<category><![CDATA[treiber]]></category>
+		<category><![CDATA[update]]></category>
+
+		<guid isPermaLink="false">/?p=2451</guid>
+		<description><![CDATA[Mehr FPS in CS:GO Counter-Strike Global-Offensive mit Nvidia Grafikkarten So eben haben wir im Reddit.com Forum erfahren dass Nvidia für Ihre Grafikkarten der GeForce Reihe einen neuen Treiber entwickelt hat welcher bereits in der&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Mehr FPS in CS:GO Counter-Strike Global-Offensive mit Nvidia Grafikkarten</h3>
+<p>So eben haben wir im Reddit.com Forum erfahren dass Nvidia für Ihre Grafikkarten der GeForce Reihe einen neuen Treiber entwickelt hat welcher bereits in der Beta Version erhältlich und zur Installation vorhanden ist. Die bereits über 300 Antworten im Reddit.com Forum (<a href="http://www.reddit.com/r/GlobalOffensive/comments/22i0ra/nvidia_owners_update_to_33750_greatly_increases/">siehe hier</a>), schreiben über erhebliche FPS zuwachse von bis zu 71%.</p>
+<p>Der eine User schreibt zum Beispiel:</p>
+<ul>
+<li>&#8222;Thank you so much! It increased amazingly&#8220;</li>
+<li>&#8222;Omg, its a difference of Day and Night, thank you so much&#8220;</li>
+<li>&#8222;I was at 60 FPS and now I went back to 144 FPS! I won&#8217;t ever go back.&#8220;</li>
+<li>&#8222;gave me extra 20-40 fps (gtx 650 ti)&#8220;</li>
+<li>&#8222;Holy shit I just went from 50fps to 150fps. i350 and gtx 560. Thanks!&#8220;</li>
+<li>&#8222;I had between 350-400 before. Now i have 550-700fps.&#8220;</li>
+</ul>
+<p><span style="line-height: 1.5em">&#8230;und so weiter, es hilft also in jedem Fall den Treiber zu aktualisieren.</span></p>
+<h3>Informiert uns bitte über eure Ergebnisse, hat es geholfen?</h3>
+<p>[button color=&#8220;light&#8220; link=&#8220;http://www.geforce.com/whats-new/articles/nvidia-geforce-337-50-beta-performance-driver&#8220; target=&#8220;_blank&#8220;] Hier geht es  zur Treiber Homepage von NVidia [/button]</p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-mehr-fps-in-csgo-fuer-nvidia-geforce-grafikkarten-nutzer-hot/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

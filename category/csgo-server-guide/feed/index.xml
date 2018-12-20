@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>CS:GO Server Guide &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/category/csgo-server-guide/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>CS:GO Server Guide &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Kostenlos Clanwar Server ausleihen &#8211; Mit Rcon Passwort &#8211; Gratis</title>
+		<link>/csgo-kostenlos-csgo-server-ausleihen-mit-rcon-passwort-gratis/</link>
+		<pubDate>Fri, 14 Feb 2014 16:53:29 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[Gamerserver]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Slider]]></category>
+		<category><![CDATA[ausleihen]]></category>
+		<category><![CDATA[gratis]]></category>
+		<category><![CDATA[kostenlos]]></category>
+		<category><![CDATA[server leihen]]></category>
+
+		<guid isPermaLink="false">/?p=1964</guid>
+		<description><![CDATA[Absolut KOSTENLOS unsere CS:GO &#8211; Counter-Strike Global Offensive Server leihen Ab sofort bieten wir euch die Möglichkeit unsere CS:GO Server zu leihen. Derzeit ist die Serveranzahl begrenzt. Sehen wir, dass mehr Bedarf vorhanden ist,&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Absolut KOSTENLOS unsere CS:GO &#8211; Counter-Strike Global Offensive Server leihen</h3>
+<p>Ab sofort bieten wir euch die Möglichkeit unsere CS:GO Server zu leihen. Derzeit ist die Serveranzahl begrenzt. Sehen wir, dass mehr Bedarf vorhanden ist, werden wir die Ressourcen ausweiten. Ihr habt volle RCON und Passwort Kontrolle, ihr könnt also User kicken, Settings laden.</p>
+<p style="text-align: center"><strong>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; <a href="/rent-a-server/">Hier geht&#8217;s zum Server Verleih</a> &lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			</item>
+		<item>
+		<title>Error / Fehlerbehebung SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed. (Linux)</title>
+		<link>/error-fehlerbehebung-steamapi_init-failed-steamapi_issteamrunning-failed-linux/</link>
+		<comments>/error-fehlerbehebung-steamapi_init-failed-steamapi_issteamrunning-failed-linux/#respond</comments>
+		<pubDate>Wed, 05 Feb 2014 13:26:30 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[Fehlermeldungen]]></category>
+		<category><![CDATA[Gamerserver]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Server Administration]]></category>
+		<category><![CDATA[home/myuser/steamcmd/steam.sh]]></category>
+		<category><![CDATA[SteamAPI_Init()]]></category>
+		<category><![CDATA[SteamAPI_IsSteamRunning]]></category>
+
+		<guid isPermaLink="false">/?p=2101</guid>
+		<description><![CDATA[Der Fehler beim Starten eines CS:GO Counter-Strike: Global-Offensive Servers auf Linux [S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed. [S_API FAIL] SteamAPI_Init() failed; unable to locate a running instance of Steam, or a local steamclient.dll. szCmd:&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Der Fehler beim Starten eines CS:GO Counter-Strike: Global-Offensive Servers auf Linux</p>
+<blockquote>
+<pre>[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+[S_API FAIL] SteamAPI_Init() failed; unable to locate a running instance of Steam, or a local steamclient.dll.
+szCmd: /bin/sh -c '"/home/myuser/steamcmd/steam.sh" steam://run/215 -console -game csgo - +map de_dust' &amp;
+serverGameDLL-&gt;DLLInit() failed.</pre>
+</blockquote>
+<p>&nbsp;</p>
+<ol>
+<li>Nach langen hin und her möchte ich euch meinen kleinen Fix nicht vorenthalten.</li>
+<li>Ihr erstellt eine steam_appid.txt mit folgendem Inhalt: <span style="font-family: Consolas, Monaco, monospace;font-size: 12px;line-height: 18px">730</span></li>
+<li><span style="line-height: 1.5em">Anschließend ladet ihr die Datei in das Verzeichnis wo eure ./srcds_run liegt. Wenn ./srcds_run einem user gehört z.B. csgo, ändert den Besitzer von steam_appid.txt in den selbigen Benutzer.</span></li>
+<li><span style="line-height: 1.5em">Habt ihr dies getan könnt ihr euren frisch aufgesetzten Server starten.</span></li>
+</ol>
+<p>&nbsp;</p>
+<p>Viel Spaß mit eurem neuen Server. Bei Fragen oder Problemen stehe ich (Rump3l) gerne zu Verfügung.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/error-fehlerbehebung-steamapi_init-failed-steamapi_issteamrunning-failed-linux/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Mapwechsel von Workshop Maps &#8211; Neuer Befehl: changelevel2 [Server]</title>
+		<link>/csgo-mapwechsel-von-workshop-maps-neuer-befehl-changelevel2-server/</link>
+		<comments>/csgo-mapwechsel-von-workshop-maps-neuer-befehl-changelevel2-server/#comments</comments>
+		<pubDate>Mon, 02 Sep 2013 10:51:34 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Plugins]]></category>
+		<category><![CDATA[Server Administration]]></category>
+		<category><![CDATA[_se maps]]></category>
+		<category><![CDATA[administration]]></category>
+		<category><![CDATA[changelevel2]]></category>
+		<category><![CDATA[Map]]></category>
+		<category><![CDATA[map wechseln]]></category>
+		<category><![CDATA[rcon]]></category>
+		<category><![CDATA[Workshop]]></category>
+
+		<guid isPermaLink="false">/?p=1802</guid>
+		<description><![CDATA[Workshop maps auf dem CS:GO Server laden Seit dem letzten Update verzeichnen wir hohen Traffic auf die Suchbegriffe &#8222;Workshop Maps wechseln&#8220;. In der Tat wurde in dem Arms Update von Counter-Strike: Global-Offensive etwas geändert&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Workshop maps auf dem CS:GO Server laden</h3>
+<p>Seit dem letzten Update verzeichnen wir hohen Traffic auf die Suchbegriffe &#8222;Workshop Maps wechseln&#8220;. In der Tat wurde in dem Arms Update von Counter-Strike: Global-Offensive etwas geändert was nun das wechseln der _se maps über den alten Befehl &#8222;host_workshop_map ID&#8220; nicht mehr möglich macht. Der Befehl dient lediglich dazu die _se maps auf den Server zu laden, sprich der CS:GO Server läd sich die Datei aus dem Workshop. Man kann jetzt jedoch vergeblich darauf warten dass diese Map auch geladen wird.</p>
+<p>Absofort müsst ihr den etwas komplizierteren Weg mit changelevel2 gehen.</p>
+<h3>Wir haben euch die Befehle für die aktuellen Workshop-Maps mal als Alias hinterlegt, diese einfach in eure Config.cfg im CS:GO cfg Verzeichnis am Ende einfügen:</h3>
+<p>alias &#8222;dust&#8220; &#8222;rcon changelevel2 workshop125498851de_dust_se&#8220;</p>
+<p>alias &#8222;dust2&#8220; &#8222;rcon changelevel2 workshop125488374de_dust2_se&#8220;<br />
+alias &#8222;inferno&#8220; &#8222;rcon changelevel2 workshop125499116de_inferno_se&#8220;<br />
+alias &#8222;nuke&#8220; &#8222;rcon changelevel2 workshop125498553de_nuke_se&#8220;<br />
+alias &#8222;train&#8220; &#8222;rcon changelevel2 workshop125498231de_train_se&#8220;<br />
+alias &#8222;mirage&#8220; &#8222;rcon changelevel2 workshop123769103de_mirage_ce&#8220;<br />
+alias &#8222;mill&#8220; &#8222;rcon changelevel2 workshop125620805de_mill_&#8220;<br />
+alias &#8222;cache&#8220; &#8222;rcon changelevel2 workshop125670041de_cache&#8220;</p>
+<p>Nun müsst ihr euch nur noch am server mit rcon_password DEM_RCON_PASSWORT anmelden und anschließend für die map de_dust2_se, &#8222;dust2&#8220; in die console eingeben. Die Map wird nun gewechselt.</p>
+<p>Sollte der Server melden dass die Map nicht auf dem Server vorhanden ist, müsst ihr vorher diese mit dem Befehle (hier als Beispiel für de_dust2_se) &#8222;host_workshop_map 1254988651&#8220; eingeben. Der Server gibt dann eine Nachricht aus dass die Map von Steam heruntergeladen wird.</p>
+<p><strong>Oder alternativ direkt über die Console mit: </strong></p>
+<p>rcon changelevel2 workshop125488374de_dust2_se</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-mapwechsel-von-workshop-maps-neuer-befehl-changelevel2-server/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Metamod und Sourcemod auf CS:GO Server installieren [Video Anleitung]</title>
+		<link>/metamod-und-sourcemod-auf-csgo-server-installieren-video-anleitung/</link>
+		<comments>/metamod-und-sourcemod-auf-csgo-server-installieren-video-anleitung/#respond</comments>
+		<pubDate>Thu, 06 Jun 2013 15:46:28 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Plugins]]></category>
+		<category><![CDATA[Anleitung]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[hlstatsx]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[metamod]]></category>
+		<category><![CDATA[sourcemod]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[video]]></category>
+		<category><![CDATA[video guide]]></category>
+		<category><![CDATA[windows]]></category>
+		<category><![CDATA[zombie mod]]></category>
+
+		<guid isPermaLink="false">/?p=1670</guid>
+		<description><![CDATA[Wie installiere Sourcemod und Metamod auf dem CS:GO Server? Metamod und Sourcemod sind wohl die wichtigsten bzw. sinnvollsten Plugins für einen Counter-Strike: Global-Offensive (CS:GO) Server. Sowohl auf Linux als auch auf Windows XP, Windows&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Wie installiere Sourcemod und Metamod auf dem CS:GO Server?</h3>
+<p>Metamod und Sourcemod sind wohl die wichtigsten bzw. sinnvollsten Plugins für einen Counter-Strike: Global-Offensive (CS:GO) <strong>Server.</strong> Sowohl auf <strong>Linux</strong> als auch auf <strong>Windows XP</strong>, <strong>Windows 7</strong> und<strong> 8</strong> laufen die Plugins.</p>
+<p>Jeder der einen CS:GO Gameserver betreibt oder einen betreiben möchte, sollte sich diese 2 Plugins auf seinem Server installieren. Nicht nur eine einfache Menüführung sondern auch eine damit verbundene Möglichkeit viele weitere Plugins wie HLstatsX, Zombie Mod etc. können dann einfach installiert werden.</p>
+<p>Hier die Video Anleitung.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/metamod-und-sourcemod-auf-csgo-server-installieren-video-anleitung/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Server auf Windows installieren und im Internet erreichbar machen [Server Guide]</title>
+		<link>/csgo-server-auf-windows-installieren-server-guide/</link>
+		<comments>/csgo-server-auf-windows-installieren-server-guide/#respond</comments>
+		<pubDate>Thu, 25 Apr 2013 13:39:45 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Server Administration]]></category>
+		<category><![CDATA[counter strike]]></category>
+		<category><![CDATA[erstellen]]></category>
+		<category><![CDATA[Global Offensive]]></category>
+		<category><![CDATA[Installieren]]></category>
+		<category><![CDATA[windows]]></category>
+
+		<guid isPermaLink="false">/?p=1428</guid>
+		<description><![CDATA[Wie erstelle ich einen CS:GO Gameserver auf Windows? Die vergangen Versionen von Counter-Strike machten es immer zu einem kleinen Abenteuer einen Counter-Strike Server auf einem Windowsrechner zu erstellen. Ganz anders ist es bei Counter-Strike&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h1>Wie erstelle ich einen CS:GO Gameserver auf Windows?</h1>
+<div>
+<p><a href="/wp-content/uploads/sites/2/2013/04/cs_go_windows_server.jpg"><img class="aligncenter size-full wp-image-1431" title="cs_go_windows_server" src="/wp-content/uploads/sites/2/2013/04/cs_go_windows_server.jpg" alt="" width="280" height="120" /></a></p>
+<p>Die vergangen Versionen von Counter-Strike machten es immer zu einem kleinen Abenteuer einen Counter-Strike Server auf einem Windowsrechner zu erstellen. Ganz anders ist es bei Counter-Strike Global &#8211; Offensive. Durch das SteamCMD (Updatetool) ist es möglich binnen weniger Minuten einen eigenen Server aufzusetzen.</p>
+<h3><strong>Schritt 1:</strong></h3>
+<p>Downloadet und Entpacken euch das SteamCMD-Tool zum Beispiel von der aktuellen offiziellen Counter-Strike Seite:</p>
+<table border="0">
+<tbody>
+<tr>
+<td><a title="http://blog.counter-strike.net/wp-content/uploads//2012/04/steamcmd.zip" href="http://blog.counter-strike.net/wp-content/uploads//2012/04/steamcmd.zip" target="_blank">http://blog.counter-strike.net/wp-content/uploads//2012/04/steamcmd.zip</a></td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Schritt 2:</strong></h3>
+<p>Startet nun SteamCMD mit einem Doppelklick.<br />
+Alternativ könnt ihr auch mit der Windows Kommando Zeile (Start -&gt; Ausführen -&gt; &#8222;cmd&#8220; eintippen) mit cd /das/verzeichnis/wo/euer/SteamCMD/liegt/ navigieren und dann nur noch &#8222;steamcmd&#8220; eintippen.</p>
+<p>Solltet ihr mit &#8222;cmd&#8220; im richtigen Ordner gelandet sein, erscheint in der Eingabeaufforderung nun &#8222;Steam&gt;&#8220;. Ihr seid nun also in der direkten Server Commandozeile.</p>
+<h3><strong>Schritt 3 &#8211; das Einloggen in Steam:</strong></h3>
+<p>Tippt nun das folgende ein. Username und Password stehen hier natürlich für eure Steam Zugangsdaten.</p>
+<table border="0">
+<tbody>
+<tr>
+<td>login username password</td>
+</tr>
+</tbody>
+</table>
+<p>Solltet ihr den SteamGuard aktiv haben, bekommt ihr beim ersten Login eine Fehlermeldung in der Console sowie eine Mail von Valve die an die in Steam hinterlegte Emailadresse geht. In dieser Mail findet ihr den Guard-Auth-Code.</p>
+<p>Diesen gebt ihr bitte wie folgt an:</p>
+<table border="0">
+<tbody>
+<tr>
+<td>set_steam_guard_code CODE-AUS-DER-MAIL</td>
+</tr>
+</tbody>
+</table>
+<p>Es erscheint keine Bestätigung, ihr müsst nun erneut Schritt 3 erledigen.</p>
+<h3><strong><br />
+Schritt 4 &#8211; Gameserver Dateien laden:</strong></h3>
+<p><strong></strong>Nachdem ihr euch nun erfolgreich eingeloggt habt, könnt ihr den Gameserver runterladen.</p>
+<p>Dazu legen wir erst das Verzeichnis fest, in dem der Gameserver geladen werden soll.<br />
+Das geht mit folgenden Command:</p>
+<table border="0">
+<tbody>
+<tr>
+<td>force_install_dir c:csgo-server</td>
+</tr>
+</tbody>
+</table>
+<p>Hier wird der Server als Beispiel im Ordner csgo-server auf der Festplatte C: installiert. Wichtig ist dass der Ordner bereits von euch erstellt wurde.</p>
+<p>Nun startet ihr den Downloadprozess mit folgendem Befehl:</p>
+<table border="0">
+<tbody>
+<tr>
+<td>app_update 740 validate</td>
+</tr>
+</tbody>
+</table>
+<p>Wenn der Download bei 100% ist, ist der Server fertig runtergeladen und man kann diesen nun starten.</p>
+<h3><strong>Schritt 5 &#8211; Starten des Gameservers:</strong></h3>
+<p>Den Gameserver starten (Nicht aus dem SteamCMD raus. Per normaler Console oder Verknüpfung!). Dies bedeutet dass ihr vorher eine Verknüpfung der srcds.exe erstellt. Dann mit rechter Maustaste auf Eigenschaften klickt und im Feld &#8222;Ziel:&#8220; folgendes am ende von srcds.exe einfügt.</p>
+<p>-game csgo -console +game_type 0 +game_mode 0 +mapgroup mg_bomb +map de_dust</p>
+<p>Hier ein Screen welcher zeigt was genau gemeint ist:</p>
+<p><a href="/wp-content/uploads/sites/2/2013/04/csgo_windows_server.png"><img class="aligncenter size-medium wp-image-1430" title="csgo_windows_server" src="/wp-content/uploads/sites/2/2013/04/csgo_windows_server-212x300.png" alt="" width="212" height="300" srcset="/wp-content/uploads/sites/2/2013/04/csgo_windows_server-212x300.png 212w, /wp-content/uploads/sites/2/2013/04/csgo_windows_server.png 377w" sizes="(max-width: 212px) 100vw, 212px" /></a></p>
+<p>Jetzt nur noch die Verknüpfung speichern und AUSFÜHREN. Der Server sollte nun starten. Nach einigen Sekunden steht am Ende der Commandozeile dann &#8222;Valve Anti Cheat is on&#8230;&#8220;.</p>
+<h3><strong>Schritt 6 &#8211; Server im Internet sichtbar machen:</strong></h3>
+<p>Erstmal müsst ihr darauf achten dass in der Server.cfg der Befehle &#8222;sv_lan&#8220; auf &#8222;0&#8220; steht.</p>
+<p>Um den Server auch im Internet zu veröffentlichen müsst ihr eine Portweiterleitung innerhalb eures Routers aktivieren. Standardmäßig ist der Port 27015 innerhalb der Router nicht freigegeben.</p>
+<p>Freigeben bei der Fritzbox: Geht über die Netzwerkoptionen, klickt dafür in der Navigation auf:</p>
+<p><strong>Internet -&gt; Freigaben -&gt; Neue Portfreigabe und stellt folgendes ein:</strong></p>
+<p><a href="/wp-content/uploads/sites/2/2013/04/Fritzbox_csgo_server.jpg"><img class="aligncenter size-medium wp-image-1434" title="Fritzbox_csgo_server" src="/wp-content/uploads/sites/2/2013/04/Fritzbox_csgo_server-300x98.jpg" alt="" width="300" height="98" /></a></p>
+<p>Voila, speichern und Daddeln!</p>
+<p>&nbsp;</p>
+</div>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-server-auf-windows-installieren-server-guide/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Keine Waffen auf aim_map und awp_map [Server Guide]</title>
+		<link>/keine-waffen-auf-aim_map-und-awp_map/</link>
+		<comments>/keine-waffen-auf-aim_map-und-awp_map/#comments</comments>
+		<pubDate>Thu, 25 Apr 2013 13:10:41 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[aim_map]]></category>
+		<category><![CDATA[awp_map]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[ct seite]]></category>
+		<category><![CDATA[ct side]]></category>
+		<category><![CDATA[keine waffen]]></category>
+		<category><![CDATA[no placed weapons on server]]></category>
+		<category><![CDATA[no weapon]]></category>
+
+		<guid isPermaLink="false">/?p=1419</guid>
+		<description><![CDATA[Ihr habt das Problem keine Waffen wie M4A1 / AK47 / AWP auf den entsprechenden Maps zu haben? Einige Anfragen erreichten uns in der Vergangenheit mit dem Problem dass auf dem Counter-Strike Global Offensive&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3></h3>
+<h3>Ihr habt das Problem keine Waffen wie M4A1 / AK47 / AWP auf den entsprechenden Maps zu haben?</h3>
+<p>Einige Anfragen erreichten uns in der Vergangenheit mit dem Problem dass auf dem Counter-Strike Global Offensive Server keine Waffen liegen. Das interessante dabei ist dass die Waffen nur auf den aim_map&#8217;s und awp_maps nicht vorhanden waren.</p>
+<h3>Der Grund für dieses Szenario ist, dass  folgende Befehle in einem der letzten Updates nun in CS:GO greifen:</h3>
+<p><strong>mp_roundtime_defuse 1.75</strong><br />
+<strong>mp_weapons_allow_map_placed 1</strong></p>
+<p>Wenn der zweitere Befehl <strong>mp_weapons_allow_map_placed</strong> auf &#8222;0&#8220;  bzw.  nicht vorhanden ist, liegen keine Waffen an den CT und T Spawns.</p>
+<p>Die Befehle findet ihr in euren gamemode_casual&#8230; etc. Dateien. Je nachdem welches gamemode ihr auf eurem Server spielt muss die gamemode_xxx.cfg bearbeitet bzw. mit den Befehlen ergänzt werden.</p>
+<p>Dann sollte es auch wieder mit den Waffen auf den Aim/AWP Maps klappen.</p>
+<p>Anschließend den Server neustarten. (Achtung komplett neu) nicht nur über &#8222;rcon quit&#8220;. Nutzt dafür bitte das entsprechende Gamehoster Interface.</p>
+<p>PS: Sollte es nach den Änderungen weiterhin nicht funktionieren, löscht den Inhalt der gamemode Dateien. Aber ich weise ausdrücklich darauf hin dass ihr NUR DEN INHALT nicht die ganze Datei löscht. Die Datei wird dann beim nächsten Start automatisch erstellt.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/keine-waffen-auf-aim_map-und-awp_map/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>CSGO Server update funktioniert nicht. Fehler: app_update 740 Assertion Failed &#8230;</title>
+		<link>/cs-go-server-updaten-funktioniert-nicht-app_update-740-assertion-failed-to-write-app-state-file/</link>
+		<comments>/cs-go-server-updaten-funktioniert-nicht-app_update-740-assertion-failed-to-write-app-state-file/#respond</comments>
+		<pubDate>Mon, 18 Mar 2013 14:58:53 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Server Administration]]></category>
+		<category><![CDATA[Anleitung]]></category>
+		<category><![CDATA[antwort]]></category>
+		<category><![CDATA[app_update 740 validate funktioniert nicht]]></category>
+		<category><![CDATA[app_update funktioniert nicht]]></category>
+		<category><![CDATA[appmanifest_740.acf]]></category>
+		<category><![CDATA[Assertion Failed: Failed to write app state file]]></category>
+		<category><![CDATA[Error! App '740' state is 0x1 after update job.]]></category>
+		<category><![CDATA[fehlerbehebung]]></category>
+		<category><![CDATA[fehlermeldung]]></category>
+		<category><![CDATA[lösung]]></category>
+		<category><![CDATA[Server]]></category>
+		<category><![CDATA[serverupdate]]></category>
+		<category><![CDATA[updaten geht nicht]]></category>
+
+		<guid isPermaLink="false">/?p=1180</guid>
+		<description><![CDATA[Wir kennen es selber, mal wieder ein Update erschienen und man möchte gerade noch mal so spät am Abend den letzten &#8222;War&#8220; spielen. Doch dann verbindet man sich auf den Server und wird direkt&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p><img class="size-full wp-image-1191 aligncenter" title="csgo_server_fehlerbehebung" src="/wp-content/uploads/sites/2/2013/03/csgo_server_fehlerbehebung.jpg" alt="" width="280" height="120" /></p>
+<p>Wir kennen es selber, mal wieder ein Update erschienen und man möchte gerade noch mal so spät am Abend den letzten &#8222;War&#8220; spielen. Doch dann verbindet man sich auf den Server und wird direkt wieder in das Hauptmenü geschmissen. Spätestens dann weiß man, dass wieder ein Update erschienen ist und man natürlich jetzt noch &#8222;mal eben&#8220; den Server updaten muss. Wie das funktioniert haben wir hier schon beschrieben: <a href="/wie-update-ich-meinen-csgo-server-auf-linux/">Wie update ich meinen CSGO Server auf Linux </a></p>
+<p>Nur mit dem &#8222;mal eben&#8220; war es dann wohl doch nichts, denn Steam spuckt uns folgende Fehlermeldung nach dem eintippen von app_update 740 validate aus:</p>
+<p>Initial App state (0x2) update required<br /> <strong>applicationmanager.cpp (736) : Assertion Failed: Failed to write app state file /PFAD/appmanifest_740.acf</strong><br /> <strong>applicationmanager.cpp (736) : Assertion Failed: Failed to write app state file /PFAD/appmanifest_740.acf</strong><br /> App state (0x10102) reconfiguring, progress: nan (0 / 0)<br /> Error! App &#8218;740&#8216; state is 0x1 after update job.</p>
+<p><strong>Kurz und knapp: Dieser Fehler tritt auf wenn es Steam nicht möglich ist die entsprechenden Dateien zu schreiben. Wir persönlich haben uns auch schon die Zähne daran ausgebissen da die Fehlermeldung nichts weiteres ausgibt. Gerade für Linux Anfänger ist das natürlich zum Haare raufen!</strong></p>
+<p><strong></strong><strong> </strong>Wir haben hier mehrere Lösungsvorschläge:</p>
+<ul>
+<li>Seid ihr über den Linux User eingeloggt welche auch die Rechte besitzt Dateien in dem Steamordner auszuführen und zu erstellen? Wenn das nicht der Fall ist oder ihr es nicht wisst, vergebt über den &#8222;chown&#8220; Befehl die entsprechenden Rechte. (csgo ist in dem folgenden Beispiel der User welcher den Server startet)</li>
+</ul>
+<div>Chown -R csgo:csgo /pfad/zum/steam/verzeichnis/</div>
+<div> </div>
+<div>
+<ul>
+<li>Besitzt ihr genug Speicherplatz auf eurem Server (Vserver oder Root Server) um die Installationsdateien zu laden? Wir hatten schon das Problem dass die Dateien nicht heruntergeladen werden konnten weil unsere Festplatte durch ein falsch konfiguriertes automatisches Backup und den ganzen Space entzogen hat.</li>
+</ul>
+</div>
+<div> Einer der beiden Fehler (eher der erste Punkt) wird sehr wahrscheinlich für die Fehlermeldung verantwortlich sein.</div>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/cs-go-server-updaten-funktioniert-nicht-app_update-740-assertion-failed-to-write-app-state-file/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>GOTV Befehle für CS:GO Console</title>
+		<link>/gotv-befehle-fur-csgo-console/</link>
+		<comments>/gotv-befehle-fur-csgo-console/#respond</comments>
+		<pubDate>Sun, 24 Feb 2013 12:44:41 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Server Administration]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[Anleitung]]></category>
+		<category><![CDATA[befehle]]></category>
+		<category><![CDATA[Counterstrike]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[demopflicht]]></category>
+		<category><![CDATA[ESL]]></category>
+		<category><![CDATA[GOTV]]></category>
+		<category><![CDATA[gotv bedienung]]></category>
+		<category><![CDATA[screenshots]]></category>
+		<category><![CDATA[snapshots]]></category>
+		<category><![CDATA[tv_enable 1]]></category>
+		<category><![CDATA[Verzeichnis]]></category>
+		<category><![CDATA[Wie spiele ich eine demo ab]]></category>
+		<category><![CDATA[Wo liegt die csgo demo]]></category>
+
+		<guid isPermaLink="false">/?p=1026</guid>
+		<description><![CDATA[Durch die letzten Updates ist es nun möglich GOTV auf Servern zu nutzen. Rund um das Thema GOTV gibt es viele Befehle bzw. Commands die über die Counter Strike Global Offensive Console ausgeführt werden&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Durch die letzten Updates ist es nun möglich GOTV auf Servern zu nutzen. Rund um das Thema GOTV gibt es viele Befehle bzw. Commands die über die Counter Strike Global Offensive Console ausgeführt werden können. Der wohl wichtigste Befehl ist sicherlich der welcher das Abspielen bzw. Starten der Demo ermöglicht.</p>
+<p>Möchte man sich eine Aufnahme (“Demo”) ansehen, muss man wissen wie die gewünschte Datei (Endung: *.dem) heißt. CS:GO-Demos befinden sich im Ordner<em>Steamsteamappscommoncounter-strike global offensivecsgo</em>. Dann öffnet man die Konsole und gibt <strong>playdemo demoname.dem</strong> ein.</p>
+<h4>GOTV Konsolenbefehle</h4>
+<p>Nutzt man GOTV, kann man in CS:GO mit folgenden Konsolenbefehlen weitere Einstellungen vornehmen:</p>
+<p><strong>tv_allow_camera_man &lt;0|1&gt;</strong> – Auto director allows spectators to become camera man<br />
+<strong>tv_allow_static_shots &lt;0|1&gt;</strong> – Auto director uses fixed level cameras for shots<br />
+<strong>tv_autorecord &lt;0|1&gt;</strong> – Automatically records all games as GOTV demos. Automatically records every game, demo file name format is auto-YYYYMMDD-hhmm-map.dem<br />
+<strong>tv_autoretry &lt;0|1&gt;</strong> – Relay proxies retry connection after network timeout<br />
+<strong>tv_chatgroupsize &lt;n&gt;</strong> – Set the default chat group size. Set chat group size to n spectators. Only spectators in the same chat group can speak to each other. Chat groups are turned off with “tv_chatgroupsize 0″ and everybody can speak to everybody. Setting chat groups helps reducing chatter noise and saves some bandwidth.<br />
+<strong>tv_chattimelimit &lt;seconds&gt;</strong> – Limits spectators to chat only every n seconds<br />
+<strong>tv_clients</strong> – Shows list of connected GOTV clients.<br />
+<strong>tv_debug &lt;0|1&gt;</strong> – GOTV debug info.<br />
+<strong>tv_delay &lt;seconds&gt;</strong> – GOTV broadcast delay in seconds<br />
+<strong>tv_delaymapchange &lt;0|1&gt;</strong> – Delays map change until broadcast is complete<br />
+<strong>tv_deltacache &lt;0|1&gt;</strong> – Enable delta entity bit stream cache. If enabled on relay proxies it reduces CPU load by caching outgoing entity data.<br />
+<strong>tv_dispatchmode &lt;0|1|2&gt;</strong> – Dispatch clients to relay proxies: 0=never, 1=if appropriate, 2=always<br />
+<strong>tv_enable &lt;0|1&gt;</strong> – Activates GOTV on server.<br />
+<strong>tv_maxclients &lt;n&gt;</strong> – Maximum client number on GOTV server.<br />
+<strong>tv_maxrate &lt;n&gt;</strong> – Max GOTV spectator bandwidth rate allowed, 0 == unlimited<br />
+<strong>tv_msg &lt;text&gt;</strong> – Send a screen message to all clients.<br />
+<strong>tv_name &lt;name&gt;</strong> – GOTV host name. Sets GOTV name as it appears in server browser and scoreboard.<br />
+<strong>tv_nochat &lt;0|1&gt;</strong> – Don’t receive chat messages from other GOTV spectators<br />
+<strong>tv_overridemaster &lt;0|1&gt;</strong> – Overrides the GOTV master root address. Overrides the master IP broadcast to spectators with a local IP.<br />
+<strong>tv_password &lt;password&gt;</strong> – GOTV password for all clients<br />
+<strong>tv_port &lt;port&gt;</strong> – Host GOTV port. Set the GOTV host port (default 27020). Must be set as srcds start parameter.<br />
+<strong>tv_record &lt;filename&gt;</strong> – Starts GOTV demo recording.<br />
+<strong>tv_relay &lt;IP&gt;</strong> – Connect to GOTV server and relay broadcast.<br />
+<strong>tv_relaypassword &lt;password&gt;</strong> – GOTV password for relay proxies<br />
+<strong>tv_relayvoice &lt;0|1&gt;</strong> – Relay voice data: 0=off, 1=on. If enabled, allow player voice chat if broadcasted.<br />
+<strong>tv_retry</strong> – Reconnects the GOTV relay proxy.<br />
+<strong>tv_snapshotrate &lt;n&gt;</strong> – Snapshots broadcasted per second<br />
+<strong>tv_status</strong> – Show GOTV server status.<br />
+<strong>tv_stop</strong> – Stops the GOTV broadcast.<br />
+<strong>tv_stoprecord</strong> – Stops GOTV demo recording.<br />
+<strong>tv_timeout &lt;seconds&gt;</strong> – GOTV connection timeout in seconds. If a connection times out, the relay proxy tries to reconnect automatically.<br />
+<strong>tv_title &lt;text&gt;</strong> – Set title for GOTV spectator UI<br />
+<strong>tv_transmitall &lt;0|1&gt;</strong> – Transmit all entities (not only director view). By default entities and events outside of the auto-director view are removed from SourceTV broadcasts to save bandwidth. If tv_transmitall is enabled, the whole game is transmitted and spectators can switch their view to any player they want. This option increases bandwidth requirement per spectator client by factor 2 to 3.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/gotv-befehle-fur-csgo-console/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wie update ich meinen CS:GO Server auf Linux? (Anleitung)</title>
+		<link>/wie-update-ich-meinen-csgo-server-auf-linux/</link>
+		<comments>/wie-update-ich-meinen-csgo-server-auf-linux/#comments</comments>
+		<pubDate>Thu, 21 Feb 2013 16:13:37 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Server Administration]]></category>
+		<category><![CDATA[Anleitung]]></category>
+		<category><![CDATA[app_update 740 validate]]></category>
+		<category><![CDATA[force_install_dir]]></category>
+		<category><![CDATA[Global Offensive]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[redhat]]></category>
+		<category><![CDATA[Server Updaten]]></category>
+		<category><![CDATA[STEAMEXE=steamcmd ./steam.sh]]></category>
+		<category><![CDATA[suse]]></category>
+		<category><![CDATA[ubuntu]]></category>
+		<category><![CDATA[update]]></category>
+
+		<guid isPermaLink="false">/?p=936</guid>
+		<description><![CDATA[Heute ist wieder einmal ein Update von CS:GO erschienen. Es ist ja wirklich schön dass zur Zeit regelmäßig Updates durch Steam gefahren werden um CS Global Offensive weiter zu improven. Leider bedeutet jedes Update&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Heute ist wieder einmal ein Update von CS:GO erschienen. Es ist ja wirklich schön dass zur Zeit regelmäßig Updates durch Steam gefahren werden um CS Global Offensive weiter zu improven.</p>
+<p>Leider bedeutet jedes Update von Steam auch dass ein Update auf dem Server durchgeführt werden muss. Nur die wenigsten haben die Möglichkeit den Server automatisch updaten zu lassen da dies erheblichen Programmieraufwand benötigt.</p>
+<p>Um also euren Server nun updaten zu können müsst ihr euch per SSH auf euren Root bzw. Virtuellen Server einloggen. (Ich gehe einfach mal davon aus das Linux Grundlagen vorhanden sind und Putty ein Begriff ist).</p>
+<p>Navigiert mit dem befehl &#8222;cd&#8220; in das Verzeichnis wo euer CS:GO Server liegt:</p>
+<p><strong>Bei unseren Servern zum Beispiel: </strong></p>
+<pre>cd /home/gserver/csgo/</pre>
+<p><strong>Nun führt die Steam mit folgenden Befehl aus:</strong></p>
+<pre>STEAMEXE=steamcmd ./steam.sh</pre>
+<p><strong> Es öffnet sich die Steam Eingabemaske. Dort müsst Ihr euch mit euren Steamdaten einloggen, dies könnt ihr mit:</strong></p>
+<pre>login STEAMUSERNAME EUERSTEAMPASSWORT</pre>
+<p><strong>Um nun Steam zu sagen in welchen Ordner Steam das Update fahren soll müsst Ihr mit folgendem Befehl dieses für Steam festlegen:</strong></p>
+<pre>force_install_dir /home/gserver/csgo/csgo27015</pre>
+<p>In diesem Fall liegt der bei uns der Gameserver mit dem Port 27015 in dem Ordner csgo27015.</p>
+<p>Nun Startet ihr den Update Prozess:</p>
+<pre>app_update 740 validate</pre>
+<p>Nachdem 100% des Updates erfolgreich durchgeführt worden sind könnt ihr nun den Server wieder wie gewohnt starten. Wie man einen Server startet seht ihr sonst auch am Ende dieses Artikels:<a title="Wie installiere ich einen CSGO Server auf Linux" href="/wie-installiere-ich-einen-csgo-server-auf-linux/" target="_blank"> /wie-installiere-ich-einen-csgo-server-auf-linux/</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/wie-update-ich-meinen-csgo-server-auf-linux/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>Workshop &#8211; Map ID finden</title>
+		<link>/workshop-map-id-finden/</link>
+		<comments>/workshop-map-id-finden/#comments</comments>
+		<pubDate>Sun, 17 Feb 2013 21:57:25 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[Gamerserver]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Server Administration]]></category>
+		<category><![CDATA[aim_ak-cold]]></category>
+		<category><![CDATA[befehl]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[finden]]></category>
+		<category><![CDATA[Global Offensive]]></category>
+		<category><![CDATA[heraussuchen]]></category>
+		<category><![CDATA[host_workshop]]></category>
+		<category><![CDATA[id]]></category>
+		<category><![CDATA[Map]]></category>
+		<category><![CDATA[map id]]></category>
+		<category><![CDATA[passende id]]></category>
+		<category><![CDATA[Steam]]></category>
+		<category><![CDATA[steamcommunity]]></category>
+		<category><![CDATA[suchen]]></category>
+		<category><![CDATA[was ist die map id]]></category>
+		<category><![CDATA[wo ist die map id]]></category>
+		<category><![CDATA[Workshop]]></category>
+
+		<guid isPermaLink="false">/?p=742</guid>
+		<description><![CDATA[Um die passende ID zur Map zu finden geht ihr einfach auf &#8222;steamcommunity.com&#8220;, dort navigiert Ihr auf den Menü Punkt &#8222;Workshop&#8220;, dann weiter auf &#8222;CSGO&#8220;. Im Suchfeld könnt ihr eine Map heraussuchen. Hier als&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Um die passende ID zur Map zu finden geht ihr einfach auf <a href="http://steamcommunity.com/">&#8222;steamcommunity.com&#8220;</a>, dort navigiert Ihr auf den Menü Punkt &#8222;Workshop&#8220;, dann weiter auf &#8222;CSGO&#8220;. Im Suchfeld könnt ihr eine Map heraussuchen.</p>
+<p>Hier als Beispiel &#8222;aim_ak-colt&#8220;.</p>
+<p>In der Browser Adresszeile findet ihr nun die Map ID. Im Beispiel: &#8222;126666806&#8220;</p>
+<p><img src="/wp-content/uploads/sites/2/2013/02/map_id.jpg" alt="" /></p>
+<p>Somit könnt ihr ganz einfach auf die Map &#8222;aim_ak-cold&#8220; mit den Befehl &#8222;rcon host_workshop_map 126666806” wechseln.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/workshop-map-id-finden/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

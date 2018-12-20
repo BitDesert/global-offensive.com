@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Beta Keys &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/beta-keys/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>Beta Keys &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Neues CS:GO Update/Patch &#8211; neues Waffenverhalten uvm.</title>
+		<link>/neues-csgo-update-neues-waffenverhalten-uvm/</link>
+		<comments>/neues-csgo-update-neues-waffenverhalten-uvm/#respond</comments>
+		<pubDate>Mon, 04 Feb 2013 15:03:21 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[Änderungen]]></category>
+		<category><![CDATA[Beta Keys]]></category>
+		<category><![CDATA[cs.gov]]></category>
+		<category><![CDATA[CSTV]]></category>
+		<category><![CDATA[Deagle]]></category>
+		<category><![CDATA[Feedbacks]]></category>
+		<category><![CDATA[genauigkeit]]></category>
+		<category><![CDATA[GOTV]]></category>
+		<category><![CDATA[Map editor]]></category>
+		<category><![CDATA[Maps]]></category>
+		<category><![CDATA[Pro Series]]></category>
+		<category><![CDATA[Recoil]]></category>
+		<category><![CDATA[updates]]></category>
+		<category><![CDATA[waffenverhalten]]></category>
+
+		<guid isPermaLink="false">/?p=652</guid>
+		<description><![CDATA[Alleine in diesem Monat (Januar 2013) hat Valve wieder große Änderungen an CS:GO (Counterstrike Global Offensive) vorgenommen. Wie immer gab es eine Reihe von Feedbacks aus dem Profibereich (Pro Series Teams). Diese Feedbacks hat&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p><a href="/wp-content/uploads/sites/2/2012/10/sonstiges-vorschau.jpg"><img class="alignnone size-full wp-image-512" title="sonstiges-vorschau" src="/wp-content/uploads/sites/2/2012/10/sonstiges-vorschau.jpg" alt="" width="280" height="120" /></a></p>
+<p>Alleine in diesem Monat (Januar 2013) hat Valve wieder große Änderungen an CS:GO (Counterstrike Global Offensive) vorgenommen. Wie immer gab es eine Reihe von Feedbacks aus dem Profibereich (Pro Series Teams). Diese Feedbacks hat sich Valve zu Herzen genommen und erneut spürbare Änderungen am Gameplay von CS:GO vorgenommen. </p>
+<p>Neben den üblichen Bugfixes welche den meißten Spielern eh verborgen bleiben wurde aber auch offensichtliche Veränderungen vorgenommen. </p>
+<p>Seit dem letzten Update ist nun folgendes in CS:GO zu finden:</p>
+<ul>
+<li>Ein neuer Gamemode (Deathmatch) erlaubt es nun laut &#8222;Valve&#8220; den Spielern noch einfacher ihre Skills (Übung) zu erhöhen. Dadurch dass die Spieler nun direkt in das Spiel einsteigen und eine zufällige Waffe bekommen, trainiert dieses &#8222;enorm&#8220; die flexibilität eines einzelnen Spielers auch mit unbeliebteren Waffen.</li>
+<li>Wesentliche Änderungen im Waffenverhalten der automatischen und Handfeuerwaffen wurden vorgenommen. P90, Duals, und Deagle und vor allem spürbar das Treffverhalten der Glock wurde optimiert und realistischer gestaltet. Die Duals sind nun nicht mehr die &#8222;Wunderwaffe&#8220; und die Deagle wie auch die P90 haben nun wesentlich mehr durchsatz und Treffgenauigkeit.</li>
+<li>Private Betakeys für den Mapshop wurden eingeführt so das die Entwicklung von Maps noch einfacher durch den internen Map editor verfolgen kann.</li>
+<li>GOTV erlaubt es nun über das &#8222;freunde&#8220; Menü anderen Freunden beim Spielen zuzuschauen. Dieses muss aber vorher durch den &#8222;zuschauenden&#8220; bestätigt werden.</li>
+<li>Glock nur noch für Terroristen und Five-Seven nur noch für Counter Terroristen </li>
+<li>Molotov Brandgranate nur noch 500$</li>
+</ul>
+<div> </div>
+<p>&nbsp;</p>
+<p>Das sind die wesentlichen Änderungen. Hier nun noch mal die originale Ausgabe von Valve zum Update:</p>
+<p>Release Notes for 1/30/2013</p>
+<p>[ NOTABLE ]<br />&#8211; Nerfed the Deagle.<br />&#8211; Added a feature to spectate friends games via GOTV.<br />  -In &#8218;Play With Friends,&#8216; if a friend is on an official matchmaking server the WATCH option will appear next to their name.<br />&#8211; DM immunity changes:<br />  -Default immunity was raised to 10s.<br />  -Moving cancels immunity.</p>
+<p>[ MISC ]<br />&#8211; Fixed dedicated server memory leak.<br />&#8211; Reserved server with connected GOTV spectators will hold reservation after all players disconnected for at least TV delay time to allow spectators to watch the match to the end.<br />&#8211; Added convar sv_hibernate_punt_tv_clients to also punt lingering TV spectators after all players disconnected and at least TV delay time elapsed.<br />tv_snapshotrate will now correctly adjust client-side rates automatically for smooth spectating experience.<br />&#8211; Added convar tv_relayradio, 0 = off, 1 = relay team radio commands to GOTV (default value = 0).<br />&#8211; Added convar tv_relaytextchat, 0 = off, 1 = relay &#8222;say&#8220; chat only, 2 = relay &#8222;say&#8220; and &#8222;say_team&#8220; chat to GOTV (default value = 1).<br />&#8211; Team kills and team damage is now preserved for players in competitive games across disconnects and reconnects.<br />&#8211; Fixed a regression in naming of tv_autorecord demo files.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/neues-csgo-update-neues-waffenverhalten-uvm/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

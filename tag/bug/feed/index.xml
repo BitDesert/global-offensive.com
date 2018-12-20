@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bug &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/bug/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>Bug &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CS:GO Update: Kleine Verbesserungen und Bugfixes</title>
+		<link>/csgo-update-kleine-verbesserungen-und-bugfixes/</link>
+		<comments>/csgo-update-kleine-verbesserungen-und-bugfixes/#respond</comments>
+		<pubDate>Tue, 12 Aug 2014 13:42:24 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[Bug]]></category>
+		<category><![CDATA[butterfly knife]]></category>
+		<category><![CDATA[crash]]></category>
+		<category><![CDATA[minii]]></category>
+		<category><![CDATA[udpate]]></category>
+		<category><![CDATA[update]]></category>
+
+		<guid isPermaLink="false">/?p=2783</guid>
+		<description><![CDATA[Mini Update in CS:GO Heute Nacht ist ein kleines Update für Counter-Strike: Global-Offensive (CS:GO)  erschienen, nichts besonderes daher nur die Stichpunktauflistung MISC Gelegte Bomben können nun auch von anderen Spielern entschärft werden wenn der&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><h3>Mini Update in CS:GO</h3>
+<p>Heute Nacht ist ein kleines Update für Counter-Strike: Global-Offensive (CS:GO)  erschienen, nichts besonderes daher nur die Stichpunktauflistung</p>
+<h3 style="color: #000000">MISC</h3>
+<ul style="color: #000000">
+<li>Gelegte Bomben können nun auch von anderen Spielern entschärft werden wenn der erste &#8222;Defuser&#8220; während des Entschärfens ein disconect hatte.</li>
+<li>Der Vorteil schnell den zweiten Messerhieb durchzuführen beim Butterfly Schnell-Wechsel hat man nun nicht mehr als stolzer Besitzer des Knifes.</li>
+<li>GOTV Spectator Fehler wurde entfernt.</li>
+<li>Beheben eines Gameabsturzes welcher ab und zu erschien wenn das Scoreboard aufgerufen wurde.</li>
+<li>Beheben des Fehlers dass manchmal im Scoreboard eine Punktanzahl von 999 zu sehen war.</li>
+</ul>
+<p style="color: #000000">
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-update-kleine-verbesserungen-und-bugfixes/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Update 21.02.2013 &#8211; Glock geschwächt, Deagle genauer</title>
+		<link>/update-21-02-2013-glock-geschwacht-deagle-genauer/</link>
+		<comments>/update-21-02-2013-glock-geschwacht-deagle-genauer/#respond</comments>
+		<pubDate>Thu, 21 Feb 2013 16:25:36 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[21.02.2013. pistolen]]></category>
+		<category><![CDATA[belancing]]></category>
+		<category><![CDATA[Bug]]></category>
+		<category><![CDATA[Deagle]]></category>
+		<category><![CDATA[dessert eagle]]></category>
+		<category><![CDATA[fiveseven]]></category>
+		<category><![CDATA[fixes]]></category>
+		<category><![CDATA[glock]]></category>
+		<category><![CDATA[GOTV]]></category>
+		<category><![CDATA[gun]]></category>
+		<category><![CDATA[hauptmenü]]></category>
+		<category><![CDATA[nerv]]></category>
+		<category><![CDATA[pistol]]></category>
+		<category><![CDATA[probleme]]></category>
+		<category><![CDATA[tec 9]]></category>
+		<category><![CDATA[tv_enable 1. tv_relay]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[Workshop]]></category>
+
+		<guid isPermaLink="false">/?p=937</guid>
+		<description><![CDATA[&#160; Heute hat Valve mal wieder ein neuen Update herausgebracht.&#8220;Was ist neu?&#8220; Diesmal wurde mal wieder an den Pistolen gewerkelt. Anscheinend stimmte das Balancing immer noch nicht. Dazu gibt es noch einige Verbesserungen für&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>&nbsp;</p>
+<p>Heute hat Valve mal wieder ein neuen Update herausgebracht.&#8220;Was ist neu?&#8220;</p>
+<p>Diesmal wurde mal wieder an den Pistolen gewerkelt. Anscheinend stimmte das Balancing immer noch nicht. Dazu gibt es noch einige Verbesserungen für GOTV und den Maps Workshop.</p>
+<p>&nbsp;</p>
+<p><strong>Pistolen:</strong></p>
+<p>Die Glock war in letzter Zeit eine der besten Pistolen, weswegen ihr Schaden nun etwas reduziert wurde. Die Desert Eagle, welche erst kürzlich geschwächt worden ist, und dadurch eher unrentabel wurde, hat nun an Genauigkeit dazugewonnen. Bei der Fiveseven und der Tec9 wurden die Preise nach unten korrigiert, um sie wieder etwas attraktiver für Spieler zu machen.</p>
+<p>&nbsp;</p>
+<p><strong>Maps Workshop und GOTV</strong></p>
+<p>Das Update hat ein paar Probleme mit dem Maps Workshop behoben. Man bekommt nun im Hauptmenü angezeigt, ob gerade Maps heruntergeladen werde. Bei GOTV wurde das Zusammenspiel mit den Custom Maps aus dem Workshop verbessert. Interessant ist auch, dass nun &#8222;+tv_enable 1&#8220; und &#8222;tv_relay ip:port&#8220; in der Kommandozeile eines GOTV Relays angegeben werden können.<br />
+<strong>Release Notes for 2/20/2013:</strong></p>
+<blockquote><p>[ MISC ]</p>
+<p>&#8211; Reduced Glock damage.<br />
+&#8211; Reduced Deagle inaccuracy.<br />
+&#8211; Reduced Fiveseven and Tec9 prices.</p>
+<p>&#8211; Added checks to prevent clients from executing workshop concommands.<br />
+&#8211; GameModes.txt and individual map kv files now get updated and loaded everytime a new map is loaded.<br />
+&#8211; Newly subscribed maps in workshop map selector are sorted to the start of the list.<br />
+&#8211; Fixed some cases where workshop maps failed to download.<br />
+&#8211; Added status indicator to main menu that shows if maps are currently downloading.<br />
+&#8211; Added convar sv_rcon_whitelist_address, rcon clients failing to auth from the specified IP address will never get banned.<br />
+&#8211; Fixed Windows GOTV relays crashing when running without Steam client.<br />
+&#8211; Improved handling of workshop maps on GOTV relays.<br />
+&#8211; Added support for specifying +tv_enable 1 +tv_relay ip:port on GOTV relay commandline.</p></blockquote>
+<p>Quelle: <a href="http://store.steampowered.com/news/9996/" target="_blank">Steam News</a></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/update-21-02-2013-glock-geschwacht-deagle-genauer/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>&#8222;csgo.exe funktioniert nicht mehr&#8220; Fehlerbehebung</title>
+		<link>/csgo-exe-funktioniert-nicht-mehr-fehlerbehebung/</link>
+		<comments>/csgo-exe-funktioniert-nicht-mehr-fehlerbehebung/#comments</comments>
+		<pubDate>Mon, 15 Oct 2012 14:37:18 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Die Config]]></category>
+		<category><![CDATA[Fehlermeldungen]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[Bug]]></category>
+		<category><![CDATA[Counter]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[CSGO.exe]]></category>
+		<category><![CDATA[fehler]]></category>
+		<category><![CDATA[funktioniert]]></category>
+		<category><![CDATA[global]]></category>
+		<category><![CDATA[mehr]]></category>
+		<category><![CDATA[nicht]]></category>
+		<category><![CDATA[Offensive]]></category>
+		<category><![CDATA[setting.mat_queue_mode]]></category>
+		<category><![CDATA[Steam]]></category>
+		<category><![CDATA[Strike]]></category>
+		<category><![CDATA[tier0.dll]]></category>
+		<category><![CDATA[video.txt]]></category>
+
+		<guid isPermaLink="false">/?p=476</guid>
+		<description><![CDATA[** Update:  Seit neustem (Februar 2014) sind auch andere Gründe für den Absturz von CS:GO verantwortlich. Wir haben Sie hier kurz zusammengefasst: Bei einigen Systemen kann es vorkommen, dass das Counter Strike Global Offensive&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p><img class="aligncenter size-full wp-image-477" title="csgo.exe funktioniert nicht mehr" alt="" src="/wp-content/uploads/sites/2/2012/10/funktioniertnichtmehr.jpg" width="556" height="300" srcset="/wp-content/uploads/sites/2/2012/10/funktioniertnichtmehr.jpg 556w, /wp-content/uploads/sites/2/2012/10/funktioniertnichtmehr-300x162.jpg 300w" sizes="(max-width: 556px) 100vw, 556px" /></p>
+<h2></h2>
+<h2>** Update:  Seit neustem (Februar 2014) sind auch andere Gründe für den Absturz von CS:GO verantwortlich. Wir haben Sie hier kurz zusammengefasst:</h2>
+<p>Bei einigen Systemen kann es vorkommen, dass das Counter Strike Global Offensive während des Spielens einfach abstürzt und die Meldung &#8222;<strong>csgo.exe funktioniert nicht mehr</strong>&#8220; erscheint. Unter Umständen erscheint diese Meldung sehr oft und das frustriert natürlich sehr.</p>
+<p>Wenn das  Spiel im Ladebildschirm abschmiert oder der Mapwechsel die Fehlermeldung hervorruft, liegt dies sehr wahrscheinlich an der Preload-Funktion. Die Preload Funktion ist dafür verantwortlich, dass die Map im Voraus geladen wird. Wenn ihr diese Funktion deaktiviert, deaktiviert ihr auch den Fehler &#8211; sprich ihr könnt wie gewohnt spielen.</p>
+<p>Bevor ihr aber groß etwas umstellt, prüft erstmal eure Spieldateien. Das geht über Rechte Maustaste in der Bibliothek auf CS:GO -&gt; Eigenschaften -&gt; Lokale Dateien -&gt; Spieldateien auf Fehler überprüfen.</p>
+<p><a href="/wp-content/uploads/sites/2/2012/10/spieldateien_ueberpruefen.png"><img class="aligncenter size-full wp-image-1838" alt="spieldateien_ueberpruefen" src="/wp-content/uploads/sites/2/2012/10/spieldateien_ueberpruefen.png" width="612" height="397" srcset="/wp-content/uploads/sites/2/2012/10/spieldateien_ueberpruefen.png 612w, /wp-content/uploads/sites/2/2012/10/spieldateien_ueberpruefen-300x195.png 300w" sizes="(max-width: 612px) 100vw, 612px" /></a></p>
+<h4>Sollte das nicht funktionieren, lest weiter:</h4>
+<blockquote>
+<ul>
+<li>Hierfür müsst ihr den Befehl cl_forcepreload 0 in die Startoptionen eingeben. In die Startoptionen kommt ihr wie folgt: Bibliothek -&gt; Rechtsklick auf CS:GO -&gt; Eigenschaften -&gt; Startoptionen festlegen.</li>
+<li>Die zweite Lösung, welche derzeit im Internet kursiert, ist, dass ein Problem der Updateserver der Maps verantwortlich ist. Hierfür das Workshop Maps Abonnement auflösen. Dies geht direkt im Workshop und meine Abonnements.</li>
+</ul>
+</blockquote>
+<p><strong>Bitte ändert in jedem Fall die Startoptionen, diese sollten zur Minimierung des Problems führen:</strong></p>
+<blockquote><p>-32bit -dxlevel 8 -cl_disablehtmlmotd 1 -cl_forcepreload 0</p></blockquote>
+<p><strong>Ein Community Mitglied konnte darüber hinaus den Fehler beseitigen indem er einen älteren Grafiktreiber installiert. Also einfach mal einen älteren Grafikkartentreiber eures Herstellers (ATI, nVidia etc.) installieren. Hierfür müsst ihr den alten Treiber vorher entfernen.</strong></p>
+<h3></h3>
+<h3>Aktuell (23.02.2014) crashed CS:GO ebenfalls mit folgender Meldung in der Debug.log im CS:GO Verzeichnis:</h3>
+<blockquote><p>[0223/142415:ERROR:resource_bundle.cc(417)] <strong>Failed to load C:Program FilesSteamsteamappscommonCounter-Strike Global Offensivebinchrome.pak</strong><br />
+Some features may not be available.<br />
+[0223/142422:ERROR:backend_impl.cc(2123)] Corrupt Index file<br />
+[0223/142422:ERROR:cache_util_win.cc(48)] Unable to move the cache: 5<br />
+[0223/142422:ERROR:backend_impl.cc(134)] Unable to move cache folder<br />
+[0223/142422:ERROR:backend_impl.cc(264)] Unable to create cache</p></blockquote>
+<p><strong> Derzeit können wir das Problem nur eingrenzen. Wir vermuten die Fehlermeldung hängt mit einer Hardware Konstellation zusammen.</strong></p>
+<p>Wir haben bereits viele Tage an Arbeit investiert um das Problem zu analysieren, leider nur mit mäßigen Erfolg.</p>
+<h3>Wir wissen das:</h3>
+<p>[checklist]</p>
+<ul>
+<li>Das Problem nicht an einer Internet Konfiguration liegt. (Problem liegt auch bei auf Handy erstellten Hotspot vor)</li>
+<li>Nicht an der Steam Verbindung liegt (auf anderen Rechner funktioniert es) also nicht an Steam Account liegt</li>
+<li> Das Problem nach einer CS:GO Neuinstallation immer noch besteht.</li>
+<li>Der Steam Support einem NICHT WEITERHELFEN kann, wir haben bereits diverse Tickets aufgemacht und es wird immer darauf hingewiesen &#8222;Das Problem wurde an einen Entwickler weitergeleitet&#8230; von wegen..</li>
+</ul>
+<p>[/checklist]</p>
+<h3>Frühere Möglichkeiten, den Fehler zu beheben (vor März 2013).</h3>
+<p>Nur in Einzelfällen hilft das noch</p>
+<blockquote>
+<div><strong>Wir haben die <em>Lösung</em> gefunden und wollen sie euch nicht vorenthalten. </strong>Der Fehler liegt an den Grafikeinstellung innerhalb der video.txt und kann in wenigen Schritten korrigiert werden.</div>
+<div>
+<ol>
+<li>Öffnet also den folgenden Pfad (jenachdem, wo ihr CS:GO installiert habt, kann der Anfang des Pfades variieren):<strong> </strong><em style="line-height: 1.5em"><strong>SteamSteamAppscommonCounter-Strike Global Offensivecsgocfg</strong> </em>Solltet ihr den Pfad nicht auf Anhieb finden, nutzt am besten die Windows XP/7/8 Suche</li>
+<li>Jetzt öffnet ihr die Datei &#8222;<strong><em>video</em>.txt</strong>&#8222;</li>
+<li> Dann sucht ihr den Befehl &#8222;<strong><em>setting.mat_queue_mode</em></strong>&#8220; . Dahinter befindet sich ein negativer Wert wie &#8222;-1&#8220; oder &#8222;-2&#8220;. Entfernt einfach das Vorzeichen &#8222;-&#8222;, so dass dort nur noch &#8222;<em>setting.mat_queue_mode 1&#8243; steht. S</em>peichert die Datei dann ab.</li>
+<li>CS:GO neustarten und siehe da, der Fehler ist behoben und ihr könnt ohne Fehlermeldung das Spiel genießen.</li>
+</ol>
+</div>
+</blockquote>
+<div></div>
+<div>
+<p>[checklist]</p>
+<ul>
+<li>Solltet ihr einen Fehler rund um die &#8222;tier0.dll&#8220; bekommen, schaut euch diesen Workaround an: <a href="http://www.youtube.com/watch?v=ct2qRYaTIXw">http://www.youtube.com/watch?v=ct2qRYaTIXw</a></li>
+<li> Bitte prüft auch, ob ihr den aktuellsten Videotreiber eurer Grafikkarte verwendet. Nur aktuelle Treiber sind auf CS:GO perfekt abgestimmt.</li>
+</ul>
+<p>[/checklist]</p>
+</div>
+<div><span style="line-height: 1.5em"> </span></div>
+<div>
+<h2>csgo.exe stürzt beim Verbinden zum Server ab</h2>
+<p>Sollte der Fehler erscheinen, wenn ihr auf einen Server verbindet, liegt es an dem Befehl <strong>cl_disablehtmlmotd 0. Ändert diesen in <strong>cl_disablehtmlmotd 1. </strong></strong>Das Problem ist, dass bei manchen CS:GO Clienten die Message of the Day in HTML Probleme verursacht. Viele User berichteten uns, dass der Fehler der MotD der Grund für den Absturz war.</p>
+<p>&nbsp;</p>
+</div>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-exe-funktioniert-nicht-mehr-fehlerbehebung/feed/</wfw:commentRss>
+		<slash:comments>86</slash:comments>
+		</item>
+		<item>
+		<title>Server absturz ab 5 Playern, CS:GO Serverprobleme</title>
+		<link>/server-disconnect-bei-5-playern-hangt-sich-auf-csgo-serverprobleme/</link>
+		<comments>/server-disconnect-bei-5-playern-hangt-sich-auf-csgo-serverprobleme/#respond</comments>
+		<pubDate>Sat, 13 Oct 2012 14:51:35 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Plugins]]></category>
+		<category><![CDATA[Server Administration]]></category>
+		<category><![CDATA[Bug]]></category>
+		<category><![CDATA[Disconnect]]></category>
+		<category><![CDATA[Server disconnect]]></category>
+		<category><![CDATA[Server Probleme]]></category>
+		<category><![CDATA[Serverbug]]></category>
+		<category><![CDATA[Serverprobleme]]></category>
+
+		<guid isPermaLink="false">/?p=261</guid>
+		<description><![CDATA[Server disconnect bei mehr als 5 Playern – CS:GO Serverprobleme: Um den in der Überschrift genannten Bug zu beheben, überprüft ihr zunächst alle Plugnis auf eurem Server. In den meisten Fällen ist das ESL Server&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Server disconnect bei mehr als 5 Playern – CS:GO Serverprobleme:<br />
+Um den in der Überschrift genannten Bug zu beheben, überprüft ihr zunächst alle Plugnis auf eurem Server. In den meisten Fällen ist das ESL Server Plugin CS:GO für den Serverausfall verantwortlich. Ihr findet das Plugin unter cstrike/addons auf dem FTP Server. Löscht / deaktiviert das Plugin.</p>
+<p>Um zu schauen ob alle Plugins deaktiviert sind / zu schauen welche Plugins noch laufen könnt ihr mit dem Konsolenbefehl &#8222;plugin_print&#8220; auslesen. Dieser zeigt euch dann beispielsweise folgendes an:</p>
+<p>16:46:50 plugin_print<br />
+16:46:50 Loaded plugins:<br />
+&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;<br />
+0:&lt;TAB&gt;&#8220;Metamod:Source 1.9.0&#8243;<br />
+&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;<br />
+16:46:50 L 10/13/2012 &#8211; 16:46:46: rcon from &#8222;XXXXXXXXX&#8220;: command &#8222;plugin_print&#8220;</p>
+<p>In diesem Fall läuft also nur der Metamod auf unserem Server.</p>
+<p>&nbsp;</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/server-disconnect-bei-5-playern-hangt-sich-auf-csgo-serverprobleme/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Serverbug &#8211; Passwort</title>
+		<link>/csgo-serverbug-das-passwort/</link>
+		<comments>/csgo-serverbug-das-passwort/#respond</comments>
+		<pubDate>Sat, 13 Oct 2012 14:19:06 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Server Guide]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Server Administration]]></category>
+		<category><![CDATA[Bug]]></category>
+		<category><![CDATA[Disconnect]]></category>
+		<category><![CDATA[Server hängtl Server disconnect]]></category>
+		<category><![CDATA[Serverbug]]></category>
+		<category><![CDATA[Serverprobleme]]></category>
+
+		<guid isPermaLink="false">/?p=237</guid>
+		<description><![CDATA[Schneller Release hin oder her. Die kleinen Bugs fangen langsam an zu nerven. Ihr versucht einen Clanwar zu machen und bekommt kein Passwort auf den Server? Jedes mal wenn ein Spieler connected, verschwindet das&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p style="text-align: justify">Schneller Release hin oder her. Die kleinen Bugs fangen langsam an zu nerven. Ihr versucht einen Clanwar zu machen und bekommt kein Passwort auf den Server? Jedes mal wenn ein Spieler connected, verschwindet das Passwort wieder.</p>
+<p style="text-align: justify">Hier die Lösung:</p>
+<ul>
+<li>Stellt die Verbindung mit eurem FTP Server her, wechen Ihr  von eurem Anbieter eures Vertrauens erhalten haben solltet.</li>
+<li>Geht nun auf dem FTP-Server in den Ordner /csgo/cfg</li>
+<li>Zieht euch die &#8222;Server.cfg&#8220;</li>
+<li>Nun legt ihr euer Rcon Passwort via <strong>rcon_password &#8222;Passwort_rcon&#8220;</strong> fest. Ihr könnt das PW natürlich frei wählen</li>
+<li>Nutzt ebenfalls <strong>sv_steamgroup_exclusive &#8222;0&#8220;</strong></li>
+<li>Der nächste Befehl sollte nun das PW enthalten <strong>sv_password &#8222;Passwort&#8220;</strong></li>
+<li>Speichert die Datei  und ladet sie auf den Server</li>
+</ul>
+<p>Jetzt den Server via Konsole mit &#8222;Quit&#8220; neustarten. Nun sollte das Passwort immer drauf sein. Wenn ihr den Server in Game Neustarten wollt, nutzt &#8222;rcon quit&#8220; (vorausgesetzt, das ihr euch mit  rcon_password &#8222;euerPW&#8220; angemeldet habt)</p>
+<p><img class="aligncenter size-full wp-image-419" title="Password Falsch" src="/wp-content/uploads/sites/2/2012/10/pw.jpg" alt="" width="445" height="233" srcset="/wp-content/uploads/sites/2/2012/10/pw.jpg 445w, /wp-content/uploads/sites/2/2012/10/pw-300x157.jpg 300w" sizes="(max-width: 445px) 100vw, 445px" /></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-serverbug-das-passwort/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CS:GO Crouch Bug &#8211; Vorteil verschaffen [Video]</title>
+		<link>/csgo-crouch-bug-vorteil-verschaffen-video/</link>
+		<comments>/csgo-crouch-bug-vorteil-verschaffen-video/#respond</comments>
+		<pubDate>Sat, 13 Oct 2012 13:05:37 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[Bug]]></category>
+		<category><![CDATA[Bugfixes]]></category>
+		<category><![CDATA[bugs]]></category>
+		<category><![CDATA[CS:GO]]></category>
+		<category><![CDATA[de_nuke]]></category>
+		<category><![CDATA[unfair]]></category>
+		<category><![CDATA[vorteil]]></category>
+
+		<guid isPermaLink="false">/?p=226</guid>
+		<description><![CDATA[Seit dem letzten Update von Counter-Strike: Global Offensive (CS:GO) ist nun ein Bug aufgetaucht mit dem sich ein Spieler einen unfairen Vorteil verschaffen kann. Wir haben ein Youtube Video gefunden dass den Bug ziemlich&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Seit dem letzten Update von Counter-Strike: Global Offensive (CS:GO) ist nun ein Bug aufgetaucht mit dem sich ein Spieler einen unfairen Vorteil verschaffen kann. Wir haben ein Youtube Video gefunden dass den Bug ziemlich gut aufzeigt und dann auch jedem klar ist wieso dieser unbedingt gefixt werden sollte.</p>
+<p>Der Crouch Bug tritt immer dann auf, wenn ein Spieler auf einem Mitspieler steht und dann sehr schnell die Ducken-Taste drückt. Einige Maps bieten ziemlich gute (oder auch schlechte) Positionen an wo dieser Bug Anwendung findet. Eine Map ist wie im Video zu sehen de_nuke.</p>
+<p>Hoffen wir mal dass dieser Bug möglichst schnell gefixt wird.</p>
+<p>&nbsp;</p>
+<p>Hier das Youtube Video von dem User MajorDude200:</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-crouch-bug-vorteil-verschaffen-video/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

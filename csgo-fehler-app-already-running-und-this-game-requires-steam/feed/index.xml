@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Kommentare zu: CS:GO Fehler: &#8222;app already running&#8220; und  &#8220; This game requires steam&#8220;</title>
+	<atom:link href="/csgo-fehler-app-already-running-und-this-game-requires-steam/feed/" rel="self" type="application/rss+xml" />
+	<link>/csgo-fehler-app-already-running-und-this-game-requires-steam/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 14 Nov 2017 21:13:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<item>
+		<title>Von: Kaggeundbrett</title>
+		<link>/csgo-fehler-app-already-running-und-this-game-requires-steam/#comment-185</link>
+		<dc:creator><![CDATA[Kaggeundbrett]]></dc:creator>
+		<pubDate>Sun, 28 Sep 2014 12:01:45 +0000</pubDate>
+		<guid isPermaLink="false">/?p=979#comment-185</guid>
+		<description><![CDATA[Hallo Sebastian,
+hast du schon versucht dich aus und wieder einzuloggen?
+Und hast du dich auch schon versichert dass du VAC oder ähnliches gebannt bist?
+Sollte das Problem weiterhin auftreten komm doch mal auf unseren Teamspeakserver.
+Dort können wir dir besser helfen.
+
+Die IP ist: allesgaming.de
+
+MfG Kaggeundbrett]]></description>
+		<content:encoded><![CDATA[<p>Hallo Sebastian,<br />
+hast du schon versucht dich aus und wieder einzuloggen?<br />
+Und hast du dich auch schon versichert dass du VAC oder ähnliches gebannt bist?<br />
+Sollte das Problem weiterhin auftreten komm doch mal auf unseren Teamspeakserver.<br />
+Dort können wir dir besser helfen.</p>
+<p>Die IP ist: allesgaming.de</p>
+<p>MfG Kaggeundbrett</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Von: Sebastian</title>
+		<link>/csgo-fehler-app-already-running-und-this-game-requires-steam/#comment-184</link>
+		<dc:creator><![CDATA[Sebastian]]></dc:creator>
+		<pubDate>Sun, 28 Sep 2014 09:47:50 +0000</pubDate>
+		<guid isPermaLink="false">/?p=979#comment-184</guid>
+		<description><![CDATA[Hallo, ich habe das problem mit &quot;This game requires steam&quot;. Ich starte CS:GO in der Steam Bibliothek, aber es sagt mir immernich diese fehlermeldung.]]></description>
+		<content:encoded><![CDATA[<p>Hallo, ich habe das problem mit &#8222;This game requires steam&#8220;. Ich starte CS:GO in der Steam Bibliothek, aber es sagt mir immernich diese fehlermeldung.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

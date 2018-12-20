@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>nicht möglich &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/nicht-moglich/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>nicht möglich &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>[CSGO] Verbindungsfehler &#8211; Verbindung zum Steam-Netzwerk nicht möglich [Fehler]</title>
+		<link>/csgo-verbindungsfehler-steam-netzwerk-nicht-moglich-fehler/</link>
+		<comments>/csgo-verbindungsfehler-steam-netzwerk-nicht-moglich-fehler/#comments</comments>
+		<pubDate>Tue, 10 Dec 2013 16:31:37 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[Fehlermeldungen]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[fehler]]></category>
+		<category><![CDATA[netzwerk]]></category>
+		<category><![CDATA[nicht möglich]]></category>
+		<category><![CDATA[Steam]]></category>
+		<category><![CDATA[verbindung nicht möglich]]></category>
+
+		<guid isPermaLink="false">/?p=1821</guid>
+		<description><![CDATA[Die Meldung: &#8220; Sie sind momentan nicht mit dem Internet verbunden oder ihre Internetverbindung ist nicht richtig für Steam konfiguriert. &#8220; oder The Steam Community is currently unavailable. Please try again later. In der&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Die Meldung: &#8220;</p>
+<h2>Sie sind momentan nicht mit dem Internet verbunden oder ihre Internetverbindung ist nicht richtig für Steam konfiguriert.</h2>
+<p>&#8220;</p>
+<p>oder</p>
+<h2>The Steam Community is currently unavailable. Please try again later.</h2>
+<p>In der Vergangenheit häuft sich dieser Fehler, wobei es weniger ein Fehler ist sondern eine Tatsache. Wenn ihr diese Fehlermeldung erhaltet ist das Routing zu den Matchmaking Servern fehlgeschlagen. Das Problem liegt in 99% der Fälle an Valve bzw. Steam selber. Es wird wohl gerade an den Servern gearbeitet oder es ist ein Problem aufgetaucht. In der Regel habt ihr spätestens nach 30 Minuten wieder die Möglichkeit euch online zu schalten.</p>
+<p>Sollte es dennoch nicht gehen ist evt. ein Virenscanner / Firewall dafür schuldig. Das aber nur wenn Ihr es von Anfang an nicht konntet.</p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/csgo-verbindungsfehler-steam-netzwerk-nicht-moglich-fehler/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

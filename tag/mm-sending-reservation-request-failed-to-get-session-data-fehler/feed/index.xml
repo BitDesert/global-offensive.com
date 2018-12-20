@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>[MM] Sending Reservation Request / Failed to get session data Fehler &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<atom:link href="/tag/mm-sending-reservation-request-failed-to-get-session-data-fehler/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>NEWS, TIPPS, TRICKS, VIDEOS, GUIDES, ANLEITUNG..</description>
+	<lastBuildDate>Tue, 29 Aug 2017 10:13:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2015/08/gocom-150x150.png</url>
+	<title>[MM] Sending Reservation Request / Failed to get session data Fehler &#8211; GLOBAL-OFFENSIVE.COM</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>[MM] Sending Reservation Request / Failed to get session data Fehler / Problembehebung</title>
+		<link>/mm-sending-reservation-request-failed-to-get-session-data-fehler-problembehebung/</link>
+		<comments>/mm-sending-reservation-request-failed-to-get-session-data-fehler-problembehebung/#respond</comments>
+		<pubDate>Mon, 26 Aug 2013 20:56:22 +0000</pubDate>
+		<dc:creator><![CDATA[ESPORTS NETWORK]]></dc:creator>
+				<category><![CDATA[Allgemein]]></category>
+		<category><![CDATA[CS:GO Tipps & Tricks]]></category>
+		<category><![CDATA[Fehlermeldungen]]></category>
+		<category><![CDATA[Gamerserver]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Rund um CS:GO]]></category>
+		<category><![CDATA[[MM] Sending Reservation Request / Failed to get session data Fehler]]></category>
+
+		<guid isPermaLink="false">/?p=1799</guid>
+		<description><![CDATA[Sollte man beim Connecten auf einen Counter-Strike: Global Offensive Server die Meldung Failed to get session data oder [MM] Sending Reservation Request erhalten, hat der Betreiber des Servers einen kleinen Konfigurationsfehler gemacht. Als Spieler kann man diesen Fehler&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div><p>Sollte man beim Connecten auf einen Counter-Strike: Global Offensive Server die Meldung <strong>Failed to get session data </strong>oder <strong>[MM] Sending Reservation Request </strong>erhalten, hat der Betreiber des Servers einen kleinen Konfigurationsfehler gemacht. Als Spieler kann man diesen Fehler nicht beheben. Als Betreiber führt man bitte folgende Schritte aus:</p>
+<table border="0">
+<tbody>
+<tr>
+<td><strong>1) Startmap des Servers muss in der Mapgroup vorhanden sein mit der der Server startet.</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Es ist also nicht möglich den Server mit cs_italy zu starten, wenn an den Server die Mapgroup mg_bomb übergeben wird.<br />
+Solltet ihr als Betreiber eines Servers eure Mapgroups angepasst haben, stellt das natürlich kein Problem dar.</p>
+<table border="0">
+<tbody>
+<tr>
+<td><strong>2) Der Server startet mit einer _se Map.</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Aktuell (Stand 14.08) hat es leider noch einen kleinen Bug, der euch nicht connecten lässt wenn der Server mit einer _se Map startet. Den Server hier einfach mit einer normalen Map starten lassen und dann einen Mapchange durchführen. Funktioniert problemlos <img src="https://s.w.org/images/core/emoji/11/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<table border="0">
+<tbody>
+<tr>
+<td><strong>3) Der Server startet mit einer Mapgroup, die für den Gamemode der gestartet wird nicht zulässig ist. </strong></td>
+</tr>
+</tbody>
+</table>
+<p>Bestes Beispiel wäre ar_shoots als Startmap, mapgroup mg_armsrace und <a title="CS GO Gamemodes" href="http://csgo.gameserverinfo.de/cs-go-die-gamemodes" target="_blank">Gametype</a> Classic Casual.<br />
+Das funktioniert so leider nicht <img src="https://s.w.org/images/core/emoji/11/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br />
+In den meisten Fällen ist Ursache 1) der Fehler. Hier also einfach eure Startmap/Mapgroup anpassen <img src="https://s.w.org/images/core/emoji/11/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<div style="text-align: center;"><div id="esntphoenix" data-adzone="27" data-adzone-xs="6"></div></div>]]></content:encoded>
+			<wfw:commentRss>/mm-sending-reservation-request-failed-to-get-session-data-fehler-problembehebung/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
